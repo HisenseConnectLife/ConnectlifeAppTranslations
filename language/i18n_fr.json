@@ -3415,7 +3415,6 @@
     "use_humidity": "Utiliser une boîte à humidité pour réguler l'humidité",
     "same_day": "Le même jour",
     "w_temp_set": "Quelle température dois-je régler?",
-    "asko": "ASKO",
     "eco_meter": "Écomètre",
     "asko_eco_meter_desc": "ASKO Eco Meter est un indicateur intelligent utile pour déterminer votre impact environnemental en fonction du programme choisi et des options supplémentaires en matière de consommation d'énergie, d'eau et de détergent.",
     "wm86_autodose_desc": "Au lieu de vous battre, laissez la machine à laver mesurer exactement le bon dosage de détergent. Nos machines à laver avec système Auto Dose mesurent le détergent en fonction de la charge de lavage, du niveau de saleté, de la dureté de l'eau, du type de programme et de la température. Dosage toujours parfait et fini le surdosage. Ici, vous pouvez ajuster vos paramètres par défaut pour la dose automatique.",
