@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Teraz môžete zariadenie ovládať z mobilnej aplikácie. Nezabudnite ho najprv spárovať.",
     "hi_variable_fan_failure_status": "Ventilátor pre (000)",
     "scan_device_code_tips_title": "Kód sa nepodarilo rozpoznať. Naskenujte správny kód zariadenia.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Manuálne sušenie",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Presuňte sa na „Pridať zariadenie“ a kliknite na „Enter“.",
     "how_data_is_calculate_key": "Ako sa počítajú údaje",
-    "energy_select_device_ktip_key": "Upozorňujeme, že režim ECO môžete spustiť iba na zariadeniach, ktoré sú v prevádzke."
+    "energy_select_device_ktip_key": "Upozorňujeme, že režim ECO môžete spustiť iba na zariadeniach, ktoré sú v prevádzke.",
+    "CL_SM_CM_devices_are_running_eco_mode": "Na ## zariadeniach je spustený režim ECOmode"
 }

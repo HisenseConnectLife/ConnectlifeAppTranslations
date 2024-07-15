@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Fordítsa el a tudást, hogy lépjen az \"Eszköz hozzáadása\" elemre, és kattintson az \"Enter\" gombra.",
     "how_data_is_calculate_key": "Hogyan számítják ki az adatokat",
-    "energy_select_device_ktip_key": "Kérjük, vegye figyelembe, hogy az ECO módot csak működő eszközökön indíthatja el."
+    "energy_select_device_ktip_key": "Kérjük, vegye figyelembe, hogy az ECO módot csak működő eszközökön indíthatja el.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## eszközökön ECOmode fut"
 }

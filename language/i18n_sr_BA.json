@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Sada možete da upravljate iz svoje mobilne aplikacije. Ne zaboravite da prvo uparite svoj uređaj.",
     "hi_variable_fan_failure_status": "Ventilator za (000)",
     "scan_device_code_tips_title": "Kod nije mogao biti prepoznat. Skenirajte ispravan kod uređaja.\n​Kod nije mogao biti prepoznat. Skenirajte ispravan kod uređaja.\n​Kod nije mogao biti prepoznat. Skenirajte ispravan kod uređaja.\n​",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Ručko sušenje",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Пређите на „Додај уређај“ и кликните на „Ентер“.",
     "how_data_is_calculate_key": "Како се подаци израчунавају",
-    "energy_select_device_ktip_key": "Имајте на уму да можете да покренете ECO режим само на уређајима који су у функцији."
+    "energy_select_device_ktip_key": "Имајте на уму да можете да покренете ECO режим само на уређајима који су у функцији.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## уређаји користе ЕЦОмоде"
 }

@@ -3943,5 +3943,6 @@
     "wm86_and_td76_ui1_cs_step2": "转动旋钮移动到“连接设置”并单击“Enter”。",
     "wm86_and_td76_ui1_p_step2": "把屏幕转到“添加设备”，点击“进入”。",
     "how_data_is_calculate_key": "数据如何计算",
-    "energy_select_device_ktip_key": "请注意，您只能启动正在运行的设备的 ECO 模式。"
+    "energy_select_device_ktip_key": "请注意，您只能启动正在运行的设备的 ECO 模式。",
+    "CL_SM_CM_devices_are_running_eco_mode": "## 台设备正在运行 ECO 模式"
 }

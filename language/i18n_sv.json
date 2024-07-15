@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Vrid på knappen för att flytta till \"Lägg till enhet\" och klicka på \"Enter\".",
     "how_data_is_calculate_key": "Hur data beräknas",
-    "energy_select_device_ktip_key": "Observera att du bara kan starta ECO-läget på enheter som är i drift."
+    "energy_select_device_ktip_key": "Observera att du bara kan starta ECO-läget på enheter som är i drift.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## enheter kör ECOmode"
 }

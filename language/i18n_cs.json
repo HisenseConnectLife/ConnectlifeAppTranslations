@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Nyní můžete spotřebič ovládat z mobilní aplikace. Nezapomeňte jej nejprve spárovat.",
     "hi_variable_fan_failure_status": "Fanoušek (000)",
     "scan_device_code_tips_title": "Kód se nepodařilo rozpoznat. Naskenujte správný kód zařízení.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Ruční sušení",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Otočením se přesuňte na \"Přidat zařízení\" a klikněte na \"Enter\".",
     "how_data_is_calculate_key": "Jak se data počítají",
-    "energy_select_device_ktip_key": "Upozorňujeme, že režim ECO lze spustit pouze na zařízeních, která jsou v provozu."
+    "energy_select_device_ktip_key": "Upozorňujeme, že režim ECO lze spustit pouze na zařízeních, která jsou v provozu.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## zařízení běží v režimu ECOmode"
 }

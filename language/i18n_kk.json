@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Енді сіз мобильді қолданба арқылы жұмыс істей аласыз. Алдымен құрылғыны жұптауды ұмытпаңыз.",
     "hi_variable_fan_failure_status": "",
     "scan_device_code_tips_title": "Кодты тану мүмкін болмады. Дұрыс құрылғы кодын сканерлеңіз.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Қолмен кептіру",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "«Құрылғы қосу» тармағына өту үшін білгішті бұрыңыз және «Енгізу» түймесін басыңыз.",
     "how_data_is_calculate_key": "Деректер қалай есептеледі",
-    "energy_select_device_ktip_key": "Назар аударыңыз, ECO режимін тек жұмыс істеп тұрған құрылғыларда ғана бастауға болады."
+    "energy_select_device_ktip_key": "Назар аударыңыз, ECO режимін тек жұмыс істеп тұрған құрылғыларда ғана бастауға болады.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## құрылғы ЭКО режимін іске қосуда"
 }
