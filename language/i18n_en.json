@@ -892,7 +892,7 @@
     "oven_atag_extras_plate_warming": "PLATE WARMING",
     "oven_atag_extras_plate_warming_content": "This function is used to preheat tableware, so that the served food stays hot longer.",
     "oven_atag_extras_steam_clean": "Steam cleaning system",
-    "oven_atag_extras_steam_clean_content": "Stains will be soaked so that they are easily removed with a cloth once the Steam Clean program is finished.",
+    "oven_atag_extras_steam_clean_content": "Staines will be soaked so that they are easiliy removed with a cloth once the Steam Clean program is finished.",
     "oven_atag_extras_regenerate": "REGENERATE",
     "oven_atag_extras_regenerate_content": "This function is used to regenerate precooked dishes.Through the use of steam,there is no loss of quality.Taste and texture are preserved as when freshly prepared.Different dishes can be prepared simultaneously.",
     "oven_atag_extras_send_to_oven": "SEND TO OVEN",
@@ -3831,7 +3831,7 @@
     "gorenje_wm_ads_activewear": "Activewear",
     "gorenje_wm_ads_curtains": "Curtains",
     "gorenje_wm_ads_hygiene": "Hygiene",
-    "On": "On",
+    "On": "开启",
     "can_not_start_eco": "The device does not support ECO in the off state and cannot start ECO.",
     "current_mode_not_support_eco": "The current mode does not support ECO.",
     "device_standby_can_not_start_eco": "The device is in standby mode and cannot start ECO.",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "Ignore the instructions on the screen and click “Next”.",
     "wm86_and_td76_ui1_step1": "Turn on the device. Turn the knob to the left to access “Remote start” and click on “Enter Settings”.",
     "wm86_and_td76_ui1_cs_step2": "Turn the knob to move to \"Connection setup\" and click on \"Enter\".",
-    "wm86_and_td76_ui1_p_step2": "Turn the knob to move to \"Add device\" and click on \"Enter\".",
+    "wm86_and_td76_ui1_p_step2": "Turn the know to move to \"Add device\" and click on \"Enter\".",
     "how_data_is_calculate_key": "How data is calculate",
-    "energy_select_device_ktip_key": "Please be aware that you can only start the ECO mode of devices in operation."
+    "energy_select_device_ktip_key": "Please be aware that you can only start the ECO mode of devices in operation.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## devices are running ECOmode"
 }

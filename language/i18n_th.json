@@ -1769,7 +1769,7 @@
     "dry_laundry": "",
     "energy": "พลังงาน",
     "enter": "เข้า",
-    "drying": "",
+    "drying": "แห้งด้วยตนเอง",
     "device_is_standby": "อุปกรณ์อยู่ในโหมดสแตนด์บายและไม่สามารถควบคุมได้",
     "favourite_program_name": "ชื่อโปรแกรมที่ชื่นชอบ",
     "please_select_delete_data": "",
@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "ตอนนี้คุณสามารถสั่งการจากแอปมือถือได้แล้ว อย่าลืมจับคู่อุปกรณ์ของคุณก่อน",
     "hi_variable_fan_failure_status": "พัดลมของ (000)",
     "scan_device_code_tips_title": "ไม่รู้จักรหัส สแกนรหัสอุปกรณ์ที่ถูกต้อง",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "แห้งด้วยตนเอง",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "เปลี่ยนความรู้เพื่อย้ายไปที่ \"เพิ่มอุปกรณ์\" และคลิกที่ \"Enter\"",
     "how_data_is_calculate_key": "ข้อมูลคำนวณอย่างไร",
-    "energy_select_device_ktip_key": "โปรดทราบว่าคุณสามารถเริ่มโหมด ECO ของอุปกรณ์ที่กำลังทำงานอยู่เท่านั้น"
+    "energy_select_device_ktip_key": "โปรดทราบว่าคุณสามารถเริ่มโหมด ECO ของอุปกรณ์ที่กำลังทำงานอยู่เท่านั้น",
+    "CL_SM_CM_devices_are_running_eco_mode": "## อุปกรณ์กำลังใช้งาน ECOmode"
 }

@@ -1769,7 +1769,7 @@
     "dry_laundry": "",
     "energy": "energi",
     "enter": "",
-    "drying": "",
+    "drying": "Manual kering",
     "device_is_standby": "Perangkat ini dimatikan dan tidak dapat dikendalikan.",
     "favourite_program_name": "",
     "please_select_delete_data": "",
@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Sekarang Anda dapat mengoperasikannya dari aplikasi seluler. Ingatlah untuk memasangkan peralatan Anda terlebih dahulu.",
     "hi_variable_fan_failure_status": "Penggemar (000)",
     "scan_device_code_tips_title": "Kode tidak dapat dikenali. Pindai kode perangkat yang benar.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Manual kering",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Balikkan pengetahuan untuk pindah ke \"Tambahkan perangkat\" dan klik \"Enter\".",
     "how_data_is_calculate_key": "Bagaimana data dihitung",
-    "energy_select_device_ktip_key": "Harap diperhatikan bahwa Anda hanya dapat memulai mode ECO pada perangkat yang sedang beroperasi."
+    "energy_select_device_ktip_key": "Harap diperhatikan bahwa Anda hanya dapat memulai mode ECO pada perangkat yang sedang beroperasi.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## perangkat menjalankan ECOmode"
 }

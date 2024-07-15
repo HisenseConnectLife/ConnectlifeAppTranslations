@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "اکنون می توانید از اپلیکیشن موبایل خود استفاده کنید. به یاد داشته باشید که ابتدا دستگاه خود را جفت کنید.",
     "hi_variable_fan_failure_status": "فن برای (000)",
     "scan_device_code_tips_title": "کد شناسایی نشد. کد صحیح دستگاه را اسکن کنید.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "خشک کردن دستی",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "برای رفتن به «افزودن دستگاه» اطلاعات را روشن کنید و روی «Enter» کلیک کنید.",
     "how_data_is_calculate_key": "چگونه داده‌ها محاسبه می‌شوند",
-    "energy_select_device_ktip_key": "لطفاً توجه داشته باشید که فقط می‌توانید حالت ECO را در دستگاه‌های در حال کار شروع کنید."
+    "energy_select_device_ktip_key": "لطفاً توجه داشته باشید که فقط می‌توانید حالت ECO را در دستگاه‌های در حال کار شروع کنید.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## دستگاه دارای ECOmode هستند"
 }

@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Giờ đây, bạn có thể hoạt động từ ứng dụng dành cho thiết bị di động của mình. Hãy nhớ ghép nối thiết bị của bạn trước.",
     "hi_variable_fan_failure_status": "Người hâm mộ (000)",
     "scan_device_code_tips_title": "Mã không thể được công nhận. Quét đúng mã thiết bị.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Sấy khô thủ công",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Xoay biết để di chuyển đến \"Thêm thiết bị\" và nhấp vào \"Enter\".",
     "how_data_is_calculate_key": "Dữ liệu được tính toán như thế nào",
-    "energy_select_device_ktip_key": "Xin lưu ý rằng bạn chỉ có thể bắt đầu chế độ ECO trên các thiết bị đang hoạt động."
+    "energy_select_device_ktip_key": "Xin lưu ý rằng bạn chỉ có thể bắt đầu chế độ ECO trên các thiết bị đang hoạt động.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## thiết bị đang chạy ECOmode"
 }

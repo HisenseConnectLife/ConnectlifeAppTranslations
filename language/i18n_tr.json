@@ -1769,7 +1769,7 @@
     "dry_laundry": "",
     "energy": "enerji",
     "enter": "",
-    "drying": "",
+    "drying": "Manuel kuru",
     "device_is_standby": "Cihaz kapalı ve kontrol edilemiyor.",
     "favourite_program_name": "",
     "please_select_delete_data": "",
@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Artık mobil uygulamanızdan çalıştırabilirsiniz. Önce cihazınızı eşleştirmeyi unutmayın.",
     "hi_variable_fan_failure_status": "(000) için fan",
     "scan_device_code_tips_title": "Ο κωδικός δεν αναγνωρίστηκε. Σαρώστε τον σωστό κωδικό συσκευής.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Manuel kuru",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "\"Cihaz ekle\"ye geçmek için bilgiyi çevirin ve \"Enter\"a tıklayın.",
     "how_data_is_calculate_key": "Veriler nasıl hesaplanır",
-    "energy_select_device_ktip_key": "Lütfen ECO modunu yalnızca çalışan cihazlarda başlatabileceğinizi unutmayın."
+    "energy_select_device_ktip_key": "Lütfen ECO modunu yalnızca çalışan cihazlarda başlatabileceğinizi unutmayın.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## cihaz ECOmode'u çalıştırıyor"
 }

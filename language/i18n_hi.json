@@ -1769,7 +1769,7 @@
     "dry_laundry": "",
     "energy": "ऊर्जा",
     "enter": "",
-    "drying": "",
+    "drying": "मैनुअल सूखा",
     "device_is_standby": "यह उपकरण बंद है और इसे नियंत्रित नहीं किया जा सकता है।",
     "favourite_program_name": "",
     "please_select_delete_data": "",
@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "अब आप अपने मोबाइल ऐप से काम कर सकते हैं। पहले अपने उपकरण को जोड़ना याद रखें।",
     "hi_variable_fan_failure_status": "(000) का फैन",
     "scan_device_code_tips_title": "कोड पहचाना नहीं जा सका. सही डिवाइस कोड स्कैन करें.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "मैनुअल सूखा",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "\"डिवाइस जोड़ें\" पर जाने के लिए बटन को घुमाएं और \"एंटर\" पर क्लिक करें।",
     "how_data_is_calculate_key": "डेटा की गणना कैसे की जाती है",
-    "energy_select_device_ktip_key": "कृपया ध्यान दें कि आप केवल चालू उपकरणों पर ही ECO मोड शुरू कर सकते हैं।"
+    "energy_select_device_ktip_key": "कृपया ध्यान दें कि आप केवल चालू उपकरणों पर ही ECO मोड शुरू कर सकते हैं।",
+    "CL_SM_CM_devices_are_running_eco_mode": "## डिवाइस ECOmode चला रहे हैं"
 }

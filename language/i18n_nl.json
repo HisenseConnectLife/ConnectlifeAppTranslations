@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Draai aan de knop om naar \"Apparaat toevoegen\" te gaan en klik op \"Enter\".",
     "how_data_is_calculate_key": "Hoe gegevens worden berekend",
-    "energy_select_device_ktip_key": "Houd er rekening mee dat u de ECO-modus alleen kunt starten bij apparaten die in werking zijn."
+    "energy_select_device_ktip_key": "Houd er rekening mee dat u de ECO-modus alleen kunt starten bij apparaten die in werking zijn.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## apparaten gebruiken ECOmode"
 }

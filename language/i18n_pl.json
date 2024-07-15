@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Teraz możesz obsługiwać za pomocą aplikacji mobilnej. Pamiętaj, aby najpierw sparować urządzenie.",
     "hi_variable_fan_failure_status": "Wentylator do (000)",
     "scan_device_code_tips_title": "Nie można rozpoznać kodu. Zeskanuj prawidłowy kod urządzenia.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Suszenie ręczne",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Włącz opcję, aby przejść do „Dodaj urządzenie” i kliknij „Enter”.",
     "how_data_is_calculate_key": "Jak dane są obliczane",
-    "energy_select_device_ktip_key": "Należy pamiętać, że tryb ECO można uruchomić tylko na działających urządzeniach."
+    "energy_select_device_ktip_key": "Należy pamiętać, że tryb ECO można uruchomić tylko na działających urządzeniach.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## urządzenia działają w trybie ECO"
 }

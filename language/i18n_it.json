@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Ora puoi operare dalla tua app mobile. Ricordati di associare prima il tuo elettrodomestico.",
     "hi_variable_fan_failure_status": "Il ventilatore per (000)",
     "scan_device_code_tips_title": "Impossibile riconoscere il codice. Scansiona il codice dispositivo corretto.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Asciugatura manuale",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Girare la scheda per passare a \"Aggiungi dispositivo\" e fare clic su \"Invio\".",
     "how_data_is_calculate_key": "Come vengono calcolati i dati",
-    "energy_select_device_ktip_key": "Si prega di notare che è possibile avviare la modalità ECO solo sui dispositivi in funzione."
+    "energy_select_device_ktip_key": "Si prega di notare che è possibile avviare la modalità ECO solo sui dispositivi in funzione.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## dispositivi utilizzano la modalità ECO"
 }

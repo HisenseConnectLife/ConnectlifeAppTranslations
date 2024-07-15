@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Zakrenite tipku za odabit programa na \"Add device\" i kliknite na \"Enter\".",
     "how_data_is_calculate_key": "Kako se podaci izračunavaju",
-    "energy_select_device_ktip_key": "Imajte na umu da ECO način rada možete pokrenuti samo na uređajima koji su u radu."
+    "energy_select_device_ktip_key": "Imajte na umu da ECO način rada možete pokrenuti samo na uređajima koji su u radu.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## uređaji rade u ECOmodu"
 }

@@ -2837,7 +2837,7 @@
     "asko_remote_2z": "Тепер ви можете керувати пристроєм за допомогою мобільного додатку. Не забудьте спочатку створити пару з пристроєм.",
     "hi_variable_fan_failure_status": "Вентилятор для (000)",
     "scan_device_code_tips_title": "Не вдалося розпізнати код. Відскануйте правильний код пристрою.",
-    "oven_atag_extras_drying": "",
+    "oven_atag_extras_drying": "Ручне сушіння",
     "oven_atag_extras_drying_content": "",
     "oven_atag_extras_dehydrate_content": "",
     "oven_atag_extras_sterilise_bottles": "",
@@ -3941,7 +3941,8 @@
     "wm86_and_td76_ui2_p_step3": "",
     "wm86_and_td76_ui1_step1": "",
     "wm86_and_td76_ui1_cs_step2": "",
-    "wm86_and_td76_ui1_p_step2": "",
+    "wm86_and_td76_ui1_p_step2": "Поверніть знать, щоб перейти до «Додати пристрій» і натисніть «Ввести».",
     "how_data_is_calculate_key": "Як обчислюються дані",
-    "energy_select_device_ktip_key": "Зверніть увагу, що режим ECO можна запускати лише на пристроях, які працюють."
+    "energy_select_device_ktip_key": "Зверніть увагу, що режим ECO можна запускати лише на пристроях, які працюють.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## пристроїв працюють в ECOmode"
 }
