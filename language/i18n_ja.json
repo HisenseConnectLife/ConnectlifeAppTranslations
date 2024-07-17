@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "ファームウェアのアップデートを停止しますか?",
     "ble_ota_step_progress_hint1": "アップデートを準備しています…",
     "ble_ota_step_progress_hint2": "更新中…",
+    "ble_ota_error_sub_title": "ファームウェアの更新に失敗しました",
     "ble_ota_error_content": "更新中はデバイスを近くに置いてください。\n Bluetooth接続を確認してください。",
     "ble_ota_error_exit": "終了更新",
     "ble_ota_unselect_device": "Bluetoothアクセサリが選択されていません。",

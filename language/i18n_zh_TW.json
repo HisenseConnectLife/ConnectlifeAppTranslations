@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "停止韌體更新？",
     "ble_ota_step_progress_hint1": "正在準備更新...",
     "ble_ota_step_progress_hint2": "正在更新…",
+    "ble_ota_error_sub_title": "韌體更新失敗",
     "ble_ota_error_content": "更新時請將您的裝置放在附近。\n檢查您的藍牙連線。",
     "ble_ota_error_exit": "退出更新",
     "ble_ota_unselect_device": "未選擇藍牙配件！",

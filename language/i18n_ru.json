@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Остановить обновление встроенного ПО?",
     "ble_ota_step_progress_hint1": "Подготовка обновления…",
     "ble_ota_step_progress_hint2": "Обновление…",
+    "ble_ota_error_sub_title": "Не удалось обновить встроенное ПО",
     "ble_ota_error_content": "Держите устройства рядом во время обновления. Проверьте соединение Bluetooth.",
     "ble_ota_error_exit": "ВЫХОД ИЗ ОБНОВЛЕНИЯ",
     "ble_ota_unselect_device": "Устройство Bluetooth не выбрано!",

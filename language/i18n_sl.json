@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Ustaviti posodobitev vdelane programske opreme?",
     "ble_ota_step_progress_hint1": "Priprava posodobitve …",
     "ble_ota_step_progress_hint2": "Posodabljanje ...",
+    "ble_ota_error_sub_title": "Posodobitev vdelane programske opreme ni uspela",
     "ble_ota_error_content": "Med posodabljanjem imejte svoje naprave blizu. Preverite povezavo Bluetooth.",
     "ble_ota_error_exit": "IZHOD POSODOBITEV",
     "ble_ota_unselect_device": "Izbran ni noben dodatek Bluetooth!",

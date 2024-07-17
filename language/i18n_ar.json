@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "إيقاف تحديث البرامج الثابتة؟",
     "ble_ota_step_progress_hint1": "جاري التحضير للتحديث...",
     "ble_ota_step_progress_hint2": "تحديث...",
+    "ble_ota_error_sub_title": "تحديث البرنامج الثابت غير ناجح",
     "ble_ota_error_content": "احتفظ بأجهزتك بالقرب منك أثناء التحديث.\r\nتحقق من اتصال Bluetooth الخاص بك.",
     "ble_ota_error_exit": "إنهاء التحديث",
     "ble_ota_unselect_device": "لم يتم تحديد ملحق بلوتوث!",

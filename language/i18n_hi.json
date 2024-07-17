@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "फर्मवेयर अद्यतन रोकें?",
     "ble_ota_step_progress_hint1": "अद्यतन की तैयारी कर रहा हूँ...",
     "ble_ota_step_progress_hint2": "अपडेट हो रहा है…",
+    "ble_ota_error_sub_title": "फ़र्मवेयर अद्यतन असफल",
     "ble_ota_error_content": "अपडेट करते समय अपने डिवाइस को पास रखें.\n अपना ब्लूटूथ कनेक्शन जांचें.",
     "ble_ota_error_exit": "अद्यतन से बाहर निकलें",
     "ble_ota_unselect_device": "कोई ब्लूटूथ सहायक उपकरण चयनित नहीं!",

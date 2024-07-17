@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Zastavit aktualizaci firmwaru?",
     "ble_ota_step_progress_hint1": "Příprava aktualizace…",
     "ble_ota_step_progress_hint2": "Aktualizace…",
+    "ble_ota_error_sub_title": "Aktualizace firmwaru se nezdařila",
     "ble_ota_error_content": "Při aktualizaci mějte svá zařízení poblíž.\n Zkontrolujte připojení Bluetooth.",
     "ble_ota_error_exit": "UKONČIT AKTUALIZACI",
     "ble_ota_unselect_device": "Není vybráno žádné příslušenství Bluetooth!",

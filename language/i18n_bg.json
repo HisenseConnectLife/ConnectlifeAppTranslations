@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Спиране на актуализацията на фърмуера?",
     "ble_ota_step_progress_hint1": "Актуализацията се подготвя...",
     "ble_ota_step_progress_hint2": "Актуализиране...",
+    "ble_ota_error_sub_title": "Неуспешна актуализация на фърмуера",
     "ble_ota_error_content": "Дръжте устройствата си наблизо, докато актуализирате.\n Проверете вашата Bluetooth връзка.",
     "ble_ota_error_exit": "ИЗХОД ОТ АКТУАЛИЗАЦИЯТА",
     "ble_ota_unselect_device": "Няма избран Bluetooth аксесоар!",

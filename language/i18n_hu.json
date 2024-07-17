@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Leállítja a firmware frissítést?",
     "ble_ota_step_progress_hint1": "A frissítés előkészítése…",
     "ble_ota_step_progress_hint2": "Frissítés…",
+    "ble_ota_error_sub_title": "A firmware frissítése sikertelen",
     "ble_ota_error_content": "Frissítés közben tartsa közel eszközeit.\n Ellenőrizze a Bluetooth-kapcsolatot.",
     "ble_ota_error_exit": "EXIT UPDATE",
     "ble_ota_unselect_device": "Nincs kiválasztva Bluetooth tartozék!",

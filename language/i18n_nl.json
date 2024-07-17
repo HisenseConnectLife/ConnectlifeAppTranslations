@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Firmware-update stoppen?",
     "ble_ota_step_progress_hint1": "De update voorbereiden...",
     "ble_ota_step_progress_hint2": "Bijwerken...",
+    "ble_ota_error_sub_title": "Firmware-update mislukt",
     "ble_ota_error_content": "Houd uw apparaten in de buurt tijdens het updaten. \nControleer uw Bluetooth-verbinding.",
     "ble_ota_error_exit": "VERLAAT UPDATE",
     "ble_ota_unselect_device": "Geen Bluetooth-accessoire geselecteerd!",

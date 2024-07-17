@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Vill du stoppa firmwareuppdateringen?",
     "ble_ota_step_progress_hint1": "Förbereder uppdateringen...",
     "ble_ota_step_progress_hint2": "Uppdaterar...",
+    "ble_ota_error_sub_title": "Uppdatering av firmware misslyckades",
     "ble_ota_error_content": "Håll dina enheter nära medan du uppdaterar.\r\nKontrollera din Bluetooth-anslutning.",
     "ble_ota_error_exit": "AVSLUTA UPPDATERING",
     "ble_ota_unselect_device": "Inget Bluetooth-tillbehör valt!",

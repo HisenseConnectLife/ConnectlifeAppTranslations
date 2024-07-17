@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Διακοπή ενημέρωσης υλικολογισμικού;",
     "ble_ota_step_progress_hint1": "Προετοιμασία της ενημέρωσης…",
     "ble_ota_step_progress_hint2": "Ενημέρωση…",
+    "ble_ota_error_sub_title": "Η ενημέρωση υλικολογισμικού δεν ήταν επιτυχής",
     "ble_ota_error_content": "Κρατήστε τις συσκευές σας κοντά κατά την ενημέρωση. Ελέγξτε τη σύνδεσή σας Bluetooth.",
     "ble_ota_error_exit": "ΕΞΟΔΟΣ ΕΝΗΜΕΡΩΣΗΣ",
     "ble_ota_unselect_device": "Δεν έχει επιλεγεί αξεσουάρ Bluetooth!",

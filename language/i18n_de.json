@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Firmware-Update stoppen?",
     "ble_ota_step_progress_hint1": "Das Update wird vorbereitet…",
     "ble_ota_step_progress_hint2": "Aktualisierung…",
+    "ble_ota_error_sub_title": "Firmware-Update fehlgeschlagen",
     "ble_ota_error_content": "Halten Sie Ihre Geräte während der Aktualisierung in der Nähe. Überprüfen Sie Ihre Bluetooth-Verbindung.",
     "ble_ota_error_exit": "UPDATE BEENDEN",
     "ble_ota_unselect_device": "Kein Bluetooth-Zubehör ausgewählt!",

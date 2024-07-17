@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Микробағдарламаны жаңартуды тоқтату керек пе?",
     "ble_ota_step_progress_hint1": "Жаңарту дайындалуда…",
     "ble_ota_step_progress_hint2": "Жаңарту...",
+    "ble_ota_error_sub_title": "Микробағдарламаны жаңарту сәтсіз аяқталды",
     "ble_ota_error_content": "Жаңарту кезінде құрылғыларды жақын жерде ұстаңыз.\n Bluetooth қосылымын тексеріңіз.",
     "ble_ota_error_exit": "ЖАҢАРТУДАН ШЫҒУ",
     "ble_ota_unselect_device": "Ешқандай Bluetooth керек-жарағы таңдалмаған!",

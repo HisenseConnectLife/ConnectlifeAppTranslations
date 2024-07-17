@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Zatrzymać aktualizację oprogramowania układowego?",
     "ble_ota_step_progress_hint1": "Przygotowanie aktualizacji…",
     "ble_ota_step_progress_hint2": "Aktualizuję…",
+    "ble_ota_error_sub_title": "Aktualizacja oprogramowania sprzętowego nie powiodła się",
     "ble_ota_error_content": "Trzymaj swoje urządzenia w pobliżu podczas aktualizacji. Sprawdź połączenie Bluetooth.",
     "ble_ota_error_exit": "WYJDŹ Z AKTUALIZACJI",
     "ble_ota_unselect_device": "Nie wybrano akcesorium Bluetooth!",

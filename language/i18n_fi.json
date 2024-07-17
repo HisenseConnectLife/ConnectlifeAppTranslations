@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Lopetetaanko laiteohjelmiston päivitys?",
     "ble_ota_step_progress_hint1": "Valmistellaan päivitystä…",
     "ble_ota_step_progress_hint2": "Päivitetään…",
+    "ble_ota_error_sub_title": "Laiteohjelmiston päivitys epäonnistui",
     "ble_ota_error_content": "Pidä laitteesi lähellä päivityksen aikana.\r\nTarkista Bluetooth-yhteytesi.",
     "ble_ota_error_exit": "POISTU PÄIVITYSTÄ",
     "ble_ota_unselect_device": "Bluetooth-lisävarustetta ei ole valittu!",

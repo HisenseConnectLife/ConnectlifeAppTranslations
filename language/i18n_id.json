@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Hentikan pembaruan firmware?",
     "ble_ota_step_progress_hint1": "Mempersiapkan pembaruan…",
     "ble_ota_step_progress_hint2": "Memperbarui…",
+    "ble_ota_error_sub_title": "Pembaruan firmware gagal",
     "ble_ota_error_content": "Dekatkan perangkat Anda saat memperbarui.\n Periksa koneksi Bluetooth Anda.",
     "ble_ota_error_exit": "KELUAR PEMBARUAN",
     "ble_ota_unselect_device": "Tidak ada aksesori Bluetooth yang dipilih!",

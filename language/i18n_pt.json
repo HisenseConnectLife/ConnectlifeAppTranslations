@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Interromper a atualização do firmware?",
     "ble_ota_step_progress_hint1": "Preparando a atualização…",
     "ble_ota_step_progress_hint2": "Atualizando…",
+    "ble_ota_error_sub_title": "Atualização de firmware malsucedida",
     "ble_ota_error_content": "Mantenha seus dispositivos por perto durante a atualização.\n Verifique sua conexão Bluetooth.",
     "ble_ota_error_exit": "SAIR DA ATUALIZAÇÃO",
     "ble_ota_unselect_device": "Nenhum acessório Bluetooth selecionado!",
