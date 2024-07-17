@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Vil du stoppe fastvareoppdateringen?",
     "ble_ota_step_progress_hint1": "Forbereder oppdateringen …",
     "ble_ota_step_progress_hint2": "Oppdaterer …",
+    "ble_ota_error_sub_title": "Fastvareoppdatering mislyktes",
     "ble_ota_error_content": "Hold enhetene dine i nærheten mens du oppdaterer.\n Sjekk Bluetooth-tilkoblingen din.",
     "ble_ota_error_exit": "AVSLUTT OPPDATERING",
     "ble_ota_unselect_device": "Ingen Bluetooth-tilbehør valgt!",

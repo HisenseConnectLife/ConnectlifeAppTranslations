@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "",
     "ble_ota_step_progress_hint1": "",
     "ble_ota_step_progress_hint2": "",
+    "ble_ota_error_sub_title": "",
     "ble_ota_error_content": "",
     "ble_ota_error_exit": "",
     "ble_ota_unselect_device": "",

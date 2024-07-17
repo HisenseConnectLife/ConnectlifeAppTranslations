@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Ngừng cập nhật chương trình cơ sở?",
     "ble_ota_step_progress_hint1": "Đang chuẩn bị bản cập nhật...",
     "ble_ota_step_progress_hint2": "Đang cập nhật...",
+    "ble_ota_error_sub_title": "Bản cập nhật chương trình cơ sở không thành công",
     "ble_ota_error_content": "Giữ các thiết bị ở gần trong khi đang cập nhật.\nKiểm tra kết nối Bluetooth của bạn.",
     "ble_ota_error_exit": "THOÁT CẬP NHẬT",
     "ble_ota_unselect_device": "Chưa chọn phụ kiện Bluetooth nào!",

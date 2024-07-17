@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Firmware güncellemesi durdurulsun mu?",
     "ble_ota_step_progress_hint1": "Güncelleme hazırlanıyor…",
     "ble_ota_step_progress_hint2": "Güncelleniyor…",
+    "ble_ota_error_sub_title": "Firmware güncellemesi başarısız",
     "ble_ota_error_content": "Güncelleme sırasında cihazlarınızı yakınınızda tutun.\n Bluetooth bağlantınızı kontrol edin.",
     "ble_ota_error_exit": "GÜNCELLEMEDEN ÇIK",
     "ble_ota_unselect_device": "Bluetooth aksesuarı seçilmedi!",

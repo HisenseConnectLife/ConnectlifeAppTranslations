@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "หยุดอัพเดตเฟิร์มแวร์ใช่ไหม",
     "ble_ota_step_progress_hint1": "กำลังเตรียมการอัปเดต...",
     "ble_ota_step_progress_hint2": "กำลังอัปเดต...",
+    "ble_ota_error_sub_title": "อัพเดตเฟิร์มแวร์ไม่สำเร็จ",
     "ble_ota_error_content": "วางอุปกรณ์ของคุณไว้ใกล้ตัวขณะอัปเดต\n ตรวจสอบการเชื่อมต่อบลูทูธของคุณ",
     "ble_ota_error_exit": "ออกจากการอัปเดต",
     "ble_ota_unselect_device": "ไม่ได้เลือกอุปกรณ์เสริมบลูทูธ!",

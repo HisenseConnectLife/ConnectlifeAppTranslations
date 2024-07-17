@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Arrêter la mise à jour du micrologiciel ?",
     "ble_ota_step_progress_hint1": "Préparation de la mise à jour…",
     "ble_ota_step_progress_hint2": "Mise à jour…",
+    "ble_ota_error_sub_title": "Échec de la mise à jour du micrologiciel",
     "ble_ota_error_content": "Gardez vos appareils à proximité pendant la mise à jour. Vérifiez votre connexion Bluetooth.",
     "ble_ota_error_exit": "QUITTER LA MISE À JOUR",
     "ble_ota_unselect_device": "Aucun accessoire Bluetooth sélectionné !",

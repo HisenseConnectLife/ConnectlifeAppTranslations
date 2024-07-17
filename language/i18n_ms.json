@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Hentikan kemas kini perisian tegar?",
     "ble_ota_step_progress_hint1": "Menyediakan kemas kini…",
     "ble_ota_step_progress_hint2": "Mengemas kini…",
+    "ble_ota_error_sub_title": "Kemas kini perisian tegar tidak berjaya",
     "ble_ota_error_content": "Pastikan peranti anda berdekatan semasa mengemas kini.\n Semak sambungan Bluetooth anda.",
     "ble_ota_error_exit": "KEMASKINI KELUAR",
     "ble_ota_unselect_device": "Tiada aksesori Bluetooth dipilih!",

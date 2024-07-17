@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Зауставити ажурирање фирмвера?",
     "ble_ota_step_progress_hint1": "Припрема ажурирања…",
     "ble_ota_step_progress_hint2": "Ажурирање…",
+    "ble_ota_error_sub_title": "Ажурирање фирмвера није успело",
     "ble_ota_error_content": "Држите своје уређаје близу док се ажурирате.\n Проверите своју Блуетоотх везу.",
     "ble_ota_error_exit": "ЕКСИТ УПДАТЕ",
     "ble_ota_unselect_device": "Није изабрана Блуетоотх додатна опрема!",

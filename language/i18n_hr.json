@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Zaustaviti ažuriranje firmvera?",
     "ble_ota_step_progress_hint1": "Priprema ažuriranja…",
     "ble_ota_step_progress_hint2": "Ažuriranje...",
+    "ble_ota_error_sub_title": "Ažuriranje firmvera nije uspjelo",
     "ble_ota_error_content": "Držite svoje uređaje blizu tijekom ažuriranja.\n Provjerite svoju Bluetooth vezu.",
     "ble_ota_error_exit": "IZLAZ IZ AŽURIRANJA",
     "ble_ota_unselect_device": "Nije odabran Bluetooth dodatak!",

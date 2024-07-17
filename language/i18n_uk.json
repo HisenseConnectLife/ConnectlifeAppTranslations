@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Зупинити оновлення мікропрограми?",
     "ble_ota_step_progress_hint1": "Підготовка оновлення…",
     "ble_ota_step_progress_hint2": "Оновлення…",
+    "ble_ota_error_sub_title": "Помилка оновлення мікропрограми",
     "ble_ota_error_content": "Тримайте пристрої поруч під час оновлення.\nПеревірте з’єднання Bluetooth.",
     "ble_ota_error_exit": "ВИЙТИ З ОНОВЛЕННЯ",
     "ble_ota_unselect_device": "Не вибрано жодного додаткового приладдя Bluetooth!",

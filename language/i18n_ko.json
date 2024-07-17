@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "펌웨어 업데이트를 중지하시겠습니까?",
     "ble_ota_step_progress_hint1": "업데이트 준비 중…",
     "ble_ota_step_progress_hint2": "업데이트 중…",
+    "ble_ota_error_sub_title": "펌웨어 업데이트 실패",
     "ble_ota_error_content": "업데이트하는 동안 장치를 가까이에 두십시오.\n 블루투스 연결을 확인하세요.",
     "ble_ota_error_exit": "업데이트 종료",
     "ble_ota_unselect_device": "선택한 Bluetooth 액세서리가 없습니다!",

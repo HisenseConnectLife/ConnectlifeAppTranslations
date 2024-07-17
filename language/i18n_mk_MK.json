@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "Да се ​​запре ажурирањето на фирмверот?",
     "ble_ota_step_progress_hint1": "Се подготвува ажурирањето…",
     "ble_ota_step_progress_hint2": "Се ажурира…",
+    "ble_ota_error_sub_title": "Ажурирањето на фирмверот е неуспешно",
     "ble_ota_error_content": "Чувајте ги вашите уреди во близина додека се ажурираат.\n Проверете ја вашата Bluetooth врска.",
     "ble_ota_error_exit": "ИЗЛЕЗЕТЕ ОД АЖУРИРАЊЕ",
     "ble_ota_unselect_device": "Не е избран додаток за Bluetooth!",

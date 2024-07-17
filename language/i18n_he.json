@@ -2076,6 +2076,7 @@
     "ble_ota_step_stop_title": "להפסיק את עדכון הקושחה?",
     "ble_ota_step_progress_hint1": "מכין את העדכון...",
     "ble_ota_step_progress_hint2": "עִדכּוּן…",
+    "ble_ota_error_sub_title": "עדכון הקושחה לא הצליח",
     "ble_ota_error_content": "שמור את המכשירים שלך בקרבת מקום בזמן העדכון.\n בדוק את חיבור ה-Bluetooth שלך.",
     "ble_ota_error_exit": "יציאה מעדכון",
     "ble_ota_unselect_device": "לא נבחר אביזר Bluetooth!",
