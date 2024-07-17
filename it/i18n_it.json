@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Ci sono tante cose che puoi fare con i tuoi elettrodomestici",
+    "dashboard_connect_tip": "Connettiti ed esplora le possibilità",
+    "dashboard_empty_qr_start": "Inizia",
     "dashboard_empty_add_appliance": "Aggiungi elettrodomestici",
     "dashboard_things_default": "COSE CHE PUOI FARE",
     "dashboard_last_used_default": "RECENTI",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Girare la scheda per passare a \"Aggiungi dispositivo\" e fare clic su \"Invio\".",
     "how_data_is_calculate_key": "Come vengono calcolati i dati",
-    "energy_select_device_ktip_key": "Si prega di notare che è possibile avviare la modalità ECO solo sui dispositivi in funzione."
+    "energy_select_device_ktip_key": "Si prega di notare che è possibile avviare la modalità ECO solo sui dispositivi in funzione.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## dispositivi utilizzano la modalità ECO",
+    "CL_CF_AB_licenses_content": "Questa applicazione utilizza i seguenti progetti e risorse open source: \n\n Carattere: Roboto\n Concesso in licenza in base alla licenza Apache, versione 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Legale"
 }

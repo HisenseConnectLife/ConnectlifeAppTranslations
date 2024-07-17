@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Terdapat banyak perkara yang boleh anda lakukan dengan peralatan anda.",
+    "dashboard_connect_tip": "Sambung dan terokai kemungkinan.",
+    "dashboard_empty_qr_start": "Mula di sini",
     "dashboard_empty_add_appliance": "Tambah peralatan",
     "dashboard_things_default": "PERKARA YANG BOLEH ANDA LAKUKAN",
     "dashboard_last_used_default": "PERALATAN YANG TERAKHIR DIGUNAKAN",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Hidupkan pengetahuan untuk beralih ke \"Tambah peranti\" dan klik pada \"Enter\".",
     "how_data_is_calculate_key": "Bagaimana data dikira",
-    "energy_select_device_ktip_key": "Sila ambil perhatian bahawa anda hanya boleh memulakan mod ECO pada peranti yang beroperasi."
+    "energy_select_device_ktip_key": "Sila ambil perhatian bahawa anda hanya boleh memulakan mod ECO pada peranti yang beroperasi.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## peranti menjalankan ECOmode",
+    "CL_CF_AB_licenses_content": "Aplikasi ini menggunakan projek dan aset sumber terbuka berikut: \n\n Fon: Roboto\n Dilesenkan di bawah Lesen Apache, Versi 2.0 Hak Cipta 2011 Google Inc.",
+    "CL_CF_LG_legal": "sah"
 }

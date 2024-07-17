@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Mit unseren Geräten können Sie so vieles tun.",
+    "dashboard_connect_tip": "Einfach verbinden und entdecken",
+    "dashboard_empty_qr_start": "Beginnen Sie hier:",
     "dashboard_empty_add_appliance": "Geräte hinzufügen",
     "dashboard_things_default": "DINGE, DIE SIE TUN KÖNNEN",
     "dashboard_last_used_default": "ZULETZT VERWENDETE GERÄTE",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Drehen Sie den Knopf, um zu „Gerät hinzufügen“ zu gelangen und klicken Sie auf „Eingeben“.",
     "how_data_is_calculate_key": "Wie Daten berechnet werden",
-    "energy_select_device_ktip_key": "Bitte beachten Sie, dass Sie den ECO-Modus nur bei Geräten im Betrieb starten können."
+    "energy_select_device_ktip_key": "Bitte beachten Sie, dass Sie den ECO-Modus nur bei Geräten im Betrieb starten können.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## Geräte laufen im ECO-Modus",
+    "CL_CF_AB_licenses_content": "Diese Anwendung verwendet die folgenden Open-Source-Projekte und -Assets: \n\n Schriftart: Roboto\n Lizenziert unter der Apache-Lizenz, Version 2.0, Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Rechtliches"
 }

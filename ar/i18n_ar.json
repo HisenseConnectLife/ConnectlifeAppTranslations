@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "لا يوجد الكثير مما يمكنك فعله بأجهزتك.",
+    "dashboard_connect_tip": "قم بالتوصيل واكتشف الإمكانيات.",
+    "dashboard_empty_qr_start": "ابدأ هنا",
     "dashboard_empty_add_appliance": "إضافة أجهزة",
     "dashboard_things_default": "الأمور التي يمكنك فعلها",
     "dashboard_last_used_default": "أحدث الأجهزة استخدامًا",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "قم بتحويل المعرفة للانتقال إلى \"إضافة جهاز\" وانقر على \"أدخل\".",
     "how_data_is_calculate_key": "كيف يتم حساب البيانات",
-    "energy_select_device_ktip_key": "يرجى ملاحظة أنه يمكنك بدء وضع ECO فقط على الأجهزة التي تعمل."
+    "energy_select_device_ktip_key": "يرجى ملاحظة أنه يمكنك بدء وضع ECO فقط على الأجهزة التي تعمل.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## الأجهزة تعمل بنظام ECOmode",
+    "CL_CF_AB_licenses_content": "يستخدم هذا التطبيق المشاريع والأصول مفتوحة المصدر التالية: \n\n الخط: روبوتو\n مرخص بموجب ترخيص Apache، الإصدار 2.0 حقوق الطبع والنشر لعام 2011 لشركة Google Inc.",
+    "CL_CF_LG_legal": "قانوني"
 }

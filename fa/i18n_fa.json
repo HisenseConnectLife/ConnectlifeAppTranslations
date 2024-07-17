@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "می‌توانید با دستگاه‌های خود کارهای بسیاری انجام دهید.",
+    "dashboard_connect_tip": "متصل شوید و جستجو کنید",
+    "dashboard_empty_qr_start": "از اینجا شروع کنید",
     "dashboard_empty_add_appliance": "محصولات  را اضافه کنید",
     "dashboard_things_default": "کارهایی که می‌توانید انجام دهید",
     "dashboard_last_used_default": "آخرین دستگاه استفاده‌شده",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "برای رفتن به «افزودن دستگاه» اطلاعات را روشن کنید و روی «Enter» کلیک کنید.",
     "how_data_is_calculate_key": "چگونه داده‌ها محاسبه می‌شوند",
-    "energy_select_device_ktip_key": "لطفاً توجه داشته باشید که فقط می‌توانید حالت ECO را در دستگاه‌های در حال کار شروع کنید."
+    "energy_select_device_ktip_key": "لطفاً توجه داشته باشید که فقط می‌توانید حالت ECO را در دستگاه‌های در حال کار شروع کنید.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## دستگاه دارای ECOmode هستند",
+    "CL_CF_AB_licenses_content": "این برنامه از پروژه ها و دارایی های منبع باز زیر استفاده می کند: \n\n فونت: Roboto\n دارای مجوز تحت مجوز آپاچی، نسخه 2.0 حق چاپ 2011 Google Inc.",
+    "CL_CF_LG_legal": "مجاز"
 }

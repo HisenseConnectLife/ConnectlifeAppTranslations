@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Annyi mindent csinálhat a készülékeivel.(Készülékei rengeteg dologra képesek).",
+    "dashboard_connect_tip": "Csatlakozzon és fedezze fel a lehetőségeket.",
+    "dashboard_empty_qr_start": "Induljon innen (Kezdje itt)",
     "dashboard_empty_add_appliance": "Adjon hozzá készüléket",
     "dashboard_things_default": "DOLGOK, AMIKET TEHET",
     "dashboard_last_used_default": "UTOLJÁRA HASZNÁLT KÉSZÜLÉKEK",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Fordítsa el a tudást, hogy lépjen az \"Eszköz hozzáadása\" elemre, és kattintson az \"Enter\" gombra.",
     "how_data_is_calculate_key": "Hogyan számítják ki az adatokat",
-    "energy_select_device_ktip_key": "Kérjük, vegye figyelembe, hogy az ECO módot csak működő eszközökön indíthatja el."
+    "energy_select_device_ktip_key": "Kérjük, vegye figyelembe, hogy az ECO módot csak működő eszközökön indíthatja el.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## eszközökön ECOmode fut",
+    "CL_CF_AB_licenses_content": "Ez az alkalmazás a következő nyílt forráskódú projekteket és eszközöket használja: \n\n Betűtípus: Roboto\n Licenc az Apache Licenc 2.0-s verziója alapján Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Jogi"
 }

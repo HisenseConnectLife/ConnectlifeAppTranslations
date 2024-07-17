@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Bạn có thể làm nhiều điều với các thiết bị của mình.",
+    "dashboard_connect_tip": "Kết nối và khám phá",
+    "dashboard_empty_qr_start": "Bắt đầu tại đây",
     "dashboard_empty_add_appliance": "Thêm thiết bị",
     "dashboard_things_default": "NHỮNG ĐIỀU BẠN CÓ THỂ LÀM",
     "dashboard_last_used_default": "THIẾT BỊ ĐƯỢC SỬ DỤNG GẦN ĐÂY NHẤT",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Xoay biết để di chuyển đến \"Thêm thiết bị\" và nhấp vào \"Enter\".",
     "how_data_is_calculate_key": "Dữ liệu được tính toán như thế nào",
-    "energy_select_device_ktip_key": "Xin lưu ý rằng bạn chỉ có thể bắt đầu chế độ ECO trên các thiết bị đang hoạt động."
+    "energy_select_device_ktip_key": "Xin lưu ý rằng bạn chỉ có thể bắt đầu chế độ ECO trên các thiết bị đang hoạt động.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## thiết bị đang chạy ECOmode",
+    "CL_CF_AB_licenses_content": "Ứng dụng này sử dụng các dự án và tài sản nguồn mở sau: \n\n Phông chữ: Roboto\n Được cấp phép theo Giấy phép Apache, Phiên bản 2.0 Bản quyền 2011 Google Inc.",
+    "CL_CF_LG_legal": "Hợp pháp"
 }

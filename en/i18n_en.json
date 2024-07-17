@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "You can do many things with your appliances.",
+    "dashboard_connect_tip": "Connect and Explore",
+    "dashboard_empty_qr_start": "Start here",
     "dashboard_empty_add_appliance": "Add appliances",
     "dashboard_things_default": "THINGS YOU CAN DO",
     "dashboard_last_used_default": "LAST USED APPLIANCE",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "Turn the knob to move to \"Connection setup\" and click on \"Enter\".",
     "wm86_and_td76_ui1_p_step2": "Turn the know to move to \"Add device\" and click on \"Enter\".",
     "how_data_is_calculate_key": "How data is calculate",
-    "energy_select_device_ktip_key": "Please be aware that you can only start the ECO mode of devices in operation."
+    "energy_select_device_ktip_key": "Please be aware that you can only start the ECO mode of devices in operation.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## devices are running ECOmode",
+    "CL_CF_AB_licenses_content": "This application uses the following open-source projects and assets:\n\nFont: Roboto\nLicensed under the Apache License, Version 2.0\u2028Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Legal"
 }

@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Je kunt veel dingen doen met uw apparaten.",
+    "dashboard_connect_tip": "Verbind en Ontdek.",
+    "dashboard_empty_qr_start": "Start hier",
     "dashboard_empty_add_appliance": "Voeg apparaten toe",
     "dashboard_things_default": "DINGEN DIE U KUNT DOEN",
     "dashboard_last_used_default": "LAATST GEBRUIKTE APPARATEN",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Draai aan de knop om naar \"Apparaat toevoegen\" te gaan en klik op \"Enter\".",
     "how_data_is_calculate_key": "Hoe gegevens worden berekend",
-    "energy_select_device_ktip_key": "Houd er rekening mee dat u de ECO-modus alleen kunt starten bij apparaten die in werking zijn."
+    "energy_select_device_ktip_key": "Houd er rekening mee dat u de ECO-modus alleen kunt starten bij apparaten die in werking zijn.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## apparaten gebruiken ECOmode",
+    "CL_CF_AB_licenses_content": "Deze applicatie maakt gebruik van de volgende open-sourceprojecten en middelen: \n\n Lettertype: Roboto\n Gelicentieerd onder de Apache-licentie, versie 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Legaal"
 }

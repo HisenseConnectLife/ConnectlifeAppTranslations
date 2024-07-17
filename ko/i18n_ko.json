@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "본 기기는 다양하게 활용이 가능한 제품입니다.",
+    "dashboard_connect_tip": "제품을 전원 콘센트에 연결한 후 여러가지 활용법을 익혀보세요.",
+    "dashboard_empty_qr_start": "시작하기",
     "dashboard_empty_add_appliance": "기기 추가",
     "dashboard_things_default": "기기 활용법",
     "dashboard_last_used_default": "마지막으로 사용한 기기",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "\"장치 추가\"로 이동하려면 \"입력\"을 클릭하십시오.",
     "how_data_is_calculate_key": "데이터가 어떻게 계산되는지",
-    "energy_select_device_ktip_key": "장치가 작동 중일 때만 ECO 모드를 시작할 수 있습니다."
+    "energy_select_device_ktip_key": "장치가 작동 중일 때만 ECO 모드를 시작할 수 있습니다.",
+    "CL_SM_CM_devices_are_running_eco_mode": "##개의 기기가 ECOmode를 실행 중입니다.",
+    "CL_CF_AB_licenses_content": "이 애플리케이션은 다음 오픈 소스 프로젝트 및 자산을 사용합니다. \n\n 글꼴: Roboto\n Apache 라이센스 버전 2.0에 따라 라이센스가 부여되었습니다. Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "합법적인"
 }

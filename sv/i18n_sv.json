@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Det finns så mycket du kan göra med dina produkter.",
+    "dashboard_connect_tip": "Anslut och utforska möjligheterna.",
+    "dashboard_empty_qr_start": "Börja här",
     "dashboard_empty_add_appliance": "Lägg till produkter",
     "dashboard_things_default": "SAKER DU KAN GÖRA",
     "dashboard_last_used_default": "SENAST ANVÄNDA PRODUKTER",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Vrid på knappen för att flytta till \"Lägg till enhet\" och klicka på \"Enter\".",
     "how_data_is_calculate_key": "Hur data beräknas",
-    "energy_select_device_ktip_key": "Observera att du bara kan starta ECO-läget på enheter som är i drift."
+    "energy_select_device_ktip_key": "Observera att du bara kan starta ECO-läget på enheter som är i drift.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## enheter kör ECOmode",
+    "CL_CF_AB_licenses_content": "Denna applikation använder följande öppen källkodsprojekt och tillgångar: \n\n Typsnitt: Roboto\n Licensierad under Apache-licensen, version 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Rättslig"
 }

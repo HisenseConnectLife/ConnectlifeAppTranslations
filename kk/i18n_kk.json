@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Құрылғыңызбен көп нәрсе жасауға болады.",
+    "dashboard_connect_tip": "Мүмкіндіктерді қосу және зерттеу.",
+    "dashboard_empty_qr_start": "Осы жерден бастау",
     "dashboard_empty_add_appliance": "Құрылғыларды қосу",
     "dashboard_things_default": "НЕ ІСТЕЙ АЛАСЫЗ",
     "dashboard_last_used_default": "СОҢҒЫ ПАЙДАЛАНЫЛҒАН ҚҰРЫЛҒЫ",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "«Құрылғы қосу» тармағына өту үшін білгішті бұрыңыз және «Енгізу» түймесін басыңыз.",
     "how_data_is_calculate_key": "Деректер қалай есептеледі",
-    "energy_select_device_ktip_key": "Назар аударыңыз, ECO режимін тек жұмыс істеп тұрған құрылғыларда ғана бастауға болады."
+    "energy_select_device_ktip_key": "Назар аударыңыз, ECO режимін тек жұмыс істеп тұрған құрылғыларда ғана бастауға болады.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## құрылғы ЭКО режимін іске қосуда",
+    "CL_CF_AB_licenses_content": "Бұл қолданба келесі ашық бастапқы жобалар мен активтерді пайдаланады: \n\n Қаріп: Roboto\n Apache лицензиясы, 2.0 нұсқасы бойынша лицензияланған авторлық құқық 2011 Google Inc.",
+    "CL_CF_LG_legal": "Заңды"
 }
