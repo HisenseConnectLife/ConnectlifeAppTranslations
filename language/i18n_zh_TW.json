@@ -2076,7 +2076,6 @@
     "ble_ota_step_stop_title": "停止韌體更新？",
     "ble_ota_step_progress_hint1": "正在準備更新...",
     "ble_ota_step_progress_hint2": "正在更新…",
-    "ble_ota_error_sub_title": "韌體更新失敗",
     "ble_ota_error_content": "更新時請將您的裝置放在附近。\n檢查您的藍牙連線。",
     "ble_ota_error_exit": "退出更新",
     "ble_ota_unselect_device": "未選擇藍牙配件！",
@@ -3609,7 +3608,7 @@
     "recipe_type_desserts": "甜點",
     "recipe_type_lunches": "午餐",
     "recipe_type_main_dishes": "主菜",
-    "recipe_type_sider_disher": "附件",
+    "recipe_type_sider_disher": "配菜",
     "recipe_main_ingredients_vegetables": "蔬菜",
     "recipe_main_ingredients_savoury_pastries": "美味糕點",
     "recipe_main_ingredients_grains": "穀物",
@@ -3944,5 +3943,8 @@
     "wm86_and_td76_ui1_p_step2": "旋轉旋鈕移至“新增設備”，然後按一下“輸入”。",
     "how_data_is_calculate_key": "數據是如何計算的",
     "energy_select_device_ktip_key": "請注意，您只能在設備運行時啟動ECO模式。",
-    "CL_SM_CM_devices_are_running_eco_mode": "## 裝置正在執行 ECOmode"
+    "CL_SM_CM_devices_are_running_eco_mode": "## 裝置正在執行 ECOmode",
+    "CL_CF_AB_licenses_and_attributions": "許可和歸屬",
+    "CL_CF_AB_licenses_content": "該應用程式使用以下開源專案和資產： \n\n字體：Roboto\n根據 Apache 授權 2.0 版授權 版權所有 2011 Google Inc.",
+    "CL_CF_LG_legal": "合法的"
 }
