@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Toliko toga možete da učinite sa svojim kućnim aparatima.",
+    "dashboard_connect_tip": "Povežite se i istražite mogućnosti.",
+    "dashboard_empty_qr_start": "Počnite ovde",
     "dashboard_empty_add_appliance": "Dodaj kućne aparate",
     "dashboard_things_default": "STVARI KOJE MOŽETE UČINITI",
     "dashboard_last_used_default": "POSLJEDNJE KORIŠĆENI KUĆNI APARATI",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Пређите на „Додај уређај“ и кликните на „Ентер“.",
     "how_data_is_calculate_key": "Како се подаци израчунавају",
-    "energy_select_device_ktip_key": "Имајте на уму да можете да покренете ECO режим само на уређајима који су у функцији."
+    "energy_select_device_ktip_key": "Имајте на уму да можете да покренете ECO режим само на уређајима који су у функцији.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## уређаји користе ЕЦОмоде",
+    "CL_CF_AB_licenses_content": "Ова апликација користи следеће пројекте и средства отвореног кода: \n\n Фонт: Робото\n Лиценцирано под Апацхе лиценцом, верзија 2.0 Ауторска права 2011. Гоогле Инц.",
+    "CL_CF_LG_legal": "Правни"
 }

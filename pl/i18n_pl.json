@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Urządzenia możesz wykorzystać na naprawdę wiele sposobów.",
+    "dashboard_connect_tip": "Łącz się i eksploruj możliwości.",
+    "dashboard_empty_qr_start": "Zacznij tutaj",
     "dashboard_empty_add_appliance": "Dodaj urządzenia",
     "dashboard_things_default": "CO MOŻESZ ZROBIĆ",
     "dashboard_last_used_default": "OSTATNIO UŻYWANE URZĄDZENIA",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Włącz opcję, aby przejść do „Dodaj urządzenie” i kliknij „Enter”.",
     "how_data_is_calculate_key": "Jak dane są obliczane",
-    "energy_select_device_ktip_key": "Należy pamiętać, że tryb ECO można uruchomić tylko na działających urządzeniach."
+    "energy_select_device_ktip_key": "Należy pamiętać, że tryb ECO można uruchomić tylko na działających urządzeniach.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## urządzenia działają w trybie ECO",
+    "CL_CF_AB_licenses_content": "Ta aplikacja korzysta z następujących projektów i zasobów typu open source: \n\n Czcionka: Roboto\n Licencja na podstawie licencji Apache, wersja 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Prawny"
 }

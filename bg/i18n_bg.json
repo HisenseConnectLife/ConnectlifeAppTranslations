@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Има толкова много неща, които можете да правите с вашите уреди.",
+    "dashboard_connect_tip": "Свържете се и научете за възможностите.",
+    "dashboard_empty_qr_start": "Започни тук",
     "dashboard_empty_add_appliance": "Добави уред",
     "dashboard_things_default": "НЕЩА, КОИТО МОЖЕТЕ ДА ПРАВИТЕ",
     "dashboard_last_used_default": "ПОСЛЕДНО ИЗПОЛЗВАН УРЕД",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Завъртете знанието, за да преминете към „Добавяне на устройство“ и щракнете върху „Въвеждане“.",
     "how_data_is_calculate_key": "Как се изчисляват данните",
-    "energy_select_device_ktip_key": "Моля, имайте предвид, че можете да стартирате ECO режима само на работещи устройства."
+    "energy_select_device_ktip_key": "Моля, имайте предвид, че можете да стартирате ECO режима само на работещи устройства.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## устройства работят в ECOmode",
+    "CL_CF_AB_licenses_content": "Това приложение използва следните проекти и активи с отворен код: \n\n Шрифт: Roboto\n Лицензирано съгласно лиценза на Apache, версия 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Законни"
 }

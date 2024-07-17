@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "У вас есть много возможностей при работе с вашими устройствами",
+    "dashboard_connect_tip": "Подключайтесь и исследуйте",
+    "dashboard_empty_qr_start": "Начните здесь",
     "dashboard_empty_add_appliance": "Добавить устройства",
     "dashboard_things_default": "ДОСТУПНЫЕ ДЕЙСТВИЯ",
     "dashboard_last_used_default": "ПОСЛЕДНИЕ ИСПОЛЬЗОВАННЫЕ УСТРОЙСТВА",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Поверните ноу, чтобы перейти к «Добавить устройство» и нажмите «Ввод».",
     "how_data_is_calculate_key": "Как рассчитываются данные",
-    "energy_select_device_ktip_key": "Обратите внимание, что режим ECO можно запустить только на работающих устройствах."
+    "energy_select_device_ktip_key": "Обратите внимание, что режим ECO можно запустить только на работающих устройствах.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## устройств работают в режиме ECOmode",
+    "CL_CF_AB_licenses_content": "В этом приложении используются следующие проекты и ресурсы с открытым исходным кодом: \n\n Шрифт: Робото\n Лицензия Apache, версия 2.0. Авторские права принадлежат Google Inc., 2011 г.",
+    "CL_CF_LG_legal": "Юридический"
 }

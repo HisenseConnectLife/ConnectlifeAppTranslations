@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Voit tehdä laitteellasi paljon.",
+    "dashboard_connect_tip": "Yhdistä ja tutki mahdollisuuksia.",
+    "dashboard_empty_qr_start": "Aloitus tästä",
     "dashboard_empty_add_appliance": "Lisää laitteita",
     "dashboard_things_default": "ASIOITA JOITA VOIT TEHDÄ",
     "dashboard_last_used_default": "VIIMEKSI KÄYTETYT LAITTEET",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Siirry \"Lisää laite\" -kohtaan kääntämällä tietämystä ja napsauta \"Enter\".",
     "how_data_is_calculate_key": "Miten tiedot lasketaan",
-    "energy_select_device_ktip_key": "Huomaa, että voit käynnistää ECO-tilan vain toiminnassa olevissa laitteissa."
+    "energy_select_device_ktip_key": "Huomaa, että voit käynnistää ECO-tilan vain toiminnassa olevissa laitteissa.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## laitteet käyttävät ECOmodea",
+    "CL_CF_AB_licenses_content": "Tämä sovellus käyttää seuraavia avoimen lähdekoodin projekteja ja resursseja: \n\n Fontti: Roboto\n Lisensoitu Apache-lisenssillä, versio 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Laillinen"
 }

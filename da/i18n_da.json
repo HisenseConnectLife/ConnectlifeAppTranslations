@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Der er så meget, du kan gøre med dine apparater.",
+    "dashboard_connect_tip": "Tilslut, og udforsk mulighederne.",
+    "dashboard_empty_qr_start": "Start her",
     "dashboard_empty_add_appliance": "Tilføj apparater",
     "dashboard_things_default": "TING DU KAN GØRE",
     "dashboard_last_used_default": "SENEST BRUGTE APPARATER",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Drej knappen for at flytte til \"Tilføj enhed\", og klik på \"Enter\".",
     "how_data_is_calculate_key": "Hvordan data beregnes",
-    "energy_select_device_ktip_key": "Bemærk, at du kun kan starte ECO-tilstand på enheder, der er i drift."
+    "energy_select_device_ktip_key": "Bemærk, at du kun kan starte ECO-tilstand på enheder, der er i drift.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## enheder kører ECOmode",
+    "CL_CF_AB_licenses_content": "Denne applikation bruger følgende open source-projekter og -aktiver: \n\n Skrifttype: Roboto\n Licenseret under Apache-licensen, version 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "gyldige"
 }

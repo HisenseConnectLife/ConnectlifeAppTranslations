@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Há tanto que pode fazer com os seus aparelhos",
+    "dashboard_connect_tip": "Conecte-se e explore as possibilidades.",
+    "dashboard_empty_qr_start": "Comece aqui",
     "dashboard_empty_add_appliance": "Adicionar aparelhos",
     "dashboard_things_default": "AQUILO QUE PODE FAZER",
     "dashboard_last_used_default": "ÚLTIMOS APARELHOS UTILIZADOS",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Gire o conhecimento para ir para “Adicionar dispositivo” e clique em “Entrar”.",
     "how_data_is_calculate_key": "Como são calculados os dados",
-    "energy_select_device_ktip_key": "Por favor, tenha em atenção que só pode iniciar o modo ECO em dispositivos em funcionamento."
+    "energy_select_device_ktip_key": "Por favor, tenha em atenção que só pode iniciar o modo ECO em dispositivos em funcionamento.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## dispositivos estão executando o modo ECO",
+    "CL_CF_AB_licenses_content": "Este aplicativo usa os seguintes projetos e ativos de código aberto: \n\n Fonte: Roboto\n Licenciado sob a Licença Apache, Versão 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Jurídico"
 }

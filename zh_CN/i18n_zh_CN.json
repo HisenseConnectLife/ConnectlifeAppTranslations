@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "您可以用您的电器做很多事情。",
+    "dashboard_connect_tip": "连接并探索可能性",
+    "dashboard_empty_qr_start": "从这里开始",
     "dashboard_empty_add_appliance": "添加电器",
     "dashboard_things_default": "您能做的事",
     "dashboard_last_used_default": "最近使用的电器",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "",
     "how_data_is_calculate_key": "数据是如何计算的",
-    "energy_select_device_ktip_key": "请注意，您只能在设备运行时启动ECO模式。"
+    "energy_select_device_ktip_key": "请注意，您只能在设备运行时启动ECO模式。",
+    "CL_SM_CM_devices_are_running_eco_mode": "## 台设备正在运行 ECO 模式",
+    "CL_CF_AB_licenses_content": "此应用程序使用以下开源项目和资产： \n\n字体：Roboto\n根据 Apache 许可证 2.0 版本授权，版权所有 2011 Google Inc.",
+    "CL_CF_LG_legal": "合法的"
 }

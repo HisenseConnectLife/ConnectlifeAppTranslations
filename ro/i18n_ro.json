@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Puteți să faceți foarte multe lucruri cu aparatele dvs.",
+    "dashboard_connect_tip": "Conectați-vă și explorați posibilitățile.",
+    "dashboard_empty_qr_start": "Începeți aici",
     "dashboard_empty_add_appliance": "Adăugare aparate",
     "dashboard_things_default": "LUCRURI PE CARE LE PUTEȚI FACE",
     "dashboard_last_used_default": "ULTIMELE APARATE UTILIZATE",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Întoarceți cunoștințele pentru a trece la „Adăugați dispozitiv” și faceți clic pe „Enter”.",
     "how_data_is_calculate_key": "Cum sunt calculate datele",
-    "energy_select_device_ktip_key": "Vă rugăm să rețineți că puteți porni modul ECO doar pe dispozitivele în funcțiune."
+    "energy_select_device_ktip_key": "Vă rugăm să rețineți că puteți porni modul ECO doar pe dispozitivele în funcțiune.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## dispozitive rulează ECOmode",
+    "CL_CF_AB_licenses_content": "Această aplicație folosește următoarele proiecte și active open-source: \n\n Font: Roboto\n Licențiat conform licenței Apache, versiunea 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Legal"
 }

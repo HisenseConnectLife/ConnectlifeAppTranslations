@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "您可以用您的電器做很多事情。",
+    "dashboard_connect_tip": "連接並探索可能性",
+    "dashboard_empty_qr_start": "從這裡開始",
     "dashboard_empty_add_appliance": "添加電器",
     "dashboard_things_default": "您能做的事",
     "dashboard_last_used_default": "最近使用的電器",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "轉動旋鈕移至“連接設定”，然後按“輸入”。",
     "wm86_and_td76_ui1_p_step2": "旋轉旋鈕移至“新增設備”，然後按一下“輸入”。",
     "how_data_is_calculate_key": "數據是如何計算的",
-    "energy_select_device_ktip_key": "請注意，您只能在設備運行時啟動ECO模式。"
+    "energy_select_device_ktip_key": "請注意，您只能在設備運行時啟動ECO模式。",
+    "CL_SM_CM_devices_are_running_eco_mode": "## 裝置正在執行 ECOmode",
+    "CL_CF_AB_licenses_content": "該應用程式使用以下開源專案和資產： \n\n字體：Roboto\n根據 Apache 授權 2.0 版授權 版權所有 2011 Google Inc.",
+    "CL_CF_LG_legal": "合法的"
 }

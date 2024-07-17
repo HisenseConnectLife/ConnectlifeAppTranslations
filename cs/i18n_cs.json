@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Je tolik způsobů, jak můžete vaše spotřebiče využít.",
+    "dashboard_connect_tip": "Připojte se a podívejte se na možnosti.",
+    "dashboard_empty_qr_start": "Začněte zde",
     "dashboard_empty_add_appliance": "Přidat spotřebiče",
     "dashboard_things_default": "CO MŮŽETE DĚLAT",
     "dashboard_last_used_default": "NAPOSLEDY POUŽITÉ SPOTŘEBIČE",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Otočením se přesuňte na \"Přidat zařízení\" a klikněte na \"Enter\".",
     "how_data_is_calculate_key": "Jak se data počítají",
-    "energy_select_device_ktip_key": "Upozorňujeme, že režim ECO lze spustit pouze na zařízeních, která jsou v provozu."
+    "energy_select_device_ktip_key": "Upozorňujeme, že režim ECO lze spustit pouze na zařízeních, která jsou v provozu.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## zařízení běží v režimu ECOmode",
+    "CL_CF_AB_licenses_content": "Tato aplikace používá následující open source projekty a aktiva: \n\n Písmo: Roboto\n Licencováno pod licencí Apache, verze 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Právní"
 }

@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "",
+    "dashboard_connect_tip": "",
+    "dashboard_empty_qr_start": "",
     "dashboard_empty_add_appliance": "",
     "dashboard_things_default": "",
     "dashboard_last_used_default": "",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "",
     "how_data_is_calculate_key": "",
-    "energy_select_device_ktip_key": ""
+    "energy_select_device_ktip_key": "",
+    "CL_SM_CM_devices_are_running_eco_mode": "",
+    "CL_CF_AB_licenses_content": "",
+    "CL_CF_LG_legal": ""
 }

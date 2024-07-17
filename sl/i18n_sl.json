@@ -1,4 +1,7 @@
 {
+    "dashboard_tip_empty": "Marsikaj lahko naredite s svojimi aparati.",
+    "dashboard_connect_tip": "Povežite se in raziščite možnosti.",
+    "dashboard_empty_qr_start": "Začni tukaj",
     "dashboard_empty_add_appliance": "Dodajte aparate",
     "dashboard_things_default": "STVARI, KI JIH LAHKO NAREDITE",
     "dashboard_last_used_default": "ZADNJI UPORABLJENI APARATI",
@@ -3939,5 +3942,8 @@
     "wm86_and_td76_ui1_cs_step2": "",
     "wm86_and_td76_ui1_p_step2": "Obrnite gumb, da se premaknete na \"Dodaj napravo\" in kliknite \"Enter\".",
     "how_data_is_calculate_key": "Kako se podatki izračunajo",
-    "energy_select_device_ktip_key": "Prosimo, upoštevajte, da lahko način ECO zaženete samo na napravah, ki so v delovanju."
+    "energy_select_device_ktip_key": "Prosimo, upoštevajte, da lahko način ECO zaženete samo na napravah, ki so v delovanju.",
+    "CL_SM_CM_devices_are_running_eco_mode": "## naprave uporabljajo ECOmode",
+    "CL_CF_AB_licenses_content": "Ta aplikacija uporablja naslednje odprtokodne projekte in sredstva: \n\n Pisava: Roboto\n Licencirano pod licenco Apache, različica 2.0 Copyright 2011 Google Inc.",
+    "CL_CF_LG_legal": "Pravno"
 }
