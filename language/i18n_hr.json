@@ -3722,7 +3722,7 @@
     "dw_remote_guide_eu": "Pritisnite gumb% na kontrolnoj ploči da biste ga omogućili.",
     "atw_no_device_confirm_first": "",
     "atw_no_device_confirm_second": "",
-    "voice_assistant_commands": "",
+    "voice_assistant_commands": "Naredbe glasovnog pomoćnika",
     "edit_favorites": "Uredi favorite",
     "dom_hot_water": "Topla voda",
     "delete_all_schedu_tips": "Da li ste sigurni da želite obrisati sve rasporede?",
@@ -3837,8 +3837,8 @@
     "device_standby_can_not_start_eco": "Uređaj je u stanju pripravnosti, ne može pokrenuti ECO",
     "remote_control_not_support_eco": "Daljinsko upravljanje nije omogućeno, ne može pokrenuti ECO",
     "convert_model_not_support_eco": "Uređaj je u Convert načinu, ne može pokrenuti ECO",
-    "va_alexa_commands_tips": "",
-    "va_google_commands_tips": "",
+    "va_alexa_commands_tips": "Za uspješno slanje glasovnih naredbi na uređaj, obavezno koristite naziv uređaja postavljen u aplikaciji Amazon Alexa.",
+    "va_google_commands_tips": "Za uspješno slanje glasovnih naredbi na uređaj, obavezno koristite naziv uređaja postavljen u aplikaciji Google.",
     "va_alexa_commands_link_tips": "Za korištenje glasovnih naredbi povežite svoju Amazon Alexu.",
     "va_google_commands_link_tips": "Za korištenje glasovnih naredbi povežite svoj Google.",
     "link_amazon_alexa": "Poveži Amazon Alexu",
@@ -3996,5 +3996,6 @@
     "CL_CF_LG_legal": "Pravno",
     "CL_CF_LG_enduser_privacy": "Politika privatnosti podataka",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## uređaja rade u ECO načinu rada",
-    "CL_CF_UC_full_name_with_title": ""
+    "CL_CF_UC_full_name_with_title": "",
+    "CL_AU_AC_automation_features_may_not_execute_key": "Ovisno o načinu rada uređaja, neke se značajke možda neće uspješno izvršiti."
 }
