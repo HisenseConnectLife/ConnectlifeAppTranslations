@@ -3996,5 +3996,6 @@
     "CL_CF_LG_legal": "合法的",
     "CL_CF_LG_enduser_privacy": "資料隱私政策",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 設備正在運行 ECO 模式",
-    "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}"
+    "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}",
+    "CL_AU_AC_automation_features_may_not_execute_key": "根據設備的操作模式，某些功能可能無法成功執行。"
 }
