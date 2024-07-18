@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "อุ่นอีกครั้ง",
     "CL_DV_OV_g800_mode_preserving": "การเก็บรักษา",
     "CL_DV_OV_g800_mode_sterilise_bottles": "ฆ่าเชื้อขวด",
-    "CL_SM_CM_devices_are_running_eco_mode": "## อุปกรณ์กำลังใช้งาน ECOmode",
     "CL_DV_OV_g800_add_steam_to": "เพิ่มไอน้ำในกระบวนการอบ",
     "CL_DV_OV_g800_steam_intensity": "ความเข้มข้นของไอน้ำ",
     "CL_DV_OV_g800_steam_duration": "ระยะเวลาไอน้ำ",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "วัตถุประสงค์และพื้นฐานคือเพื่อให้สามารถส่งข้อความทางการตลาดหรือนำเสนอข้อเสนอส่วนบุคคลตามความสนใจของคุณหรือเพื่อปรับปรุงประสบการณ์ผู้ใช้ของคุณ",
     "CL_CF_LG_contact": "คุณยืนยันว่าคุณได้รับแจ้งว่าคุณสามารถเพิกถอนความยินยอมที่ให้ไว้ข้างต้นได้ตลอดเวลาในการตั้งค่าบัญชีหรือโดยการติดต่อที่อยู่อีเมลต่อไปนี้:privacy@connectlife.io",
     "CL_CF_LG_legal": "ถูกกฎหมาย",
-    "CL_CF_LG_enduser_privacy": "นโยบายความเป็นส่วนตัวของข้อมูล"
+    "CL_CF_LG_enduser_privacy": "นโยบายความเป็นส่วนตัวของข้อมูล",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## อุปกรณ์กำลังใช้งานโหมด ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

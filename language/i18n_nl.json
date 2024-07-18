@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Opwarmen",
     "CL_DV_OV_g800_mode_preserving": "Conserveren",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Flessen steriliseren",
-    "CL_SM_CM_devices_are_running_eco_mode": "## apparaten gebruiken ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Voeg stoom toe aan het bakproces.",
     "CL_DV_OV_g800_steam_intensity": "Stoomintensiteit",
     "CL_DV_OV_g800_steam_duration": "Stoomduur",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Het doel en de grondslag is het verzenden van marketingberichten mogelijk te maken of een gepersonaliseerd aanbod te doen op basis van uw interesses of om de gebruikerservaring van uw gebruiker te verbeteren.",
     "CL_CF_LG_contact": "U bevestigt dat u ervan op de hoogte bent dat u uw hierboven gegeven toestemming op elk moment kunt intrekken via de accountinstellingen of door contact op te nemen met het volgende e-mailadres: privacy@connectlife.io",
     "CL_CF_LG_legal": "Legaal",
-    "CL_CF_LG_enduser_privacy": "Gegevensprivacybeleid"
+    "CL_CF_LG_enduser_privacy": "Gegevensprivacybeleid",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## apparaten gebruiken de ECO-modus",
+    "CL_CF_UC_full_name_with_title": ""
 }

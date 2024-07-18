@@ -3920,7 +3920,7 @@
     "power_on_remote_eabled_tips": "",
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
-    "restart": "",
+    "restart": "Neustart",
     "how_data_calculate_tip": "Die von Geräten angezeigten Daten können von anderen Geräten oder Instrumenten abweichen. Die Energienutzungsdaten können je nach Aktualisierungszeit und Messdatum unterschiedlich sein. Numerische Daten können gerundet werden, was zu geringfügigen Unterschieden zwischen einzelnen und Gesamtdaten führen kann. Der Stromverbrauch eines Geräts hängt von der tatsächlichen Umgebung und Nutzung ab, die von einer Standardtestumgebung abweichen kann. Monatliche, tägliche und stündliche Gesamtsummen werden separat geschätzt und können nicht genau addiert werden. Der Einsparungsbetrag für jedes Gerät wird auf der Grundlage von Testergebnissen geschätzt und kann von den tatsächlichen Einsparungen abweichen.",
     "select_statistic_range_key": "wählen Sie den statistischen Bereich",
     "overview_key": "Überblick",
@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Aufwärmen",
     "CL_DV_OV_g800_mode_preserving": "Konservieren",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Flaschen sterilisieren",
-    "CL_SM_CM_devices_are_running_eco_mode": "## Geräte laufen im ECO-Modus",
     "CL_DV_OV_g800_add_steam_to": "Geben Sie dem Backvorgang Dampf hinzu.",
     "CL_DV_OV_g800_steam_intensity": "Dampfintensität",
     "CL_DV_OV_g800_steam_duration": "Dampfdauer",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Zweck und Grundlage hierfür sind, das Versenden von Marketingnachrichten zu ermöglichen oder Ihnen ein personalisiertes Angebot basierend auf Ihren Interessen zu unterbreiten bzw. Ihr Benutzererlebnis zu verbessern.",
     "CL_CF_LG_contact": "Sie bestätigen, dass Sie informiert sind und Ihre oben erteilte Einwilligung jederzeit in den Kontoeinstellungen oder durch Kontaktaufnahme mit der folgenden E-Mail-Adresse widerrufen können: privacy@connectlife.io",
     "CL_CF_LG_legal": "Rechtliches",
-    "CL_CF_LG_enduser_privacy": "Datenschutzhinweis"
+    "CL_CF_LG_enduser_privacy": "Datenschutzhinweis",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## Geräte laufen im ECO-Modus",
+    "CL_CF_UC_full_name_with_title": ""
 }

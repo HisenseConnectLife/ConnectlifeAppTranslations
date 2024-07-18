@@ -3831,7 +3831,7 @@
     "gorenje_wm_ads_activewear": "Aktivna odjeća",
     "gorenje_wm_ads_curtains": "Zavjese",
     "gorenje_wm_ads_hygiene": "Higijena",
-    "On": "เปิด",
+    "On": "Uključeno",
     "can_not_start_eco": "Uređaj ne podržava ECO u isključenom stanju, ne može pokrenuti ECO",
     "current_mode_not_support_eco": "Trenutni način rada ne podržava ECO",
     "device_standby_can_not_start_eco": "Uređaj je u stanju pripravnosti, ne može pokrenuti ECO",
@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Podgrijavanje",
     "CL_DV_OV_g800_mode_preserving": "Konzerviranje",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Steriliziranje boca",
-    "CL_SM_CM_devices_are_running_eco_mode": "## uređaji rade u ECOmodu",
     "CL_DV_OV_g800_add_steam_to": "Dodajte paru u proces pečenja.",
     "CL_DV_OV_g800_steam_intensity": "Intenzitet pare",
     "CL_DV_OV_g800_steam_duration": "Trajanje pare",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Svrha i osnova je omogućiti slanje marketinških poruka ili prikazati personaliziranu ponudu prema Vašim interesima ili poboljšati Vaše korisničko iskustvo.",
     "CL_CF_LG_contact": "Potvrđujete da ste obaviješteni da možete povući svoj gore navedeni pristanak u bilo kojem trenutku u postavkama računa ili kontaktiranjem na sljedeću adresu e-pošte: privacy@connectlife.io",
     "CL_CF_LG_legal": "Pravno",
-    "CL_CF_LG_enduser_privacy": "Politika privatnosti podataka"
+    "CL_CF_LG_enduser_privacy": "Politika privatnosti podataka",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## uređaja rade u ECO načinu rada",
+    "CL_CF_UC_full_name_with_title": ""
 }

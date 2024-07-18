@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Riscaldamento",
     "CL_DV_OV_g800_mode_preserving": "Conservare",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilizzare flaconi",
-    "CL_SM_CM_devices_are_running_eco_mode": "## dispositivi utilizzano la modalità ECO",
     "CL_DV_OV_g800_add_steam_to": "Aggiungi vapore al processo di cottura.",
     "CL_DV_OV_g800_steam_intensity": "Intensità del vapore",
     "CL_DV_OV_g800_steam_duration": "Durata del vapore",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Lo scopo e la base è consentire l'invio di messaggi di marketing o presentare un'offerta personalizzata in base ai vostri interessi o migliorare l'esperienza dell'utente.",
     "CL_CF_LG_contact": "Confermi di essere stato informato che puoi revocare il consenso sopra fornito in qualsiasi momento nelle impostazioni dell'account o contattando il seguente indirizzo e-mail: privacy@connectlife.io",
     "CL_CF_LG_legal": "Legale",
-    "CL_CF_LG_enduser_privacy": "Informativa sulla privacy dei dati"
+    "CL_CF_LG_enduser_privacy": "Informativa sulla privacy dei dati",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## dispositivi stanno utilizzando la modalità ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

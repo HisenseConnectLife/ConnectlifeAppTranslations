@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Reîncălzire",
     "CL_DV_OV_g800_mode_preserving": "Conservare",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilizare sticle",
-    "CL_SM_CM_devices_are_running_eco_mode": "## dispozitive rulează ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Adăugați abur în procesul de coacere.",
     "CL_DV_OV_g800_steam_intensity": "Intensitatea aburului",
     "CL_DV_OV_g800_steam_duration": "Durata aburului",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Scopul și baza este de a permite trimiterea de mesaje de marketing sau de a prezenta o ofertă personalizată în funcție de interesele dumneavoastră sau de a îmbunătăți experiența utilizatorului dumneavoastră.",
     "CL_CF_LG_contact": "Confirmați că sunteți informat că vă puteți retrage oricând consimțământul dat de mai sus în setările contului sau contactând următoarea adresă de e-mail: privacy@connectlife.io",
     "CL_CF_LG_legal": "Legal",
-    "CL_CF_LG_enduser_privacy": "Politica de confidențialitate a datelor"
+    "CL_CF_LG_enduser_privacy": "Politica de confidențialitate a datelor",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## dispozitive rulează modul ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

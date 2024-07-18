@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Podgrzewanie",
     "CL_DV_OV_g800_mode_preserving": "Konserwacja",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterylizacja butelek",
-    "CL_SM_CM_devices_are_running_eco_mode": "## urządzenia działają w trybie ECO",
     "CL_DV_OV_g800_add_steam_to": "Dodaj parę do procesu pieczenia.",
     "CL_DV_OV_g800_steam_intensity": "Intensywność pary",
     "CL_DV_OV_g800_steam_duration": "Czas trwania pary",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Celem i podstawą jest umożliwienie przesyłania komunikatów marketingowych lub przedstawienie spersonalizowanej oferty w oparciu o Twoje zainteresowania lub poprawa doświadczeń Twojego użytkownika.",
     "CL_CF_LG_contact": "Potwierdzasz, że zostałeś poinformowany, że w każdej chwili możesz wycofać zgodę wyrażoną powyżej w ustawieniach konta lub kontaktując się pod następującym adresem e-mail: prywatność@connectlife.io",
     "CL_CF_LG_legal": "Prawny",
-    "CL_CF_LG_enduser_privacy": "Polityka prywatności danych"
+    "CL_CF_LG_enduser_privacy": "Polityka prywatności danych",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## urządzenia działają w trybie ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }
