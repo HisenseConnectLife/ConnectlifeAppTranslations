@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Ohrievanie",
     "CL_DV_OV_g800_mode_preserving": "Konzervovanie",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilizujte fľaše",
-    "CL_SM_CM_devices_are_running_eco_mode": "Na ## zariadeniach je spustený režim ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Pridajte paru do procesu pečenia.",
     "CL_DV_OV_g800_steam_intensity": "Intenzita pary",
     "CL_DV_OV_g800_steam_duration": "Trvanie pary",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Účelom a základom je umožnenie zasielania marketingových správ alebo prezentovanie personalizovanej ponuky na základe vašich záujmov alebo zlepšenie používateľského zážitku.",
     "CL_CF_LG_contact": "Potvrdzujete, že ste informovaní, že svoj súhlas udelený vyššie môžete kedykoľvek odvolať v nastaveniach účtu alebo kontaktovaním nasledujúcej e-mailovej adresy: privacy@connectlife.io",
     "CL_CF_LG_legal": "Právne",
-    "CL_CF_LG_enduser_privacy": "Zásady ochrany osobných údajov"
+    "CL_CF_LG_enduser_privacy": "Zásady ochrany osobných údajov",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## zariadení je spustených v režime ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

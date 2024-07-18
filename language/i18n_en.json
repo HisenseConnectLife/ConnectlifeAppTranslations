@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Reheat",
     "CL_DV_OV_g800_mode_preserving": "Preserving",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilise bottles",
-    "CL_SM_CM_devices_are_running_eco_mode": "## devices are running ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Add steam to the baking process.",
     "CL_DV_OV_g800_steam_intensity": "Steam intensity",
     "CL_DV_OV_g800_steam_duration": "Steam duration",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "The purpose and basis is to enable the sending of marketing messages or to present a personalized offer based on your interests or to improve your user’s experience.",
     "CL_CF_LG_contact": "You confirm that you are informed you can withdraw your consent give above at any time in the account settings or by contacting the following e-mail address: privacy@connectlife.io",
     "CL_CF_LG_legal": "Legal",
-    "CL_CF_LG_enduser_privacy": "Data Privacy Policy"
+    "CL_CF_LG_enduser_privacy": "Data Privacy Policy",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## devices are running ECO mode",
+    "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}"
 }

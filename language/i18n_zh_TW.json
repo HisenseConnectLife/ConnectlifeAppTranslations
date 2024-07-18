@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "",
     "CL_DV_OV_g800_mode_preserving": "保存",
     "CL_DV_OV_g800_mode_sterilise_bottles": "",
-    "CL_SM_CM_devices_are_running_eco_mode": "## 裝置正在執行 ECOmode",
     "CL_DV_OV_g800_add_steam_to": "在烘烤過程中添加蒸氣。",
     "CL_DV_OV_g800_steam_intensity": "蒸汽強度",
     "CL_DV_OV_g800_steam_duration": "蒸汽持續時間",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "目的和基礎是為了發送行銷訊息或根據您的興趣提供個人化優惠或改善用戶體驗。",
     "CL_CF_LG_contact": "您確認您已被告知您可以隨時在帳戶設定中或透過聯絡以下電子郵件地址撤回您的同意：privacy@connectlife.io",
     "CL_CF_LG_legal": "合法的",
-    "CL_CF_LG_enduser_privacy": "資料隱私政策"
+    "CL_CF_LG_enduser_privacy": "資料隱私政策",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## 設備正在運行 ECO 模式",
+    "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}"
 }

@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "गरम करना",
     "CL_DV_OV_g800_mode_preserving": "संरक्षण",
     "CL_DV_OV_g800_mode_sterilise_bottles": "बोतलों को जीवाणुरहित करें",
-    "CL_SM_CM_devices_are_running_eco_mode": "## डिवाइस ECOmode चला रहे हैं",
     "CL_DV_OV_g800_add_steam_to": "बेकिंग प्रक्रिया में भाप जोड़ें।",
     "CL_DV_OV_g800_steam_intensity": "भाप की तीव्रता",
     "CL_DV_OV_g800_steam_duration": "भाप अवधि",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "इसका उद्देश्य और आधार विपणन संदेश भेजने में सक्षम बनाना या आपकी रुचियों के आधार पर व्यक्तिगत प्रस्ताव प्रस्तुत करना या आपके उपयोगकर्ता के अनुभव को बेहतर बनाना है।",
     "CL_CF_LG_contact": "आप पुष्टि करते हैं कि आपको सूचित किया गया है कि आप किसी भी समय खाता सेटिंग में या निम्नलिखित ई-मेल पते पर संपर्क करके ऊपर दी गई अपनी सहमति वापस ले सकते हैं: privacy@connectlife.io",
     "CL_CF_LG_legal": "कानूनी",
-    "CL_CF_LG_enduser_privacy": "डेटा गोपनीयता नीति"
+    "CL_CF_LG_enduser_privacy": "डेटा गोपनीयता नीति",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## डिवाइस ECO मोड पर चल रहे हैं",
+    "CL_CF_UC_full_name_with_title": ""
 }

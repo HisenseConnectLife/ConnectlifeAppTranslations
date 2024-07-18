@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Podgrevanje",
     "CL_DV_OV_g800_mode_preserving": "Konzerviranje",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilizacija flaša",
-    "CL_SM_CM_devices_are_running_eco_mode": "## уређаји користе ЕЦОмоде",
     "CL_DV_OV_g800_add_steam_to": "Додајте пару у процес печења.",
     "CL_DV_OV_g800_steam_intensity": "Интензитет паре",
     "CL_DV_OV_g800_steam_duration": "Трајање паре",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Сврха и основа је да се омогући слање маркетиншких порука или да се презентује персонализована понуда на основу ваших интересовања или да се побољша корисничко искуство.",
     "CL_CF_LG_contact": "Потврђујете да сте обавештени да можете да повучете своју горенаведену сагласност у било ком тренутку у подешавањима налога или контактирањем на следећу адресу е-поште: приваци@цоннецтлифе.ио",
     "CL_CF_LG_legal": "Правни",
-    "CL_CF_LG_enduser_privacy": "Политика приватности података"
+    "CL_CF_LG_enduser_privacy": "Политика приватности података",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## уређаји користе ЕЦО режим",
+    "CL_CF_UC_full_name_with_title": ""
 }

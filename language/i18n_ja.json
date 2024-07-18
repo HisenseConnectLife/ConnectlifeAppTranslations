@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "再加熱",
     "CL_DV_OV_g800_mode_preserving": "保存する",
     "CL_DV_OV_g800_mode_sterilise_bottles": "ボトルを殺菌する",
-    "CL_SM_CM_devices_are_running_eco_mode": "## 台のデバイスが ECOmode を実行しています",
     "CL_DV_OV_g800_add_steam_to": "ベーキング工程に蒸気を加えます。",
     "CL_DV_OV_g800_steam_intensity": "蒸気の強さ",
     "CL_DV_OV_g800_steam_duration": "蒸気持続時間",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "目的と根拠は、マーケティング メッセージの送信を可能にしたり、お客様の興味に基づいてパーソナライズされたオファーを提示したり、ユーザー エクスペリエンスを向上させたりすることです。",
     "CL_CF_LG_contact": "上記の同意は、アカウント設定または次のメールアドレス privacy@connectlife.io に連絡することでいつでも撤回できることをご理解ください。",
     "CL_CF_LG_legal": "法律上の",
-    "CL_CF_LG_enduser_privacy": "データプライバシーポリシー"
+    "CL_CF_LG_enduser_privacy": "データプライバシーポリシー",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## 台のデバイスが ECO モードで動作しています",
+    "CL_CF_UC_full_name_with_title": ""
 }

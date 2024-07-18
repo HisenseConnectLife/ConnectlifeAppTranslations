@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Yeniden ısıtma",
     "CL_DV_OV_g800_mode_preserving": "Koruma",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Şişeleri sterilize edin",
-    "CL_SM_CM_devices_are_running_eco_mode": "## cihaz ECOmode'u çalıştırıyor",
     "CL_DV_OV_g800_add_steam_to": "Pişirme işlemine buhar ekleyin.",
     "CL_DV_OV_g800_steam_intensity": "Buhar yoğunluğu",
     "CL_DV_OV_g800_steam_duration": "Buhar süresi",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Amaç ve dayanak, pazarlama mesajlarının gönderilmesini sağlamak veya ilgi alanlarınıza göre kişiselleştirilmiş bir teklif sunmak veya kullanıcı deneyiminizi geliştirmektir.",
     "CL_CF_LG_contact": "Yukarıda verdiğiniz izni istediğiniz zaman hesap ayarlarından veya aşağıdaki e-posta adresiyle iletişime geçerek geri çekebileceğiniz konusunda bilgilendirildiğinizi onaylıyorsunuz: gizlilik@connectlife.io",
     "CL_CF_LG_legal": "Yasal",
-    "CL_CF_LG_enduser_privacy": "Veri Gizliliği Politikası"
+    "CL_CF_LG_enduser_privacy": "Veri Gizliliği Politikası",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## cihaz ECO modunda çalışıyor",
+    "CL_CF_UC_full_name_with_title": ""
 }

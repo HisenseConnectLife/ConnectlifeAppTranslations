@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "재가열",
     "CL_DV_OV_g800_mode_preserving": "보존",
     "CL_DV_OV_g800_mode_sterilise_bottles": "병 소독",
-    "CL_SM_CM_devices_are_running_eco_mode": "##개의 기기가 ECOmode를 실행 중입니다.",
     "CL_DV_OV_g800_add_steam_to": "베이킹 과정에 증기를 추가하십시오.",
     "CL_DV_OV_g800_steam_intensity": "증기 강도",
     "CL_DV_OV_g800_steam_duration": "스팀 지속시간",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "목적과 기반은 마케팅 메시지 전송을 활성화하거나 귀하의 관심 사항에 따라 개인화된 제안을 제시하거나 사용자 경험을 개선하는 것입니다.",
     "CL_CF_LG_contact": "귀하는 언제든지 계정 설정에서 또는 다음 이메일 주소(privacy@connectlife.io)로 연락하여 위에서 제공한 동의를 철회할 수 있다는 알림을 받았음을 확인합니다.",
     "CL_CF_LG_legal": "합법적인",
-    "CL_CF_LG_enduser_privacy": "데이터 개인 정보 보호 정책"
+    "CL_CF_LG_enduser_privacy": "데이터 개인 정보 보호 정책",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "##개의 기기가 ECO 모드를 실행 중입니다.",
+    "CL_CF_UC_full_name_with_title": ""
 }

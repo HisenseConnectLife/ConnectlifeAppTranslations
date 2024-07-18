@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Melegítés",
     "CL_DV_OV_g800_mode_preserving": "Befőzés",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Üvegek fertőtlenítése",
-    "CL_SM_CM_devices_are_running_eco_mode": "## eszközökön ECOmode fut",
     "CL_DV_OV_g800_add_steam_to": "Adjunk hozzá gőzt a sütési folyamathoz.",
     "CL_DV_OV_g800_steam_intensity": "A gőz intenzitása",
     "CL_DV_OV_g800_steam_duration": "A gőz időtartama",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Célja és alapja a marketing üzenetek küldésének lehetővé tétele vagy az Ön érdeklődési köre alapján személyre szabott ajánlat felmutatása, illetve felhasználói élményének javítása.",
     "CL_CF_LG_contact": "Ön megerősíti, hogy tájékoztatást kapott arról, hogy a fenti hozzájárulását bármikor visszavonhatja a fiókbeállításokban vagy a következő e-mail címen: privacy@connectlife.io",
     "CL_CF_LG_legal": "Jogi",
-    "CL_CF_LG_enduser_privacy": "Adatvédelmi szabályzat"
+    "CL_CF_LG_enduser_privacy": "Adatvédelmi szabályzat",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## készülékek ECO módot futtatnak",
+    "CL_CF_UC_full_name_with_title": ""
 }

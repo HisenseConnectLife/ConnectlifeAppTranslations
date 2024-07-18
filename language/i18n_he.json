@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "לחמם מחדש",
     "CL_DV_OV_g800_mode_preserving": "מִשׁמֶרֶת",
     "CL_DV_OV_g800_mode_sterilise_bottles": "לעקר בקבוקים",
-    "CL_SM_CM_devices_are_running_eco_mode": "## מכשירים פועלים ECOmode",
     "CL_DV_OV_g800_add_steam_to": "מוסיפים אדים לתהליך האפייה.",
     "CL_DV_OV_g800_steam_intensity": "עוצמת קיטור",
     "CL_DV_OV_g800_steam_duration": "משך הקיטור",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "המטרה והבסיס היא לאפשר שליחת הודעות שיווקיות או להציג הצעה מותאמת אישית המבוססת על תחומי העניין שלך או לשפר את חווית המשתמש שלך.",
     "CL_CF_LG_contact": "אתה מאשר כי הודע לך שאתה יכול לבטל את הסכמתך לתת לעיל בכל עת בהגדרות החשבון או על ידי יצירת קשר עם כתובת הדואר האלקטרוני הבאה: privacy@connectlife.io",
     "CL_CF_LG_legal": "משפטי",
-    "CL_CF_LG_enduser_privacy": "מדיניות פרטיות נתונים"
+    "CL_CF_LG_enduser_privacy": "מדיניות פרטיות נתונים",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## מכשירים פועלים במצב ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Genopvarm",
     "CL_DV_OV_g800_mode_preserving": "Opbevaring",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Steriliser flasker",
-    "CL_SM_CM_devices_are_running_eco_mode": "## enheder kører ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Tilsæt damp til bagningsprocessen.",
     "CL_DV_OV_g800_steam_intensity": "Damp intensitet",
     "CL_DV_OV_g800_steam_duration": "Dampvarighed",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Formålet og grundlaget er at muliggøre udsendelse af marketingmeddelelser eller at præsentere et personligt tilbud baseret på dine interesser eller at forbedre din brugers oplevelse.",
     "CL_CF_LG_contact": "Du bekræfter, at du er informeret om, at du til enhver tid kan trække dit samtykke tilbage i kontoindstillingerne eller ved at kontakte følgende e-mailadresse: privacy@connectlife.io",
     "CL_CF_LG_legal": "gyldige",
-    "CL_CF_LG_enduser_privacy": "Databeskyttelsespolitik"
+    "CL_CF_LG_enduser_privacy": "Databeskyttelsespolitik",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## enheder kører ECO-tilstand",
+    "CL_CF_UC_full_name_with_title": ""
 }

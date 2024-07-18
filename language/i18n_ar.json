@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "إعادة التسخين",
     "CL_DV_OV_g800_mode_preserving": "الحفاظ على",
     "CL_DV_OV_g800_mode_sterilise_bottles": "تعقيم الزجاجات",
-    "CL_SM_CM_devices_are_running_eco_mode": "## الأجهزة تعمل بنظام ECOmode",
     "CL_DV_OV_g800_add_steam_to": "أضف البخار إلى عملية الخبز.",
     "CL_DV_OV_g800_steam_intensity": "شدة البخار",
     "CL_DV_OV_g800_steam_duration": "مدة البخار",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "الغرض والأساس هو تمكين إرسال رسائل تسويقية أو تقديم عرض مخصص بناءً على اهتماماتك أو تحسين تجربة المستخدم الخاصة بك.",
     "CL_CF_LG_contact": "أنت تؤكد أنه تم إبلاغك أنه يمكنك سحب موافقتك المذكورة أعلاه في أي وقت في إعدادات الحساب أو عن طريق الاتصال بعنوان البريد الإلكتروني التالي: Privacy@connectlife.io",
     "CL_CF_LG_legal": "قانوني",
-    "CL_CF_LG_enduser_privacy": "سياسة خصوصية البيانات"
+    "CL_CF_LG_enduser_privacy": "سياسة خصوصية البيانات",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## الأجهزة تعمل بوضع ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

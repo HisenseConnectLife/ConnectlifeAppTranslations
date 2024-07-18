@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Panaskan kembali",
     "CL_DV_OV_g800_mode_preserving": "Melestarikan",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilkan botol",
-    "CL_SM_CM_devices_are_running_eco_mode": "## perangkat menjalankan ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Tambahkan uap ke proses memanggang.",
     "CL_DV_OV_g800_steam_intensity": "Intensitas uap",
     "CL_DV_OV_g800_steam_duration": "Durasi uap",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Tujuan dan dasarnya adalah untuk memungkinkan pengiriman pesan pemasaran atau untuk menyajikan penawaran yang dipersonalisasi berdasarkan minat Anda atau untuk meningkatkan pengalaman pengguna Anda.",
     "CL_CF_LG_contact": "Anda mengonfirmasi bahwa Anda telah diberitahu bahwa Anda dapat menarik persetujuan yang Anda berikan di atas kapan saja dalam pengaturan akun atau dengan menghubungi alamat email berikut: privacy@connectlife.io",
     "CL_CF_LG_legal": "Hukum",
-    "CL_CF_LG_enduser_privacy": "Kebijakan Privasi Data"
+    "CL_CF_LG_enduser_privacy": "Kebijakan Privasi Data",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## perangkat menjalankan mode ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

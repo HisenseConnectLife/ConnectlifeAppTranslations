@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Varme opp igjen",
     "CL_DV_OV_g800_mode_preserving": "Konservering",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilisere flasker",
-    "CL_SM_CM_devices_are_running_eco_mode": "## enheter kjører ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Tilsett damp til bakeprosessen.",
     "CL_DV_OV_g800_steam_intensity": "Dampintensitet",
     "CL_DV_OV_g800_steam_duration": "Steam-varighet",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Formålet og grunnlaget er å muliggjøre sending av markedsføringsmeldinger eller å presentere et personlig tilbud basert på dine interesser eller å forbedre brukeropplevelsen din.",
     "CL_CF_LG_contact": "Du bekrefter at du er informert om at du kan trekke tilbake samtykket ditt ovenfor når som helst i kontoinnstillingene eller ved å kontakte følgende e-postadresse: privacy@connectlife.io",
     "CL_CF_LG_legal": "Lovlig",
-    "CL_CF_LG_enduser_privacy": "Retningslinjer for personvern"
+    "CL_CF_LG_enduser_privacy": "Retningslinjer for personvern",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## enheter kjører ECO-modus",
+    "CL_CF_UC_full_name_with_title": ""
 }

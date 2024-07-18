@@ -2189,7 +2189,7 @@
     "add_a_schedule": "یک برنامه زمانی اضافه کنید",
     "exam_again": "امتحان مجدد",
     "ac_new_temperature_unit": "واحد دما",
-    "ac_manual_examination_new": "ac_manual_examination_new",
+    "ac_manual_examination_new": "تشخیص خودکار",
     "contact_service_new": "برای سؤال در مورد محصول خود یا اگر به قطعات یا خدمات نیاز دارید، لطفاً با تیم پشتیبانی مشتری ما در منطقه خود تماس بگیرید.\n\nاگر در ایالات متحده هستید، می توانید با تیم پشتیبانی مشتری ما به شماره 1-877-465-3566 تماس بگیرید.\n\nبرای سایر کشورها، لطفاً اطلاعات ارائه شده در راهنمای کاربر محصول خود را بررسی کنید.",
     "bucket_full_title": "سطل آب را چک کنید",
     "bucket_full_content": "1. مطمئن شوید که سطل آب به درستی نصب شده است.\n2. اگر پر است، آن را خالی کرده و دوباره نصب کنید.",
@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "دوباره گرم کنید",
     "CL_DV_OV_g800_mode_preserving": "حفظ کردن",
     "CL_DV_OV_g800_mode_sterilise_bottles": "بطری ها را استریل کنید",
-    "CL_SM_CM_devices_are_running_eco_mode": "## دستگاه دارای ECOmode هستند",
     "CL_DV_OV_g800_add_steam_to": "بخار را به فرآیند پخت اضافه کنید.",
     "CL_DV_OV_g800_steam_intensity": "شدت بخار",
     "CL_DV_OV_g800_steam_duration": "مدت زمان بخار",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "هدف و اساس این است که امکان ارسال پیام های بازاریابی یا ارائه یک پیشنهاد شخصی بر اساس علایق شما یا بهبود تجربه کاربرتان را فراهم کنید.",
     "CL_CF_LG_contact": "تأیید می‌کنید که مطلع شده‌اید می‌توانید رضایت خود را که در بالا در هر زمانی که بخواهید در تنظیمات حساب یا با تماس با آدرس ایمیل زیر پس بگیرید: privacy@connectlife.io",
     "CL_CF_LG_legal": "مجاز",
-    "CL_CF_LG_enduser_privacy": "سیاست حفظ حریم خصوصی داده ها"
+    "CL_CF_LG_enduser_privacy": "سیاست حفظ حریم خصوصی داده ها",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## دستگاه در حال اجرای حالت ECO هستند",
+    "CL_CF_UC_full_name_with_title": ""
 }

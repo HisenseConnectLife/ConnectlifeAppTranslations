@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "hâm nóng lại",
     "CL_DV_OV_g800_mode_preserving": "Bảo quản",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Tiệt trùng chai lọ",
-    "CL_SM_CM_devices_are_running_eco_mode": "## thiết bị đang chạy ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Thêm hơi nước vào quá trình nướng.",
     "CL_DV_OV_g800_steam_intensity": "Cường độ hơi nước",
     "CL_DV_OV_g800_steam_duration": "Thời gian hấp",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Mục đích và cơ sở là để cho phép gửi thông điệp tiếp thị hoặc đưa ra ưu đãi được cá nhân hóa dựa trên sở thích của bạn hoặc để cải thiện trải nghiệm người dùng của bạn.",
     "CL_CF_LG_contact": "Bạn xác nhận rằng bạn đã được thông báo rằng bạn có thể rút lại sự đồng ý nêu trên bất kỳ lúc nào trong cài đặt tài khoản hoặc bằng cách liên hệ theo địa chỉ email sau: Privacy@connectlife.io",
     "CL_CF_LG_legal": "Hợp pháp",
-    "CL_CF_LG_enduser_privacy": "Chính sách bảo mật dữ liệu"
+    "CL_CF_LG_enduser_privacy": "Chính sách bảo mật dữ liệu",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## thiết bị đang chạy chế độ ECO",
+    "CL_CF_UC_full_name_with_title": ""
 }

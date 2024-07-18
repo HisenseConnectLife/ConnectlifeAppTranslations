@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Återuppvärmning",
     "CL_DV_OV_g800_mode_preserving": "Bevarande",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Sterilisera flaskor",
-    "CL_SM_CM_devices_are_running_eco_mode": "## enheter kör ECOmode",
     "CL_DV_OV_g800_add_steam_to": "Tillsätt ånga till bakningsprocessen.",
     "CL_DV_OV_g800_steam_intensity": "Ånga intensitet",
     "CL_DV_OV_g800_steam_duration": "Ånga varaktighet",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Syftet och grunden är att möjliggöra sändning av marknadsföringsmeddelanden eller att presentera ett personligt erbjudande baserat på dina intressen eller att förbättra din användares upplevelse.",
     "CL_CF_LG_contact": "Du bekräftar att du är informerad om att du kan återkalla ditt samtycke ovan när som helst i kontoinställningarna eller genom att kontakta följande e-postadress: privacy@connectlife.io",
     "CL_CF_LG_legal": "Rättslig",
-    "CL_CF_LG_enduser_privacy": "Datasekretesspolicy"
+    "CL_CF_LG_enduser_privacy": "Datasekretesspolicy",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## enheter kör ECO-läge",
+    "CL_CF_UC_full_name_with_title": ""
 }

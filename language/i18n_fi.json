@@ -3977,7 +3977,6 @@
     "CL_DV_OV_g800_mode_reheat": "Uudelleenlämmitys",
     "CL_DV_OV_g800_mode_preserving": "Säilöntä",
     "CL_DV_OV_g800_mode_sterilise_bottles": "Pullojen sterilointi",
-    "CL_SM_CM_devices_are_running_eco_mode": "## laitteet käyttävät ECOmodea",
     "CL_DV_OV_g800_add_steam_to": "Lisää höyryä paistoprosessiin.",
     "CL_DV_OV_g800_steam_intensity": "Höyryn intensiteetti",
     "CL_DV_OV_g800_steam_duration": "Höyryn kesto",
@@ -3995,5 +3994,7 @@
     "CL_CF_LG_receive_content": "Tarkoituksena ja perusteena on mahdollistaa markkinointiviestien lähettäminen tai esittää henkilökohtainen tarjous kiinnostuksen kohteidesi perusteella tai parantaa käyttökokemustasi.",
     "CL_CF_LG_contact": "Vahvistat saavasi tiedon, että voit peruuttaa yllä antamasi suostumuksesi milloin tahansa tilin asetuksissa tai ottamalla yhteyttä seuraavaan sähköpostiosoitteeseen: privacy@connectlife.io",
     "CL_CF_LG_legal": "Laillinen",
-    "CL_CF_LG_enduser_privacy": "Tietosuojakäytäntö"
+    "CL_CF_LG_enduser_privacy": "Tietosuojakäytäntö",
+    "CL_SM_CM_devices_are_running_eco_mode_key": "## laitteet käyttävät ECO-tilaa",
+    "CL_CF_UC_full_name_with_title": ""
 }
