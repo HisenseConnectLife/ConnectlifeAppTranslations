@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Cihazlar tarafından görüntülenen veriler, diğer cihazlar veya enstrümanlardan farklılık gösterebilir. Enerji kullanım verileri, güncelleme zamanı ve ölçüm tarihine bağlı olarak farklılık gösterebilir. Sayısal veriler yuvarlanabilir, bu da bireysel ve toplam veriler arasında küçük farklılıklara neden olabilir. Bir cihazın tükettiği elektrik, standart test ortamından farklı olabilecek gerçek ortam ve kullanıma bağlıdır. Aylık, günlük ve saatlik toplamlar ayrı ayrı tahmin edilir ve tam olarak toplanmayabilir. Her cihaz için tasarruf miktarı test sonuçlarına göre tahmin edilir ve gerçek tasarruflardan farklı olabilir.",
+    "how_data_calculate_tip": "Enerji kullanım verileri hakkında \n\n Gösterilen enerji kullanımı ve tasarruflar kesin ölçümler değil, tahminlerdir. \n\n Tahminlerimiz kontrollü testlere dayanmaktadır, dolayısıyla gerçek sonuçlarınız farklılık gösterebilir. \n\n Gerçek dünyadaki enerji kullanımı, özel ortamınıza ve alışkanlıklarınıza bağlıdır. \n\n Uygulamamızın okumaları elektrik sayacınızdan veya diğer cihazlarınızdan farklı olabilir.",
     "select_statistic_range_key": "istatistik aralığı seçin",
     "overview_key": "genel bakış",
     "value_must_between_10_9999_key": "Değer 10 ile 9999 arasında olmalıdır.",

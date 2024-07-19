@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Údaje zobrazované zariadeniami sa môžu líšiť od údajov z iných zariadení alebo prístrojov. Údaje o spotrebe energie sa môžu líšiť v závislosti od času aktualizácie a dátumu merania. Číselné údaje môžu byť zaokrúhlené, čo môže spôsobiť malé rozdiely medzi individuálnymi a celkovými údajmi. Spotreba elektrickej energie spotrebičom závisí od skutočného prostredia a používania, ktoré sa môžu líšiť od štandardného testovacieho prostredia. Mesačné, denné a hodinové súčty sú odhadované samostatne a nemusia sa presne sčítať. Výška úspor pre každé zariadenie je odhadovaná na základe výsledkov testov a môže sa líšiť od skutočných úspor.",
+    "how_data_calculate_tip": "O údajoch o spotrebe energie \n\n Zobrazená spotreba energie a úspory sú odhady, nie presné merania. \n\n Naše odhady sú založené na kontrolovaných testoch, takže vaše skutočné výsledky sa môžu líšiť. \n\n Spotreba energie v reálnom svete závisí od vášho konkrétneho prostredia a zvykov. \n\n Hodnoty našej aplikácie sa môžu líšiť od vášho elektromera alebo iných zariadení.",
     "select_statistic_range_key": "vyberte štatistický rozsah",
     "overview_key": "prehľad",
     "value_must_between_10_9999_key": "Hodnota musí být mezi 10 a 9999.",

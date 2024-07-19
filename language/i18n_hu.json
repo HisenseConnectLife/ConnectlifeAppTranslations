@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "A készülékek által megjelenített adatok eltérhetnek más készülékek vagy műszerek adataitól. Az energiafelhasználási adatok eltérhetnek a frissítési idő és a mérési dátum alapján. A numerikus adatok kerekítve lehetnek, ami enyhe eltéréseket okozhat az egyéni és az összesített adatok között. Az eszköz által fogyasztott villamos energia a tényleges környezettől és használattól függ, ami eltérhet a szabványos tesztkörnyezettől. A havi, napi és óránkénti összesítések külön-külön becsültek, és nem biztos, hogy pontosan összeadódnak. Az egyes eszközök megtakarítási összege a teszteredmények alapján becsült, és eltérhet a tényleges megtakarítástól.",
+    "how_data_calculate_tip": "Az energiafelhasználási adatokról \n\n A feltüntetett energiafelhasználás és megtakarítás becslések, nem pontos mérések. \n\n Becsléseink ellenőrzött teszteken alapulnak, így az Ön tényleges eredményei eltérhetnek. \n\n A valós energiafelhasználás az Ön konkrét környezetétől és szokásaitól függ. \n\n Alkalmazásunk értékei eltérhetnek a közüzemi mérőtől vagy más eszközöktől.",
     "select_statistic_range_key": "válassza a statisztikai tartományt",
     "overview_key": "áttekintés",
     "value_must_between_10_9999_key": "Az értéknek 10 és 9999 között kell lennie.",

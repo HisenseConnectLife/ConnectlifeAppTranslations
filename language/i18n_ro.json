@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Datele afișate de dispozitive pot varia de la alte dispozitive sau instrumente. Datele privind consumul de energie pot diferi în funcție de ora actualizării și data măsurării. Datele numerice pot fi rotunjite, ceea ce poate cauza mici diferențe între datele individuale și cele totale. Consumul de energie electrică al unui aparat depinde de mediul și utilizarea reală, care pot diferi de un mediu de testare standard. Totalurile lunare, zilnice și orare sunt estimate separat și este posibil să nu se adune exact. Suma economiilor pentru fiecare dispozitiv este estimată pe baza rezultatelor testelor și poate diferi de economiile reale.",
+    "how_data_calculate_tip": "Despre datele de utilizare a energiei \n\n Consumul de energie și economiile afișate sunt estimări, nu măsurători exacte. \n\n Estimările noastre se bazează pe teste controlate, astfel încât rezultatele dvs. reale pot varia. \n\n Utilizarea energiei în lumea reală depinde de mediul și obiceiurile dumneavoastră specifice. \n\n Citirile aplicației noastre pot diferi de contorul dvs. de utilitate sau de alte dispozitive.",
     "select_statistic_range_key": "selectați intervalul statistic",
     "overview_key": "prezentare generală",
     "value_must_between_10_9999_key": "Valoarea trebuie să fie între 10 și 9999.",

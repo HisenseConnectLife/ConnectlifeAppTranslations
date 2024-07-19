@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Data som vises av enheter kan variere fra andre enheter eller instrumenter. Energibruksdata kan variere basert på oppdateringstid og måledato. Numeriske data kan avrundes, noe som kan forårsake små forskjeller mellom individuelle og totale data. Elektrisitetsforbruket til en enhet avhenger av det faktiske miljøet og bruken, som kan avvike fra et standard testmiljø. Månedlige, daglige og timevise totaler estimeres separat og kan ikke summere nøyaktig. Besparelsesbeløpet for hver enhet er estimert basert på testresultater og kan avvike fra faktiske besparelser.",
+    "how_data_calculate_tip": "Om data om energibruk \n\n Energibruken og besparelsene som vises er anslag, ikke eksakte målinger. \n\n Våre estimater er basert på kontrollerte tester, så de faktiske resultatene dine kan variere. \n\n Den virkelige energibruken avhenger av ditt spesifikke miljø og dine vaner. \n\n Appens målinger kan avvike fra verktøymåleren eller andre enheter.",
     "select_statistic_range_key": "velg statistisk område",
     "overview_key": "oversikt",
     "value_must_between_10_9999_key": "Verdien må være mellom 10 og 9999.",

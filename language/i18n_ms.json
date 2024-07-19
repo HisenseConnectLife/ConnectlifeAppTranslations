@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Data yang dipaparkan oleh peranti mungkin berbeza daripada peranti atau instrumen lain. Data penggunaan tenaga mungkin berbeza berdasarkan masa kemas kini dan tarikh pengukuran. Data berangka mungkin dibundarkan, menyebabkan sedikit perbezaan antara data individu dan jumlah keseluruhan. Tenaga elektrik yang digunakan oleh peranti bergantung pada persekitaran sebenar dan penggunaan, yang mungkin berbeza daripada persekitaran ujian standard. Jumlah bulanan, harian dan setiap jam dianggarkan secara berasingan dan mungkin tidak dijumlahkan dengan tepat. Jumlah penjimatan untuk setiap peranti dianggarkan berdasarkan keputusan ujian, dan mungkin berbeza daripada penjimatan sebenar.",
+    "how_data_calculate_tip": "Mengenai data penggunaan tenaga \n\n Penggunaan tenaga dan penjimatan yang ditunjukkan adalah anggaran, bukan ukuran tepat. \n\n Anggaran kami adalah berdasarkan ujian terkawal, jadi keputusan sebenar anda mungkin berbeza-beza. \n\n Penggunaan tenaga dunia sebenar bergantung pada persekitaran dan tabiat khusus anda. \n\n Bacaan apl kami mungkin berbeza daripada meter utiliti anda atau peranti lain.",
     "select_statistic_range_key": "pilih julat statistik",
     "overview_key": "ikhtisar",
     "value_must_between_10_9999_key": "Nilai mesti antara 10 dan 9999.",
