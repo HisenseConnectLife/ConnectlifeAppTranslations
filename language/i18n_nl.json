@@ -1774,7 +1774,7 @@
     "favourite_program_name": "NAAM FAVORIET PROGRAMMA",
     "please_select_delete_data": "Selecteer de gegevens die u wilt verwijderen",
     "your_laundry_is_done": "De kleding is al droog",
-    "drying_in_x_has_ended": "Drogen in ## is beëindigd",
+    "drying_in_x_has_ended": "Het drogen in ## is beëindigd.",
     "please_close_door": "Sluit alstublieft de deur",
     "room_temperature_linkage": "Koppeling kamertemperatuur",
     "room_temperature_linkage_desc": "Nadat deze functie is ingeschakeld, worden alle airconditioners die online zijn en in bedrijf zijn, aangepast aan de vooraf ingestelde temperatuur",

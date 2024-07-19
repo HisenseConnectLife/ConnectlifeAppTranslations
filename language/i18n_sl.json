@@ -1774,7 +1774,7 @@
     "favourite_program_name": "IME PRILJUBLJENEGA PROGRAMA",
     "please_select_delete_data": "Izberite podatke, ki jih želite izbrisati",
     "your_laundry_is_done": "Sušenje je končano",
-    "drying_in_x_has_ended": "Sušenje v ## se je končalo",
+    "drying_in_x_has_ended": "Sušenje v ## se je končalo.",
     "please_close_door": "Prosimo, zaprite vrata",
     "room_temperature_linkage": "Povezava pri sobni temperaturi",
     "room_temperature_linkage_desc": "Ko je ta funkcija omogočena, bodo vse klimatske naprave, ki so povezane in delujejo, prilagojene na prednastavljeno temperaturo",
