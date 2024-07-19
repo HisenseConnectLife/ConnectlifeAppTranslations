@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Laitteiden näyttämät tiedot voivat poiketa muiden laitteiden tai instrumenttien tiedoista. Energiankäyttötiedot voivat vaihdella päivitysajan ja mittauspäivän mukaan. Numeeriset tiedot voidaan pyöristää, mikä voi aiheuttaa pieniä eroja yksittäisten ja kokonaislukujen välillä. Laitteen kuluttama sähkö riippuu todellisesta ympäristöstä ja käytöstä, mikä voi poiketa standarditestauksen ympäristöstä. Kuukausittaiset, päivittäiset ja tuntikohtaiset kokonaismäärät arvioidaan erikseen, eikä niitä välttämättä lisätä tarkasti. Kunkin laitteen säästösumma arvioidaan testitulosten perusteella, ja se voi poiketa todellisista säästöistä.",
+    "how_data_calculate_tip": "Tietoja energiankäyttötiedoista \n\n Esitetyt energiankulutukset ja säästöt ovat arvioita, eivät tarkkoja mittoja. \n\n Arviomme perustuvat kontrolloituihin testeihin, joten todelliset tulokset voivat vaihdella. \n\n Todellinen energiankäyttö riippuu erityisestä ympäristöstäsi ja tavoistasi. \n\n Sovelluksemme lukemat voivat poiketa sähkömittaristasi tai muista laitteistasi.",
     "select_statistic_range_key": "valitse tilastollinen alue",
     "overview_key": "yleiskatsaus",
     "value_must_between_10_9999_key": "Arvon on oltava välillä 10–9999.",

@@ -3921,7 +3921,7 @@
     "power_on_tips": "Only available when the device is powered on.",
     "asko_oven_on_during_on": "ON during use",
     "restart": "restart",
-    "how_data_calculate_tip": "Data displayed by devices may vary from other devices or instruments. \u2028Energy usage data may differ based on update time and metering date. \u2028Numerical data may be rounded, causing slight differences between individual and total data. \u2028The electricity consumed by an appliance depends on the actual environment and usage, which may differ from a standard test environment. \u2028Monthly, daily, and hourly totals are estimated separately and may not add up exactly. \u2028The savings amount for each device is estimated based on test results, and may differ from actual savings.",
+    "how_data_calculate_tip": "About energy usage data\n\nThe energy usage and savings shown are estimates, not exact measurements.\n\nOur estimates are based on controlled tests, so your actual results may vary.\n\nReal-world energy use depends on your specific environment and habits.\n\nOur app's readings might differ from your utility meter or other devices.",
     "select_statistic_range_key": "SELECT STATISTICAL RANGE",
     "overview_key": "Overview",
     "value_must_between_10_9999_key": "Value must be between 10 and 9999.",

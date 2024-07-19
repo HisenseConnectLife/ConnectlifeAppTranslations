@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Podaci prikazani od strane uređaja mogu se razlikovati od podataka drugih uređaja ili instrumenata. Podaci o potrošnji energije mogu se razlikovati u zavisnosti od vremena ažuriranja i datuma merenja. Numerički podaci mogu biti zaokruženi, što može uzrokovati male razlike između pojedinačnih i ukupnih podataka. Potrošnja električne energije uređaja zavisi od stvarnog okruženja i upotrebe, što može biti različito od standardnog testnog okruženja. Mesečni, dnevni i časovni zbir se procenjuju odvojeno i možda se neće tačno sabirati. Iznos uštede za svaki uređaj se procenjuje na osnovu rezultata testova i može se razlikovati od stvarne uštede.",
+    "how_data_calculate_tip": "О подацима о потрошњи енергије \n\n Приказана потрошња енергије и уштеде су процене, а не тачна мерења. \n\n Наше процене су засноване на контролисаним тестовима, тако да ваши стварни резултати могу да варирају. \n\n Коришћење енергије у стварном свету зависи од вашег специфичног окружења и навика. \n\n Очитавања наше апликације могу се разликовати од вашег бројила или других уређаја.",
     "select_statistic_range_key": "изаберите статистички опсег",
     "overview_key": "преглед",
     "value_must_between_10_9999_key": "Vrednost mora biti između 10 i 9999.",

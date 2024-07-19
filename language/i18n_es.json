@@ -3921,7 +3921,7 @@
     "power_on_tips": "",
     "asko_oven_on_during_on": "",
     "restart": "",
-    "how_data_calculate_tip": "Los datos mostrados por los dispositivos pueden variar de otros dispositivos o instrumentos. Los datos de uso de energía pueden diferir según el tiempo de actualización y la fecha de medición. Los datos numéricos pueden redondearse, lo que puede causar pequeñas diferencias entre los datos individuales y los totales. La electricidad consumida por un aparato depende del entorno y del uso real, que pueden diferir de un entorno de prueba estándar. Los totales mensuales, diarios y por hora se estiman por separado y pueden no sumar exactamente. La cantidad de ahorro para cada dispositivo se estima en función de los resultados de las pruebas y puede diferir de los ahorros reales.",
+    "how_data_calculate_tip": "Acerca de los datos de uso de energía \n\n El uso y ahorro de energía que se muestran son estimaciones, no medidas exactas. \n\n Nuestras estimaciones se basan en pruebas controladas, por lo que sus resultados reales pueden variar. \n\n El uso de energía en el mundo real depende de su entorno y hábitos específicos. \n\n Las lecturas de nuestra aplicación pueden diferir de las de su medidor de servicios públicos u otros dispositivos.",
     "select_statistic_range_key": "seleccionar rango estadístico",
     "overview_key": "visión general",
     "value_must_between_10_9999_key": "El valor debe estar entre 10 y 9999.",
