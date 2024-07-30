@@ -3996,6 +3996,6 @@
     "CL_CF_LG_legal": "Hợp pháp",
     "CL_CF_LG_enduser_privacy": "Chính sách bảo mật dữ liệu",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## thiết bị đang chạy chế độ ECO",
-    "CL_CF_UC_full_name_with_title": "",
+    "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Dựa trên chế độ hoạt động của thiết bị, một số tính năng có thể không được thực thi thành công."
 }

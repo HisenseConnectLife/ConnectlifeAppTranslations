@@ -3996,6 +3996,6 @@
     "CL_CF_LG_legal": "Právne",
     "CL_CF_LG_enduser_privacy": "Zásady ochrany osobných údajov",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## zariadení je spustených v režime ECO",
-    "CL_CF_UC_full_name_with_title": "",
+    "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "V závislosti od prevádzkového režimu zariadenia sa niektoré funkcie nemusia úspešne spustiť."
 }
