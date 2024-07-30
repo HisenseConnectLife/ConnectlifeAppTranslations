@@ -3996,6 +3996,6 @@
     "CL_CF_LG_legal": "Νομικός",
     "CL_CF_LG_enduser_privacy": "Πολιτική Απορρήτου Δεδομένων",
     "CL_SM_CM_devices_are_running_eco_mode_key": "Οι ## συσκευές εκτελούν λειτουργία ECO",
-    "CL_CF_UC_full_name_with_title": "",
+    "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Με βάση τον τρόπο λειτουργίας της συσκευής, ορισμένες λειτουργίες ενδέχεται να μην εκτελεστούν με επιτυχία."
 }
