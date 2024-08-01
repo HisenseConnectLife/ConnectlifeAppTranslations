@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Datenschutzhinweis",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## Geräte laufen im ECO-Modus",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "Abhängig vom Betriebsmodus des Geräts können einige Funktionen möglicherweise nicht erfolgreich ausgeführt werden."
+    "CL_AU_AC_automation_features_may_not_execute_key": "Abhängig vom Betriebsmodus des Geräts können einige Funktionen möglicherweise nicht erfolgreich ausgeführt werden.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Großer Grill + Ventilator + Mikrowelle"
 }
