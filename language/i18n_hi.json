@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "डेटा गोपनीयता नीति",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## डिवाइस ECO मोड पर चल रहे हैं",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "डिवाइस के ऑपरेटिंग मोड के आधार पर, कुछ सुविधाएँ सफलतापूर्वक निष्पादित नहीं हो सकतीं।"
+    "CL_AU_AC_automation_features_may_not_execute_key": "डिवाइस के ऑपरेटिंग मोड के आधार पर, कुछ सुविधाएँ सफलतापूर्वक निष्पादित नहीं हो सकतीं।",
+    "CL_DV_OV_g800_mode_grill_fan_micro": ""
 }

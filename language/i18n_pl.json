@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Polityka prywatności danych",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## urządzenia działają w trybie ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "W zależności od trybu pracy urządzenia niektóre funkcje mogą nie zostać pomyślnie wykonane."
+    "CL_AU_AC_automation_features_may_not_execute_key": "W zależności od trybu pracy urządzenia niektóre funkcje mogą nie zostać pomyślnie wykonane.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Duży grill +  wentylator + mikrofalówka"
 }
