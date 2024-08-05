@@ -3361,7 +3361,7 @@
     "default": "Privzet",
     "if_key": "če",
     "enable_key": "omogoči",
-    "no_report_history": "",
+    "no_report_history": "Nobena vprašanja niso bila poslana.",
     "routine_key": "rutina",
     "automation_name_key": "Ime avtomatizacije",
     "send_notifi_example_key": "Primer: pošlji “Klimatska naprava je vklopljena”",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Politika zasebnosti podatkov",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## naprave delujejo v načinu ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "Glede na način delovanja naprave nekatere funkcije morda ne bodo uspešno izvedene."
+    "CL_AU_AC_automation_features_may_not_execute_key": "Glede na način delovanja naprave nekatere funkcije morda ne bodo uspešno izvedene.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Veliki žar + Ventilator + Mikrovalovi"
 }

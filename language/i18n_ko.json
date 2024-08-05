@@ -3361,7 +3361,7 @@
     "default": "기본",
     "if_key": "만약",
     "enable_key": "사용하다",
-    "no_report_history": "",
+    "no_report_history": "문제가 제출되지 않았습니다.",
     "routine_key": "루틴",
     "automation_name_key": "자동화 이름",
     "send_notifi_example_key": "예시: “에어컨이 켜져 있습니다” 보내기",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "데이터 개인 정보 보호 정책",
     "CL_SM_CM_devices_are_running_eco_mode_key": "##개의 기기가 ECO 모드를 실행 중입니다.",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "장치의 작동 모드에 따라 일부 기능이 성공적으로 실행되지 않을 수 있습니다."
+    "CL_AU_AC_automation_features_may_not_execute_key": "장치의 작동 모드에 따라 일부 기능이 성공적으로 실행되지 않을 수 있습니다.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": ""
 }
