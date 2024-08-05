@@ -3361,7 +3361,7 @@
     "default": "Výchozí",
     "if_key": "pokud",
     "enable_key": "povolit",
-    "no_report_history": "",
+    "no_report_history": "Nebyly předloženy žádné problémy.",
     "routine_key": "rutina",
     "automation_name_key": "Název automatizace",
     "send_notifi_example_key": "Příklad: poslat “Klimatizace je zapnuta”",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Zásady ochrany osobních údajů",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## zařízení běží v režimu ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "V závislosti na provozním režimu zařízení nemusí být některé funkce provedeny úspěšně."
+    "CL_AU_AC_automation_features_may_not_execute_key": "V závislosti na provozním režimu zařízení nemusí být některé funkce provedeny úspěšně.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Velký gril + ventilátor + mikrovlnná trouba"
 }

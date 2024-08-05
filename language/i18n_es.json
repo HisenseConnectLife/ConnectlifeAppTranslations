@@ -1278,8 +1278,8 @@
     "preview": "Vista previa",
     "camera_permissions": "El sistema detectó que no obtuvo permisos de cámara",
     "go_setting": "CONFIGURACIÓN ABIERTA",
-    "month": "mes",
-    "year": "año",
+    "month": "Mes",
+    "year": "Año",
     "chart_jan": "Ene",
     "chart_feb": "Feb",
     "chart_mar": "Mar",
@@ -3361,7 +3361,7 @@
     "default": "Por defecto",
     "if_key": "si",
     "enable_key": "habilitar",
-    "no_report_history": "",
+    "no_report_history": "No se han enviado problemas.",
     "routine_key": "rutina",
     "automation_name_key": "Nombre de la automatización",
     "send_notifi_example_key": "Ejemplo: enviar “El aire acondicionado está encendido”",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Política de privacidad de datos",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## dispositivos están ejecutando el modo ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "Según el modo operativo del dispositivo, es posible que algunas funciones no se ejecuten correctamente."
+    "CL_AU_AC_automation_features_may_not_execute_key": "Según el modo operativo del dispositivo, es posible que algunas funciones no se ejecuten correctamente.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Grill grande +  ventilador + microondas"
 }

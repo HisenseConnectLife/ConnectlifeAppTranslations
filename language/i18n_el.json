@@ -3361,7 +3361,7 @@
     "default": "Προκαθορισμένο",
     "if_key": "αν",
     "enable_key": "ενεργοποίηση",
-    "no_report_history": "",
+    "no_report_history": "Δεν έχουν υποβληθεί θέματα.",
     "routine_key": "ρουτίνα",
     "automation_name_key": "Όνομα αυτοματισμού",
     "send_notifi_example_key": "Παράδειγμα: στείλτε “Το κλιματιστικό είναι ανοιχτό”",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Πολιτική Απορρήτου Δεδομένων",
     "CL_SM_CM_devices_are_running_eco_mode_key": "Οι ## συσκευές εκτελούν λειτουργία ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "Με βάση τον τρόπο λειτουργίας της συσκευής, ορισμένες λειτουργίες ενδέχεται να μην εκτελεστούν με επιτυχία."
+    "CL_AU_AC_automation_features_may_not_execute_key": "Με βάση τον τρόπο λειτουργίας της συσκευής, ορισμένες λειτουργίες ενδέχεται να μην εκτελεστούν με επιτυχία.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Μεγάλο γκριλ + Ανεμιστήρας + Μικροκύματα"
 }

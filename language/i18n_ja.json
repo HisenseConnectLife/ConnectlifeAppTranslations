@@ -3361,7 +3361,7 @@
     "default": "デフォルト",
     "if_key": "もし",
     "enable_key": "有効にする",
-    "no_report_history": "",
+    "no_report_history": "問題は提出されていません。",
     "routine_key": "ルーティン",
     "automation_name_key": "オートメーション名",
     "send_notifi_example_key": "「エアコンがオンになっています」を送信",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "データプライバシーポリシー",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 台のデバイスが ECO モードで動作しています",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "デバイスの動作モードによっては、一部の機能が正常に実行されない場合があります。"
+    "CL_AU_AC_automation_features_may_not_execute_key": "デバイスの動作モードによっては、一部の機能が正常に実行されない場合があります。",
+    "CL_DV_OV_g800_mode_grill_fan_micro": ""
 }

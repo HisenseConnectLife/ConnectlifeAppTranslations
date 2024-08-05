@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "数据隐私政策",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 设备正在运行 ECO 模式",
     "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "根据设备的操作模式，某些功能可能无法成功执行。"
+    "CL_AU_AC_automation_features_may_not_execute_key": "根据设备的操作模式，某些功能可能无法成功执行。",
+    "CL_DV_OV_g800_mode_grill_fan_micro": ""
 }

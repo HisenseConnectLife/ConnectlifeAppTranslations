@@ -3361,7 +3361,7 @@
     "default": "Alapértelmezett",
     "if_key": "ha",
     "enable_key": "engedélyez",
-    "no_report_history": "",
+    "no_report_history": "Nem nyújtottak be problémákat.",
     "routine_key": "rutin",
     "automation_name_key": "Automatizálás neve",
     "send_notifi_example_key": "Példa: küldj “A légkondicionáló be van kapcsolva”",
@@ -3997,5 +3997,6 @@
     "CL_CF_LG_enduser_privacy": "Adatvédelmi szabályzat",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## készülékek ECO módot futtatnak",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
-    "CL_AU_AC_automation_features_may_not_execute_key": "Az eszköz működési módjától függően előfordulhat, hogy egyes funkciók végrehajtása nem sikerül."
+    "CL_AU_AC_automation_features_may_not_execute_key": "Az eszköz működési módjától függően előfordulhat, hogy egyes funkciók végrehajtása nem sikerül.",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Nagy grill + légkeverés + mikrohullám"
 }
