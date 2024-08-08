@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "НАЛАШТУВАТИ Wi-Fi",
     "full": "Повне",
     "usage_frequency_metrics": "Показники частоти використання",
-    "super_cool_upper_camel_case": "Супер охолодження",
-    "super_freeze_upper_camel_case": "Супер заморозка",
+    "super_cool_upper_camel_case": "Швидке охолодження",
+    "super_freeze_upper_camel_case": "Супер заморожування",
     "input_password_cdc_tips": "Пароль має містити від 8 до 20 символів і складатися принаймні з 1 цифри, 1 великої літери, 1 малої літери та 1 спеціального символу (#?!@$%^&*-).",
     "self_pump_setup_1": "Вимкніть тепловий насос, одночасно натисніть і утримуйте кнопки ввімкнення й вимкнення та кнопку «вниз» протягом 3 секунд, після чого індикатор Wi-Fi заблимає.",
     "self_pump_setup_2": "Підключіться до Wi-Fi відповідно до підказок у програмі. Коли підключення буде успішним, індикатор Wi-Fi засвітиться.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## пристроїв працюють у режимі ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Залежно від режиму роботи пристрою деякі функції можуть не виконуватися успішно.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Великий гриль + вентилятор + мікрохвилі"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Великий гриль + вентилятор + мікрохвилі",
+    "CL_DV_OV_baking_stopped": "Випікання в ## зупинено.",
+    "CL_DV_OV_check_to_confirm": "Перевірте духовку, щоб підтвердити."
 }

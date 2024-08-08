@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "Wi－Fi設定",
     "full": "満杯",
     "usage_frequency_metrics": "使用頻度",
-    "super_cool_upper_camel_case": "スーパークーリング",
+    "super_cool_upper_camel_case": "急速冷却",
     "super_freeze_upper_camel_case": "スーパーフリーズ",
     "input_password_cdc_tips": "パスワードは 8 ～ 20 文字で、少なくとも 1 つの数字、1 つの大文字、1 つの小文字、および 1 つの特殊文字 (#?!@$%^&*-) で構成される必要があります。",
     "self_pump_setup_1": "ヒープポンプの電源をオフにし、オン/オフボタンとダウンボタンを同時に 3 秒間長押しすると、Wi-Fi ライトが点滅します。",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 台のデバイスが ECO モードで動作しています",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "デバイスの動作モードによっては、一部の機能が正常に実行されない場合があります。",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "## でのベイク処理が停止されました。",
+    "CL_DV_OV_check_to_confirm": "オーブンをチェックして確認してください。"
 }

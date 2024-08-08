@@ -2239,7 +2239,7 @@
     "full": "",
     "usage_frequency_metrics": "",
     "super_cool_upper_camel_case": "",
-    "super_freeze_upper_camel_case": "",
+    "super_freeze_upper_camel_case": "بەستنی زۆر",
     "input_password_cdc_tips": "",
     "self_pump_setup_1": "",
     "self_pump_setup_2": "",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "",
     "CL_CF_UC_full_name_with_title": "",
     "CL_AU_AC_automation_features_may_not_execute_key": "",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "",
+    "CL_DV_OV_check_to_confirm": ""
 }

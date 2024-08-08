@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "SET Wi-Fi",
     "full": "Teljes",
     "usage_frequency_metrics": "Használat előtti gyakorisági mérőszámok",
-    "super_cool_upper_camel_case": "Szuper Hűvös",
-    "super_freeze_upper_camel_case": "Szuper Fagyasztás",
+    "super_cool_upper_camel_case": "Gyors hűtés",
+    "super_freeze_upper_camel_case": "Szuper fagy",
     "input_password_cdc_tips": "A jelszónak 8-20 karakter hosszúságúnak kell lennie, és legalább 1 számból, 1 nagybetűből, 1 kisbetűből és 1 speciális karakterből (#?!@$%^&*-) kell állnia.",
     "self_pump_setup_1": "Kapcsolja ki a kupacszivattyút, tartsa lenyomva a Be/Ki gombot és a Le gombot egyszerre 3 másodpercig, majd a Wi-Fi jelzőfény villogni kezd.",
     "self_pump_setup_2": "Csatlakozzon a Wi-Fi-hez az APP-ban megjelenő tippek szerint. Ha a csatlakozás sikeres, a Wi-Fi jelzőfény világít.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## készülékek ECO módot futtatnak",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Az eszköz működési módjától függően előfordulhat, hogy egyes funkciók végrehajtása nem sikerül.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Nagy grill + légkeverés + mikrohullám"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Nagy grill + légkeverés + mikrohullám",
+    "CL_DV_OV_baking_stopped": "A ##-ban leállított sütés.",
+    "CL_DV_OV_check_to_confirm": "Ellenőrizze a sütőt a megerősítéshez."
 }

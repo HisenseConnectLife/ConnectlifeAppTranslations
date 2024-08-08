@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "MÄÄRITÄ Wi-Fi",
     "full": "Koko",
     "usage_frequency_metrics": "Käyttötiheysmittarit",
-    "super_cool_upper_camel_case": "Super Cool",
+    "super_cool_upper_camel_case": "Nopea jäähdytys",
     "super_freeze_upper_camel_case": "Super Freeze",
     "input_password_cdc_tips": "Salasanan tulee olla 8–20 merkkiä pitkä ja sisältää vähintään 1 numero, 1 iso kirjain, 1 pieni kirjain ja 1 erikoismerkki (#?!@$%^&*-).",
     "self_pump_setup_1": "Sammuta kasapumppu, paina pitkään On/Off-painiketta ja alas-painiketta samanaikaisesti 3 sekunnin ajan, sitten Wi-Fi-valo vilkkuu.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## laitteet käyttävät ECO-tilaa",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Laitteen käyttötilasta johtuen jotkin ominaisuudet eivät ehkä toimi onnistuneesti.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Suuri grilli + tuuletin + mikroaallot"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Suuri grilli + tuuletin + mikroaallot",
+    "CL_DV_OV_baking_stopped": "Leipominen vuonna ## lopetettiin.",
+    "CL_DV_OV_check_to_confirm": "Tarkista uuni vahvistaaksesi."
 }

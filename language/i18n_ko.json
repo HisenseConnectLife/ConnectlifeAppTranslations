@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "Wi-Fi 설정",
     "full": "가득한",
     "usage_frequency_metrics": "사용 빈도 측정항목",
-    "super_cool_upper_camel_case": "초냉각",
+    "super_cool_upper_camel_case": "빠른 냉각",
     "super_freeze_upper_camel_case": "슈퍼 프리즈",
     "input_password_cdc_tips": "비밀번호는 8~20자 이내로 숫자 1개, 대문자 1개, 소문자 1개, 특수문자 1개(#?!@$%^&*-)를 조합해야 합니다.",
     "self_pump_setup_1": "힙 펌프의 전원을 끄고 On/Off 버튼과 Down 버튼을 동시에 3초 동안 길게 누르면 Wi-Fi 표시등이 깜박입니다.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "##개의 기기가 ECO 모드를 실행 중입니다.",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "장치의 작동 모드에 따라 일부 기능이 성공적으로 실행되지 않을 수 있습니다.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "##에서 베이킹이 중지되었습니다.",
+    "CL_DV_OV_check_to_confirm": "오븐을 확인하여 확인하세요."
 }

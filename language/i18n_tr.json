@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "Wi-Fi'yi AYARLA",
     "full": "Tam dolu",
     "usage_frequency_metrics": "Kullanım önceliği ölçümleri",
-    "super_cool_upper_camel_case": "Süper soğutma",
-    "super_freeze_upper_camel_case": "Süper dondurma",
+    "super_cool_upper_camel_case": "Hızlı Soğutma",
+    "super_freeze_upper_camel_case": "Süper Dondurma",
     "input_password_cdc_tips": "Şifre 8 ila 20 karakter uzunluğunda olmalı ve en az 1 rakam, 1 büyük harf, 1 küçük harf ve 1 özel karakterden (#?!@$%^&*-) oluşmalıdır.",
     "self_pump_setup_1": "Yığın pompasını kapatın, Açma/Kapama düğmesine ve Aşağı düğmesine aynı anda 3 saniye boyunca uzun basın, ardından Wi-Fi ışığı yanıp sönecektir.",
     "self_pump_setup_2": "Uygulamada görüntülenen ipuçlarına göre Wi-Fi'ye bağlanın. Bağlantı başarılı olduğunda Wi-Fi ışığı yanacaktır.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## cihaz ECO modunda çalışıyor",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Cihazın çalışma moduna bağlı olarak bazı özellikler başarıyla yürütülemeyebilir.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "##'da pişirme işlemi durduruldu.",
+    "CL_DV_OV_check_to_confirm": "Onaylamak için fırını kontrol edin."
 }

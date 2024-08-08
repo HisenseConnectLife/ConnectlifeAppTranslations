@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "ตั้งค่า Wi-Fi",
     "full": "เต็ม",
     "usage_frequency_metrics": "การวัดความถี่การใช้งาน",
-    "super_cool_upper_camel_case": "เย็นสุด ๆ",
-    "super_freeze_upper_camel_case": "แช่แข็งสุด ๆ",
+    "super_cool_upper_camel_case": "ระบายความร้อนอย่างรวดเร็ว",
+    "super_freeze_upper_camel_case": "ซุปเปอร์ฟรีซ",
     "input_password_cdc_tips": "รหัสผ่านต้องมีความยาว 8 ถึง 20 อักขระ และประกอบด้วยตัวเลขอย่างน้อย 1 ตัว ตัวพิมพ์ใหญ่ 1 ตัว ตัวพิมพ์เล็ก 1 ตัว และอักขระพิเศษ 1 ตัว (#?!@$%^&*-)",
     "self_pump_setup_1": "ปิดฮีปปั๊ม กดปุ่มเปิด/ปิดและปุ่มลงค้างไว้พร้อมกันเป็นเวลา 3 วินาที จากนั้นไฟ Wi-Fi จะกะพริบ",
     "self_pump_setup_2": "เชื่อมต่อ Wi-Fi ตามคำแนะนำที่แสดงบนแอป เมื่อการเชื่อมต่อสำเร็จ ไฟสัญญาณ Wi-Fi จะสว่างขึ้น",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## อุปกรณ์กำลังใช้งานโหมด ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "ขึ้นอยู่กับโหมดการทำงานของอุปกรณ์ คุณสมบัติบางอย่างอาจไม่สามารถทำงานได้สำเร็จ",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "การอบใน ## หยุดแล้ว",
+    "CL_DV_OV_check_to_confirm": "ตรวจสอบเตาอบเพื่อยืนยัน"
 }

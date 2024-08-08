@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "वाई-फाई सेट करें",
     "full": "भरा हुआ",
     "usage_frequency_metrics": "उपयोग आवृत्ति मेट्रिक्स",
-    "super_cool_upper_camel_case": "सुपर कूलिंग",
-    "super_freeze_upper_camel_case": "सुपर फ्रीज",
+    "super_cool_upper_camel_case": "तेजी से ठंडा करना",
+    "super_freeze_upper_camel_case": "सुपर फ़्रीज़",
     "input_password_cdc_tips": "पासवर्ड 8 से 20 वर्ण लंबा होना चाहिए और इसमें कम से कम 1 नंबर, 1 कैपिटल लेटर, 1 छोटा अक्षर और 1 विशेष वर्ण (#?!@$%^&*-) होना चाहिए।",
     "self_pump_setup_1": "हीप पंप को बंद करें, ऑन/ऑफ बटन और डाउन बटन को एक साथ 3 सेकंड तक दबाएं, फिर वाई-फाई लाइट चमकेगी।",
     "self_pump_setup_2": "ऐप पर दिखाए गए सुझावों के अनुसार वाई-फाई से कनेक्ट करें। जब कनेक्शन सफल हो जाएगा, तो वाई-फाई लाइट चालू हो जाएगी।",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## डिवाइस ECO मोड पर चल रहे हैं",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "डिवाइस के ऑपरेटिंग मोड के आधार पर, कुछ सुविधाएँ सफलतापूर्वक निष्पादित नहीं हो सकतीं।",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "## में बेकिंग रोक दी गई।",
+    "CL_DV_OV_check_to_confirm": "पुष्टि के लिए ओवन की जाँच करें।"
 }

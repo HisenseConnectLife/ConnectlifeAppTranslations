@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "STÄLL in Wi-Fi",
     "full": "Full",
     "usage_frequency_metrics": "Användningsfrekvensmått",
-    "super_cool_upper_camel_case": "Super cool",
-    "super_freeze_upper_camel_case": "Super Freeze",
+    "super_cool_upper_camel_case": "Snabb kylning",
+    "super_freeze_upper_camel_case": "Superfrys",
     "input_password_cdc_tips": "Lösenordet måste vara 8 till 20 tecken långt och bestå av minst 1 siffra, 1 versal, 1 liten bokstav och 1 specialtecken (#?!@$%^&*-).",
     "self_pump_setup_1": "Stäng av högpumpen, tryck länge på På/Av-knappen och Ned-knappen samtidigt i 3 sekunder, sedan blinkar Wi-Fi-lampan.",
     "self_pump_setup_2": "Anslut till Wi-Fi enligt tips som visas på APP. När anslutningen är framgångsrik kommer Wi-Fi-lampan att lysa.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## enheter kör ECO-läge",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Baserat på enhetens driftläge kanske vissa funktioner inte körs korrekt.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Stor grill + Fläkt + Mikro"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Stor grill + Fläkt + Mikro",
+    "CL_DV_OV_baking_stopped": "Bakningen i ## stoppades.",
+    "CL_DV_OV_check_to_confirm": "Kontrollera ugnen för att bekräfta."
 }

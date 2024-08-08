@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "設置Wi-Fi",
     "full": "满",
     "usage_frequency_metrics": "使用频率",
-    "super_cool_upper_camel_case": "速冷",
-    "super_freeze_upper_camel_case": "速凍",
+    "super_cool_upper_camel_case": "快速冷卻",
+    "super_freeze_upper_camel_case": "超級冷凍",
     "input_password_cdc_tips": "密碼必須由8至20個字符組成，其中至少包含1個數字、1個大寫字母、1個小寫字母和1個特殊字符(#?!@$%^&*-)。",
     "self_pump_setup_1": "關閉堆泵電源，同時長按 On/Off 按鈕和 Down 按鈕 3 秒，然後 Wi-Fi 指示燈閃爍。",
     "self_pump_setup_2": "根據APP提示連接Wi-Fi。連線成功後，Wi-Fi 指示燈會亮起。",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 設備正在運行 ECO 模式",
     "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}",
     "CL_AU_AC_automation_features_may_not_execute_key": "根據設備的操作模式，某些功能可能無法成功執行。",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "顶部双圈加热+风扇+微波"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "顶部双圈加热+风扇+微波",
+    "CL_DV_OV_baking_stopped": "## 烘烤停止。",
+    "CL_DV_OV_check_to_confirm": "檢查烤箱以確認。"
 }

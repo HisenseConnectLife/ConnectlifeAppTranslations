@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "NASTAVIT Wi-Fi",
     "full": "Plný",
     "usage_frequency_metrics": "Metriky pre-kvantity používání",
-    "super_cool_upper_camel_case": "Super Cool",
-    "super_freeze_upper_camel_case": "Super Freeze",
+    "super_cool_upper_camel_case": "Rychlé chlazení",
+    "super_freeze_upper_camel_case": "Super zmrazení",
     "input_password_cdc_tips": "Heslo musí mít 8 až 20 znaků a musí se skládat alespoň z 1 čísla, 1 velkého písmene, 1 malého písmene a 1 speciálního znaku (#?!@$%^&*-).",
     "self_pump_setup_1": "Vypněte haldové čerpadlo, dlouze stiskněte současně tlačítko On/Off a tlačítko Dolů na 3 sekundy, poté bude kontrolka Wi-Fi blikat.",
     "self_pump_setup_2": "Připojte se k Wi-Fi podle tipů zobrazených v APP. Když je připojení úspěšné, kontrolka Wi-Fi se rozsvítí.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## zařízení běží v režimu ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "V závislosti na provozním režimu zařízení nemusí být některé funkce provedeny úspěšně.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Velký gril + ventilátor + mikrovlnná trouba"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Velký gril + ventilátor + mikrovlnná trouba",
+    "CL_DV_OV_baking_stopped": "Pečení v ## bylo zastaveno.",
+    "CL_DV_OV_check_to_confirm": "Zkontrolujte troubu a potvrďte."
 }

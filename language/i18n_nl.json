@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "Wi-Fi INSTELLEN",
     "full": "Vol",
     "usage_frequency_metrics": "Gebruiksfrequentiestatistieken",
-    "super_cool_upper_camel_case": "Superkoelen",
-    "super_freeze_upper_camel_case": "Supervriezen",
+    "super_cool_upper_camel_case": "Snelle koeling",
+    "super_freeze_upper_camel_case": "Supervries",
     "input_password_cdc_tips": "Het wachtwoord moet 8 tot 20 tekens lang zijn en minimaal 1 cijfer, 1 hoofdletter, 1 kleine letter en 1 speciaal teken (#?!@$%^&*-) bevatten.",
     "self_pump_setup_1": "Schakel de warmtepomp uit, houd de Aan/Uit-knop en de Omlaag-knop tegelijkertijd 3 seconden lang ingedrukt, waarna het Wi-Fi-lampje gaat knipperen.",
     "self_pump_setup_2": "Maak verbinding met Wi-Fi volgens de tips die op de APP worden weergegeven. Als de verbinding tot stand is gebracht, brandt het Wi-Fi-lampje.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## apparaten gebruiken de ECO-modus",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Afhankelijk van de bedieningsmodus van het apparaat worden sommige functies mogelijk niet met succes uitgevoerd.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Grote grill + Magnetron"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Grote grill + Magnetron",
+    "CL_DV_OV_baking_stopped": "Het bakken in ## is gestopt.",
+    "CL_DV_OV_check_to_confirm": "Controleer de oven om dit te bevestigen."
 }

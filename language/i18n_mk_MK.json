@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "ПОСТАВЕТЕ Wi-Fi",
     "full": "Полна",
     "usage_frequency_metrics": "Метрика на фреквенција на користење",
-    "super_cool_upper_camel_case": "Супер ладење",
+    "super_cool_upper_camel_case": "Брзо ладење",
     "super_freeze_upper_camel_case": "Супер замрзнување",
     "input_password_cdc_tips": "Лозинката мора да биде долга од 8 до 20 знаци и да се состои од најмалку 1 број, 1 голема буква, 1 мала буква и 1 посебен знак (#?!@$%^&*-).",
     "self_pump_setup_1": "Исклучете ја пумпата за куп, долго притискајте ги копчето за вклучување/исклучување и копчето за одредување во исто време 3 секунди, а потоа светилката за Wi-Fi ќе трепка.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "Уредите ## работат на режимот ЕКО",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Врз основа на режимот на работа на уредот, некои функции може да не се извршат успешно.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "Печењето во ## беше прекинато.",
+    "CL_DV_OV_check_to_confirm": "Проверете ја рерната за да потврдите."
 }
