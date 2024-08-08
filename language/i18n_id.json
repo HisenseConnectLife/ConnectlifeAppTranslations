@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "SETELAN Wi-Fi",
     "full": "Penuh",
     "usage_frequency_metrics": "Metrik frekuensi penggunaan",
-    "super_cool_upper_camel_case": "Pendinginan super",
-    "super_freeze_upper_camel_case": "Pembekuan super",
+    "super_cool_upper_camel_case": "Pendinginan Cepat",
+    "super_freeze_upper_camel_case": "Super Beku",
     "input_password_cdc_tips": "Kata sandi harus sepanjang 8 hingga 20 karakter dan terdiri dari setidaknya 1 angka, 1 huruf kapital, 1 huruf kecil, dan 1 karakter khusus (#?!@$%^&*-).",
     "self_pump_setup_1": "Matikan pompa heap, tekan lama tombol On/Off dan tombol Bawah secara bersamaan selama 3 detik, maka lampu Wi-Fi akan berkedip.",
     "self_pump_setup_2": "Hubungkan ke Wi-Fi sesuai dengan tip yang ditampilkan di APP. Jika koneksi berhasil, lampu Wi-Fi akan menyala.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## perangkat menjalankan mode ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Berdasarkan mode pengoperasian perangkat, beberapa fitur mungkin tidak berhasil dijalankan.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "Memanggang di ## dihentikan.",
+    "CL_DV_OV_check_to_confirm": "Periksa oven untuk mengonfirmasi."
 }

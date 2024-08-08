@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "ĐẶT Wi-Fi",
     "full": "Đầy",
     "usage_frequency_metrics": "Chỉ số tần suất sử dụng",
-    "super_cool_upper_camel_case": "Siêu mát",
+    "super_cool_upper_camel_case": "Làm mát nhanh",
     "super_freeze_upper_camel_case": "Siêu lạnh",
     "input_password_cdc_tips": "Mật khẩu phải dài từ 8 đến 20 ký tự và bao gồm ít nhất 1 số, 1 chữ in hoa, 1 chữ thường và 1 ký tự đặc biệt.",
     "self_pump_setup_1": "Tắt máy bơm nhiệt, nhấn giữ nút Bật/Tắt và nút Xuống cùng lúc trong 3 giây, sau đó đèn Wi-Fi sẽ nhấp nháy.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## thiết bị đang chạy chế độ ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Dựa trên chế độ hoạt động của thiết bị, một số tính năng có thể không được thực thi thành công.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "Quá trình nướng ở ## đã dừng lại.",
+    "CL_DV_OV_check_to_confirm": "Kiểm tra lò để xác nhận."
 }

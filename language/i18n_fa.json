@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "Wi-Fi را تنظیم کنید",
     "full": "تکمیل",
     "usage_frequency_metrics": "usage_frequency_metrics",
-    "super_cool_upper_camel_case": "سوپر خنک",
+    "super_cool_upper_camel_case": "خنک کننده سریع",
     "super_freeze_upper_camel_case": "سوپر فریز",
     "input_password_cdc_tips": "رمز عبور باید 8 تا 20 کاراکتر باشد و حداقل شامل 1 عدد، 1 حرف بزرگ، 1 حرف کوچک و 1 کاراکتر خاص (#?!@$%^&*-) باشد.",
     "self_pump_setup_1": "پمپ هیپ را خاموش کنید، دکمه روشن/خاموش و دکمه پایین را همزمان به مدت 3 ثانیه فشار دهید، سپس چراغ Wi-Fi چشمک می زند.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## دستگاه در حال اجرای حالت ECO هستند",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "بر اساس حالت عملکرد دستگاه، برخی از ویژگی ها ممکن است با موفقیت اجرا نشوند.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "پخت در ## متوقف شد.",
+    "CL_DV_OV_check_to_confirm": "برای تایید فر را چک کنید."
 }

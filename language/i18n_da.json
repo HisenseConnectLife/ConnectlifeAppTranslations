@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "INDSTIL Wi-Fi",
     "full": "Fuld",
     "usage_frequency_metrics": "Metrikker for brugsfrekvens",
-    "super_cool_upper_camel_case": "Super Cool",
-    "super_freeze_upper_camel_case": "Super Freeze",
+    "super_cool_upper_camel_case": "Hurtig afkøling",
+    "super_freeze_upper_camel_case": "Super fryse",
     "input_password_cdc_tips": "Adgangskoden skal være på 8 til 20 tegn og bestå af mindst 1 tal, 1 stort bogstav, 1 lille bogstav og 1 specialtegn (#?!@$%^&*-).",
     "self_pump_setup_1": "Sluk for heappumpen, tryk længe på tænd/sluk-knappen og ned-knappen på samme tid i 3 sekunder, så blinker Wi-Fi-lyset.",
     "self_pump_setup_2": "Opret forbindelse til Wi-Fi i henhold til tip vist på APP'en. Når forbindelsen er vellykket, vil Wi-Fi-lyset være tændt.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## enheder kører ECO-tilstand",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Baseret på enhedens driftstilstand kan nogle funktioner muligvis ikke udføres korrekt.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Stor grill + blæser + mikrobølge"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Stor grill + blæser + mikrobølge",
+    "CL_DV_OV_baking_stopped": "Bagning i ## blev stoppet.",
+    "CL_DV_OV_check_to_confirm": "Tjek ovnen for at bekræfte."
 }

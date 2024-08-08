@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "RÉGLER LE WI-FI",
     "full": "Complet",
     "usage_frequency_metrics": "Métriques de fréquence d'utilisation",
-    "super_cool_upper_camel_case": "Super cool",
+    "super_cool_upper_camel_case": "Refroidissement rapide",
     "super_freeze_upper_camel_case": "Super congélation",
     "input_password_cdc_tips": "Le mot de passe doit comporter entre 8 et 20 caractères et se composer d'au moins 1 chiffre, 1 lettre majuscule, 1 lettre minuscule et 1 caractère spécial (#?!@$%^&*-).",
     "self_pump_setup_1": "Éteignez la pompe à tas, appuyez longuement sur le bouton Marche/Arrêt et le bouton Bas en même temps pendant 3 secondes, puis le voyant Wi-Fi clignotera.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## appareils fonctionnent en mode ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "En fonction du mode de fonctionnement de l'appareil, certaines fonctionnalités peuvent ne pas être exécutées correctement.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Grand gril +  Ventilateur + Micro-ondes"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Grand gril +  Ventilateur + Micro-ondes",
+    "CL_DV_OV_baking_stopped": "La cuisson en ## a été arrêtée.",
+    "CL_DV_OV_check_to_confirm": "Vérifiez le four pour confirmer."
 }

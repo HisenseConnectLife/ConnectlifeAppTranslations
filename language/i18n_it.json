@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "IMPOSTA Wi-Fi",
     "full": "Pieno",
     "usage_frequency_metrics": "Metriche di frequenza di utilizzo",
-    "super_cool_upper_camel_case": "Super Cool",
-    "super_freeze_upper_camel_case": "Super Freeze",
+    "super_cool_upper_camel_case": "Raffreddamento veloce",
+    "super_freeze_upper_camel_case": "Super congelamento",
     "input_password_cdc_tips": "La password deve essere lunga da 8 a 20 caratteri e deve essere composta da almeno 1 numero, 1 lettera maiuscola, 1 lettera minuscola e 1 carattere speciale (#?!@$%^&*-).",
     "self_pump_setup_1": "Spegnere la pompa dell'heap, premere a lungo il pulsante On/Off e il pulsante Giù contemporaneamente per 3 secondi, quindi la spia Wi-Fi lampeggerà.",
     "self_pump_setup_2": "Connettiti al Wi-Fi in base ai suggerimenti visualizzati sull'APP. Quando la connessione ha esito positivo, la spia Wi-Fi si accenderà.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## dispositivi stanno utilizzando la modalità ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "In base alla modalità operativa del dispositivo, alcune funzionalità potrebbero non essere eseguite correttamente.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Griglia grande + Ventola + Microonde"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Griglia grande + Ventola + Microonde",
+    "CL_DV_OV_baking_stopped": "La cottura in ## è stata interrotta.",
+    "CL_DV_OV_check_to_confirm": "Controlla il forno per conferma."
 }

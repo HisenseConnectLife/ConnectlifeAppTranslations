@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "הגדר Wi-Fi",
     "full": "מלא",
     "usage_frequency_metrics": "מדדי תדירות שימוש מראש",
-    "super_cool_upper_camel_case": "סופר מגניב",
-    "super_freeze_upper_camel_case": "הקפאת סופר",
+    "super_cool_upper_camel_case": "קירור מהיר",
+    "super_freeze_upper_camel_case": "סופר הקפאה",
     "input_password_cdc_tips": "הסיסמה חייבת להיות באורך של 8 עד 20 תווים ולהכיל לפחות מספר אחד, אות גדולה אחת, אות קטנה אחת ו-1 תו מיוחד (#?!@$%^&*-).",
     "self_pump_setup_1": "כבה את משאבת הערימה, לחץ לחיצה ארוכה על כפתור ההפעלה/כיבוי וכפתור למטה בו-זמנית למשך 3 שניות, ואז נורית ה-Wi-Fi תהבהב.",
     "self_pump_setup_2": "התחבר ל-Wi-Fi בהתאם לטיפים המוצגים באפליקציה. כאשר החיבור מצליח, נורית ה-Wi-Fi תידלק.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## מכשירים פועלים במצב ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "בהתבסס על מצב ההפעלה של המכשיר, ייתכן שחלק מהתכונות לא יופעלו בהצלחה.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": ""
+    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_baking_stopped": "האפייה ב-## הופסקה.",
+    "CL_DV_OV_check_to_confirm": "בדוק את התנור כדי לאשר."
 }

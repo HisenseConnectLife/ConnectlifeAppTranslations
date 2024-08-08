@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "DEFINIR Wi-Fi",
     "full": "Completo",
     "usage_frequency_metrics": "Métricas de prequência de utilização",
-    "super_cool_upper_camel_case": "Super Cool",
-    "super_freeze_upper_camel_case": "Super Freeze",
+    "super_cool_upper_camel_case": "Resfriamento rápido",
+    "super_freeze_upper_camel_case": "Super congelamento",
     "input_password_cdc_tips": "A senha deve ter de 8 a 20 caracteres e consistir de pelo menos 1 número, 1 letra maiúscula, 1 letra minúscula e 1 caractere especial (#?!@$%^&*-).",
     "self_pump_setup_1": "Desligue a bomba de pilha, pressione longamente o botão Ligar/Desligar e o botão Para baixo ao mesmo tempo por 3 segundos e a luz do Wi-Fi piscará.",
     "self_pump_setup_2": "Conecte-se ao Wi-Fi conforme dicas exibidas no APP. Quando a conexão for bem-sucedida, a luz do Wi-Fi acenderá.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## dispositivos estão executando o modo ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Com base no modo operacional do dispositivo, alguns recursos podem não ser executados com sucesso.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Grelha grande + Ventilador + Micro-ondas"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Grelha grande + Ventilador + Micro-ondas",
+    "CL_DV_OV_baking_stopped": "O cozimento em ## foi interrompido.",
+    "CL_DV_OV_check_to_confirm": "Verifique o forno para confirmar."
 }
