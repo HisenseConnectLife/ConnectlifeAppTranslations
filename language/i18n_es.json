@@ -2238,8 +2238,8 @@
     "set_wifi_uppercase": "SET Wi-Fi",
     "full": "Completo",
     "usage_frequency_metrics": "Métricas de frecuencia de uso",
-    "super_cool_upper_camel_case": "Super Cool",
-    "super_freeze_upper_camel_case": "Super Freeze",
+    "super_cool_upper_camel_case": "Enfriamiento rápido",
+    "super_freeze_upper_camel_case": "Súper congelación",
     "input_password_cdc_tips": "La contraseña debe tener entre 8 y 20 caracteres y constar de al menos 1 número, 1 letra mayúscula, 1 letra minúscula y 1 carácter especial (#?!@$%^&*-).",
     "self_pump_setup_1": "Apague la bomba de la pila, mantenga pulsado el botón On/Off y el botón Abajo al mismo tiempo durante 3 segundos, entonces la luz Wi-Fi parpadeará.",
     "self_pump_setup_2": "Conéctese al Wi-Fi siguiendo los consejos que aparecen en la APP. Cuando la conexión tenga éxito, la luz Wi-Fi se encenderá.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## dispositivos están ejecutando el modo ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Según el modo operativo del dispositivo, es posible que algunas funciones no se ejecuten correctamente.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Grill grande +  ventilador + microondas"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Grill grande +  ventilador + microondas",
+    "CL_DV_OV_baking_stopped": "Se detuvo el horneado en ##.",
+    "CL_DV_OV_check_to_confirm": "Revisa el horno para confirmar."
 }

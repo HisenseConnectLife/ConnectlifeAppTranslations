@@ -2238,7 +2238,7 @@
     "set_wifi_uppercase": "Wi-Fi ОРНАТУ",
     "full": "Толық",
     "usage_frequency_metrics": "Қолдану жиілігі көрсеткіштері",
-    "super_cool_upper_camel_case": "Өте суық",
+    "super_cool_upper_camel_case": "Жылдам салқындату",
     "super_freeze_upper_camel_case": "Супер мұздату",
     "input_password_cdc_tips": "Құпия сөздің ұзындығы 8-20 таңба болуы керек және кемінде 1 сан, 1 бас әріп, 1 кіші әріп және 1 арнайы таңбадан (#?!@$%^&*-) тұруы керек.",
     "self_pump_setup_1": "Үйінді сорғыны өшіріңіз, Қосу/Өшіру түймесін және Төмен түймесін бір уақытта 3 секунд ұзақ басып тұрыңыз, содан кейін Wi-Fi шамы жыпылықтайды.",
@@ -3998,5 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## құрылғы ЭКО режимін қосуда",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Құрылғының жұмыс режиміне байланысты кейбір мүмкіндіктер сәтті орындалмауы мүмкін.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Үлкен гриль + желдеткіш + СВЧ (Қысқа толқынды пеш)"
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Үлкен гриль + желдеткіш + СВЧ (Қысқа толқынды пеш)",
+    "CL_DV_OV_baking_stopped": "## ішінде пісіру тоқтатылды.",
+    "CL_DV_OV_check_to_confirm": "Растау үшін пешті тексеріңіз."
 }
