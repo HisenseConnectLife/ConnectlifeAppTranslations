@@ -3998,7 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## peranti menjalankan mod ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "Berdasarkan mod pengendalian peranti, beberapa ciri mungkin tidak berjaya dilaksanakan.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Gril besar + Kipas + Ketuhar gelombang mikro",
     "CL_DV_OV_baking_stopped": "Pembakaran dalam ## telah dihentikan.",
     "CL_DV_OV_check_to_confirm": "Periksa ketuhar untuk mengesahkan."
 }
