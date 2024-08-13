@@ -2230,7 +2230,7 @@
     "rf_child_lock_desc": "锁定主操控面板及分配器面板",
     "rf_eco_desc": "开启或关闭节能模式。冰箱冷藏室切换到 43°F(6°C) ,冷冻室切换到1°F(-17°C)。",
     "rf_super_cool_desc": "快速降低冷藏区温度，确保食物在较高使用频次或者温度环境下快速进入稳定的保鲜状态。",
-    "rf_super_freeze_desc": "快速降低冷冻区温度，确保食物能够在较高的温度环境下，维持稳定的冷冻状态。",
+    "rf_super_freeze_desc": "快速降低冷冻区温度，确保在频繁开关冰箱及环境温度较高时，食材依然可保持稳定的冷冻状态。",
     "rf_ice_maker_desc": "可切换制冰机的开关状态。",
     "diagnosing": "诊断中...",
     "new_device_found": "发现新设备",
@@ -3998,7 +3998,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 设备正在运行 ECO 模式",
     "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}",
     "CL_AU_AC_automation_features_may_not_execute_key": "根据设备的操作模式，某些功能可能无法成功执行。",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "大烤架+风扇+微波炉",
     "CL_DV_OV_baking_stopped": "## 中的烘烤已停止。",
     "CL_DV_OV_check_to_confirm": "检查烤箱来确认。"
 }
