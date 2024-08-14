@@ -109,7 +109,7 @@
     "auto_action": "AZIONE",
     "auto_trigger_lowercase": "Attivazione",
     "auto_manual_triggered": "Attivato manualmente",
-    "auto_manual_triggered_tips": "Accendi la scena manualmente",
+    "auto_manual_triggered_tips": "Attivare manualmente la routine",
     "auto_time_base": "Temporizzato",
     "auto_time_base_trips": "Esempio: Ogni giorno alle 12:00",
     "auto_appliance_status": "Stato elettrodomestico",

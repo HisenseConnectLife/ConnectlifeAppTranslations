@@ -109,7 +109,7 @@
     "auto_action": "操作",
     "auto_trigger_lowercase": "触发器",
     "auto_manual_triggered": "手动触发",
-    "auto_manual_triggered_tips": "手动打开场景",
+    "auto_manual_triggered_tips": "手动开启例程",
     "auto_time_base": "基于时间",
     "auto_time_base_trips": "示例：每天中午12点",
     "auto_appliance_status": "电器状态",

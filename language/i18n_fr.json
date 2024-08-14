@@ -109,7 +109,7 @@
     "auto_action": "ACTION",
     "auto_trigger_lowercase": "Evènement déclencheur",
     "auto_manual_triggered": "Déclenché manuellement",
-    "auto_manual_triggered_tips": "Allumez la scène manuellement",
+    "auto_manual_triggered_tips": "Activer la routine manuellement",
     "auto_time_base": "Basé sur l'heure",
     "auto_time_base_trips": "Exemple: tous les jours à 12h00",
     "auto_appliance_status": "Statut de l'appareil",

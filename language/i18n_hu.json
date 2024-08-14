@@ -109,7 +109,7 @@
     "auto_action": "AKCIÓ",
     "auto_trigger_lowercase": "Indító",
     "auto_manual_triggered": "Manuálisan indítva",
-    "auto_manual_triggered_tips": "Kapcsolja be a jelenetet kézzel",
+    "auto_manual_triggered_tips": "Kapcsolja be a rutint manuálisan",
     "auto_time_base": "Idő alapú",
     "auto_time_base_trips": "Példa: Minden nap 12:00-kor",
     "auto_appliance_status": "A készülék státusa",

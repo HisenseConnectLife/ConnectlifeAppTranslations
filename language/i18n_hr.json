@@ -109,7 +109,7 @@
     "auto_action": "RADNJA",
     "auto_trigger_lowercase": "Okidač",
     "auto_manual_triggered": "Ručno pokrenuto",
-    "auto_manual_triggered_tips": "Ručno uključite scenu",
+    "auto_manual_triggered_tips": "Ručno uključite rutinu",
     "auto_time_base": "Vremenski temeljeno",
     "auto_time_base_trips": "Primjer: Svaki dan u 12:00",
     "auto_appliance_status": "Status kućanskog uređaja",

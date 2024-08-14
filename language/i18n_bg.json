@@ -109,7 +109,7 @@
     "auto_action": "ДЕЙСТВИЕ",
     "auto_trigger_lowercase": "Задействане",
     "auto_manual_triggered": "Ръчно задействан",
-    "auto_manual_triggered_tips": "Ръчно включване на сцената",
+    "auto_manual_triggered_tips": "Включете рутината ръчно",
     "auto_time_base": "На база точно време",
     "auto_time_base_trips": "Например:Всеки ден в 12:00",
     "auto_appliance_status": "Състояние на уреда",

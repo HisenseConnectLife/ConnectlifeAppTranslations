@@ -109,7 +109,7 @@
     "auto_action": "EYLEM",
     "auto_trigger_lowercase": "Tetiklemek",
     "auto_manual_triggered": "Manuel olarak tetiklendi",
-    "auto_manual_triggered_tips": "Sahneyi manuel olarak açın",
+    "auto_manual_triggered_tips": "Rutini manuel olarak açın",
     "auto_time_base": "Zamana dayalı",
     "auto_time_base_trips": "Örnek: her gün öğlen 12:00",
     "auto_appliance_status": "cihaz durumu",

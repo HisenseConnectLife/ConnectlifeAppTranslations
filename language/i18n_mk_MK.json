@@ -109,7 +109,7 @@
     "auto_action": "АКТИВНОСТ",
     "auto_trigger_lowercase": "Прекинувач",
     "auto_manual_triggered": "Рачно покренување",
-    "auto_manual_triggered_tips": "Вклучете ја сцената рачно",
+    "auto_manual_triggered_tips": "Вклучете ја рутината рачно",
     "auto_time_base": "Засновано на време",
     "auto_time_base_trips": "Пример: 12:00 на пладне секој ден",
     "auto_appliance_status": "Статус на апаратот",

@@ -109,7 +109,7 @@
     "auto_action": "ΕΝΕΡΓΕΙΑ",
     "auto_trigger_lowercase": "Flip-flop",
     "auto_manual_triggered": "Ενεργοποιήθηκε χειροκίνητα",
-    "auto_manual_triggered_tips": "Ενεργοποιήστε τη σκηνή χειροκίνητα",
+    "auto_manual_triggered_tips": "Ενεργοποιήστε τη ρουτίνα χειροκίνητα",
     "auto_time_base": "Με βάση τον χρόνο",
     "auto_time_base_trips": "Παράδειγμα: 12:00 το μεσημέρι κάθε μέρα",
     "auto_appliance_status": "Κατάσταση συσκευής",

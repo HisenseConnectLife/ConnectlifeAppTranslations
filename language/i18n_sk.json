@@ -109,7 +109,7 @@
     "auto_action": "AKCIA",
     "auto_trigger_lowercase": "Spustiť",
     "auto_manual_triggered": "Ručné spustenie",
-    "auto_manual_triggered_tips": "Scénu zapnite ručne",
+    "auto_manual_triggered_tips": "Zapnite rutinu manuálne",
     "auto_time_base": "Nastavené na konkrétny čas",
     "auto_time_base_trips": "Príklad: Každý deň o 12:00",
     "auto_appliance_status": "Stav zariadenia",
