@@ -109,7 +109,7 @@
     "auto_action": "ACTIE",
     "auto_trigger_lowercase": "Activatie",
     "auto_manual_triggered": "Handmatig geactiveerd",
-    "auto_manual_triggered_tips": "Schakel de scène handmatig in",
+    "auto_manual_triggered_tips": "Schakel de routine handmatig in",
     "auto_time_base": "Op tijd gebaseerd",
     "auto_time_base_trips": "Bijvoorbeeld: Elke dag om 12:00 uur",
     "auto_appliance_status": "Status apparaat",

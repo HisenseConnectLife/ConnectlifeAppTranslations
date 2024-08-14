@@ -109,7 +109,7 @@
     "auto_action": "ДЕЙСТВИЕ",
     "auto_trigger_lowercase": "Условие",
     "auto_manual_triggered": "Активировано вручную",
-    "auto_manual_triggered_tips": "Включите сцену вручную",
+    "auto_manual_triggered_tips": "Включите процедуру вручную.",
     "auto_time_base": "По времени",
     "auto_time_base_trips": "Пример: каждый день в 12:00",
     "auto_appliance_status": "Статус устройства",

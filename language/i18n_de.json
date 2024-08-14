@@ -109,7 +109,7 @@
     "auto_action": "AKTION",
     "auto_trigger_lowercase": "Auslöser",
     "auto_manual_triggered": "Manuell ausgelöst",
-    "auto_manual_triggered_tips": "Schalten Sie die Szene manuell ein",
+    "auto_manual_triggered_tips": "Schalten Sie die Routine manuell ein",
     "auto_time_base": "Zeitgesteuert",
     "auto_time_base_trips": "Zum Beispiel: Jeden Tag um 12.00 Uhr",
     "auto_appliance_status": "Gerätestatus",

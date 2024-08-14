@@ -109,7 +109,7 @@
     "auto_action": "ACTION",
     "auto_trigger_lowercase": "Trigger",
     "auto_manual_triggered": "Manually triggered",
-    "auto_manual_triggered_tips": "Turn on the scene manually",
+    "auto_manual_triggered_tips": "Turn on the routine manually",
     "auto_time_base": "Time based",
     "auto_time_base_trips": "Example: 12:00 noon every day",
     "auto_appliance_status": "Appliance status",

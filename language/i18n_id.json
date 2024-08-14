@@ -109,7 +109,7 @@
     "auto_action": "TINDAKAN",
     "auto_trigger_lowercase": "Pemicu",
     "auto_manual_triggered": "Dipicu secara manual",
-    "auto_manual_triggered_tips": "Nyalakan adegan secara manual",
+    "auto_manual_triggered_tips": "Aktifkan rutinitas secara manual",
     "auto_time_base": "Bedasarkan Waktu",
     "auto_time_base_trips": "Contoh: Setiap hari pukul 12.00",
     "auto_appliance_status": "Status peralatan",

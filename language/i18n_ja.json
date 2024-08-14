@@ -109,7 +109,7 @@
     "auto_action": "運転設定",
     "auto_trigger_lowercase": "条件設定",
     "auto_manual_triggered": "お好みモード",
-    "auto_manual_triggered_tips": "シーンを手動でオンにする",
+    "auto_manual_triggered_tips": "ルーチンを手動でオンにする",
     "auto_time_base": "スケジュール設定",
     "auto_time_base_trips": "例えば、毎日午前12時に",
     "auto_appliance_status": "機器状態",

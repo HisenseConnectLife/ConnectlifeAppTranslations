@@ -109,7 +109,7 @@
     "auto_action": "TOIMINTO",
     "auto_trigger_lowercase": "Kytkentä",
     "auto_manual_triggered": "Käsikytkentä",
-    "auto_manual_triggered_tips": "Kytke näyttämö manuaalisesti päälle",
+    "auto_manual_triggered_tips": "Ota rutiini käyttöön manuaalisesti",
     "auto_time_base": "Aikaan perustuva",
     "auto_time_base_trips": "Esimerkki: Joka päivä kello 12:00",
     "auto_appliance_status": "Laitteen tila",

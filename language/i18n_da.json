@@ -109,7 +109,7 @@
     "auto_action": "HANDLING",
     "auto_trigger_lowercase": "Udløser",
     "auto_manual_triggered": "Manuelt udløst",
-    "auto_manual_triggered_tips": "Tænd for scenen manuelt",
+    "auto_manual_triggered_tips": "Slå rutinen til manuelt",
     "auto_time_base": "Tidsbaseret",
     "auto_time_base_trips": "Eksempel: Hver dag kl. 12:00",
     "auto_appliance_status": "Status for apparat",

@@ -109,7 +109,7 @@
     "auto_action": "ДІЯ",
     "auto_trigger_lowercase": "Запускний елемент",
     "auto_manual_triggered": "Запускається вручну",
-    "auto_manual_triggered_tips": "Увімкніть сцену вручну",
+    "auto_manual_triggered_tips": "Увімкніть програму вручну",
     "auto_time_base": "На основі часу",
     "auto_time_base_trips": "Приклад: щодня о 12:00",
     "auto_appliance_status": "Статус пристрою",

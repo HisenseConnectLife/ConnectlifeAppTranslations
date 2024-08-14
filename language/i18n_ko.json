@@ -109,7 +109,7 @@
     "auto_action": "작업",
     "auto_trigger_lowercase": "트리거",
     "auto_manual_triggered": "수동으로 트리거됨",
-    "auto_manual_triggered_tips": "수동으로 장면 켜기",
+    "auto_manual_triggered_tips": "루틴을 수동으로 켜세요",
     "auto_time_base": "시간 기반",
     "auto_time_base_trips": "예: 매일 12: 00시",
     "auto_appliance_status": "기기 상태",

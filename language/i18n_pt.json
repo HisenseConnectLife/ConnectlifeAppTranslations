@@ -109,7 +109,7 @@
     "auto_action": "AÇÃO",
     "auto_trigger_lowercase": "Ativador",
     "auto_manual_triggered": "Ativado manualmente",
-    "auto_manual_triggered_tips": "Ligue a cena manualmente",
+    "auto_manual_triggered_tips": "Ative a rotina manualmente",
     "auto_time_base": "Tendo como base a hora",
     "auto_time_base_trips": "Exemplo: todos os dias às 12:00",
     "auto_appliance_status": "Estado do aparelho",
