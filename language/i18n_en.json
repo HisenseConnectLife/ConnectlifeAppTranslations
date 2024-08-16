@@ -3535,7 +3535,7 @@
     "blue_cancel": "CONTINUE WITHOUT BLUETOOTH",
     "blue_power_off_pop_title": "ConnectLife wants to turn ON the Bluetooth for this device",
     "recommended": "Recommended",
-    "alexa_auth_title": "Want to order ConnectLife with Alexa?",
+    "alexa_auth_title": "Want to connect ConnectLife with Alexa?",
     "alexa_auth_desc": "Click <b>Allow</b> to link your ConnectLife account with Alexa.",
     "not_find_device": "Can't find the device you're looking for?",
     "found": "Found",
@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Based on device's operating mode, some features may not be executed successfully.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Large grill + Fan + Microwave",
     "CL_DV_OV_baking_stopped": "Baking in ## was stopped.",
-    "CL_DV_OV_check_to_confirm": "Check the oven to confirm."
+    "CL_DV_OV_check_to_confirm": "Check the oven to confirm.",
+    "CL_CF_CO_buy": "Buy"
 }

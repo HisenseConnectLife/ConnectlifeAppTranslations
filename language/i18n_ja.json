@@ -3254,7 +3254,7 @@
     "air_care_elder": "",
     "drum_illumination_desc": "ドラム照明はドラムの内側を照らします。これは、マシンに荷物を積み込んだり空にしたりするときに役立ちます。ドラム内に残っている靴下が簡単に見えるだけです。 また、リフターやリフターインサートを清掃する際の検査も容易になります。",
     "turn_on_drum_illumination": "イルミネーションをオン/オフする",
-    "wine_time": "時間",
+    "wine_time": "回",
     "delete_account_camel_case": "アカウントの削除",
     "program_mode_desc": "プログラム モードでは、乾燥プログラムをカスタマイズし、ニーズに基づいて調整できます。 以下では、さまざまなモードとその機能について説明します。",
     "program_mode_available": "以下の洗浄モードが利用可能です。",
@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "デバイスの動作モードによっては、一部の機能が正常に実行されない場合があります。",
     "CL_DV_OV_g800_mode_grill_fan_micro": "大型グリル + 扇風機 + 電子レンジ",
     "CL_DV_OV_baking_stopped": "## でのベイク処理が停止されました。",
-    "CL_DV_OV_check_to_confirm": "オーブンをチェックして確認してください。"
+    "CL_DV_OV_check_to_confirm": "オーブンをチェックして確認してください。",
+    "CL_CF_CO_buy": "買う"
 }

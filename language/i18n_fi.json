@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Laitteen käyttötilasta johtuen jotkin ominaisuudet eivät ehkä toimi onnistuneesti.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Suuri grilli + tuuletin + mikroaallot",
     "CL_DV_OV_baking_stopped": "Leipominen vuonna ## lopetettiin.",
-    "CL_DV_OV_check_to_confirm": "Tarkista uuni vahvistaaksesi."
+    "CL_DV_OV_check_to_confirm": "Tarkista uuni vahvistaaksesi.",
+    "CL_CF_CO_buy": "Ostaa"
 }

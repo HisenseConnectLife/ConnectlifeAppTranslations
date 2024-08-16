@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "डिवाइस के ऑपरेटिंग मोड के आधार पर, कुछ सुविधाएँ सफलतापूर्वक निष्पादित नहीं हो सकतीं।",
     "CL_DV_OV_g800_mode_grill_fan_micro": "बड़ी ग्रिल + पंखा + माइक्रोवेव",
     "CL_DV_OV_baking_stopped": "## में बेकिंग रोक दी गई।",
-    "CL_DV_OV_check_to_confirm": "पुष्टि के लिए ओवन की जाँच करें।"
+    "CL_DV_OV_check_to_confirm": "पुष्टि के लिए ओवन की जाँच करें।",
+    "CL_CF_CO_buy": "खरीदना"
 }

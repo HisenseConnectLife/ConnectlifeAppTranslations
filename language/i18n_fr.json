@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "En fonction du mode de fonctionnement de l'appareil, certaines fonctionnalités peuvent ne pas être exécutées correctement.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Grand gril +  Ventilateur + Micro-ondes",
     "CL_DV_OV_baking_stopped": "La cuisson en ## a été arrêtée.",
-    "CL_DV_OV_check_to_confirm": "Vérifiez le four pour confirmer."
+    "CL_DV_OV_check_to_confirm": "Vérifiez le four pour confirmer.",
+    "CL_CF_CO_buy": "Acheter"
 }

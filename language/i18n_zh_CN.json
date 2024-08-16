@@ -3254,7 +3254,7 @@
     "air_care_elder": "",
     "drum_illumination_desc": "滚筒照明照亮滚筒内部，这有助于您在装载和清空机器时 - 更容易看到滚筒内剩余的袜子。它还能在清洁搅拌叶片时帮助照明。",
     "turn_on_drum_illumination": "打开/关闭照明灯",
-    "wine_time": "时间程序",
+    "wine_time": "次",
     "delete_account_camel_case": "删除账号",
     "program_mode_desc": "",
     "program_mode_available": "",
@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "根据设备的操作模式，某些功能可能无法成功执行。",
     "CL_DV_OV_g800_mode_grill_fan_micro": "大烤架+风扇+微波炉",
     "CL_DV_OV_baking_stopped": "## 中的烘烤已停止。",
-    "CL_DV_OV_check_to_confirm": "检查烤箱来确认。"
+    "CL_DV_OV_check_to_confirm": "检查烤箱来确认。",
+    "CL_CF_CO_buy": "买"
 }

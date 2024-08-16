@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Az eszköz működési módjától függően előfordulhat, hogy egyes funkciók végrehajtása nem sikerül.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Nagy grill + légkeverés + mikrohullám",
     "CL_DV_OV_baking_stopped": "A ##-ban leállított sütés.",
-    "CL_DV_OV_check_to_confirm": "Ellenőrizze a sütőt a megerősítéshez."
+    "CL_DV_OV_check_to_confirm": "Ellenőrizze a sütőt a megerősítéshez.",
+    "CL_CF_CO_buy": "Vétel"
 }

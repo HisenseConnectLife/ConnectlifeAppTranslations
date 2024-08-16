@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Pe baza modului de operare al dispozitivului, este posibil ca unele funcții să nu fie executate cu succes.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Grătar mare + ventilator + microunde",
     "CL_DV_OV_baking_stopped": "Coacerea în ## a fost oprită.",
-    "CL_DV_OV_check_to_confirm": "Verificați cuptorul pentru a confirma."
+    "CL_DV_OV_check_to_confirm": "Verificați cuptorul pentru a confirma.",
+    "CL_CF_CO_buy": "Cumpăra"
 }

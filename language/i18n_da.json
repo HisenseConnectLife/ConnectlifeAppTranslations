@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Baseret på enhedens driftstilstand kan nogle funktioner muligvis ikke udføres korrekt.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Stor grill + blæser + mikrobølge",
     "CL_DV_OV_baking_stopped": "Bagning i ## blev stoppet.",
-    "CL_DV_OV_check_to_confirm": "Tjek ovnen for at bekræfte."
+    "CL_DV_OV_check_to_confirm": "Tjek ovnen for at bekræfte.",
+    "CL_CF_CO_buy": "Købe"
 }

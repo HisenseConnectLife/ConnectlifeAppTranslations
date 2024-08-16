@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "בהתבסס על מצב ההפעלה של המכשיר, ייתכן שחלק מהתכונות לא יופעלו בהצלחה.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "גריל גדול + מאוורר + מיקרוגל",
     "CL_DV_OV_baking_stopped": "האפייה ב-## הופסקה.",
-    "CL_DV_OV_check_to_confirm": "בדוק את התנור כדי לאשר."
+    "CL_DV_OV_check_to_confirm": "בדוק את התנור כדי לאשר.",
+    "CL_CF_CO_buy": "לִקְנוֹת"
 }
