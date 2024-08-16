@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "In base alla modalità operativa del dispositivo, alcune funzionalità potrebbero non essere eseguite correttamente.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Griglia grande + Ventola + Microonde",
     "CL_DV_OV_baking_stopped": "La cottura in ## è stata interrotta.",
-    "CL_DV_OV_check_to_confirm": "Controlla il forno per conferma."
+    "CL_DV_OV_check_to_confirm": "Controlla il forno per conferma.",
+    "CL_CF_CO_buy": "Acquistare"
 }

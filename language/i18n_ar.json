@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "بناءً على وضع تشغيل الجهاز، قد لا يتم تنفيذ بعض الميزات بنجاح.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "شواية كبيرة + مروحة + ميكروويف",
     "CL_DV_OV_baking_stopped": "تم إيقاف الخبز في ##.",
-    "CL_DV_OV_check_to_confirm": "افحص الفرن للتأكيد."
+    "CL_DV_OV_check_to_confirm": "افحص الفرن للتأكيد.",
+    "CL_CF_CO_buy": "يشتري"
 }

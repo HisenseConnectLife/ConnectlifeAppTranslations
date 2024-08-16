@@ -195,7 +195,7 @@
     "ac_up_down_wind": "Aire arriba y abajo",
     "one": "lu.",
     "two": "ma.",
-    "three": "mi.",
+    "three": "Mi.",
     "four": "ju.",
     "five": "vi.",
     "six": "sá.",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "",
     "drum_illumination_desc": "La iluminación del tambor ilumina el interior del tambor, lo que le ayuda a cargar y vaciar la máquina; es simplemente más fácil ver el calcetín que queda dentro del tambor. También facilita la inspección al limpiar elevadores e inserciones de elevadores.",
     "turn_on_drum_illumination": "Encender/apagar la iluminación",
-    "wine_time": "Tiempo",
+    "wine_time": "Vez",
     "delete_account_camel_case": "Eliminar cuenta",
     "program_mode_desc": "El modo de programa le permite personalizar su programa de secado y ajustarlo según sus necesidades. A continuación puede leer sobre los diferentes modos y su funcionalidad.",
     "program_mode_available": "Están disponibles los siguientes modos de lavado:",
@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Según el modo operativo del dispositivo, es posible que algunas funciones no se ejecuten correctamente.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Grill grande +  ventilador + microondas",
     "CL_DV_OV_baking_stopped": "Se detuvo el horneado en ##.",
-    "CL_DV_OV_check_to_confirm": "Revisa el horno para confirmar."
+    "CL_DV_OV_check_to_confirm": "Revisa el horno para confirmar.",
+    "CL_CF_CO_buy": "Comprar"
 }

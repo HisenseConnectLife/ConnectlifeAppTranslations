@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Com base no modo operacional do dispositivo, alguns recursos podem não ser executados com sucesso.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Grelha grande + Ventilador + Micro-ondas",
     "CL_DV_OV_baking_stopped": "O cozimento em ## foi interrompido.",
-    "CL_DV_OV_check_to_confirm": "Verifique o forno para confirmar."
+    "CL_DV_OV_check_to_confirm": "Verifique o forno para confirmar.",
+    "CL_CF_CO_buy": "Comprar"
 }

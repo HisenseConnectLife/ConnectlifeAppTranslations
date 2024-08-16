@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Dựa trên chế độ hoạt động của thiết bị, một số tính năng có thể không được thực thi thành công.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Lò nướng lớn + Quạt + Lò vi sóng",
     "CL_DV_OV_baking_stopped": "Quá trình nướng ở ## đã dừng lại.",
-    "CL_DV_OV_check_to_confirm": "Kiểm tra lò để xác nhận."
+    "CL_DV_OV_check_to_confirm": "Kiểm tra lò để xác nhận.",
+    "CL_CF_CO_buy": "Mua"
 }

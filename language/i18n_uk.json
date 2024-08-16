@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Залежно від режиму роботи пристрою деякі функції можуть не виконуватися успішно.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Великий гриль + вентилятор + мікрохвилі",
     "CL_DV_OV_baking_stopped": "Випікання в ## зупинено.",
-    "CL_DV_OV_check_to_confirm": "Перевірте духовку, щоб підтвердити."
+    "CL_DV_OV_check_to_confirm": "Перевірте духовку, щоб підтвердити.",
+    "CL_CF_CO_buy": "купити"
 }

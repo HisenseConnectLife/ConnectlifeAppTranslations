@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Cihazın çalışma moduna bağlı olarak bazı özellikler başarıyla yürütülemeyebilir.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Büyük ızgara + Fan + Mikrodalga",
     "CL_DV_OV_baking_stopped": "##'da pişirme işlemi durduruldu.",
-    "CL_DV_OV_check_to_confirm": "Onaylamak için fırını kontrol edin."
+    "CL_DV_OV_check_to_confirm": "Onaylamak için fırını kontrol edin.",
+    "CL_CF_CO_buy": "Satın almak"
 }

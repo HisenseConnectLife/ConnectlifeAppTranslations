@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "بر اساس حالت عملکرد دستگاه، برخی از ویژگی ها ممکن است با موفقیت اجرا نشوند.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "گریل بزرگ + پنکه + مایکروفر",
     "CL_DV_OV_baking_stopped": "پخت در ## متوقف شد.",
-    "CL_DV_OV_check_to_confirm": "برای تایید فر را چک کنید."
+    "CL_DV_OV_check_to_confirm": "برای تایید فر را چک کنید.",
+    "CL_CF_CO_buy": "خرید کنید"
 }

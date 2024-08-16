@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Afhankelijk van de bedieningsmodus van het apparaat worden sommige functies mogelijk niet met succes uitgevoerd.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Grote grill + Magnetron",
     "CL_DV_OV_baking_stopped": "Het bakken in ## is gestopt.",
-    "CL_DV_OV_check_to_confirm": "Controleer de oven om dit te bevestigen."
+    "CL_DV_OV_check_to_confirm": "Controleer de oven om dit te bevestigen.",
+    "CL_CF_CO_buy": "Kopen"
 }

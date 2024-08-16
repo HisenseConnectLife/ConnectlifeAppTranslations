@@ -4000,5 +4000,6 @@
     "CL_AU_AC_automation_features_may_not_execute_key": "Въз основа на режима на работа на устройството някои функции може да не се изпълнят успешно.",
     "CL_DV_OV_g800_mode_grill_fan_micro": "Голям грил + вентилатор + микровълни",
     "CL_DV_OV_baking_stopped": "Печенето в ## беше спряно.",
-    "CL_DV_OV_check_to_confirm": "Проверете фурната, за да потвърдите."
+    "CL_DV_OV_check_to_confirm": "Проверете фурната, за да потвърдите.",
+    "CL_CF_CO_buy": "Купете"
 }
