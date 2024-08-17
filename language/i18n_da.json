@@ -4001,5 +4001,6 @@
     "CL_DV_OV_g800_mode_grill_fan_micro": "Stor grill + blæser + mikrobølge",
     "CL_DV_OV_baking_stopped": "Bagning i ## blev stoppet.",
     "CL_DV_OV_check_to_confirm": "Tjek ovnen for at bekræfte.",
-    "CL_CF_CO_buy": "Købe"
+    "CL_CF_CO_buy": "Købe",
+    "CL_CF_CS_window_ac_step_2": "Tryk og hold \"tilslut\"-knappen i ca. 6 sekunder, eller ret fjernbetjeningen mod modtageren og tryk på \"sving\"-knappen 6 gange, indtil displayet viser \"77\" eller WiFi-lyset begynder at blinke."
 }

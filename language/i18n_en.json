@@ -4001,5 +4001,6 @@
     "CL_DV_OV_g800_mode_grill_fan_micro": "Large grill + Fan + Microwave",
     "CL_DV_OV_baking_stopped": "Baking in ## was stopped.",
     "CL_DV_OV_check_to_confirm": "Check the oven to confirm.",
-    "CL_CF_CO_buy": "Buy"
+    "CL_CF_CO_buy": "Buy",
+    "CL_CF_CS_window_ac_step_2": "Press and hold the “connect” button for approx 6 secs, or aim the remote controller at the receiver and press the “swing” button 6 times, until the display shows “77”or WiFi light starts flashing."
 }
