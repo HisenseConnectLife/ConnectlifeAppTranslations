@@ -4002,5 +4002,6 @@
     "CL_DV_OV_baking_stopped": "Pečenie v ## bolo zastavené.",
     "CL_DV_OV_check_to_confirm": "Skontrolujte rúru a potvrďte.",
     "CL_CF_CO_buy": "Kúpiť",
-    "CL_CF_CS_window_ac_step_2": "Stlačte a podržte tlačidlo „connect“ na približne 6 sekúnd alebo namierte diaľkový ovládač na prijímač a stlačte 6-krát tlačidlo „swing“, kým sa na displeji nezobrazí „77“ alebo kým nezačne blikať kontrolka WiFi."
+    "CL_CF_CS_window_ac_step_2": "Stlačte a podržte tlačidlo „connect“ na približne 6 sekúnd alebo namierte diaľkový ovládač na prijímač a stlačte 6-krát tlačidlo „swing“, kým sa na displeji nezobrazí „77“ alebo kým nezačne blikať kontrolka WiFi.",
+    "CL_DV_OV_default_cooking_intensity": "PREDNASTAVENÁ INTENZITA VARENIA"
 }

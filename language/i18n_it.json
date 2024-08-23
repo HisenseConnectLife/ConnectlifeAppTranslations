@@ -921,7 +921,7 @@
     "oven_atag_extra_air_tips": "Per salutari coccole. Ora puoi avere la croccantezza e la bontà dei cibi fritti senza le calorie extra.\nQuesto metodo di cottura estremamente intensiva con aria calda non richiede grassi per garantire una crosta dorata croccante e deliziosa.\nIn combinazione con la speciale teglia perforata, (a seconda del modello), che incapsulano perfettamente il piatto tutt'intorno, otterrai risultati ancora migliori.\nIndicato per piccoli tagli di carne, pesce, verdure e prodotti surgelati già pronti, come patatine fritte e bocconcini di pollo.",
     "oven_atag_extra_frozen_tips": "Questo efficiente programma di cottura è la scelta perfetta per tutti i cibi surgelati e i pasti precotti.",
     "oven_atag_extra_auqa_tips": "AquaClean ti aiuta a mantenere il tuo forno in condizioni impeccabili. Tutto quello che devi fare è versare mezzo litro d'acqua in una teglia e accendere AquaClean dopo ogni utilizzo. In soli 30 minuti i risultati sono visibili sulla superficie del forno e sulle teglie. Macchie e grasso vengono ammorbiditi e possono essere rimossi facilmente.",
-    "oven_atag_extra_pizza_tips": "Questo programma con impostazione della temperatura di cottura fino a 300o C è stato appositamente progettato per aiutarti a cuocere la pizza, la focaccia, la focaccia e simili prelibatezze da forno perfette.",
+    "oven_atag_extra_pizza_tips": "Questo programma con impostazione della temperatura di cottura fino a 300 °C è stato appositamente progettato per aiutarti a cuocere la pizza, la focaccia, la focaccia e simili prelibatezze da forno perfette.",
     "oven_atag_extra_gentle_tips": "Questa funzione è incentrata sulla cottura delicata, lenta e uniforme. In questo modo l'umidità viene trattenuta all'interno e il cibo rimane tenerissimo e succoso. Adatto per preparare carne, pesce o dolci su un unico livello.",
     "setting_have_sent": "Le impostazioni sono state inviate al forno!",
     "pull_to_refresh": "SCORRI PER AGGIORNARE",
@@ -4002,5 +4002,6 @@
     "CL_DV_OV_baking_stopped": "La cottura in ## è stata interrotta.",
     "CL_DV_OV_check_to_confirm": "Controlla il forno per conferma.",
     "CL_CF_CO_buy": "Acquistare",
-    "CL_CF_CS_window_ac_step_2": "Premere e tenere premuto il pulsante \"Connect\" per circa 6 secondi oppure puntare il telecomando verso il ricevitore e premere il pulsante \"Swing\" 6 volte, finché il display non mostra \"77\" o la spia WiFi non inizia a lampeggiare."
+    "CL_CF_CS_window_ac_step_2": "Premere e tenere premuto il pulsante \"Connect\" per circa 6 secondi oppure puntare il telecomando verso il ricevitore e premere il pulsante \"Swing\" 6 volte, finché il display non mostra \"77\" o la spia WiFi non inizia a lampeggiare.",
+    "CL_DV_OV_default_cooking_intensity": "INTENSITÀ DI COTTURA PREDEFINITA"
 }

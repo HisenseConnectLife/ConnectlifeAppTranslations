@@ -4002,5 +4002,6 @@
     "CL_DV_OV_baking_stopped": "Quá trình nướng ở ## đã dừng lại.",
     "CL_DV_OV_check_to_confirm": "Kiểm tra lò để xác nhận.",
     "CL_CF_CO_buy": "Mua",
-    "CL_CF_CS_window_ac_step_2": "Nhấn và giữ nút “kết nối” trong khoảng 6 giây hoặc hướng bộ điều khiển từ xa vào đầu thu và nhấn nút “xoay” 6 lần cho đến khi màn hình hiển thị “77” hoặc đèn WiFi bắt đầu nhấp nháy."
+    "CL_CF_CS_window_ac_step_2": "Nhấn và giữ nút “kết nối” trong khoảng 6 giây hoặc hướng bộ điều khiển từ xa vào đầu thu và nhấn nút “xoay” 6 lần cho đến khi màn hình hiển thị “77” hoặc đèn WiFi bắt đầu nhấp nháy.",
+    "CL_DV_OV_default_cooking_intensity": "CƯỜNG ĐỘ NẤU ĂN MẶC ĐỊNH"
 }
