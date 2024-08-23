@@ -1850,8 +1850,8 @@
     "STR_PROG_TIME_PROGRAM": "תוכנית זמן",
     "STR_PROG_SELFCLEANING": "ניקוי עצמי",
     "stove": "תַנוּר",
-    "add_device": "Añadir dispositivo",
-    "get_manuals": "obtener manuales",
+    "add_device": "הוסף מכשיר",
+    "get_manuals": "קבל מדריכים",
     "device_not_on_this_list": "DISPOSITIVO NO EN ESTA LISTA",
     "choose_device_category_title": "Elija la categoría del dispositivo",
     "choose_device_category_desc": "Elija la categoría de dispositivo a la que pertenece su dispositivo.",
@@ -4002,5 +4002,6 @@
     "CL_DV_OV_baking_stopped": "האפייה ב-## הופסקה.",
     "CL_DV_OV_check_to_confirm": "בדוק את התנור כדי לאשר.",
     "CL_CF_CO_buy": "לִקְנוֹת",
-    "CL_CF_CS_window_ac_step_2": "לחץ והחזק את כפתור \"התחבר\" למשך כ-6 שניות, או כוון את השלט הרחוק אל המקלט ולחץ על כפתור \"הנדנדה\" 6 פעמים, עד שהתצוגה תראה \"77\" או שנורית ה-WiFi תתחיל להבהב."
+    "CL_CF_CS_window_ac_step_2": "לחץ והחזק את כפתור \"התחבר\" למשך כ-6 שניות, או כוון את השלט הרחוק אל המקלט ולחץ על כפתור \"הנדנדה\" 6 פעמים, עד שהתצוגה תראה \"77\" או שנורית ה-WiFi תתחיל להבהב.",
+    "CL_DV_OV_default_cooking_intensity": "עוצמת בישול ברירת מחדל"
 }

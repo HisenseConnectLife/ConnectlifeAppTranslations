@@ -4002,5 +4002,6 @@
     "CL_DV_OV_baking_stopped": "A ##-ban leállított sütés.",
     "CL_DV_OV_check_to_confirm": "Ellenőrizze a sütőt a megerősítéshez.",
     "CL_CF_CO_buy": "Vétel",
-    "CL_CF_CS_window_ac_step_2": "Nyomja meg és tartsa lenyomva a „csatlakozás” gombot kb. 6 másodpercig, vagy irányítsa a távirányítót a vevőre, és nyomja meg a „swing” gombot 6-szor, amíg a kijelzőn a „77” meg nem jelenik, vagy a WiFi jelzőfény el nem kezd villogni."
+    "CL_CF_CS_window_ac_step_2": "Nyomja meg és tartsa lenyomva a „csatlakozás” gombot kb. 6 másodpercig, vagy irányítsa a távirányítót a vevőre, és nyomja meg a „swing” gombot 6-szor, amíg a kijelzőn a „77” meg nem jelenik, vagy a WiFi jelzőfény el nem kezd villogni.",
+    "CL_DV_OV_default_cooking_intensity": "ALAPÉRTELMEZETT SÜTÉSI INTENZITÁS"
 }
