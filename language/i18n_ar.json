@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "متى ## هو @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "أدخل المدينة…",
+    "enter_city_key": "ابحث عن المدينة",
     "add_key": "أضف",
     "select_logic_relation_ship": "اختر العلاقة المنطقية",
     "no_scene_key": "لا يوجد مشهد",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "افحص الفرن للتأكيد.",
     "CL_CF_CO_buy": "يشتري",
     "CL_CF_CS_window_ac_step_2": "اضغط مع الاستمرار على زر \"الاتصال\" لمدة 6 ثوانٍ تقريبًا، أو وجه جهاز التحكم عن بعد نحو جهاز الاستقبال واضغط على زر \"التأرجح\" 6 مرات، حتى تُظهر الشاشة \"77\" أو يبدأ ضوء WiFi في الوميض.",
-    "CL_DV_OV_default_cooking_intensity": "كثافة الطهي الافتراضية"
+    "CL_DV_OV_default_cooking_intensity": "كثافة الطهي الافتراضية",
+    "CL_DV_HOB_residual_heat_title_pop": "الحرارة المتبقية",
+    "CL_DV_HOB_residual_heat_content_pop": "لا تزال منطقة الطهي ساخنة. احرص على عدم لمس منطقة الطهي الساخنة أو وضع أي أشياء حساسة للحرارة عليها.",
+    "CL_DV_HOB_hood_mode_setting": "إعدادات وضع غطاء المحرك",
+    "CL_DV_HOB_refresh_mode_setting": "إعدادات وضع التحديث",
+    "CL_DV_HOB_grease_filter_profile": "خيارات ملف مرشح الشحوم",
+    "CL_DV_HOB_hood_mode_setting_content": "اضبط وضع الشفاط. عندما يكون الشفاط في الوضع التلقائي، فإنه سيبدأ العمل بمجرد بدء عملية الطهي.",
+    "CL_DV_HOB_hood_mode_setting_hint": "إذا تم إيقاف تشغيل الوضع التلقائي، فسيكون الوضع يدويًا.",
+    "CL_DV_HOB_automatic_mode": "الوضع التلقائي",
+    "CL_DV_HOB_refresh_setting_hint": "إذا كان وضع التحديث قيد التشغيل، فسيبدأ الجهاز تلقائيًا في استخدام وضع التحديث عندما يكون الغطاء نشطًا.",
+    "CL_DV_HOB_grease_filter_profile_content": "ضبط مدة عمر فلتر الشحوم. \n\n يستخدم P1 بشكل أساسي للغليان والقلي الخفيف. يستخدم P2 للغليان المتوازن والقلي المتوسط. يستخدم P3 للقلي الثقيل.",
+    "CL_DV_HOB_hood_mode_manual": "يدوي"
 }

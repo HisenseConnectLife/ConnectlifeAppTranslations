@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "When ## is @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "Enter City...",
+    "enter_city_key": "Search city",
     "add_key": "Add",
     "select_logic_relation_ship": "Select Logic Relationship",
     "no_scene_key": "no scene",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "Check the oven to confirm.",
     "CL_CF_CO_buy": "Buy",
     "CL_CF_CS_window_ac_step_2": "Press and hold the “connect” button for approx 6 secs, or aim the remote controller at the receiver and press the “swing” button 6 times, until the display shows “77”or WiFi light starts flashing.",
-    "CL_DV_OV_default_cooking_intensity": "DEFAULT COOKING INTENSITY"
+    "CL_DV_OV_default_cooking_intensity": "DEFAULT COOKING INTENSITY",
+    "CL_DV_HOB_residual_heat_title_pop": "Residual heat",
+    "CL_DV_HOB_residual_heat_content_pop": "The cooking zone is still hot. Be careful not to touch the hot cooking zone or to place any heat-sensitive items on it.",
+    "CL_DV_HOB_hood_mode_setting": "Hood mode settings",
+    "CL_DV_HOB_refresh_mode_setting": "Refresh mode settings",
+    "CL_DV_HOB_grease_filter_profile": "Grease filter profile options",
+    "CL_DV_HOB_hood_mode_setting_content": "Set the mode of the hood. When the hood is in automatic mode, it will start as soon as the cooking process starts.",
+    "CL_DV_HOB_hood_mode_setting_hint": "If the automatic mode is off, the mode will be manual.",
+    "CL_DV_HOB_automatic_mode": "Automatic mode",
+    "CL_DV_HOB_refresh_setting_hint": "If the refresh mode is on, the appliance will automatically start using Refresh mode when the hood is active.",
+    "CL_DV_HOB_grease_filter_profile_content": "Set the longevity of the grease filter. \n\nP1 is used mainly for boiling and light frying.\nP2 is used for balanced boiling and average frying. P3 is used for heavy frying.",
+    "CL_DV_HOB_hood_mode_manual": "Manual"
 }

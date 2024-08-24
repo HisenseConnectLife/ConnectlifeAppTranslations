@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "når ## er @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "Indtast by…",
+    "enter_city_key": "Søg by",
     "add_key": "Tilføj",
     "select_logic_relation_ship": "Vælg logisk forhold",
     "no_scene_key": "ingen scene",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "Tjek ovnen for at bekræfte.",
     "CL_CF_CO_buy": "Købe",
     "CL_CF_CS_window_ac_step_2": "Tryk og hold \"tilslut\"-knappen i ca. 6 sekunder, eller ret fjernbetjeningen mod modtageren og tryk på \"sving\"-knappen 6 gange, indtil displayet viser \"77\" eller WiFi-lyset begynder at blinke.",
-    "CL_DV_OV_default_cooking_intensity": "STANDARD TILBEREDNINGSINTENSITET"
+    "CL_DV_OV_default_cooking_intensity": "STANDARD TILBEREDNINGSINTENSITET",
+    "CL_DV_HOB_residual_heat_title_pop": "Restvarme",
+    "CL_DV_HOB_residual_heat_content_pop": "Kogezonen er stadig varm. Pas på ikke at røre ved den varme kogezone eller placere varmefølsomme genstande på den.",
+    "CL_DV_HOB_hood_mode_setting": "Indstillinger for emhættetilstand",
+    "CL_DV_HOB_refresh_mode_setting": "Indstillinger for opdateringstilstand",
+    "CL_DV_HOB_grease_filter_profile": "Muligheder for fedtfilterprofil",
+    "CL_DV_HOB_hood_mode_setting_content": "Indstil emhættens tilstand. Når emhætten er i automatisk tilstand, starter den, så snart tilberedningen starter.",
+    "CL_DV_HOB_hood_mode_setting_hint": "Hvis den automatiske tilstand er slået fra, vil tilstanden være manuel.",
+    "CL_DV_HOB_automatic_mode": "Automatisk tilstand",
+    "CL_DV_HOB_refresh_setting_hint": "Hvis opdateringstilstanden er aktiveret, begynder apparatet automatisk at bruge opdateringstilstand, når emhætten er aktiv.",
+    "CL_DV_HOB_grease_filter_profile_content": "Indstil fedtfilterets levetid. \n\n P1 bruges hovedsageligt til kogning og let stegning. P2 bruges til balanceret kogning og gennemsnitsstegning. P3 bruges til kraftig stegning.",
+    "CL_DV_HOB_hood_mode_manual": "Manuel"
 }
