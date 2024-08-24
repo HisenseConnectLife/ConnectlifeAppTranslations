@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "wenn ## ist @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "Stadt eingeben…",
+    "enter_city_key": "Stadt suchen",
     "add_key": "Hinzufügen",
     "select_logic_relation_ship": "Wählen Sie die logische Beziehung",
     "no_scene_key": "keine Szene",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "Überprüfen Sie zur Bestätigung den Ofen.",
     "CL_CF_CO_buy": "Kaufen",
     "CL_CF_CS_window_ac_step_2": "Halten Sie die Taste „Verbinden“ etwa 6 Sekunden lang gedrückt oder richten Sie die Fernbedienung auf den Empfänger und drücken Sie die Taste „Schwingen“ 6 Mal, bis auf dem Display „77“ angezeigt wird oder die WLAN-Leuchte zu blinken beginnt.",
-    "CL_DV_OV_default_cooking_intensity": "STANDARD-KOCHINTENSITÄT"
+    "CL_DV_OV_default_cooking_intensity": "STANDARD-KOCHINTENSITÄT",
+    "CL_DV_HOB_residual_heat_title_pop": "Restwärme",
+    "CL_DV_HOB_residual_heat_content_pop": "Die Kochzone ist noch heiß. Achten Sie darauf, die heiße Kochzone nicht zu berühren oder hitzeempfindliche Gegenstände darauf abzulegen.",
+    "CL_DV_HOB_hood_mode_setting": "Einstellungen für den Haubenmodus",
+    "CL_DV_HOB_refresh_mode_setting": "Einstellungen für den Aktualisierungsmodus",
+    "CL_DV_HOB_grease_filter_profile": "Fettfilterprofil-Optionen",
+    "CL_DV_HOB_hood_mode_setting_content": "Stellen Sie den Modus der Dunstabzugshaube ein. Wenn sich die Dunstabzugshaube im Automatikmodus befindet, startet sie, sobald der Kochvorgang beginnt.",
+    "CL_DV_HOB_hood_mode_setting_hint": "Wenn der Automatikmodus ausgeschaltet ist, wird auf manuellen Modus umgeschaltet.",
+    "CL_DV_HOB_automatic_mode": "Automatischer Modus",
+    "CL_DV_HOB_refresh_setting_hint": "Wenn der Aktualisierungsmodus eingeschaltet ist, startet das Gerät automatisch den Aktualisierungsmodus, wenn die Haube aktiv ist.",
+    "CL_DV_HOB_grease_filter_profile_content": "Stellen Sie die Lebensdauer des Fettfilters ein. \n\n P1 wird hauptsächlich zum Kochen und leichten Braten verwendet. P2 wird zum ausgewogenen Kochen und durchschnittlichen Braten verwendet. P3 wird zum starken Braten verwendet.",
+    "CL_DV_HOB_hood_mode_manual": "Handbuch"
 }

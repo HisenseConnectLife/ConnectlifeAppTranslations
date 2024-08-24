@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "mikor ## van @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "Város beírása…",
+    "enter_city_key": "Város keresése",
     "add_key": "Hozzáadás",
     "select_logic_relation_ship": "Válassza ki a logikai kapcsolatot",
     "no_scene_key": "nincs jelenet",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "Ellenőrizze a sütőt a megerősítéshez.",
     "CL_CF_CO_buy": "Vétel",
     "CL_CF_CS_window_ac_step_2": "Nyomja meg és tartsa lenyomva a „csatlakozás” gombot kb. 6 másodpercig, vagy irányítsa a távirányítót a vevőre, és nyomja meg a „swing” gombot 6-szor, amíg a kijelzőn a „77” meg nem jelenik, vagy a WiFi jelzőfény el nem kezd villogni.",
-    "CL_DV_OV_default_cooking_intensity": "ALAPÉRTELMEZETT SÜTÉSI INTENZITÁS"
+    "CL_DV_OV_default_cooking_intensity": "ALAPÉRTELMEZETT SÜTÉSI INTENZITÁS",
+    "CL_DV_HOB_residual_heat_title_pop": "Maradék hő",
+    "CL_DV_HOB_residual_heat_content_pop": "A főzőzóna még mindig forró. Ügyeljen arra, hogy ne érintse meg a forró főzőzónát, és ne helyezzen rá hőre érzékeny tárgyakat.",
+    "CL_DV_HOB_hood_mode_setting": "Elszívó üzemmód beállításai",
+    "CL_DV_HOB_refresh_mode_setting": "Frissítse a mód beállításait",
+    "CL_DV_HOB_grease_filter_profile": "A zsírszűrő profil beállításai",
+    "CL_DV_HOB_hood_mode_setting_content": "Állítsa be a páraelszívó üzemmódját. Ha az elszívó automata üzemmódban van, a főzési folyamat megkezdésekor azonnal elindul.",
+    "CL_DV_HOB_hood_mode_setting_hint": "Ha az automata üzemmód ki van kapcsolva, az üzemmód kézi lesz.",
+    "CL_DV_HOB_automatic_mode": "Automata üzemmód",
+    "CL_DV_HOB_refresh_setting_hint": "Ha a frissítési mód be van kapcsolva, a készülék automatikusan elkezdi használni a Frissítés módot, amikor az elszívó aktív.",
+    "CL_DV_HOB_grease_filter_profile_content": "Állítsa be a zsírszűrő élettartamát. \n\n A P1 főként forralásra és könnyű sütésre szolgál. A P2-t a kiegyensúlyozott forraláshoz és átlagos sütéshez használják. A P3 erős sütéshez használatos.",
+    "CL_DV_HOB_hood_mode_manual": "Kézikönyv"
 }

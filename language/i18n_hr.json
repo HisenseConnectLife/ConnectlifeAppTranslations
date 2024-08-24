@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "Kada ## je @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "Unesite grad…",
+    "enter_city_key": "Traži grad",
     "add_key": "Dodaj",
     "select_logic_relation_ship": "Odaberite logički odnos",
     "no_scene_key": "nema scene",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "Provjerite pećnicu za potvrdu.",
     "CL_CF_CO_buy": "Kupiti",
     "CL_CF_CS_window_ac_step_2": "Pritisnite i držite tipku \"connect\" otprilike 6 sekundi ili usmjerite daljinski upravljač prema prijemniku i pritisnite tipku \"swing\" 6 puta, dok se na zaslonu ne prikaže \"77\" ili dok WiFi svjetlo ne počne treperiti.",
-    "CL_DV_OV_default_cooking_intensity": "ZADANI INTENZITET KUHANJA"
+    "CL_DV_OV_default_cooking_intensity": "ZADANI INTENZITET KUHANJA",
+    "CL_DV_HOB_residual_heat_title_pop": "Preostala toplina",
+    "CL_DV_HOB_residual_heat_content_pop": "Polje za kuhanje je još vruće. Pazite da ne dodirnete vruću zonu za kuhanje ili da na nju stavite predmete osjetljive na toplinu.",
+    "CL_DV_HOB_hood_mode_setting": "Postavke načina rada nape",
+    "CL_DV_HOB_refresh_mode_setting": "Postavke načina osvježavanja",
+    "CL_DV_HOB_grease_filter_profile": "Opcije profila filtera za masnoću",
+    "CL_DV_HOB_hood_mode_setting_content": "Postavite način nape. Kada je napa u automatskom načinu rada, pokrenut će se čim počne proces kuhanja.",
+    "CL_DV_HOB_hood_mode_setting_hint": "Ako je automatski način rada isključen, način rada bit će ručni.",
+    "CL_DV_HOB_automatic_mode": "Automatski način rada",
+    "CL_DV_HOB_refresh_setting_hint": "Ako je uključen način rada za osvježavanje, uređaj će automatski početi koristiti način rada za osvježavanje kada je napa aktivna.",
+    "CL_DV_HOB_grease_filter_profile_content": "Postavite dugovječnost filtra za masnoću. \n\n P1 se uglavnom koristi za kuhanje i lagano prženje. P2 se koristi za uravnoteženo vrenje i srednje prženje. P3 se koristi za jako prženje.",
+    "CL_DV_HOB_hood_mode_manual": "Priručnik"
 }

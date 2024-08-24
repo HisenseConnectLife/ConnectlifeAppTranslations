@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "เมื่อ ## คือ @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "ป้อนเมือง…",
+    "enter_city_key": "ค้นหาเมือง",
     "add_key": "เพิ่ม",
     "select_logic_relation_ship": "เลือกความสัมพันธ์ทางตรรกศาสตร์",
     "no_scene_key": "ไม่มีฉาก",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "ตรวจสอบเตาอบเพื่อยืนยัน",
     "CL_CF_CO_buy": "ซื้อ",
     "CL_CF_CS_window_ac_step_2": "กดปุ่ม “เชื่อมต่อ” ค้างไว้ประมาณ 6 วินาที หรือเล็งรีโมทคอนโทรลไปที่ตัวรับและกดปุ่ม “สวิง” 6 ครั้ง จนกระทั่งหน้าจอแสดง “77” หรือไฟ WiFi เริ่มกะพริบ",
-    "CL_DV_OV_default_cooking_intensity": "ความเข้มข้นในการปรุงอาหารเริ่มต้น"
+    "CL_DV_OV_default_cooking_intensity": "ความเข้มข้นในการปรุงอาหารเริ่มต้น",
+    "CL_DV_HOB_residual_heat_title_pop": "ความร้อนตกค้าง",
+    "CL_DV_HOB_residual_heat_content_pop": "บริเวณทำอาหารยังร้อนอยู่ ระวังอย่าสัมผัสบริเวณทำอาหารที่ร้อน หรือวางสิ่งของที่ไวต่อความร้อนไว้บนบริเวณทำอาหาร",
+    "CL_DV_HOB_hood_mode_setting": "การตั้งค่าโหมดฮูด",
+    "CL_DV_HOB_refresh_mode_setting": "การตั้งค่าโหมดรีเฟรช",
+    "CL_DV_HOB_grease_filter_profile": "ตัวเลือกโปรไฟล์ตัวกรองไขมัน",
+    "CL_DV_HOB_hood_mode_setting_content": "ตั้งค่าโหมดการทำงานของเครื่องดูดควัน เมื่อเครื่องดูดควันอยู่ในโหมดอัตโนมัติ เครื่องจะเริ่มทำงานทันทีที่เริ่มปรุงอาหาร",
+    "CL_DV_HOB_hood_mode_setting_hint": "หากปิดโหมดอัตโนมัติ โหมดนี้จะเป็นโหมดแมนนวล",
+    "CL_DV_HOB_automatic_mode": "โหมดอัตโนมัติ",
+    "CL_DV_HOB_refresh_setting_hint": "หากโหมดรีเฟรชเปิดอยู่ เครื่องจะเริ่มใช้โหมดรีเฟรชโดยอัตโนมัติเมื่อเครื่องดูดควันทำงาน",
+    "CL_DV_HOB_grease_filter_profile_content": "ตั้งค่าอายุการใช้งานของไส้กรองไขมัน \n\n P1 ใช้สำหรับการต้มและทอดแบบเบาเป็นหลัก P2 ใช้สำหรับการต้มแบบสมดุลและการทอดแบบปานกลาง P3 ใช้สำหรับการทอดแบบหนัก",
+    "CL_DV_HOB_hood_mode_manual": "คู่มือ"
 }

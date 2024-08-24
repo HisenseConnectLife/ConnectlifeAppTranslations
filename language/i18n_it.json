@@ -3374,7 +3374,7 @@
     "automation_condition_des_is_key": "quando ## è @@ **",
     "centigrade_key": "##℃",
     "fahrenheit_key": "##°F",
-    "enter_city_key": "Inserisci la città…",
+    "enter_city_key": "Cerca città",
     "add_key": "Aggiungere",
     "select_logic_relation_ship": "Seleziona la relazione logica",
     "no_scene_key": "nessuna scena",
@@ -4003,5 +4003,16 @@
     "CL_DV_OV_check_to_confirm": "Controlla il forno per conferma.",
     "CL_CF_CO_buy": "Acquistare",
     "CL_CF_CS_window_ac_step_2": "Premere e tenere premuto il pulsante \"Connect\" per circa 6 secondi oppure puntare il telecomando verso il ricevitore e premere il pulsante \"Swing\" 6 volte, finché il display non mostra \"77\" o la spia WiFi non inizia a lampeggiare.",
-    "CL_DV_OV_default_cooking_intensity": "INTENSITÀ DI COTTURA PREDEFINITA"
+    "CL_DV_OV_default_cooking_intensity": "INTENSITÀ DI COTTURA PREDEFINITA",
+    "CL_DV_HOB_residual_heat_title_pop": "Calore residuo",
+    "CL_DV_HOB_residual_heat_content_pop": "La zona di cottura è ancora calda. Fare attenzione a non toccare la zona di cottura calda o a non appoggiare su di essa oggetti sensibili al calore.",
+    "CL_DV_HOB_hood_mode_setting": "Impostazioni della modalità cofano",
+    "CL_DV_HOB_refresh_mode_setting": "Impostazioni della modalità di aggiornamento",
+    "CL_DV_HOB_grease_filter_profile": "Opzioni del profilo del filtro antigrasso",
+    "CL_DV_HOB_hood_mode_setting_content": "Imposta la modalità della cappa. Quando la cappa è in modalità automatica, si avvia non appena inizia il processo di cottura.",
+    "CL_DV_HOB_hood_mode_setting_hint": "Se la modalità automatica è disattivata, la modalità sarà manuale.",
+    "CL_DV_HOB_automatic_mode": "Modalità automatica",
+    "CL_DV_HOB_refresh_setting_hint": "Se la modalità Refresh è attiva, l'apparecchio si avvierà automaticamente in modalità Refresh quando la cappa è attiva.",
+    "CL_DV_HOB_grease_filter_profile_content": "Imposta la longevità del filtro antigrasso. \n\n P1 è utilizzato principalmente per la bollitura e la frittura leggera. P2 è utilizzato per la bollitura bilanciata e la frittura media. P3 è utilizzato per la frittura pesante.",
+    "CL_DV_HOB_hood_mode_manual": "Manuale"
 }
