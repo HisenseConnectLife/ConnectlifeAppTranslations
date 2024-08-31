@@ -726,7 +726,7 @@
     "bake_baking_stopped": "Baking stopped",
     "hisrf_view_inside": "View inside",
     "hisrf_shopping_list": "Shopping list",
-    "hisrf_food_management": "Food inventory",
+    "hisrf_food_management": "Food Management",
     "hisrf_electricity_statistics_menu": "energy  monitoring",
     "hisrf_fresh_choice": "My fresh choice",
     "hisrf_service_hint": "Please contact the after sale service.",
@@ -3718,7 +3718,7 @@
     "asko_oven_ambient_sounds_content": "For example starting and stopping a program.",
     "asko_oven_navigation_content": "For example key sounds.",
     "dw_smart_dry": "Smart Dry",
-    "dw_remote_guide_hx": "Please press#and then@. APP will flash on the display.",
+    "dw_remote_guide_hx": "Please press#and then@.\\nAPP will flash on the display.",
     "dw_remote_guide_eu": "Please press%button on the control panel to enable it",
     "atw_no_device_confirm_first": "1. Please ensure network stability.",
     "atw_no_device_confirm_second": "2. Please ensure the reliability of the connection of the air conditioning system.",
@@ -4021,5 +4021,7 @@
     "CL_DV_HOB_clean_filter_content": "Reset the timer after you have cleaned the filter.",
     "CL_DV_HOB_more_update": "xx more update",
     "CL_DV_TD_child_lock_tip": "Child lock disables the buttons on the control panel of the appliance to prevent children from accidentially starting or changing a cycle. ",
-    "API Testing": "API Testing"
+    "API Testing": "API Testing",
+    "CL_DV_DW_water_energy": "Water & Energy",
+    "CL_DV_DW_light_display": "Light & Display"
 }
