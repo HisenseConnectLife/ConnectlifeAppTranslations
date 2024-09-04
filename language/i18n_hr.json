@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Zaštita za djecu onemogućuje tipke na upravljačkoj ploči uređaja kako bi spriječila djecu da slučajno pokrenu ili promijene ciklus. ",
     "API Testing": "API testiranje",
     "CL_DV_DW_water_energy": "Voda i energija",
-    "CL_DV_DW_light_display": "Svjetlo i zaslon"
+    "CL_DV_DW_light_display": "Svjetlo i zaslon",
+    "CL_DV_HOB_how_to_connect_accessories": "Kako spojiti dodatke",
+    "CL_CF_SK_amount_of_servings": "Količina porcija"
 }

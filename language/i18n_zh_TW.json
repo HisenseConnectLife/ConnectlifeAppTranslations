@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "童鎖可停用裝置控制面板上的按鈕，以防止兒童意外啟動或變更週期。 ",
     "API Testing": "API測試",
     "CL_DV_DW_water_energy": "水與能源",
-    "CL_DV_DW_light_display": "燈光與顯示"
+    "CL_DV_DW_light_display": "燈光與顯示",
+    "CL_DV_HOB_how_to_connect_accessories": "如何連接配件",
+    "CL_CF_SK_amount_of_servings": "份量"
 }

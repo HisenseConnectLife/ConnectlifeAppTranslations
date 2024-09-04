@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Kunci anak menonaktifkan tombol pada panel kontrol alat untuk mencegah anak-anak menyalakan atau mengubah siklus secara tidak sengaja. ",
     "API Testing": "Pengujian API",
     "CL_DV_DW_water_energy": "Air & Energi",
-    "CL_DV_DW_light_display": "Cahaya & Tampilan"
+    "CL_DV_DW_light_display": "Cahaya & Tampilan",
+    "CL_DV_HOB_how_to_connect_accessories": "Cara Menghubungkan Aksesori",
+    "CL_CF_SK_amount_of_servings": "Jumlah porsi"
 }

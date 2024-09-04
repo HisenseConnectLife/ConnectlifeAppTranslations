@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Заклучувањето за деца ги оневозможува копчињата на контролната табла на апаратот за да спречи децата случајно да започнат или менуваат циклус. ",
     "API Testing": "Тестирање на API",
     "CL_DV_DW_water_energy": "Вода и енергија",
-    "CL_DV_DW_light_display": "Светло и дисплеј"
+    "CL_DV_DW_light_display": "Светло и дисплеј",
+    "CL_DV_HOB_how_to_connect_accessories": "Како да поврзете додатоци",
+    "CL_CF_SK_amount_of_servings": "Количина на порции"
 }

@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "儿童锁可禁用设备控制面板上的按钮，以防止儿童意外启动或更改循环。 ",
     "API Testing": "API 测试",
     "CL_DV_DW_water_energy": "水和能源",
-    "CL_DV_DW_light_display": "灯光与显示"
+    "CL_DV_DW_light_display": "灯光与显示",
+    "CL_DV_HOB_how_to_connect_accessories": "如何连接配件",
+    "CL_CF_SK_amount_of_servings": "份量"
 }

@@ -3022,7 +3022,7 @@
     "report_issue_normal": "Báo cáo phát hành",
     "reports_history": "Lịch sử báo cáo",
     "help_support_contact_us_tips": "Nếu không có tùy chọn nào ở trên giải quyết được vấn đề của bạn, bạn có thể <u>liên hệ với chúng tôi.</u>",
-    "connectlife_app": "ConnectLife ApConnectLifeAppp",
+    "connectlife_app": "ConnectLife App",
     "air_conditioner": "Máy điều hòa",
     "choose_affected_item": "Chọn mặt hàng bị ảnh hưởng",
     "device_not_on_the_list": "Thiết bị không có trong danh sách",
@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Khóa trẻ em sẽ vô hiệu hóa các nút trên bảng điều khiển của thiết bị để ngăn trẻ em vô tình khởi động hoặc thay đổi chu trình. ",
     "API Testing": "Kiểm tra API",
     "CL_DV_DW_water_energy": "Nước và Năng lượng",
-    "CL_DV_DW_light_display": "Ánh sáng & Màn hình"
+    "CL_DV_DW_light_display": "Ánh sáng & Màn hình",
+    "CL_DV_HOB_how_to_connect_accessories": "Cách kết nối phụ kiện",
+    "CL_CF_SK_amount_of_servings": "Số lượng khẩu phần ăn"
 }

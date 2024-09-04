@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "การล็อคเด็กจะปิดการใช้งานปุ่มบนแผงควบคุมของเครื่อง เพื่อป้องกันไม่ให้เด็กเริ่มการซักหรือเปลี่ยนรอบการซักโดยไม่ได้ตั้งใจ ",
     "API Testing": "การทดสอบ API",
     "CL_DV_DW_water_energy": "น้ำและพลังงาน",
-    "CL_DV_DW_light_display": "แสงและจอภาพ"
+    "CL_DV_DW_light_display": "แสงและจอภาพ",
+    "CL_DV_HOB_how_to_connect_accessories": "วิธีการเชื่อมต่ออุปกรณ์เสริม",
+    "CL_CF_SK_amount_of_servings": "จำนวนเสิร์ฟ"
 }

@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Дечија брава онемогућава дугмад на контролној табли уређаја како би спречила децу да случајно покрену или промене циклус. ",
     "API Testing": "АПИ тестирање",
     "CL_DV_DW_water_energy": "Вода и енергија",
-    "CL_DV_DW_light_display": "Светло и дисплеј"
+    "CL_DV_DW_light_display": "Светло и дисплеј",
+    "CL_DV_HOB_how_to_connect_accessories": "Како повезати додатну опрему",
+    "CL_CF_SK_amount_of_servings": "Количина порција"
 }
