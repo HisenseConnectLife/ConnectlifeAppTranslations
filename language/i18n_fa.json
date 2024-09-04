@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "قفل کودک دکمه های روی صفحه کنترل دستگاه را غیرفعال می کند تا از شروع یا تغییر تصادفی چرخه توسط کودکان جلوگیری کند. ",
     "API Testing": "تست API",
     "CL_DV_DW_water_energy": "آب و انرژی",
-    "CL_DV_DW_light_display": "نور و نمایشگر"
+    "CL_DV_DW_light_display": "نور و نمایشگر",
+    "CL_DV_HOB_how_to_connect_accessories": "نحوه اتصال لوازم جانبی",
+    "CL_CF_SK_amount_of_servings": "مقدار سروینگ"
 }

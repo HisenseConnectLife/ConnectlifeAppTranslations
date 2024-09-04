@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "아동 잠금 기능은 어린이가 실수로 세탁기를 시작하거나 세탁기를 바꾸는 것을 방지하기 위해 세탁기 조작부의 버튼을 사용할 수 없도록 하는 기능입니다. ",
     "API Testing": "API 테스트",
     "CL_DV_DW_water_energy": "물과 에너지",
-    "CL_DV_DW_light_display": "조명 및 디스플레이"
+    "CL_DV_DW_light_display": "조명 및 디스플레이",
+    "CL_DV_HOB_how_to_connect_accessories": "액세서리 연결 방법",
+    "CL_CF_SK_amount_of_servings": "제공량"
 }

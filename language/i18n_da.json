@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Børnesikring deaktiverer knapperne på apparatets kontrolpanel for at forhindre, at børn ved et uheld starter eller ændrer en cyklus. ",
     "API Testing": "API-testning",
     "CL_DV_DW_water_energy": "Vand & Energi",
-    "CL_DV_DW_light_display": "Lys & Display"
+    "CL_DV_DW_light_display": "Lys & Display",
+    "CL_DV_HOB_how_to_connect_accessories": "Sådan tilslutter du tilbehør",
+    "CL_CF_SK_amount_of_servings": "Antal portioner"
 }
