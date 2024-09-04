@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Barnlås inaktiverar knapparna på apparatens kontrollpanel för att förhindra att barn av misstag startar eller ändrar en cykel. ",
     "API Testing": "API-testning",
     "CL_DV_DW_water_energy": "Vatten & Energi",
-    "CL_DV_DW_light_display": "Ljus & Display"
+    "CL_DV_DW_light_display": "Ljus & Display",
+    "CL_DV_HOB_how_to_connect_accessories": "Hur man ansluter tillbehör",
+    "CL_CF_SK_amount_of_servings": "Antal portioner"
 }

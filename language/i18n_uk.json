@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Блокування від дітей вимикає кнопки на панелі керування приладу, щоб діти не могли випадково запустити або змінити цикл. ",
     "API Testing": "Тестування API",
     "CL_DV_DW_water_energy": "Вода та енергія",
-    "CL_DV_DW_light_display": "Світло та дисплей"
+    "CL_DV_DW_light_display": "Світло та дисплей",
+    "CL_DV_HOB_how_to_connect_accessories": "Як підключити аксесуари",
+    "CL_CF_SK_amount_of_servings": "Кількість порцій"
 }

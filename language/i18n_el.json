@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Το κλείδωμα για παιδιά απενεργοποιεί τα κουμπιά στον πίνακα ελέγχου της συσκευής για να αποτρέψει τα παιδιά να ξεκινήσουν ή να αλλάξουν κατά λάθος έναν κύκλο. ",
     "API Testing": "Δοκιμή API",
     "CL_DV_DW_water_energy": "Νερό & Ενέργεια",
-    "CL_DV_DW_light_display": "Φως & Οθόνη"
+    "CL_DV_DW_light_display": "Φως & Οθόνη",
+    "CL_DV_HOB_how_to_connect_accessories": "Τρόπος σύνδεσης εξαρτημάτων",
+    "CL_CF_SK_amount_of_servings": "Ποσότητα μερίδων"
 }

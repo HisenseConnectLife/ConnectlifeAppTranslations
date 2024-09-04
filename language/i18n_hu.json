@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "A gyermekzár letiltja a készülék kezelőpaneljén lévő gombokat, hogy megakadályozza, hogy a gyermekek véletlenül elindítsák vagy módosítsák a ciklust. ",
     "API Testing": "API tesztelés",
     "CL_DV_DW_water_energy": "Víz és energia",
-    "CL_DV_DW_light_display": "Fény és kijelző"
+    "CL_DV_DW_light_display": "Fény és kijelző",
+    "CL_DV_HOB_how_to_connect_accessories": "Kiegészítők csatlakoztatásának útmutatója",
+    "CL_CF_SK_amount_of_servings": "Az adagok mennyisége"
 }

@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "נעילת ילדים משביתה את הכפתורים בלוח הבקרה של המכשיר כדי למנוע מילדים להתחיל או לשנות בטעות מחזור. ",
     "API Testing": "בדיקת API",
     "CL_DV_DW_water_energy": "מים ואנרגיה",
-    "CL_DV_DW_light_display": "אור ותצוגה"
+    "CL_DV_DW_light_display": "אור ותצוגה",
+    "CL_DV_HOB_how_to_connect_accessories": "כיצד לחבר אביזרים",
+    "CL_CF_SK_amount_of_servings": "כמות מנות"
 }

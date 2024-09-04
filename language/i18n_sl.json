@@ -432,7 +432,7 @@
     "tap_add_name_hint": "Tapnite za vnos imena",
     "laundry_room": "Pralnica",
     "add_washing_machine_pair": "1. Ko je stroj izklopljen, pritisnite in držite oba skrajna desna gumba ter hkrati vklopite stroj. 2. Pritisnite gumb \"Settings\" (Nastavitve), da vstopite v meni Setting (Nastavitve), in preklopite gumb na razdelek \"Wi-Fi settings\" (Nastavitve Wi-Fi). V razdelek vstopite tako, da pritisnete gumb. 3. V razdelku \"Wi-Fi settings\" (Nastavitve Wi-Fi) preklopite gumb, da najdete, in pritisnite gumb \"Add device\" (Dodaj napravo). 4. Za dodajanje naprave imate na voljo 3 minute.",
-    "light": "Svetloba",
+    "light": "Lahko",
     "timer": "Časovnik",
     "fan_level": "Moč ventilatorja",
     "light_intensity": "Intenzivnost razsvetljave",
@@ -461,7 +461,7 @@
     "circulation_mode": "Način kroženja",
     "appliance_information": "Podatki o aparatu",
     "waranty_information": "Podatki o garanciji",
-    "h": "ur",
+    "h": "h",
     "min": "min",
     "set_timer": "NASTAVITE ČASOVNIK",
     "warm": "TOPLA",
@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Otroška ključavnica onemogoči gumbe na nadzorni plošči naprave, da otrokom prepreči nehoten zagon ali spremembo cikla. ",
     "API Testing": "API testiranje",
     "CL_DV_DW_water_energy": "Voda in energija",
-    "CL_DV_DW_light_display": "Svetloba in zaslon"
+    "CL_DV_DW_light_display": "Svetloba in zaslon",
+    "CL_DV_HOB_how_to_connect_accessories": "Kako povezati dodatke",
+    "CL_CF_SK_amount_of_servings": "Količina porcij"
 }

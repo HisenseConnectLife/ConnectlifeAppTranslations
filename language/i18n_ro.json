@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Blocarea pentru copii dezactivează butoanele de pe panoul de control al aparatului pentru a preveni copiii să pornească sau să schimbe accidental un ciclu. ",
     "API Testing": "Testare API",
     "CL_DV_DW_water_energy": "Apă și energie",
-    "CL_DV_DW_light_display": "Lumină și afișaj"
+    "CL_DV_DW_light_display": "Lumină și afișaj",
+    "CL_DV_HOB_how_to_connect_accessories": "Cum se conectează accesoriile",
+    "CL_CF_SK_amount_of_servings": "Cantitatea de porții"
 }

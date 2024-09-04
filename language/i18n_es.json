@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "El bloqueo para niños desactiva los botones del panel de control del aparato para evitar que los niños inicien o cambien un ciclo accidentalmente. ",
     "API Testing": "Pruebas API",
     "CL_DV_DW_water_energy": "Agua y energía",
-    "CL_DV_DW_light_display": "Iluminación y exhibición"
+    "CL_DV_DW_light_display": "Iluminación y exhibición",
+    "CL_DV_HOB_how_to_connect_accessories": "Cómo conectar accesorios",
+    "CL_CF_SK_amount_of_servings": "Cantidad de porciones"
 }

@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "チャイルド ロックは、子供が誤ってサイクルを開始したり変更したりすることを防ぐために、機器のコントロール パネルのボタンを無効にします。 ",
     "API Testing": "APIテスト",
     "CL_DV_DW_water_energy": "水とエネルギー",
-    "CL_DV_DW_light_display": "照明とディスプレイ"
+    "CL_DV_DW_light_display": "照明とディスプレイ",
+    "CL_DV_HOB_how_to_connect_accessories": "アクセサリの接続方法",
+    "CL_CF_SK_amount_of_servings": "1食分量"
 }

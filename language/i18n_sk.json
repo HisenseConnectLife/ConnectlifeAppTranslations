@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Detská poistka deaktivuje tlačidlá na ovládacom paneli spotrebiča, aby deti nemohli náhodne spustiť alebo zmeniť cyklus. ",
     "API Testing": "Testovanie API",
     "CL_DV_DW_water_energy": "Voda a energia",
-    "CL_DV_DW_light_display": "Svetlo a displej"
+    "CL_DV_DW_light_display": "Svetlo a displej",
+    "CL_DV_HOB_how_to_connect_accessories": "Ako pripojiť príslušenstvo",
+    "CL_CF_SK_amount_of_servings": "Množstvo porcií"
 }

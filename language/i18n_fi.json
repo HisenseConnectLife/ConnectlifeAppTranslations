@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Lapsilukko poistaa käytöstä laitteen ohjauspaneelin painikkeet estääkseen lapsia käynnistämästä tai vaihtamasta pyörää vahingossa. ",
     "API Testing": "API-testaus",
     "CL_DV_DW_water_energy": "Vesi & Energia",
-    "CL_DV_DW_light_display": "Valo & näyttö"
+    "CL_DV_DW_light_display": "Valo & näyttö",
+    "CL_DV_HOB_how_to_connect_accessories": "Yhteydenpito-tarvikkeet",
+    "CL_CF_SK_amount_of_servings": "Annosten määrä"
 }

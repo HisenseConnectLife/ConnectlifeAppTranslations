@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "चाइल्ड लॉक उपकरण के नियंत्रण पैनल पर स्थित बटनों को निष्क्रिय कर देता है, जिससे बच्चों को गलती से उपकरण चालू करने या साइकिल बदलने से रोका जा सके। ",
     "API Testing": "एपीआई परीक्षण",
     "CL_DV_DW_water_energy": "जल एवं ऊर्जा",
-    "CL_DV_DW_light_display": "प्रकाश और प्रदर्शन"
+    "CL_DV_DW_light_display": "प्रकाश और प्रदर्शन",
+    "CL_DV_HOB_how_to_connect_accessories": "सहायक उपकरण कैसे कनेक्ट करें",
+    "CL_CF_SK_amount_of_servings": "सर्विंग की मात्रा"
 }

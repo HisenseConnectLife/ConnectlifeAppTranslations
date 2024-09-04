@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Çocuk kilidi, çocukların yanlışlıkla bir programı başlatmasını veya değiştirmesini önlemek için cihazın kontrol panelindeki düğmeleri devre dışı bırakır. ",
     "API Testing": "API Testi",
     "CL_DV_DW_water_energy": "Su ve Enerji",
-    "CL_DV_DW_light_display": "Işık ve Gösterim"
+    "CL_DV_DW_light_display": "Işık ve Gösterim",
+    "CL_DV_HOB_how_to_connect_accessories": "Aksesuarların Nasıl Bağlanacağı",
+    "CL_CF_SK_amount_of_servings": "Porsiyon miktarı"
 }
