@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Vann og energi",
     "CL_DV_DW_light_display": "Lys og skjerm",
     "CL_DV_HOB_how_to_connect_accessories": "Slik kobler du til tilbehør",
-    "CL_CF_SK_amount_of_servings": "Antall porsjoner"
+    "CL_CF_SK_amount_of_servings": "Antall porsjoner",
+    "CL_CF_CS_name_duplicate_tip": "Enhetsnavnet finnes allerede"
 }

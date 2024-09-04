@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Water & Energy",
     "CL_DV_DW_light_display": "Light & Display",
     "CL_DV_HOB_how_to_connect_accessories": "How-To Connect Accessories",
-    "CL_CF_SK_amount_of_servings": "Amount of servings"
+    "CL_CF_SK_amount_of_servings": "Amount of servings",
+    "CL_CF_CS_name_duplicate_tip": "Appliance name already exist"
 }

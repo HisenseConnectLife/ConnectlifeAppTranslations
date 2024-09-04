@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "水與能源",
     "CL_DV_DW_light_display": "燈光與顯示",
     "CL_DV_HOB_how_to_connect_accessories": "如何連接配件",
-    "CL_CF_SK_amount_of_servings": "份量"
+    "CL_CF_SK_amount_of_servings": "份量",
+    "CL_CF_CS_name_duplicate_tip": "設備名稱已存在"
 }

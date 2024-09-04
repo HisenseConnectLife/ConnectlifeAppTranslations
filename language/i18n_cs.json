@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Voda a energie",
     "CL_DV_DW_light_display": "Světlo a displej",
     "CL_DV_HOB_how_to_connect_accessories": "Jak připojit příslušenství",
-    "CL_CF_SK_amount_of_servings": "Množství porcí"
+    "CL_CF_SK_amount_of_servings": "Množství porcí",
+    "CL_CF_CS_name_duplicate_tip": "Název zařízení již existuje"
 }

@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Су және энергия",
     "CL_DV_DW_light_display": "Жарық & дисплей",
     "CL_DV_HOB_how_to_connect_accessories": "Керек-жарақтарды қосу әдісі",
-    "CL_CF_SK_amount_of_servings": "Порциялар мөлшері"
+    "CL_CF_SK_amount_of_servings": "Порциялар мөлшері",
+    "CL_CF_CS_name_duplicate_tip": "Құрылғы атауы бұрыннан бар"
 }

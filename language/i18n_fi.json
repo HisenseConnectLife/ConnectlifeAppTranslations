@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Vesi & Energia",
     "CL_DV_DW_light_display": "Valo & näyttö",
     "CL_DV_HOB_how_to_connect_accessories": "Yhteydenpito-tarvikkeet",
-    "CL_CF_SK_amount_of_servings": "Annosten määrä"
+    "CL_CF_SK_amount_of_servings": "Annosten määrä",
+    "CL_CF_CS_name_duplicate_tip": "Laitteen nimi on jo olemassa"
 }

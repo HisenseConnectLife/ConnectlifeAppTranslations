@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Νερό & Ενέργεια",
     "CL_DV_DW_light_display": "Φως & Οθόνη",
     "CL_DV_HOB_how_to_connect_accessories": "Τρόπος σύνδεσης εξαρτημάτων",
-    "CL_CF_SK_amount_of_servings": "Ποσότητα μερίδων"
+    "CL_CF_SK_amount_of_servings": "Ποσότητα μερίδων",
+    "CL_CF_CS_name_duplicate_tip": "Το όνομα της συσκευής υπάρχει ήδη"
 }

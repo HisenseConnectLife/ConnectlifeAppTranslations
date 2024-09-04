@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Water & Energie",
     "CL_DV_DW_light_display": "Licht & Display",
     "CL_DV_HOB_how_to_connect_accessories": "Hoe u accessoires aansluit",
-    "CL_CF_SK_amount_of_servings": "Aantal porties"
+    "CL_CF_SK_amount_of_servings": "Aantal porties",
+    "CL_CF_CS_name_duplicate_tip": "Apparaatnaam bestaat al"
 }
