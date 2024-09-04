@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Le verrouillage enfant désactive les boutons du panneau de commande de l'appareil pour empêcher les enfants de démarrer ou de modifier accidentellement un cycle. ",
     "API Testing": "Tests d'API",
     "CL_DV_DW_water_energy": "Eau et énergie",
-    "CL_DV_DW_light_display": "Lumière et affichage"
+    "CL_DV_DW_light_display": "Lumière et affichage",
+    "CL_DV_HOB_how_to_connect_accessories": "Comment connecter les accessoires",
+    "CL_CF_SK_amount_of_servings": "Nombre de portions"
 }

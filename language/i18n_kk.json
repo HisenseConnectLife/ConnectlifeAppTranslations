@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Балалардан қорғау құрылғысы балалардың циклді байқаусызда бастауын немесе өзгертуін болдырмау үшін құрылғының басқару панеліндегі түймелерді өшіреді. ",
     "API Testing": "API сынағы",
     "CL_DV_DW_water_energy": "Су және энергия",
-    "CL_DV_DW_light_display": "Жарық & дисплей"
+    "CL_DV_DW_light_display": "Жарық & дисплей",
+    "CL_DV_HOB_how_to_connect_accessories": "Керек-жарақтарды қосу әдісі",
+    "CL_CF_SK_amount_of_servings": "Порциялар мөлшері"
 }

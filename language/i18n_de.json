@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "Die Kindersicherung deaktiviert die Tasten auf dem Bedienfeld des Geräts, um zu verhindern, dass Kinder versehentlich einen Waschgang starten oder ändern. ",
     "API Testing": "API-Tests",
     "CL_DV_DW_water_energy": "Wasser & Energie",
-    "CL_DV_DW_light_display": "Licht & Anzeige"
+    "CL_DV_DW_light_display": "Licht & Anzeige",
+    "CL_DV_HOB_how_to_connect_accessories": "So schließen Sie Zubehör an",
+    "CL_CF_SK_amount_of_servings": "Anzahl der Portionen"
 }

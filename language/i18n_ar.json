@@ -4023,5 +4023,7 @@
     "CL_DV_TD_child_lock_tip": "يقوم قفل الأطفال بتعطيل الأزرار الموجودة على لوحة التحكم الخاصة بالجهاز لمنع الأطفال من بدء تشغيل دورة أو تغييرها عن طريق الخطأ. ",
     "API Testing": "اختبار واجهة برمجة التطبيقات",
     "CL_DV_DW_water_energy": "المياه والطاقة",
-    "CL_DV_DW_light_display": "الإضاءة والعرض"
+    "CL_DV_DW_light_display": "الإضاءة والعرض",
+    "CL_DV_HOB_how_to_connect_accessories": "كيفية توصيل الملحقات",
+    "CL_CF_SK_amount_of_servings": "كمية الحصص"
 }
