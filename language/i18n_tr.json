@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Su ve Enerji",
     "CL_DV_DW_light_display": "Işık ve Gösterim",
     "CL_DV_HOB_how_to_connect_accessories": "Aksesuarların Nasıl Bağlanacağı",
-    "CL_CF_SK_amount_of_servings": "Porsiyon miktarı"
+    "CL_CF_SK_amount_of_servings": "Porsiyon miktarı",
+    "CL_CF_CS_name_duplicate_tip": "Cihaz adı zaten mevcut"
 }

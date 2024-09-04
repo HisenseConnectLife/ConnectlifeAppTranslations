@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "آب و انرژی",
     "CL_DV_DW_light_display": "نور و نمایشگر",
     "CL_DV_HOB_how_to_connect_accessories": "نحوه اتصال لوازم جانبی",
-    "CL_CF_SK_amount_of_servings": "مقدار سروینگ"
+    "CL_CF_SK_amount_of_servings": "مقدار سروینگ",
+    "CL_CF_CS_name_duplicate_tip": "نام دستگاه از قبل وجود دارد"
 }

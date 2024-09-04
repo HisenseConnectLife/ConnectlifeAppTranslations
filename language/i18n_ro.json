@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Apă și energie",
     "CL_DV_DW_light_display": "Lumină și afișaj",
     "CL_DV_HOB_how_to_connect_accessories": "Cum se conectează accesoriile",
-    "CL_CF_SK_amount_of_servings": "Cantitatea de porții"
+    "CL_CF_SK_amount_of_servings": "Cantitatea de porții",
+    "CL_CF_CS_name_duplicate_tip": "Numele aparatului există deja"
 }

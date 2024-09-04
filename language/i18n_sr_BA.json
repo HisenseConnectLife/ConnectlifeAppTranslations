@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Вода и енергија",
     "CL_DV_DW_light_display": "Светло и дисплеј",
     "CL_DV_HOB_how_to_connect_accessories": "Како повезати додатну опрему",
-    "CL_CF_SK_amount_of_servings": "Количина порција"
+    "CL_CF_SK_amount_of_servings": "Количина порција",
+    "CL_CF_CS_name_duplicate_tip": "Назив уређаја већ постоји"
 }

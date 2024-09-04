@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Víz és energia",
     "CL_DV_DW_light_display": "Fény és kijelző",
     "CL_DV_HOB_how_to_connect_accessories": "Kiegészítők csatlakoztatásának útmutatója",
-    "CL_CF_SK_amount_of_servings": "Az adagok mennyisége"
+    "CL_CF_SK_amount_of_servings": "Az adagok mennyisége",
+    "CL_CF_CS_name_duplicate_tip": "A készüléknév már létezik"
 }

@@ -4025,5 +4025,6 @@
     "CL_DV_DW_water_energy": "Wasser & Energie",
     "CL_DV_DW_light_display": "Licht & Anzeige",
     "CL_DV_HOB_how_to_connect_accessories": "So schließen Sie Zubehör an",
-    "CL_CF_SK_amount_of_servings": "Anzahl der Portionen"
+    "CL_CF_SK_amount_of_servings": "Anzahl der Portionen",
+    "CL_CF_CS_name_duplicate_tip": "Der Gerätename ist bereits vorhanden."
 }
