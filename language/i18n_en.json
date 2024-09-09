@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Water & Energy",
     "CL_DV_DW_light_display": "Light & Display",
     "CL_DV_HOB_how_to_connect_accessories": "How-To Connect Accessories",
-    "CL_CF_SK_amount_of_servings": "Amount of servings"
+    "CL_CF_SK_amount_of_servings": "Amount of servings",
+    "CL_CF_CS_name_duplicate_tip": "Appliance name already exist",
+    "CL_DV_OV_your_oven_is_offline": "Your oven is offline",
+    "CL_DV_OV_offline_tips": "Some functionalities can’t be used when the oven is offline. Try to reconnect your oven.",
+    "CL_DV_OV_combi": "combi",
+    "share_account": "SHARED ACCOUNTS"
 }

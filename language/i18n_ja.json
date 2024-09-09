@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "水とエネルギー",
     "CL_DV_DW_light_display": "照明とディスプレイ",
     "CL_DV_HOB_how_to_connect_accessories": "アクセサリの接続方法",
-    "CL_CF_SK_amount_of_servings": "1食分量"
+    "CL_CF_SK_amount_of_servings": "1食分量",
+    "CL_CF_CS_name_duplicate_tip": "アプライアンス名はすでに存在します",
+    "CL_DV_OV_your_oven_is_offline": "オーブンはオフラインです",
+    "CL_DV_OV_offline_tips": "オーブンがオフラインのときは、一部の機能は使用できません。オーブンを再接続してください。",
+    "CL_DV_OV_combi": "コンビ",
+    "share_account": "共有アカウント"
 }

@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Вода и енергија",
     "CL_DV_DW_light_display": "Светло и дисплеј",
     "CL_DV_HOB_how_to_connect_accessories": "Како да поврзете додатоци",
-    "CL_CF_SK_amount_of_servings": "Количина на порции"
+    "CL_CF_SK_amount_of_servings": "Количина на порции",
+    "CL_CF_CS_name_duplicate_tip": "Името на апаратот веќе постои",
+    "CL_DV_OV_your_oven_is_offline": "Вашата рерна е офлајн",
+    "CL_DV_OV_offline_tips": "Некои функционалности не може да се користат кога рерната е офлајн. Обидете се повторно да ја приклучите рерната.",
+    "CL_DV_OV_combi": "комби",
+    "share_account": "СПОДЕЛЕНИ СМЕТКИ"
 }

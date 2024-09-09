@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Wasser & Energie",
     "CL_DV_DW_light_display": "Licht & Anzeige",
     "CL_DV_HOB_how_to_connect_accessories": "So schließen Sie Zubehör an",
-    "CL_CF_SK_amount_of_servings": "Anzahl der Portionen"
+    "CL_CF_SK_amount_of_servings": "Anzahl der Portionen",
+    "CL_CF_CS_name_duplicate_tip": "Der Gerätename ist bereits vorhanden.",
+    "CL_DV_OV_your_oven_is_offline": "Ihr Ofen ist offline",
+    "CL_DV_OV_offline_tips": "Einige Funktionen können nicht genutzt werden, wenn der Ofen offline ist. Versuchen Sie, Ihren Ofen erneut anzuschließen.",
+    "CL_DV_OV_combi": "Kombi",
+    "share_account": "GEMEINSAME KONTEN"
 }

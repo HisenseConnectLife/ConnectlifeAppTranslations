@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Vann og energi",
     "CL_DV_DW_light_display": "Lys og skjerm",
     "CL_DV_HOB_how_to_connect_accessories": "Slik kobler du til tilbehør",
-    "CL_CF_SK_amount_of_servings": "Antall porsjoner"
+    "CL_CF_SK_amount_of_servings": "Antall porsjoner",
+    "CL_CF_CS_name_duplicate_tip": "Enhetsnavnet finnes allerede",
+    "CL_DV_OV_your_oven_is_offline": "Ovnen din er offline",
+    "CL_DV_OV_offline_tips": "Enkelte funksjoner kan ikke brukes når ovnen er frakoblet. Prøv å koble til ovnen igjen.",
+    "CL_DV_OV_combi": "kombi",
+    "share_account": "DELT KONTO"
 }

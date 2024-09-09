@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Víz és energia",
     "CL_DV_DW_light_display": "Fény és kijelző",
     "CL_DV_HOB_how_to_connect_accessories": "Kiegészítők csatlakoztatásának útmutatója",
-    "CL_CF_SK_amount_of_servings": "Az adagok mennyisége"
+    "CL_CF_SK_amount_of_servings": "Az adagok mennyisége",
+    "CL_CF_CS_name_duplicate_tip": "A készüléknév már létezik",
+    "CL_DV_OV_your_oven_is_offline": "A sütője offline állapotban van",
+    "CL_DV_OV_offline_tips": "Egyes funkciók nem használhatók, ha a sütő offline állapotban van. Próbálja újra csatlakoztatni a sütőt.",
+    "CL_DV_OV_combi": "kombi",
+    "share_account": "MEGOSZTOTT FIÓKOK"
 }

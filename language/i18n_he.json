@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "מים ואנרגיה",
     "CL_DV_DW_light_display": "אור ותצוגה",
     "CL_DV_HOB_how_to_connect_accessories": "כיצד לחבר אביזרים",
-    "CL_CF_SK_amount_of_servings": "כמות מנות"
+    "CL_CF_SK_amount_of_servings": "כמות מנות",
+    "CL_CF_CS_name_duplicate_tip": "שם המכשיר כבר קיים",
+    "CL_DV_OV_your_oven_is_offline": "התנור שלך לא מקוון",
+    "CL_DV_OV_offline_tips": "לא ניתן להשתמש בחלק מהפונקציות כשהתנור במצב לא מקוון. נסה לחבר מחדש את התנור שלך.",
+    "CL_DV_OV_combi": "קומבי",
+    "share_account": "חשבונות משותפים"
 }

@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Νερό & Ενέργεια",
     "CL_DV_DW_light_display": "Φως & Οθόνη",
     "CL_DV_HOB_how_to_connect_accessories": "Τρόπος σύνδεσης εξαρτημάτων",
-    "CL_CF_SK_amount_of_servings": "Ποσότητα μερίδων"
+    "CL_CF_SK_amount_of_servings": "Ποσότητα μερίδων",
+    "CL_CF_CS_name_duplicate_tip": "Το όνομα της συσκευής υπάρχει ήδη",
+    "CL_DV_OV_your_oven_is_offline": "Ο φούρνος σας είναι εκτός σύνδεσης",
+    "CL_DV_OV_offline_tips": "Ορισμένες λειτουργίες δεν μπορούν να χρησιμοποιηθούν όταν ο φούρνος είναι εκτός σύνδεσης. Προσπαθήστε να επανασυνδέσετε τον φούρνο σας.",
+    "CL_DV_OV_combi": "combi",
+    "share_account": "ΚΟΙΝΟΙ ΛΟΓΑΡΙΑΣΜΟΙ"
 }
