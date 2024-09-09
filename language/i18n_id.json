@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Air & Energi",
     "CL_DV_DW_light_display": "Cahaya & Tampilan",
     "CL_DV_HOB_how_to_connect_accessories": "Cara Menghubungkan Aksesori",
-    "CL_CF_SK_amount_of_servings": "Jumlah porsi"
+    "CL_CF_SK_amount_of_servings": "Jumlah porsi",
+    "CL_CF_CS_name_duplicate_tip": "Nama peralatan sudah ada",
+    "CL_DV_OV_your_oven_is_offline": "Oven Anda sedang offline",
+    "CL_DV_OV_offline_tips": "Beberapa fungsi tidak dapat digunakan saat oven dalam keadaan offline. Coba sambungkan kembali oven Anda.",
+    "CL_DV_OV_combi": "kombinasi",
+    "share_account": "AKUN BERSAMA"
 }

@@ -3078,7 +3078,7 @@
     "cancel_share": "preklical skupno rabo",
     "items_added_to_shopping_list": "Predmeti dodani na nakupovalni seznam",
     "drum_illumination": "Osvetlitev bobna",
-    "bundling_detection": "Odkrivanje paketov",
+    "bundling_detection": "Senzor zavijanja perila",
     "change_language_tips": "Spremenite jezik na vaši napravi.",
     "change_brightness_tips": "Prilagodite svetlost zaslona vaše naprave.",
     "dishwashing_assist": "Pomočnik za pomivanje posode",
@@ -3262,7 +3262,7 @@
     "program_mode_disinfection_desc": "Način sušenja z visoko temperaturo, ekstra suho. Uniči do 99,99 % bakterij.",
     "program_mode_delicate_desc": "Nežno mešanje, da preprečite nepotrebno obrabo in trganje oblačil.",
     "bundling_detection_desc": "Ta funkcija pomaga zagotoviti enakomerno sušenje oblačil in preprečuje, da bi bilo treba oblačila ločiti ročno. Privzeto je vedno omogočena, vendar jo lahko tukaj onemogočite.",
-    "turn_on_bundling_detection": "Omogoči/onemogoči zaznavanje združevanja",
+    "turn_on_bundling_detection": "Omogoči/onemogoči zaznavanje zavijanja perila",
     "wine_key": "Ključ",
     "wine_modes": "Načini",
     "all_floors_key": "Vsa nadstropja",
@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Voda in energija",
     "CL_DV_DW_light_display": "Svetloba in zaslon",
     "CL_DV_HOB_how_to_connect_accessories": "Kako povezati dodatke",
-    "CL_CF_SK_amount_of_servings": "Količina porcij"
+    "CL_CF_SK_amount_of_servings": "Količina porcij",
+    "CL_CF_CS_name_duplicate_tip": "Ime naprave že obstaja",
+    "CL_DV_OV_your_oven_is_offline": "Vaša pečica je brez povezave",
+    "CL_DV_OV_offline_tips": "Nekaterih funkcij ni mogoče uporabiti, ko je pečica brez povezave. Poskusite ponovno priključiti pečico.",
+    "CL_DV_OV_combi": "combi",
+    "share_account": "SKUPLJENI RAČUNI"
 }

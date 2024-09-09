@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "물과 에너지",
     "CL_DV_DW_light_display": "조명 및 디스플레이",
     "CL_DV_HOB_how_to_connect_accessories": "액세서리 연결 방법",
-    "CL_CF_SK_amount_of_servings": "제공량"
+    "CL_CF_SK_amount_of_servings": "제공량",
+    "CL_CF_CS_name_duplicate_tip": "기기 이름이 이미 존재합니다",
+    "CL_DV_OV_your_oven_is_offline": "오븐이 오프라인 상태입니다",
+    "CL_DV_OV_offline_tips": "오븐이 오프라인일 때는 일부 기능을 사용할 수 없습니다. 오븐을 다시 연결해 보세요.",
+    "CL_DV_OV_combi": "콤비",
+    "share_account": "공유 계정"
 }

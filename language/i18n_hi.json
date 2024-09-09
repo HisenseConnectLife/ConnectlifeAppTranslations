@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "जल एवं ऊर्जा",
     "CL_DV_DW_light_display": "प्रकाश और प्रदर्शन",
     "CL_DV_HOB_how_to_connect_accessories": "सहायक उपकरण कैसे कनेक्ट करें",
-    "CL_CF_SK_amount_of_servings": "सर्विंग की मात्रा"
+    "CL_CF_SK_amount_of_servings": "सर्विंग की मात्रा",
+    "CL_CF_CS_name_duplicate_tip": "उपकरण का नाम पहले से मौजूद है",
+    "CL_DV_OV_your_oven_is_offline": "आपका ओवन ऑफ़लाइन है",
+    "CL_DV_OV_offline_tips": "ओवन के ऑफ़लाइन होने पर कुछ कार्यक्षमताओं का उपयोग नहीं किया जा सकता। अपने ओवन को फिर से कनेक्ट करने का प्रयास करें।",
+    "CL_DV_OV_combi": "कोम्बी",
+    "share_account": "साझा खाते"
 }

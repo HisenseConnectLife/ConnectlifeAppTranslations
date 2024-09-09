@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Vatten & Energi",
     "CL_DV_DW_light_display": "Ljus & Display",
     "CL_DV_HOB_how_to_connect_accessories": "Hur man ansluter tillbehör",
-    "CL_CF_SK_amount_of_servings": "Antal portioner"
+    "CL_CF_SK_amount_of_servings": "Antal portioner",
+    "CL_CF_CS_name_duplicate_tip": "Apparatens namn finns redan",
+    "CL_DV_OV_your_oven_is_offline": "Din ugn är offline",
+    "CL_DV_OV_offline_tips": "Vissa funktioner kan inte användas när ugnen är offline. Försök att ansluta ugnen igen.",
+    "CL_DV_OV_combi": "kombi",
+    "share_account": "DELADE KONTON"
 }

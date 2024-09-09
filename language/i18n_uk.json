@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Вода та енергія",
     "CL_DV_DW_light_display": "Світло та дисплей",
     "CL_DV_HOB_how_to_connect_accessories": "Як підключити аксесуари",
-    "CL_CF_SK_amount_of_servings": "Кількість порцій"
+    "CL_CF_SK_amount_of_servings": "Кількість порцій",
+    "CL_CF_CS_name_duplicate_tip": "Назва пристрою вже існує",
+    "CL_DV_OV_your_oven_is_offline": "Ваша духовка офлайн",
+    "CL_DV_OV_offline_tips": "Деякі функції не можна використовувати, коли піч офлайн. Спробуйте знову підключити піч.",
+    "CL_DV_OV_combi": "комбі",
+    "share_account": "Спільні облікові записи"
 }

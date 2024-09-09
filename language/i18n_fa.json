@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "آب و انرژی",
     "CL_DV_DW_light_display": "نور و نمایشگر",
     "CL_DV_HOB_how_to_connect_accessories": "نحوه اتصال لوازم جانبی",
-    "CL_CF_SK_amount_of_servings": "مقدار سروینگ"
+    "CL_CF_SK_amount_of_servings": "مقدار سروینگ",
+    "CL_CF_CS_name_duplicate_tip": "نام دستگاه از قبل وجود دارد",
+    "CL_DV_OV_your_oven_is_offline": "فر شما آفلاین است",
+    "CL_DV_OV_offline_tips": "وقتی فر آفلاین است نمی توان از برخی از عملکردها استفاده کرد. سعی کنید فر خود را دوباره وصل کنید.",
+    "CL_DV_OV_combi": "ترکیبی",
+    "share_account": "حساب های مشترک"
 }

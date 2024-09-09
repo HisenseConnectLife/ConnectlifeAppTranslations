@@ -4025,5 +4025,10 @@
     "CL_DV_DW_water_energy": "Nước và Năng lượng",
     "CL_DV_DW_light_display": "Ánh sáng & Màn hình",
     "CL_DV_HOB_how_to_connect_accessories": "Cách kết nối phụ kiện",
-    "CL_CF_SK_amount_of_servings": "Số lượng khẩu phần ăn"
+    "CL_CF_SK_amount_of_servings": "Số lượng khẩu phần ăn",
+    "CL_CF_CS_name_duplicate_tip": "Tên thiết bị đã tồn tại",
+    "CL_DV_OV_your_oven_is_offline": "Lò nướng của bạn đang ngoại tuyến",
+    "CL_DV_OV_offline_tips": "Một số chức năng không thể sử dụng khi lò nướng ngoại tuyến. Hãy thử kết nối lại lò nướng của bạn.",
+    "CL_DV_OV_combi": "kết hợp",
+    "share_account": "TÀI KHOẢN CHIA SẺ"
 }
