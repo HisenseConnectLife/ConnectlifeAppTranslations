@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Paina ''CONNECT OVEN'' vasemmalla puolella. Kun valikko avautuu, ota Wi-Fi käyttöön painamalla oikealla olevaa vaihtopainiketta.",
     "CL_CF_CS_bio24_elements_setup_step4": "Näkyviin tulee painike \"CONNECT\". Paina painiketta. Voit nyt jatkaa sovelluksessa napauttamalla alla olevaa SEURAAVA-painiketta.",
     "CL_CF_CS_bio24_elements_pair_step3": "Paina vasemmalla puolella ''YHDISTÄ KÄYTTÄJÄ''. Kun valikko avautuu, paina ''PAIR''-painiketta. Voit nyt jatkaa sovelluksessa napauttamalla alla olevaa SEURAAVA-painiketta.",
-    "CL_DV_RF_scan_login_code_invalid": "Virheellinen kirjautumis QR-koodi!"
+    "CL_DV_RF_scan_login_code_invalid": "Virheellinen kirjautumis QR-koodi!",
+    "CL_CF_CS_soft_last_step": "Yhdistä \"HIS-xxxx\"-verkkoon älypuhelimesi Wi-Fi-asetuksissa. \n\n Poistu ConnectLife-sovelluksesta ja siirry älypuhelimesi WiFi-asetuksiin. Yhdistä \"HIS-xxxx\" verkkoon ja palaa takaisin ConnectLife-sovellukseen."
 }

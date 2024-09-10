@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Na levi strani pritisnite ''POVEZI PEČICO''. Ko se odpre meni, pritisnite preklopni gumb na desni, da omogočite Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Prikaže se gumb ''POVEŽI''. Pritisnite na gumb. Zdaj lahko nadaljujete v aplikaciji tako, da tapnete spodnji gumb NAPREJ.",
     "CL_CF_CS_bio24_elements_pair_step3": "Pritisnite ''POVEŽI UPORABNIKA'' na levi strani. Ko se odpre meni, pritisnite na gumb ''PAIR''. Zdaj lahko nadaljujete v aplikaciji tako, da tapnete spodnji gumb NAPREJ.",
-    "CL_DV_RF_scan_login_code_invalid": "Neveljavna QR koda za prijavo!"
+    "CL_DV_RF_scan_login_code_invalid": "Neveljavna QR koda za prijavo!",
+    "CL_CF_CS_soft_last_step": "Povežite se z omrežjem \"HIS-xxxx\" v nastavitvah Wi-Fi vašega pametnega telefona. \n\n Zaprite aplikacijo ConnectLife, pojdite v nastavitve WiFi vašega pametnega telefona. Povežite se z omrežjem \"HIS-xxxx\" in se vrnite nazaj v aplikacijo ConnectLife."
 }

@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Premere su ''CONNECT OVEN'' sul lato sinistro. Quando si apre il menu, premere sul pulsante di attivazione/disattivazione a destra per abilitare il Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Appare un pulsante ''CONNECT''. Premi il pulsante. Ora puoi procedere nell'app toccando il pulsante NEXT qui sotto.",
     "CL_CF_CS_bio24_elements_pair_step3": "Premi su ''CONNECT USER'' sul lato sinistro. Quando si apre il menu, premi sul pulsante ''PAIR''. Ora puoi procedere nell'app toccando il pulsante NEXT qui sotto.",
-    "CL_DV_RF_scan_login_code_invalid": "Codice QR di accesso non valido!"
+    "CL_DV_RF_scan_login_code_invalid": "Codice QR di accesso non valido!",
+    "CL_CF_CS_soft_last_step": "Connettiti alla rete \"HIS-xxxx\" nelle impostazioni Wi-Fi del tuo smartphone. \n\n Esci dall'app ConnectLife, vai alle impostazioni WiFi del tuo smartphone. Connettiti alla rete \"HIS-xxxx\" e torna all'app ConnectLife."
 }
