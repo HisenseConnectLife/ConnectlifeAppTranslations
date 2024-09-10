@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Nyomja meg a „SÜTŐ CSATLAKOZTATÁSA” gombot a bal oldalon. Amikor megnyílik a menü, nyomja meg a jobb oldalon található váltógombot a Wi-Fi engedélyezéséhez.",
     "CL_CF_CS_bio24_elements_setup_step4": "Megjelenik a „CONNECT” gomb. Nyomja meg a gombot. Most már folytathatja az alkalmazásban az alábbi NEXT gomb megérintésével.",
     "CL_CF_CS_bio24_elements_pair_step3": "Nyomja meg a „FELHASZNÁLÓ CSATLAKOZTATÁSA” gombot a bal oldalon. Amikor megnyílik a menü, nyomja meg a ''PAIR'' gombot. Most már folytathatja az alkalmazásban, ha megérinti az alábbi NEXT gombot.",
-    "CL_DV_RF_scan_login_code_invalid": "Érvénytelen bejelentkezési QR-kód!"
+    "CL_DV_RF_scan_login_code_invalid": "Érvénytelen bejelentkezési QR-kód!",
+    "CL_CF_CS_soft_last_step": "Csatlakozzon a \"HIS-xxxx\" hálózathoz az okostelefon Wi-Fi beállításaiban. \n\n Lépjen ki a ConnectLife alkalmazásból, lépjen az okostelefon WiFi beállításaihoz. Csatlakozzon a \"HIS-xxxx\" hálózathoz, és térjen vissza a ConnectLife alkalmazáshoz."
 }

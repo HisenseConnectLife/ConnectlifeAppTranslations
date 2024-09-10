@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "اضغط على \"CONNECT OVEN\" على الجانب الأيسر. عندما تفتح القائمة، اضغط على زر التبديل على اليمين لتمكين Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "يظهر زر \"CONNECT\"، اضغط عليه. يمكنك الآن المتابعة في التطبيق من خلال النقر على زر \"NEXT\" أدناه.",
     "CL_CF_CS_bio24_elements_pair_step3": "اضغط على \"CONNECT USER\" على الجانب الأيسر. عندما تفتح القائمة، اضغط على زر \"PAIR\". يمكنك الآن المتابعة في التطبيق من خلال النقر على زر \"NEXT\" أدناه.",
-    "CL_DV_RF_scan_login_code_invalid": "رمز تسجيل الدخول QR غير صالح!"
+    "CL_DV_RF_scan_login_code_invalid": "رمز تسجيل الدخول QR غير صالح!",
+    "CL_CF_CS_soft_last_step": "قم بالاتصال بشبكة \"HIS-xxxx\" في إعدادات Wi-Fi الخاصة بهاتفك الذكي. \n\n اخرج من تطبيق ConnectLife، وانتقل إلى إعدادات WiFi في هاتفك الذكي. اتصل بشبكة \"HIS-xxxx\" ثم عد إلى تطبيق ConnectLife."
 }

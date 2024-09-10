@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "לחץ על ''CONNECT OVEN'' בצד שמאל. כאשר התפריט נפתח, לחץ על לחצן החלפת המצב בצד ימין כדי להפעיל Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "מופיע כפתור ''CONNECT''. לחץ על הכפתור. כעת תוכל להמשיך באפליקציה על ידי הקשה על כפתור הבא למטה.",
     "CL_CF_CS_bio24_elements_pair_step3": "לחץ על ''התחבר למשתמש'' בצד שמאל. כאשר התפריט נפתח, לחץ על כפתור ''PAIR''. כעת תוכל להמשיך באפליקציה על ידי הקשה על כפתור הבא למטה.",
-    "CL_DV_RF_scan_login_code_invalid": "קוד QR כניסה לא חוקי!"
+    "CL_DV_RF_scan_login_code_invalid": "קוד QR כניסה לא חוקי!",
+    "CL_CF_CS_soft_last_step": "התחבר לרשת \"HIS-xxxx\" בהגדרות ה-Wi-Fi של הטלפון החכם שלך. \n\n צא מאפליקציית ConnectLife, עבור להגדרות ה-WiFi של הטלפון החכם שלך. התחבר לרשת \"HIS-xxxx\" וחזור חזרה לאפליקציית ConnectLife."
 }

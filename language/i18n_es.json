@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Pulse en “CONECTAR HORNO” en el lado izquierdo. Cuando se abra el menú, pulse el botón de alternancia de la derecha para habilitar el Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Aparecerá el botón \"CONECTAR\". Púlselo. Ahora puede continuar en la aplicación tocando el botón SIGUIENTE que aparece a continuación.",
     "CL_CF_CS_bio24_elements_pair_step3": "Pulsa en “CONECTAR USUARIO” en el lado izquierdo. Cuando se abra el menú, pulsa en el botón “EMPAREJAR”. Ahora puedes continuar en la aplicación pulsando en el botón SIGUIENTE que aparece a continuación.",
-    "CL_DV_RF_scan_login_code_invalid": "¡Código QR de inicio de sesión no válido!"
+    "CL_DV_RF_scan_login_code_invalid": "¡Código QR de inicio de sesión no válido!",
+    "CL_CF_CS_soft_last_step": "Conéctese a la red “HIS-xxxx” en la configuración Wi-Fi de su teléfono inteligente. \n\n Salga de la aplicación ConnectLife, acceda a la configuración de WiFi de su teléfono inteligente. Conéctese a la red \"HIS-xxxx\" y regrese a la aplicación ConnectLife."
 }

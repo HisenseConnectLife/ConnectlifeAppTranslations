@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Sol taraftaki ''FIRINI BAĞLA'' tuşuna basın. Menü açıldığında, Wi-Fi'yi etkinleştirmek için sağdaki geçiş düğmesine basın.",
     "CL_CF_CS_bio24_elements_setup_step4": "''BAĞLAN'' butonu belirir. Butona basın. Şimdi aşağıdaki SONRAKİ butonuna dokunarak uygulamada ilerleyebilirsiniz.",
     "CL_CF_CS_bio24_elements_pair_step3": "Sol taraftaki ''CONNECT USER''a basın. Menü açıldığında ''PAIR'' düğmesine basın. Şimdi aşağıdaki NEXT düğmesine dokunarak uygulamada ilerleyebilirsiniz.",
-    "CL_DV_RF_scan_login_code_invalid": "Geçersiz giriş QR kodu!"
+    "CL_DV_RF_scan_login_code_invalid": "Geçersiz giriş QR kodu!",
+    "CL_CF_CS_soft_last_step": "Akıllı telefonunuzun Wi-Fi ayarlarından \"HIS-xxxx\" ağına bağlanın. \n\n ConnectLife uygulamasından çıkın, akıllı telefonunuzun WiFi ayarlarına gidin. \"HIS-xxxx\" ağına bağlanın ve ConnectLife uygulamasına geri dönün."
 }

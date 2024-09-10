@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Trykk på ''KOBLE OVN'' på venstre side. Når menyen åpnes, trykk på veksleknappen til høyre for å aktivere Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "En knapp ''KOBLE TIL'' vises. Trykk på knappen. Du kan nå fortsette i appen ved å trykke på NESTE-knappen nedenfor.",
     "CL_CF_CS_bio24_elements_pair_step3": "Trykk på ''KOBLE BRUKER'' på venstre side. Når menyen åpnes, trykk på ''PAIR''-knappen. Du kan nå fortsette i appen ved å trykke på NESTE-knappen nedenfor.",
-    "CL_DV_RF_scan_login_code_invalid": "Ugyldig QR-kode for pålogging!"
+    "CL_DV_RF_scan_login_code_invalid": "Ugyldig QR-kode for pålogging!",
+    "CL_CF_CS_soft_last_step": "Koble til \"HIS-xxxx\"-nettverket i Wi-Fi-innstillingene på smarttelefonen. \n\n Avslutt ConnectLife-appen, gå til smarttelefonens WiFi-innstillinger. Koble til \"HIS-xxxx\"-nettverket og gå tilbake til ConnectLife-appen."
 }

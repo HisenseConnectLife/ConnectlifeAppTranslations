@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Tryck på ''KOPPLA UGNEN'' på vänster sida. När menyn öppnas, tryck på växlingsknappen till höger för att aktivera Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "En knapp ''CONNECT'' visas. Tryck på knappen. Du kan nu fortsätta i appen genom att trycka på NÄSTA-knappen nedan.",
     "CL_CF_CS_bio24_elements_pair_step3": "Tryck på ''CONNECT USER'' på vänster sida. När menyn öppnas, tryck på ''PAIR''-knappen. Du kan nu fortsätta i appen genom att trycka på NÄSTA-knappen nedan.",
-    "CL_DV_RF_scan_login_code_invalid": "Ogiltig QR-kod för inloggning!"
+    "CL_DV_RF_scan_login_code_invalid": "Ogiltig QR-kod för inloggning!",
+    "CL_CF_CS_soft_last_step": "Anslut till nätverket \"HIS-xxxx\" i Wi-Fi-inställningarna på din smartphone. \n\n Avsluta ConnectLife-appen, gå till din smartphones WiFi-inställningar. Anslut till nätverket \"HIS-xxxx\" och gå tillbaka till ConnectLife-appen."
 }

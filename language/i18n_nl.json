@@ -4045,5 +4045,6 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Druk op ''CONNECT OVEN'' aan de linkerkant. Wanneer het menu opent, druk op de toggle-knop aan de rechterkant om Wi-Fi in te schakelen.",
     "CL_CF_CS_bio24_elements_setup_step4": "Er verschijnt een knop ''CONNECT''. Druk op de knop. U kunt nu verdergaan in de app door op de onderstaande knop NEXT te tikken.",
     "CL_CF_CS_bio24_elements_pair_step3": "Druk op ''CONNECT USER'' aan de linkerkant. Wanneer het menu opent, druk op de ''PAIR'' knop. U kunt nu verdergaan in de app door te tikken op de NEXT knop hieronder.",
-    "CL_DV_RF_scan_login_code_invalid": "Ongeldige QR-inlogcode!"
+    "CL_DV_RF_scan_login_code_invalid": "Ongeldige QR-inlogcode!",
+    "CL_CF_CS_soft_last_step": "Maak verbinding met het netwerk \"HIS-xxxx\" in de Wi-Fi-instellingen van uw smartphone. \n\n Sluit de ConnectLife-app af, ga naar de wifi-instellingen van uw smartphone. Maak verbinding met het netwerk \"HIS-xxxx\" en keer terug naar de ConnectLife-app."
 }
