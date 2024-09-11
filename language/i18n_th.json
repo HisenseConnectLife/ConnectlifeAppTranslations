@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "กด \"เชื่อมต่อเตาอบ\" ทางด้านซ้าย เมื่อเมนูเปิดขึ้น ให้กดปุ่มสลับทางด้านขวาเพื่อเปิดใช้งาน Wi-Fi",
     "CL_CF_CS_bio24_elements_setup_step4": "ปุ่ม \"CONNECT\" จะปรากฏขึ้น กดปุ่ม จากนั้นคุณสามารถดำเนินการต่อในแอปได้โดยแตะปุ่ม NEXT ด้านล่าง",
     "CL_CF_CS_bio24_elements_pair_step3": "กดปุ่ม \"CONNECT USER\" ทางด้านซ้าย เมื่อเมนูเปิดขึ้น ให้กดปุ่ม \"PAIR\" จากนั้นคุณสามารถดำเนินการต่อในแอปได้โดยแตะปุ่ม NEXT ด้านล่าง",
-    "CL_DV_RF_scan_login_code_invalid": "รหัส QR เข้าสู่ระบบไม่ถูกต้อง!"
+    "CL_DV_RF_scan_login_code_invalid": "รหัส QR เข้าสู่ระบบไม่ถูกต้อง!",
+    "CL_CF_CS_soft_last_step": "เชื่อมต่อกับเครือข่าย \"HIS-xxxx\" ในการตั้งค่า Wi-Fi ของสมาร์ทโฟนของคุณ \n\n ออกจากแอป ConnectLife ไปที่การตั้งค่า WiFi ของสมาร์ทโฟน เชื่อมต่อกับเครือข่าย \"HIS-xxxx\" และกลับไปที่แอป ConnectLife",
+    "CL_DV_RF_view_detail": "ดูรายละเอียด",
+    "CL_DV_RF_structural_diagram": "แผนผังโครงสร้าง",
+    "CL_DV_OV_more_options": "ตัวเลือกเพิ่มเติม"
 }

@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Nhấn vào ''CONNECT OVEN'' ở phía bên trái. Khi menu mở ra, nhấn vào nút chuyển đổi ở bên phải để bật Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Nút ''CONNECT'' xuất hiện. Nhấn vào nút. Bây giờ bạn có thể tiếp tục trong ứng dụng bằng cách nhấn vào nút NEXT bên dưới.",
     "CL_CF_CS_bio24_elements_pair_step3": "Nhấn vào ''CONNECT USER'' ở phía bên trái. Khi menu mở ra, nhấn vào nút ''PAIR''. Bây giờ bạn có thể tiếp tục trong ứng dụng bằng cách nhấn vào nút NEXT bên dưới.",
-    "CL_DV_RF_scan_login_code_invalid": "Mã QR đăng nhập không hợp lệ!"
+    "CL_DV_RF_scan_login_code_invalid": "Mã QR đăng nhập không hợp lệ!",
+    "CL_CF_CS_soft_last_step": "Kết nối với mạng \"HIS-xxxx\" trong cài đặt Wi-Fi trên điện thoại thông minh của bạn. \n\n Thoát khỏi ứng dụng ConnectLife, vào cài đặt WiFi trên điện thoại thông minh của bạn. Kết nối với mạng \"HIS-xxxx\" và quay lại ứng dụng ConnectLife.",
+    "CL_DV_RF_view_detail": "Xem chi tiết",
+    "CL_DV_RF_structural_diagram": "Sơ đồ cấu trúc",
+    "CL_DV_OV_more_options": "Thêm tùy chọn"
 }

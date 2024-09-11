@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Stlačte ''PRIPOJIŤ RÚRU'' na ľavej strane. Keď sa otvorí ponuka, stlačte prepínač na pravej strane, aby ste povolili Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Zobrazí sa tlačidlo ''CONNECT''. Stlačte tlačidlo. Teraz môžete pokračovať v aplikácii klepnutím na tlačidlo NEXT nižšie.",
     "CL_CF_CS_bio24_elements_pair_step3": "Stlačte na ''CONNECT USER'' na ľavej strane. Keď sa otvorí ponuka, stlačte tlačidlo ''PAIR''. Teraz môžete pokračovať v aplikácii klepnutím na tlačidlo NEXT nižšie.",
-    "CL_DV_RF_scan_login_code_invalid": "Neplatný prihlasovací QR kód!"
+    "CL_DV_RF_scan_login_code_invalid": "Neplatný prihlasovací QR kód!",
+    "CL_CF_CS_soft_last_step": "Pripojte sa k sieti „HIS-xxxx“ v nastaveniach Wi-Fi vášho smartfónu. \n\n Ukončite aplikáciu ConnectLife a prejdite do nastavení WiFi vášho smartfónu. Pripojte sa k sieti „HIS-xxxx“ a vráťte sa späť do aplikácie ConnectLife.",
+    "CL_DV_RF_view_detail": "Zobraziť podrobnosti",
+    "CL_DV_RF_structural_diagram": "Štrukturálny diagram",
+    "CL_DV_OV_more_options": "Viac možností"
 }

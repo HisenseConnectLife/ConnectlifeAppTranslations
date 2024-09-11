@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "در سمت چپ ''CONNECT OVEN'' را فشار دهید. وقتی منو باز شد، دکمه جابجایی در سمت راست را فشار دهید تا Wi-Fi فعال شود.",
     "CL_CF_CS_bio24_elements_setup_step4": "دکمه \"اتصال\" ظاهر می شود. روی دکمه فشار دهید. اکنون می توانید با ضربه زدن روی دکمه NEXT در زیر در برنامه ادامه دهید.",
     "CL_CF_CS_bio24_elements_pair_step3": "\"اتصال کاربر\" را در سمت چپ فشار دهید. وقتی منو باز شد، دکمه ''PAIR'' را فشار دهید. اکنون می توانید با ضربه زدن روی دکمه NEXT در زیر در برنامه ادامه دهید.",
-    "CL_DV_RF_scan_login_code_invalid": "کد QR ورود نامعتبر است!"
+    "CL_DV_RF_scan_login_code_invalid": "کد QR ورود نامعتبر است!",
+    "CL_CF_CS_soft_last_step": "در تنظیمات Wi-Fi گوشی هوشمند خود به شبکه \"HIS-xxxx\" متصل شوید. \n\n از برنامه ConnectLife خارج شوید، به تنظیمات WiFi گوشی هوشمند خود بروید. به شبکه \"HIS-xxxx\" متصل شوید و به برنامه ConnectLife برگردید.",
+    "CL_DV_RF_view_detail": "مشاهده جزئیات",
+    "CL_DV_RF_structural_diagram": "نمودار ساختاری",
+    "CL_DV_OV_more_options": "گزینه های بیشتر"
 }

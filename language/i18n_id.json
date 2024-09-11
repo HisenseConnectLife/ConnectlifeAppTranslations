@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Tekan ''CONNECT OVEN'' di sisi kiri. Saat menu terbuka, tekan tombol sakelar di sebelah kanan untuk mengaktifkan Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Tombol ''CONNECT'' akan muncul. Tekan tombol tersebut. Anda sekarang dapat melanjutkan di aplikasi dengan mengetuk tombol NEXT di bawah.",
     "CL_CF_CS_bio24_elements_pair_step3": "Tekan ''CONNECT USER'' di sisi kiri. Saat menu terbuka, tekan tombol ''PAIR''. Anda sekarang dapat melanjutkan di aplikasi dengan mengetuk tombol NEXT di bawah.",
-    "CL_DV_RF_scan_login_code_invalid": "Kode QR login tidak valid!"
+    "CL_DV_RF_scan_login_code_invalid": "Kode QR login tidak valid!",
+    "CL_CF_CS_soft_last_step": "Hubungkan ke jaringan \"HIS-xxxx\" di pengaturan Wi-Fi telepon pintar Anda. \n\n Keluar dari aplikasi ConnectLife, masuk ke pengaturan WiFi ponsel pintar Anda. Hubungkan ke jaringan \"HIS-xxxx\" dan kembali ke aplikasi ConnectLife.",
+    "CL_DV_RF_view_detail": "Lihat Detail",
+    "CL_DV_RF_structural_diagram": "Diagram Struktur",
+    "CL_DV_OV_more_options": "Lebih banyak pilihan"
 }

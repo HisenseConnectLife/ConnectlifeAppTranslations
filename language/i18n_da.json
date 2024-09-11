@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Tryk på ''CONNECT OVEN'' i venstre side. Når menuen åbnes, skal du trykke på skifteknappen til højre for at aktivere Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "En knap ''CONNECT'' vises. Tryk på knappen. Du kan nu fortsætte i appen ved at trykke på knappen NÆSTE nedenfor.",
     "CL_CF_CS_bio24_elements_pair_step3": "Tryk på ''CONNECT USER'' i venstre side. Når menuen åbnes, tryk på ''PAIR''-knappen. Du kan nu fortsætte i appen ved at trykke på knappen NÆSTE nedenfor.",
-    "CL_DV_RF_scan_login_code_invalid": "Ugyldig login QR-kode!"
+    "CL_DV_RF_scan_login_code_invalid": "Ugyldig login QR-kode!",
+    "CL_CF_CS_soft_last_step": "Opret forbindelse til \"HIS-xxxx\"-netværket i Wi-Fi-indstillingerne på din smartphone. \n\n Afslut ConnectLife-appen, gå til din smartphones WiFi-indstillinger. Tilslut til \"HIS-xxxx\"-netværket og vend tilbage til ConnectLife-appen.",
+    "CL_DV_RF_view_detail": "Se detaljer",
+    "CL_DV_RF_structural_diagram": "Strukturelt diagram",
+    "CL_DV_OV_more_options": "Flere muligheder"
 }
