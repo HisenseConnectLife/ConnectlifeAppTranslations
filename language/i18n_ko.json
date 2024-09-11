@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "왼쪽에 있는 ''CONNECT OVEN''을 누르세요. 메뉴가 열리면 오른쪽에 있는 토글 버튼을 눌러 Wi-Fi를 활성화하세요.",
     "CL_CF_CS_bio24_elements_setup_step4": "''CONNECT'' 버튼이 나타납니다. 버튼을 누르세요. 이제 아래의 NEXT 버튼을 탭하여 앱에서 진행할 수 있습니다.",
     "CL_CF_CS_bio24_elements_pair_step3": "왼쪽에 있는 ''CONNECT USER''를 누르세요. 메뉴가 열리면 ''PAIR'' 버튼을 누르세요. 이제 아래의 NEXT 버튼을 눌러 앱에서 진행할 수 있습니다.",
-    "CL_DV_RF_scan_login_code_invalid": "잘못된 로그인 QR 코드입니다!"
+    "CL_DV_RF_scan_login_code_invalid": "잘못된 로그인 QR 코드입니다!",
+    "CL_CF_CS_soft_last_step": "스마트폰의 Wi-Fi 설정에서 \"HIS-xxxx\" 네트워크에 연결하세요. \n\n ConnectLife 앱을 종료하고 스마트폰의 WiFi 설정으로 이동합니다. \"HIS-xxxx\" 네트워크에 연결하고 ConnectLife 앱으로 돌아갑니다.",
+    "CL_DV_RF_view_detail": "자세한 내용 보기",
+    "CL_DV_RF_structural_diagram": "구조도",
+    "CL_DV_OV_more_options": "더 많은 옵션"
 }

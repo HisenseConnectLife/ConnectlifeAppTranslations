@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "按下左側的“連接烤箱”。選單開啟後，按右側的切換鈕啟用 Wi-Fi。",
     "CL_CF_CS_bio24_elements_setup_step4": "出現“連接”按鈕。按下按鈕。現在您可以點擊下面的“下一步”按鈕繼續應用程式。",
     "CL_CF_CS_bio24_elements_pair_step3": "按下左側的「連線使用者」。選單打開後，按下“配對”按鈕。現在您可以點擊下面的“下一步”按鈕繼續應用程式。",
-    "CL_DV_RF_scan_login_code_invalid": "登入二維碼無效！"
+    "CL_DV_RF_scan_login_code_invalid": "登入二維碼無效！",
+    "CL_CF_CS_soft_last_step": "在智慧型手機的 Wi-Fi 設定中連接到「HIS-xxxx」網路。 \n\n退出 ConnectLife 應用程序，前往智慧型手機的 WiFi 設定。連接到「HIS-xxxx」網路並返回 ConnectLife 應用程式。",
+    "CL_DV_RF_view_detail": "看詳情",
+    "CL_DV_RF_structural_diagram": "結構圖",
+    "CL_DV_OV_more_options": "更多選擇"
 }

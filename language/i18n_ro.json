@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Apăsați pe „CONECTARE CUPTOR” din partea stângă. Când se deschide meniul, apăsați pe butonul de comutare din dreapta pentru a activa Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Apare un buton „CONECTARE”. Apăsați pe butonul. Acum puteți continua în aplicație atingând butonul URMĂTOR de mai jos.",
     "CL_CF_CS_bio24_elements_pair_step3": "Apăsați pe „CONECTARE UTILIZATOR” din partea stângă. Când se deschide meniul, apăsați pe butonul „PERECHI”. Acum puteți continua în aplicație atingând butonul URMĂTOR de mai jos.",
-    "CL_DV_RF_scan_login_code_invalid": "Cod QR de conectare nevalid!"
+    "CL_DV_RF_scan_login_code_invalid": "Cod QR de conectare nevalid!",
+    "CL_CF_CS_soft_last_step": "Conectați-vă la rețeaua „HIS-xxxx” în setările Wi-Fi ale smartphone-ului dvs. \n\n Ieșiți din aplicația ConnectLife, accesați setările WiFi ale smartphone-ului dvs. Conectați-vă la rețeaua „HIS-xxxx” și reveniți la aplicația ConnectLife.",
+    "CL_DV_RF_view_detail": "Vedeți detalii",
+    "CL_DV_RF_structural_diagram": "Diagrama structurală",
+    "CL_DV_OV_more_options": "Mai multe opțiuni"
 }

@@ -4045,5 +4045,9 @@
     "CL_CF_CS_bio24_elements_setup_step3": "Drücken Sie auf der linken Seite auf „OFEN VERBINDEN“. Wenn das Menü geöffnet wird, drücken Sie auf den Umschaltknopf rechts, um WLAN zu aktivieren.",
     "CL_CF_CS_bio24_elements_setup_step4": "Es erscheint die Schaltfläche „VERBINDEN“. Drücke auf diese Schaltfläche. Du kannst nun in der App fortfahren, indem du unten auf die Schaltfläche WEITER tippst.",
     "CL_CF_CS_bio24_elements_pair_step3": "Drücken Sie auf der linken Seite auf „BENUTZER VERBINDEN“. Wenn sich das Menü öffnet, drücken Sie auf die Schaltfläche „KOPPELN“. Sie können nun in der App fortfahren, indem Sie unten auf die Schaltfläche WEITER tippen.",
-    "CL_DV_RF_scan_login_code_invalid": "Ungültiger Login-QR-Code!"
+    "CL_DV_RF_scan_login_code_invalid": "Ungültiger Login-QR-Code!",
+    "CL_CF_CS_soft_last_step": "Verbinden Sie sich in den WLAN-Einstellungen Ihres Smartphones mit dem Netzwerk „HIS-xxxx“. \n\n Beenden Sie die ConnectLife-App und gehen Sie zu den WLAN-Einstellungen Ihres Smartphones. Stellen Sie eine Verbindung zum Netzwerk „HIS-xxxx“ her und kehren Sie zur ConnectLife-App zurück.",
+    "CL_DV_RF_view_detail": "Details anzeigen",
+    "CL_DV_RF_structural_diagram": "Strukturdiagramm",
+    "CL_DV_OV_more_options": "Weitere Optionen"
 }
