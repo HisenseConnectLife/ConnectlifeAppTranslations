@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Verbinden Sie sich in den WLAN-Einstellungen Ihres Smartphones mit dem Netzwerk „HIS-xxxx“. \n\n Beenden Sie die ConnectLife-App und gehen Sie zu den WLAN-Einstellungen Ihres Smartphones. Stellen Sie eine Verbindung zum Netzwerk „HIS-xxxx“ her und kehren Sie zur ConnectLife-App zurück.",
     "CL_DV_RF_view_detail": "Details anzeigen",
     "CL_DV_RF_structural_diagram": "Strukturdiagramm",
-    "CL_DV_OV_more_options": "Weitere Optionen"
+    "CL_DV_OV_more_options": "Weitere Optionen",
+    "CL_DV_OV_no_preheat": "Kein Vorheizen",
+    "CL_DV_OV_fast_preheat_desc": "Die schnelle Vorheizfunktion ist die schnellste Methode, Ihren Backofen vorzuheizen. Sie dauert etwa 7 Minuten.",
+    "CL_DV_OV_preheat_desc": "Je nach Gericht ist Vorheizen die beste Methode, Ihren Backofen vorzuheizen. Dies dauert ungefähr 10 Minuten.",
+    "CL_DV_OV_no_preheat_desc": "Es ist nicht immer nötig, den Backofen vorzuheizen. Beispielsweise zum Aufwärmen bestimmter Lebensmittel."
 }

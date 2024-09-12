@@ -3361,7 +3361,7 @@
     "default": "Predefinita",
     "if_key": "se",
     "enable_key": "abilitare",
-    "no_report_history": "Non sono state inviate segnalazioni.",
+    "no_report_history": "Non sono stati segnalati problemi.",
     "routine_key": "routine",
     "automation_name_key": "Nome dell'automazione",
     "send_notifi_example_key": "Esempio: invia “Il condizionatore è acceso”",
@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Connettiti alla rete \"HIS-xxxx\" nelle impostazioni Wi-Fi del tuo smartphone. \n\n Esci dall'app ConnectLife, vai alle impostazioni WiFi del tuo smartphone. Connettiti alla rete \"HIS-xxxx\" e torna all'app ConnectLife.",
     "CL_DV_RF_view_detail": "Visualizza i dettagli",
     "CL_DV_RF_structural_diagram": "Diagramma strutturale",
-    "CL_DV_OV_more_options": "Altre opzioni"
+    "CL_DV_OV_more_options": "Altre opzioni",
+    "CL_DV_OV_no_preheat": "Nessun preriscaldamento",
+    "CL_DV_OV_fast_preheat_desc": "Fast Preheat è il modo più rapido per preriscaldare il forno. Ci vogliono circa 7 minuti.",
+    "CL_DV_OV_preheat_desc": "Preriscaldare è il modo migliore per preriscaldare il forno considerando il piatto. Ci vogliono circa 10 minuti.",
+    "CL_DV_OV_no_preheat_desc": "Non è sempre necessario preriscaldare il forno. Ad esempio per riscaldare determinati cibi."
 }

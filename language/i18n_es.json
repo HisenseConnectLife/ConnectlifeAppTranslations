@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Conéctese a la red “HIS-xxxx” en la configuración Wi-Fi de su teléfono inteligente. \n\n Salga de la aplicación ConnectLife, acceda a la configuración de WiFi de su teléfono inteligente. Conéctese a la red \"HIS-xxxx\" y regrese a la aplicación ConnectLife.",
     "CL_DV_RF_view_detail": "Ver detalles",
     "CL_DV_RF_structural_diagram": "Diagrama estructural",
-    "CL_DV_OV_more_options": "Más opciones"
+    "CL_DV_OV_more_options": "Más opciones",
+    "CL_DV_OV_no_preheat": "Sin precalentamiento",
+    "CL_DV_OV_fast_preheat_desc": "El precalentamiento rápido es la forma más rápida de precalentar el horno. Tarda aproximadamente 7 minutos.",
+    "CL_DV_OV_preheat_desc": "Precalentar es la mejor manera de precalentar el horno teniendo en cuenta el plato. Tarda aproximadamente 10 minutos.",
+    "CL_DV_OV_no_preheat_desc": "No siempre es necesario precalentar el horno, por ejemplo, para recalentar determinados alimentos."
 }

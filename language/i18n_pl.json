@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Połącz się z siecią „HIS-xxxx” w ustawieniach Wi-Fi swojego smartfona. \n\n Wyjdź z aplikacji ConnectLife, przejdź do ustawień WiFi swojego smartfona. Połącz się z siecią „HIS-xxxx” i wróć do aplikacji ConnectLife.",
     "CL_DV_RF_view_detail": "Zobacz szczegóły",
     "CL_DV_RF_structural_diagram": "Schemat strukturalny",
-    "CL_DV_OV_more_options": "Więcej opcji"
+    "CL_DV_OV_more_options": "Więcej opcji",
+    "CL_DV_OV_no_preheat": "Bez podgrzewania",
+    "CL_DV_OV_fast_preheat_desc": "Fast Preheat to najszybszy sposób na rozgrzanie piekarnika. Zajmuje to około 7 minut.",
+    "CL_DV_OV_preheat_desc": "Rozgrzanie wstępne jest najlepszym sposobem na rozgrzanie piekarnika, biorąc pod uwagę potrawę. Zajmuje to około 10 minut.",
+    "CL_DV_OV_no_preheat_desc": "Nie zawsze trzeba podgrzewać piekarnik. Na przykład do podgrzewania niektórych potraw."
 }

@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Conecte-se à rede \"HIS-xxxx\" nas configurações de Wi-Fi do seu smartphone. \n\n Saia do aplicativo ConnectLife, vá para as configurações de WiFi do seu smartphone. Conecte-se à rede \"HIS-xxxx\" e retorne ao aplicativo ConnectLife.",
     "CL_DV_RF_view_detail": "Ver detalhes",
     "CL_DV_RF_structural_diagram": "Diagrama Estrutural",
-    "CL_DV_OV_more_options": "Mais opções"
+    "CL_DV_OV_more_options": "Mais opções",
+    "CL_DV_OV_no_preheat": "Sem pré-aquecimento",
+    "CL_DV_OV_fast_preheat_desc": "O Fast Preheat é a maneira mais rápida de pré-aquecer seu forno. Leva aproximadamente 7 minutos.",
+    "CL_DV_OV_preheat_desc": "Preheat é a melhor maneira de pré-aquecer seu forno considerando o prato. Leva aproximadamente 10 minutos.",
+    "CL_DV_OV_no_preheat_desc": "Nem sempre é necessário pré-aquecer seu forno. Por exemplo, para reaquecer certos alimentos."
 }

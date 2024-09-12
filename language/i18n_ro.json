@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Conectați-vă la rețeaua „HIS-xxxx” în setările Wi-Fi ale smartphone-ului dvs. \n\n Ieșiți din aplicația ConnectLife, accesați setările WiFi ale smartphone-ului dvs. Conectați-vă la rețeaua „HIS-xxxx” și reveniți la aplicația ConnectLife.",
     "CL_DV_RF_view_detail": "Vedeți detalii",
     "CL_DV_RF_structural_diagram": "Diagrama structurală",
-    "CL_DV_OV_more_options": "Mai multe opțiuni"
+    "CL_DV_OV_more_options": "Mai multe opțiuni",
+    "CL_DV_OV_no_preheat": "Fără preîncălzire",
+    "CL_DV_OV_fast_preheat_desc": "Preîncălzirea rapidă este cea mai rapidă modalitate de a vă preîncălzi cuptorul. Durează aproximativ 7 minute.",
+    "CL_DV_OV_preheat_desc": "Preîncălzirea este cea mai bună modalitate de a vă preîncălzi cuptorul având în vedere felul de mâncare. Durează aproximativ 10 minute.",
+    "CL_DV_OV_no_preheat_desc": "Nu este întotdeauna necesar să vă preîncălziți cuptorul. De exemplu pentru reîncălzirea anumitor alimente."
 }

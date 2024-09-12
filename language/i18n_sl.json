@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Povežite se z omrežjem \"HIS-xxxx\" v nastavitvah Wi-Fi vašega pametnega telefona. \n\n Zaprite aplikacijo ConnectLife, pojdite v nastavitve WiFi vašega pametnega telefona. Povežite se z omrežjem \"HIS-xxxx\" in se vrnite nazaj v aplikacijo ConnectLife.",
     "CL_DV_RF_view_detail": "Poglej podrobnosti",
     "CL_DV_RF_structural_diagram": "Strukturni diagram",
-    "CL_DV_OV_more_options": "Več možnosti"
+    "CL_DV_OV_more_options": "Več možnosti",
+    "CL_DV_OV_no_preheat": "Brez predgretja",
+    "CL_DV_OV_fast_preheat_desc": "Fast Preheat je najhitrejši način za predgretje vaše pečice. Traja približno 7 minut.",
+    "CL_DV_OV_preheat_desc": "Predgretje je najboljši način za predgretje pečice glede na posodo. Traja približno 10 minut.",
+    "CL_DV_OV_no_preheat_desc": "Pečice ni vedno potrebno predgreti. Na primer za pogrevanje določenih živil."
 }

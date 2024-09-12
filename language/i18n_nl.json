@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Maak verbinding met het netwerk \"HIS-xxxx\" in de Wi-Fi-instellingen van uw smartphone. \n\n Sluit de ConnectLife-app af, ga naar de wifi-instellingen van uw smartphone. Maak verbinding met het netwerk \"HIS-xxxx\" en keer terug naar de ConnectLife-app.",
     "CL_DV_RF_view_detail": "Bekijk details",
     "CL_DV_RF_structural_diagram": "Structuurdiagram",
-    "CL_DV_OV_more_options": "Meer opties"
+    "CL_DV_OV_more_options": "Meer opties",
+    "CL_DV_OV_no_preheat": "Geen voorverwarmen",
+    "CL_DV_OV_fast_preheat_desc": "Fast Preheat is de snelste manier om uw oven voor te verwarmen. Het duurt ongeveer 7 minuten.",
+    "CL_DV_OV_preheat_desc": "Voorverwarmen is de beste manier om uw oven voor te verwarmen, gezien het gerecht. Het duurt ongeveer 10 minuten.",
+    "CL_DV_OV_no_preheat_desc": "Het is niet altijd nodig om uw oven voor te verwarmen. Bijvoorbeeld om bepaalde gerechten op te warmen."
 }

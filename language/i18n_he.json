@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "התחבר לרשת \"HIS-xxxx\" בהגדרות ה-Wi-Fi של הטלפון החכם שלך. \n\n צא מאפליקציית ConnectLife, עבור להגדרות ה-WiFi של הטלפון החכם שלך. התחבר לרשת \"HIS-xxxx\" וחזור חזרה לאפליקציית ConnectLife.",
     "CL_DV_RF_view_detail": "הצג פרטים",
     "CL_DV_RF_structural_diagram": "תרשים מבני",
-    "CL_DV_OV_more_options": "אפשרויות נוספות"
+    "CL_DV_OV_more_options": "אפשרויות נוספות",
+    "CL_DV_OV_no_preheat": "אין חימום מוקדם",
+    "CL_DV_OV_fast_preheat_desc": "חימום מהיר הוא הדרך המהירה ביותר לחמם מראש את התנור שלך. זה לוקח בערך 7 דקות.",
+    "CL_DV_OV_preheat_desc": "חימום מוקדם הוא הדרך הטובה ביותר לחמם מראש את התנור בהתחשב במנה. זה לוקח בערך 10 דקות.",
+    "CL_DV_OV_no_preheat_desc": "לא תמיד יש צורך לחמם את התנור מראש. למשל לחימום מאכלים מסוימים."
 }

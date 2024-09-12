@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Akıllı telefonunuzun Wi-Fi ayarlarından \"HIS-xxxx\" ağına bağlanın. \n\n ConnectLife uygulamasından çıkın, akıllı telefonunuzun WiFi ayarlarına gidin. \"HIS-xxxx\" ağına bağlanın ve ConnectLife uygulamasına geri dönün.",
     "CL_DV_RF_view_detail": "Ayrıntıları Görüntüle",
     "CL_DV_RF_structural_diagram": "Yapısal Diyagram",
-    "CL_DV_OV_more_options": "Daha fazla seçenek"
+    "CL_DV_OV_more_options": "Daha fazla seçenek",
+    "CL_DV_OV_no_preheat": "Ön ısıtma yok",
+    "CL_DV_OV_fast_preheat_desc": "Hızlı Ön Isıtma, fırınınızı önceden ısıtmanın en hızlı yoludur. Yaklaşık 7 dakika sürer.",
+    "CL_DV_OV_preheat_desc": "Yemeğinizi önceden ısıtmanın en iyi yolu fırınınızı önceden ısıtmak için ön ısıtmadır. Yaklaşık 10 dakika sürer.",
+    "CL_DV_OV_no_preheat_desc": "Fırınınızı önceden ısıtmanız her zaman gerekmez. Örneğin belirli yiyecekleri yeniden ısıtmak için."
 }

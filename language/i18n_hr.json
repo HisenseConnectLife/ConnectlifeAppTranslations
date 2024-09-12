@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Povežite se na \"HIS-xxxx\" mrežu u Wi-Fi postavkama vašeg pametnog telefona. \n\n Izađite iz aplikacije ConnectLife, idite na WiFi postavke pametnog telefona. Povežite se s mrežom \"HIS-xxxx\" i vratite se natrag u aplikaciju ConnectLife.",
     "CL_DV_RF_view_detail": "Prikaži pojedinosti",
     "CL_DV_RF_structural_diagram": "Strukturni dijagram",
-    "CL_DV_OV_more_options": "Više mogućnosti"
+    "CL_DV_OV_more_options": "Više mogućnosti",
+    "CL_DV_OV_no_preheat": "Bez predgrijavanja",
+    "CL_DV_OV_fast_preheat_desc": "Brzo prethodno zagrijavanje najbrži je način za zagrijavanje pećnice. Traje otprilike 7 minuta.",
+    "CL_DV_OV_preheat_desc": "Prethodno zagrijavanje je najbolji način da prethodno zagrijete pećnicu s obzirom na jelo. Traje otprilike 10 minuta.",
+    "CL_DV_OV_no_preheat_desc": "Nije uvijek potrebno prethodno zagrijati pećnicu. Na primjer za podgrijavanje određene hrane."
 }

@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "スマートフォンのWi-Fi設定で「HIS-xxxx」ネットワークに接続します。 \n\n ConnectLife アプリを終了し、スマートフォンの WiFi 設定に移動します。「HIS-xxxx」ネットワークに接続し、ConnectLife アプリに戻ります。",
     "CL_DV_RF_view_detail": "詳細を表示",
     "CL_DV_RF_structural_diagram": "構造図",
-    "CL_DV_OV_more_options": "その他のオプション"
+    "CL_DV_OV_more_options": "その他のオプション",
+    "CL_DV_OV_no_preheat": "予熱なし",
+    "CL_DV_OV_fast_preheat_desc": "高速予熱はオーブンを予熱する最も早い方法です。所要時間は約 7 分です。",
+    "CL_DV_OV_preheat_desc": "料理を考慮してオーブンを予熱するには、予熱が最適です。所要時間は約 10 分です。",
+    "CL_DV_OV_no_preheat_desc": "オーブンを予熱する必要は必ずしもありません。たとえば、特定の食品を再加熱する場合などです。"
 }
