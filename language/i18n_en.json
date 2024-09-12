@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Connect to \"HIS-xxxx\" network in the Wi-Fi settings of your smartphone. \n\nExit ConnectLife app, go to your smartphone’s WiFi settings. Connect to \"HIS-xxxx\" network and return back to ConnectLife app.",
     "CL_DV_RF_view_detail": "View Details",
     "CL_DV_RF_structural_diagram": "Structural Diagram",
-    "CL_DV_OV_more_options": "More options"
+    "CL_DV_OV_more_options": "More options",
+    "CL_DV_OV_no_preheat": "No preheat",
+    "CL_DV_OV_fast_preheat_desc": "Fast Preheat is the quickest way to preheat your oven. It takes approximately 7 minutes.",
+    "CL_DV_OV_preheat_desc": "Preheat is the best way to preheat your oven considering the dish. It takes approximately 10 minutes.",
+    "CL_DV_OV_no_preheat_desc": "It is not always needed to preheat your oven. For example for reheating certain foods."
 }

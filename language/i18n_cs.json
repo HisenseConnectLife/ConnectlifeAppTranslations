@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Připojte se k síti „HIS-xxxx“ v nastavení Wi-Fi vašeho smartphonu. \n\n Ukončete aplikaci ConnectLife a přejděte do nastavení WiFi vašeho smartphonu. Připojte se k síti „HIS-xxxx“ a vraťte se zpět do aplikace ConnectLife.",
     "CL_DV_RF_view_detail": "Zobrazit podrobnosti",
     "CL_DV_RF_structural_diagram": "Strukturální diagram",
-    "CL_DV_OV_more_options": "Více možností"
+    "CL_DV_OV_more_options": "Více možností",
+    "CL_DV_OV_no_preheat": "Bez předehřívání",
+    "CL_DV_OV_fast_preheat_desc": "Rychlé předehřátí je nejrychlejší způsob předehřátí trouby. Trvá to přibližně 7 minut.",
+    "CL_DV_OV_preheat_desc": "Předehřátí je nejlepší způsob, jak předehřát troubu s ohledem na pokrm. Trvá to přibližně 10 minut.",
+    "CL_DV_OV_no_preheat_desc": "Ne vždy je potřeba troubu předehřívat. Například pro ohřívání některých potravin."
 }

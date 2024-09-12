@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "在智慧型手機的 Wi-Fi 設定中連接到「HIS-xxxx」網路。 \n\n退出 ConnectLife 應用程序，前往智慧型手機的 WiFi 設定。連接到「HIS-xxxx」網路並返回 ConnectLife 應用程式。",
     "CL_DV_RF_view_detail": "看詳情",
     "CL_DV_RF_structural_diagram": "結構圖",
-    "CL_DV_OV_more_options": "更多選擇"
+    "CL_DV_OV_more_options": "更多選擇",
+    "CL_DV_OV_no_preheat": "無需預熱",
+    "CL_DV_OV_fast_preheat_desc": "快速預熱是預熱烤箱的最快方法。大約需要 7 分鐘。",
+    "CL_DV_OV_preheat_desc": "考慮到菜餚，預熱是預熱烤箱的最佳方法。大約需要 10 分鐘。",
+    "CL_DV_OV_no_preheat_desc": "並不總是需要預熱烤箱。例如用於重新加熱某些食物。"
 }

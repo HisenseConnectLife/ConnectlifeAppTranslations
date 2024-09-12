@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Hubungkan ke jaringan \"HIS-xxxx\" di pengaturan Wi-Fi telepon pintar Anda. \n\n Keluar dari aplikasi ConnectLife, masuk ke pengaturan WiFi ponsel pintar Anda. Hubungkan ke jaringan \"HIS-xxxx\" dan kembali ke aplikasi ConnectLife.",
     "CL_DV_RF_view_detail": "Lihat Detail",
     "CL_DV_RF_structural_diagram": "Diagram Struktur",
-    "CL_DV_OV_more_options": "Lebih banyak pilihan"
+    "CL_DV_OV_more_options": "Lebih banyak pilihan",
+    "CL_DV_OV_no_preheat": "Tidak ada pemanasan awal",
+    "CL_DV_OV_fast_preheat_desc": "Fast Preheat adalah cara tercepat untuk memanaskan oven Anda. Proses ini memakan waktu sekitar 7 menit.",
+    "CL_DV_OV_preheat_desc": "Pemanasan awal adalah cara terbaik untuk memanaskan oven Anda dengan mempertimbangkan hidangannya. Diperlukan waktu sekitar 10 menit.",
+    "CL_DV_OV_no_preheat_desc": "Tidak selalu perlu memanaskan oven terlebih dahulu. Misalnya untuk memanaskan kembali makanan tertentu."
 }

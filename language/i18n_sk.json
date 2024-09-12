@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Pripojte sa k sieti „HIS-xxxx“ v nastaveniach Wi-Fi vášho smartfónu. \n\n Ukončite aplikáciu ConnectLife a prejdite do nastavení WiFi vášho smartfónu. Pripojte sa k sieti „HIS-xxxx“ a vráťte sa späť do aplikácie ConnectLife.",
     "CL_DV_RF_view_detail": "Zobraziť podrobnosti",
     "CL_DV_RF_structural_diagram": "Štrukturálny diagram",
-    "CL_DV_OV_more_options": "Viac možností"
+    "CL_DV_OV_more_options": "Viac možností",
+    "CL_DV_OV_no_preheat": "Bez predhrievania",
+    "CL_DV_OV_fast_preheat_desc": "Rýchle predhriatie je najrýchlejší spôsob predhriatia vašej rúry. Trvá to približne 7 minút.",
+    "CL_DV_OV_preheat_desc": "Predhrievanie je najlepší spôsob, ako predhriať rúru vzhľadom na pokrm. Trvá to približne 10 minút.",
+    "CL_DV_OV_no_preheat_desc": "Nie vždy je potrebné predhrievať rúru. Napríklad na ohrievanie určitých potravín."
 }

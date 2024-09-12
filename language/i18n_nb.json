@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Koble til \"HIS-xxxx\"-nettverket i Wi-Fi-innstillingene på smarttelefonen. \n\n Avslutt ConnectLife-appen, gå til smarttelefonens WiFi-innstillinger. Koble til \"HIS-xxxx\"-nettverket og gå tilbake til ConnectLife-appen.",
     "CL_DV_RF_view_detail": "Se detaljer",
     "CL_DV_RF_structural_diagram": "Strukturelt diagram",
-    "CL_DV_OV_more_options": "Flere alternativer"
+    "CL_DV_OV_more_options": "Flere alternativer",
+    "CL_DV_OV_no_preheat": "Ingen forvarming",
+    "CL_DV_OV_fast_preheat_desc": "Rask forvarming er den raskeste måten å forvarme ovnen på. Det tar omtrent 7 minutter.",
+    "CL_DV_OV_preheat_desc": "Forvarming er den beste måten å forvarme ovnen på med tanke på retten. Det tar omtrent 10 minutter.",
+    "CL_DV_OV_no_preheat_desc": "Det er ikke alltid nødvendig å forvarme ovnen. For eksempel for oppvarming av enkelte matvarer."
 }

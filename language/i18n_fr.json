@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Connectez-vous au réseau « HIS-xxxx » dans les paramètres Wi-Fi de votre smartphone. \n\n Quittez l'application ConnectLife, accédez aux paramètres Wi-Fi de votre smartphone. Connectez-vous au réseau « HIS-xxxx » et revenez à l'application ConnectLife.",
     "CL_DV_RF_view_detail": "Voir les détails",
     "CL_DV_RF_structural_diagram": "Schéma structurel",
-    "CL_DV_OV_more_options": "Plus d'options"
+    "CL_DV_OV_more_options": "Plus d'options",
+    "CL_DV_OV_no_preheat": "Pas de préchauffage",
+    "CL_DV_OV_fast_preheat_desc": "Le préchauffage rapide est le moyen le plus rapide de préchauffer votre four. Il prend environ 7 minutes.",
+    "CL_DV_OV_preheat_desc": "Le préchauffage est la meilleure façon de préchauffer votre four en fonction du plat. Cela prend environ 10 minutes.",
+    "CL_DV_OV_no_preheat_desc": "Il n'est pas toujours nécessaire de préchauffer votre four. Par exemple pour réchauffer certains aliments."
 }

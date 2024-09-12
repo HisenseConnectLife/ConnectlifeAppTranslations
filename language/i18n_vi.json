@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Kết nối với mạng \"HIS-xxxx\" trong cài đặt Wi-Fi trên điện thoại thông minh của bạn. \n\n Thoát khỏi ứng dụng ConnectLife, vào cài đặt WiFi trên điện thoại thông minh của bạn. Kết nối với mạng \"HIS-xxxx\" và quay lại ứng dụng ConnectLife.",
     "CL_DV_RF_view_detail": "Xem chi tiết",
     "CL_DV_RF_structural_diagram": "Sơ đồ cấu trúc",
-    "CL_DV_OV_more_options": "Thêm tùy chọn"
+    "CL_DV_OV_more_options": "Thêm tùy chọn",
+    "CL_DV_OV_no_preheat": "Không cần làm nóng trước",
+    "CL_DV_OV_fast_preheat_desc": "Làm nóng nhanh là cách nhanh nhất để làm nóng lò nướng của bạn. Mất khoảng 7 phút.",
+    "CL_DV_OV_preheat_desc": "Làm nóng trước là cách tốt nhất để làm nóng lò nướng của bạn khi xem xét đến món ăn. Mất khoảng 10 phút.",
+    "CL_DV_OV_no_preheat_desc": "Không phải lúc nào cũng cần phải làm nóng lò nướng trước. Ví dụ như khi hâm nóng một số loại thực phẩm nhất định."
 }

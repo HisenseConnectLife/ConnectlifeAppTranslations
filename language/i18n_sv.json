@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Anslut till nätverket \"HIS-xxxx\" i Wi-Fi-inställningarna på din smartphone. \n\n Avsluta ConnectLife-appen, gå till din smartphones WiFi-inställningar. Anslut till nätverket \"HIS-xxxx\" och gå tillbaka till ConnectLife-appen.",
     "CL_DV_RF_view_detail": "Visa detaljer",
     "CL_DV_RF_structural_diagram": "Strukturdiagram",
-    "CL_DV_OV_more_options": "Fler alternativ"
+    "CL_DV_OV_more_options": "Fler alternativ",
+    "CL_DV_OV_no_preheat": "Ingen förvärmning",
+    "CL_DV_OV_fast_preheat_desc": "Snabb förvärmning är det snabbaste sättet att förvärma din ugn. Det tar cirka 7 minuter.",
+    "CL_DV_OV_preheat_desc": "Förvärmning är det bästa sättet att förvärma ugnen med tanke på rätten. Det tar cirka 10 minuter.",
+    "CL_DV_OV_no_preheat_desc": "Det är inte alltid nödvändigt att förvärma din ugn. Till exempel för att värma upp vissa livsmedel."
 }

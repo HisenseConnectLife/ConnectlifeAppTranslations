@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Opret forbindelse til \"HIS-xxxx\"-netværket i Wi-Fi-indstillingerne på din smartphone. \n\n Afslut ConnectLife-appen, gå til din smartphones WiFi-indstillinger. Tilslut til \"HIS-xxxx\"-netværket og vend tilbage til ConnectLife-appen.",
     "CL_DV_RF_view_detail": "Se detaljer",
     "CL_DV_RF_structural_diagram": "Strukturelt diagram",
-    "CL_DV_OV_more_options": "Flere muligheder"
+    "CL_DV_OV_more_options": "Flere muligheder",
+    "CL_DV_OV_no_preheat": "Ingen forvarmning",
+    "CL_DV_OV_fast_preheat_desc": "Hurtig forvarmning er den hurtigste måde at forvarme din ovn på. Det tager cirka 7 minutter.",
+    "CL_DV_OV_preheat_desc": "Forvarmning er den bedste måde at forvarme din ovn på i betragtning af retten. Det tager cirka 10 minutter.",
+    "CL_DV_OV_no_preheat_desc": "Det er ikke altid nødvendigt at forvarme din ovn. For eksempel til genopvarmning af visse fødevarer."
 }

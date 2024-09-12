@@ -4049,5 +4049,9 @@
     "CL_CF_CS_soft_last_step": "Yhdistä \"HIS-xxxx\"-verkkoon älypuhelimesi Wi-Fi-asetuksissa. \n\n Poistu ConnectLife-sovelluksesta ja siirry älypuhelimesi WiFi-asetuksiin. Yhdistä \"HIS-xxxx\" verkkoon ja palaa takaisin ConnectLife-sovellukseen.",
     "CL_DV_RF_view_detail": "Näytä tiedot",
     "CL_DV_RF_structural_diagram": "Rakennekaavio",
-    "CL_DV_OV_more_options": "Lisää vaihtoehtoja"
+    "CL_DV_OV_more_options": "Lisää vaihtoehtoja",
+    "CL_DV_OV_no_preheat": "Ei esilämmitystä",
+    "CL_DV_OV_fast_preheat_desc": "Nopea esilämmitys on nopein tapa esilämmittää uuni. Se kestää noin 7 minuuttia.",
+    "CL_DV_OV_preheat_desc": "Esikuumennus on paras tapa esilämmittää uuni astian kannalta. Se kestää noin 10 minuuttia.",
+    "CL_DV_OV_no_preheat_desc": "Aina ei tarvitse esilämmittää uunia. Esimerkiksi tiettyjen ruokien lämmittämiseen."
 }
