@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "In the “Advanced settings” menu go to the “WiFi” menu and press the settings button to enter. Then go to “Add device” and press the settings button to activate.",
     "CL_CF_CS_dw005_pair_step5": "The device network is now open for adding device for 3 minutes.\nClick NEXT to continue.",
     "CL_DV_DW_save_date_invalid": "End month can not be smaller than start month!",
-    "CL_DV_OV_send_to_devices": "SEND TO DEVICES"
+    "CL_DV_OV_send_to_devices": "SEND TO DEVICES",
+    "CL_DV_OV_24_egg_timer": "Egg timer",
+    "CL_DV_OV_24_egg_timer_content": "Select the repetition and duration of the sound you hear when an egg timer expires.",
+    "CL_DV_OV_24_finish_sounds": "Finish sounds",
+    "CL_DV_OV_24_finish_sounds_content": "Choose the interval of finish sound repetition.",
+    "CL_DV_OV_search_recipes": "Search Recipes",
+    "CL_CF_CM_search_history": "Search History"
 }

@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "在“高级设置”菜单中，进入“WiFi”菜单，按设置按钮进入。然后进入“添加设备”，按设置按钮激活。",
     "CL_CF_CS_dw005_pair_step5": "设备网络现已开放添加设备，持续时间为 3 分钟。\n单击“下一步”继续。",
     "CL_DV_DW_save_date_invalid": "结束月份不能小于开始月份！",
-    "CL_DV_OV_send_to_devices": "发送至设备"
+    "CL_DV_OV_send_to_devices": "发送至设备",
+    "CL_DV_OV_24_egg_timer": "鸡蛋计时器",
+    "CL_DV_OV_24_egg_timer_content": "选择鸡蛋计时器到期时发出的声音的重复次数和持续时间。",
+    "CL_DV_OV_24_finish_sounds": "完成声音",
+    "CL_DV_OV_24_finish_sounds_content": "选择完成声音重复的间隔。",
+    "CL_DV_OV_search_recipes": "搜索菜谱",
+    "CL_CF_CM_search_history": "搜索历史"
 }

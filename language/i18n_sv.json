@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "I menyn \"Avancerade inställningar\" gå till menyn \"WiFi\" och tryck på inställningsknappen för att komma in. Gå sedan till \"Lägg till enhet\" och tryck på inställningsknappen för att aktivera.",
     "CL_CF_CS_dw005_pair_step5": "Enhetsnätverket är nu öppet för att lägga till enhet i 3 minuter.\n Klicka på NÄSTA för att fortsätta.",
     "CL_DV_DW_save_date_invalid": "Slutmånaden kan inte vara mindre än startmånaden!",
-    "CL_DV_OV_send_to_devices": "SKICKA TILL ENHETER"
+    "CL_DV_OV_send_to_devices": "SKICKA TILL ENHETER",
+    "CL_DV_OV_24_egg_timer": "Äggtimer",
+    "CL_DV_OV_24_egg_timer_content": "Välj upprepning och varaktighet för ljudet du hör när en äggklocka går ut.",
+    "CL_DV_OV_24_finish_sounds": "Avsluta ljud",
+    "CL_DV_OV_24_finish_sounds_content": "Välj intervall för upprepning av slutljud.",
+    "CL_DV_OV_search_recipes": "Sök recept",
+    "CL_CF_CM_search_history": "Sökhistorik"
 }

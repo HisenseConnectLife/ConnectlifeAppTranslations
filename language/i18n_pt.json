@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "No menu “Configurações avançadas” vá até o menu “WiFi” e pressione o botão de configurações para entrar. Depois vá até “Adicionar dispositivo” e pressione o botão de configurações para ativar.",
     "CL_CF_CS_dw005_pair_step5": "A rede do dispositivo agora está aberta para adicionar dispositivos por 3 minutos.\n Clique em PRÓXIMO para continuar.",
     "CL_DV_DW_save_date_invalid": "O mês final não pode ser menor que o mês inicial!",
-    "CL_DV_OV_send_to_devices": "ENVIAR PARA DISPOSITIVOS"
+    "CL_DV_OV_send_to_devices": "ENVIAR PARA DISPOSITIVOS",
+    "CL_DV_OV_24_egg_timer": "Cronômetro de ovos",
+    "CL_DV_OV_24_egg_timer_content": "Selecione a repetição e a duração do som que você ouve quando o cronômetro expira.",
+    "CL_DV_OV_24_finish_sounds": "Sons de acabamento",
+    "CL_DV_OV_24_finish_sounds_content": "Escolha o intervalo de repetição do som final.",
+    "CL_DV_OV_search_recipes": "Pesquisar Receitas",
+    "CL_CF_CM_search_history": "Histórico de pesquisa"
 }

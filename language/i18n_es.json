@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "En el menú “Configuración avanzada” vaya al menú “WiFi” y presione el botón de configuración para ingresar. Luego vaya a “Agregar dispositivo” y presione el botón de configuración para activar.",
     "CL_CF_CS_dw005_pair_step5": "La red del dispositivo ahora está abierta para agregar dispositivos durante 3 minutos.\n Haga clic en SIGUIENTE para continuar.",
     "CL_DV_DW_save_date_invalid": "¡El mes final no puede ser menor que el mes inicial!",
-    "CL_DV_OV_send_to_devices": "ENVIAR A DISPOSITIVOS"
+    "CL_DV_OV_send_to_devices": "ENVIAR A DISPOSITIVOS",
+    "CL_DV_OV_24_egg_timer": "Temporizador de huevos",
+    "CL_DV_OV_24_egg_timer_content": "Selecciona la repetición y la duración del sonido que escuchas cuando expira el temporizador de huevos.",
+    "CL_DV_OV_24_finish_sounds": "Sonidos finales",
+    "CL_DV_OV_24_finish_sounds_content": "Elija el intervalo de repetición del sonido final.",
+    "CL_DV_OV_search_recipes": "Buscar recetas",
+    "CL_CF_CM_search_history": "Historial de búsqueda"
 }

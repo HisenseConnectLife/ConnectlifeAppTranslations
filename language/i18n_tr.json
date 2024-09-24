@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "“Gelişmiş ayarlar” menüsünde “WiFi” menüsüne gidin ve girmek için ayarlar düğmesine basın. Ardından “Cihaz ekle”ye gidin ve etkinleştirmek için ayarlar düğmesine basın.",
     "CL_CF_CS_dw005_pair_step5": "Cihaz ağı artık 3 dakikalığına cihaz eklemeye açık.\n Devam etmek için İLERİ’ye tıklayın.",
     "CL_DV_DW_save_date_invalid": "Bitiş ayı başlangıç ayından küçük olamaz!",
-    "CL_DV_OV_send_to_devices": "CİHAZLARA GÖNDER"
+    "CL_DV_OV_send_to_devices": "CİHAZLARA GÖNDER",
+    "CL_DV_OV_24_egg_timer": "Yumurta saati",
+    "CL_DV_OV_24_egg_timer_content": "Yumurta saati dolduğunda duyduğunuz sesin tekrarını ve süresini seçin.",
+    "CL_DV_OV_24_finish_sounds": "Bitiş sesleri",
+    "CL_DV_OV_24_finish_sounds_content": "Bitiş sesinin tekrarlanma aralığını seçin.",
+    "CL_DV_OV_search_recipes": "Tarifleri Ara",
+    "CL_CF_CM_search_history": "Arama Geçmişi"
 }

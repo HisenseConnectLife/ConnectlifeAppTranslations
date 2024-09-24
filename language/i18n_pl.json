@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "W menu „Ustawienia zaawansowane” przejdź do menu „WiFi” i naciśnij przycisk ustawień, aby wejść. Następnie przejdź do „Dodaj urządzenie” i naciśnij przycisk ustawień, aby aktywować.",
     "CL_CF_CS_dw005_pair_step5": "Sieć urządzeń będzie teraz otwarta i będzie można dodawać urządzenia. Będzie to trwało 3 minuty.\n Kliknij DALEJ, aby kontynuować.",
     "CL_DV_DW_save_date_invalid": "Miesiąc końcowy nie może być krótszy niż miesiąc początkowy!",
-    "CL_DV_OV_send_to_devices": "WYŚLIJ DO URZĄDZEŃ"
+    "CL_DV_OV_send_to_devices": "WYŚLIJ DO URZĄDZEŃ",
+    "CL_DV_OV_24_egg_timer": "Minutnik do jajek",
+    "CL_DV_OV_24_egg_timer_content": "Wybierz powtarzalność i czas trwania dźwięku, który usłyszysz, gdy minutnik skończy gotować jajka.",
+    "CL_DV_OV_24_finish_sounds": "Dźwięki końcowe",
+    "CL_DV_OV_24_finish_sounds_content": "Wybierz interwał powtarzania dźwięku końcowego.",
+    "CL_DV_OV_search_recipes": "Wyszukaj przepisy",
+    "CL_CF_CM_search_history": "Historia wyszukiwania"
 }

@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Trong menu “Cài đặt nâng cao”, hãy vào menu “WiFi” và nhấn nút cài đặt để vào. Sau đó, hãy vào “Thêm thiết bị” và nhấn nút cài đặt để kích hoạt.",
     "CL_CF_CS_dw005_pair_step5": "Mạng thiết bị hiện đã mở để thêm thiết bị trong 3 phút.\n Nhấp vào TIẾP THEO để tiếp tục.",
     "CL_DV_DW_save_date_invalid": "Tháng cuối không thể nhỏ hơn tháng đầu!",
-    "CL_DV_OV_send_to_devices": "GỬI ĐẾN THIẾT BỊ"
+    "CL_DV_OV_send_to_devices": "GỬI ĐẾN THIẾT BỊ",
+    "CL_DV_OV_24_egg_timer": "Hẹn giờ trứng",
+    "CL_DV_OV_24_egg_timer_content": "Chọn thời gian lặp lại và thời lượng của âm thanh bạn nghe thấy khi hết giờ.",
+    "CL_DV_OV_24_finish_sounds": "Âm thanh kết thúc",
+    "CL_DV_OV_24_finish_sounds_content": "Chọn khoảng thời gian lặp lại âm thanh kết thúc.",
+    "CL_DV_OV_search_recipes": "Tìm kiếm công thức nấu ăn",
+    "CL_CF_CM_search_history": "Lịch sử tìm kiếm"
 }

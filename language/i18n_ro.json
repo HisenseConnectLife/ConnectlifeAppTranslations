@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "În meniul „Setări avansate”, accesați meniul „WiFi” și apăsați butonul de setări pentru a intra. Apoi accesați „Adăugați dispozitiv” și apăsați butonul de setări pentru a activa.",
     "CL_CF_CS_dw005_pair_step5": "Rețeaua dispozitivului este acum deschisă pentru adăugarea dispozitivului timp de 3 minute.\n Faceți clic pe NEXT pentru a continua.",
     "CL_DV_DW_save_date_invalid": "Luna de sfârșit nu poate fi mai mică decât luna de început!",
-    "CL_DV_OV_send_to_devices": "TRIMITE LA DISPOZITIVE"
+    "CL_DV_OV_send_to_devices": "TRIMITE LA DISPOZITIVE",
+    "CL_DV_OV_24_egg_timer": "Cronometru pentru ou",
+    "CL_DV_OV_24_egg_timer_content": "Selectați repetarea și durata sunetului pe care îl auziți când expiră un cronometru pentru ouă.",
+    "CL_DV_OV_24_finish_sounds": "Termină sunetele",
+    "CL_DV_OV_24_finish_sounds_content": "Alegeți intervalul de terminare a repetiției sunetului.",
+    "CL_DV_OV_search_recipes": "Căutați Rețete",
+    "CL_CF_CM_search_history": "Istoricul căutărilor"
 }

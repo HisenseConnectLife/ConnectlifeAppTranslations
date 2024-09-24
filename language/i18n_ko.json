@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "\"고급 설정\" 메뉴에서 \"WiFi\" 메뉴로 가서 설정 버튼을 눌러 들어갑니다. 그런 다음 \"장치 추가\"로 가서 설정 버튼을 눌러 활성화합니다.",
     "CL_CF_CS_dw005_pair_step5": "이제 장치 네트워크가 3분 동안 장치 추가를 위해 열려 있습니다.\n 계속하려면 다음을 클릭하세요.",
     "CL_DV_DW_save_date_invalid": "종료 월은 시작 월보다 작을 수 없습니다!",
-    "CL_DV_OV_send_to_devices": "기기로 보내기"
+    "CL_DV_OV_send_to_devices": "기기로 보내기",
+    "CL_DV_OV_24_egg_timer": "계란 타이머",
+    "CL_DV_OV_24_egg_timer_content": "계란 타이머가 만료될 때 나는 소리의 반복과 지속 시간을 선택하세요.",
+    "CL_DV_OV_24_finish_sounds": "사운드 완료",
+    "CL_DV_OV_24_finish_sounds_content": "완료음 반복 간격을 선택하세요.",
+    "CL_DV_OV_search_recipes": "레시피 검색",
+    "CL_CF_CM_search_history": "검색 기록"
 }

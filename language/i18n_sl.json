@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "V meniju »Napredne nastavitve« pojdite na meni »WiFi« in pritisnite gumb za nastavitve za vstop. Nato pojdite na »Dodaj napravo« in pritisnite gumb za nastavitve, da aktivirate.",
     "CL_CF_CS_dw005_pair_step5": "Omrežje naprave je zdaj odprto za dodajanje naprave 3 minute.\n Za nadaljevanje kliknite NAPREJ.",
     "CL_DV_DW_save_date_invalid": "Končni mesec ne sme biti manjši od začetnega!",
-    "CL_DV_OV_send_to_devices": "POŠLJI V NAPRAVE"
+    "CL_DV_OV_send_to_devices": "POŠLJI V NAPRAVE",
+    "CL_DV_OV_24_egg_timer": "Časovnik za jajca",
+    "CL_DV_OV_24_egg_timer_content": "Izberite ponavljanje in trajanje zvoka, ki ga slišite, ko poteče časovnik za jajca.",
+    "CL_DV_OV_24_finish_sounds": "Končni zvoki",
+    "CL_DV_OV_24_finish_sounds_content": "Izberite interval ponavljanja končnega zvoka.",
+    "CL_DV_OV_search_recipes": "Iskanje receptov",
+    "CL_CF_CM_search_history": "Zgodovina iskanja"
 }
