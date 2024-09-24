@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "「詳細設定」メニューで「WiFi」メニューに移動し、設定ボタンを押して入ります。次に「デバイスの追加」に移動し、設定ボタンを押して有効にします。",
     "CL_CF_CS_dw005_pair_step5": "デバイス ネットワークは現在 3 分間デバイスを追加するために開いています。\n続行するには「次へ」をクリックします。",
     "CL_DV_DW_save_date_invalid": "終了月は開始月より小さくできません。",
-    "CL_DV_OV_send_to_devices": "デバイスに送信"
+    "CL_DV_OV_send_to_devices": "デバイスに送信",
+    "CL_DV_OV_24_egg_timer": "エッグタイマー",
+    "CL_DV_OV_24_egg_timer_content": "エッグタイマーの時間が経過したときに鳴る音の繰り返しと長さを選択します。",
+    "CL_DV_OV_24_finish_sounds": "終了音",
+    "CL_DV_OV_24_finish_sounds_content": "終了音の繰り返し間隔を選択します。",
+    "CL_DV_OV_search_recipes": "レシピを検索",
+    "CL_CF_CM_search_history": "検索履歴"
 }

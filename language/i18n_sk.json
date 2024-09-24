@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "V ponuke „Rozšírené nastavenia“ prejdite do ponuky „WiFi“ a stlačením tlačidla nastavení vstúpte. Potom prejdite na „Pridať zariadenie“ a aktivujte stlačením tlačidla nastavení.",
     "CL_CF_CS_dw005_pair_step5": "Sieť zariadení je teraz otvorená na pridanie zariadenia na 3 minúty.\n Pokračujte kliknutím na NEXT.",
     "CL_DV_DW_save_date_invalid": "Koncový mesiac nemôže byť menší ako začiatočný mesiac!",
-    "CL_DV_OV_send_to_devices": "ODOSLAŤ DO ZARIADENÍ"
+    "CL_DV_OV_send_to_devices": "ODOSLAŤ DO ZARIADENÍ",
+    "CL_DV_OV_24_egg_timer": "Časovač vajec",
+    "CL_DV_OV_24_egg_timer_content": "Vyberte opakovanie a trvanie zvuku, ktorý budete počuť, keď uplynie platnosť časovača vajíčok.",
+    "CL_DV_OV_24_finish_sounds": "Dokončiť zvuky",
+    "CL_DV_OV_24_finish_sounds_content": "Vyberte interval opakovania zvuku.",
+    "CL_DV_OV_search_recipes": "Hľadať recepty",
+    "CL_CF_CM_search_history": "História vyhľadávania"
 }

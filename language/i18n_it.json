@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Nel menu \"Impostazioni avanzate\" vai al menu \"WiFi\" e premi il pulsante delle impostazioni per entrare. Poi vai su \"Aggiungi dispositivo\" e premi il pulsante delle impostazioni per attivare.",
     "CL_CF_CS_dw005_pair_step5": "La rete del dispositivo è ora aperta per l'aggiunta di dispositivi per 3 minuti.\n Fare clic su AVANTI per continuare.",
     "CL_DV_DW_save_date_invalid": "Il mese di fine non può essere inferiore al mese di inizio!",
-    "CL_DV_OV_send_to_devices": "INVIA AI DISPOSITIVI"
+    "CL_DV_OV_send_to_devices": "INVIA AI DISPOSITIVI",
+    "CL_DV_OV_24_egg_timer": "Timer per le uova",
+    "CL_DV_OV_24_egg_timer_content": "Seleziona la ripetizione e la durata del suono che senti quando scade il timer della cucina.",
+    "CL_DV_OV_24_finish_sounds": "Finisci i suoni",
+    "CL_DV_OV_24_finish_sounds_content": "Scegli l'intervallo di ripetizione del suono finale.",
+    "CL_DV_OV_search_recipes": "Cerca ricette",
+    "CL_CF_CM_search_history": "Cronologia delle ricerche"
 }

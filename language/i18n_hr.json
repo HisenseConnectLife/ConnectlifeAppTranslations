@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "U izborniku \"Napredne postavke\" idite na izbornik \"WiFi\" i pritisnite gumb postavki za ulaz. Zatim idite na \"Dodaj uređaj\" i pritisnite gumb postavki za aktivaciju.",
     "CL_CF_CS_dw005_pair_step5": "Mreža uređaja sada je otvorena za dodavanje uređaja 3 minute.\n Pritisnite DALJE za nastavak.",
     "CL_DV_DW_save_date_invalid": "Krajnji mjesec ne može biti manji od početnog mjeseca!",
-    "CL_DV_OV_send_to_devices": "POŠALJI NA UREĐAJE"
+    "CL_DV_OV_send_to_devices": "POŠALJI NA UREĐAJE",
+    "CL_DV_OV_24_egg_timer": "Tajmer za jaja",
+    "CL_DV_OV_24_egg_timer_content": "Odaberite ponavljanje i trajanje zvuka koji čujete kada istekne mjerač vremena za jaja.",
+    "CL_DV_OV_24_finish_sounds": "Završi zvukove",
+    "CL_DV_OV_24_finish_sounds_content": "Odaberite interval ponavljanja završnog zvuka.",
+    "CL_DV_OV_search_recipes": "Traži recepte",
+    "CL_CF_CM_search_history": "Povijest pretraživanja"
 }

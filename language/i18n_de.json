@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Gehen Sie im Menü „Erweiterte Einstellungen“ zum Menü „WLAN“ und drücken Sie die Einstellungstaste, um es aufzurufen. Gehen Sie dann zu „Gerät hinzufügen“ und drücken Sie zur Aktivierung die Einstellungstaste.",
     "CL_CF_CS_dw005_pair_step5": "Das Gerätenetzwerk ist jetzt 3 Minuten lang zum Hinzufügen von Geräten geöffnet.\n Klicken Sie auf WEITER, um fortzufahren.",
     "CL_DV_DW_save_date_invalid": "Der Endmonat kann nicht kleiner sein als der Startmonat!",
-    "CL_DV_OV_send_to_devices": "AN GERÄTE SENDEN"
+    "CL_DV_OV_send_to_devices": "AN GERÄTE SENDEN",
+    "CL_DV_OV_24_egg_timer": "Eieruhr",
+    "CL_DV_OV_24_egg_timer_content": "Wählen Sie die Wiederholung und Dauer des Tons aus, der ertönt, wenn eine Eieruhr abläuft.",
+    "CL_DV_OV_24_finish_sounds": "Klänge beenden",
+    "CL_DV_OV_24_finish_sounds_content": "Wählen Sie das Intervall für die Wiederholung des Zieltons.",
+    "CL_DV_OV_search_recipes": "Rezepte suchen",
+    "CL_CF_CM_search_history": "Suchverlauf"
 }

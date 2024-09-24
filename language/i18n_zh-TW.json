@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "在「進階設定」選單中進入「WiFi」選單，然後按下設定按鈕進入。然後轉到“新增裝置”並按設定按鈕啟動。",
     "CL_CF_CS_dw005_pair_step5": "設備網路現已開放，可新增設備 3 分鐘。\n按一下“下一步”繼續。",
     "CL_DV_DW_save_date_invalid": "結束月份不能小於開始月份！",
-    "CL_DV_OV_send_to_devices": "發送至設備"
+    "CL_DV_OV_send_to_devices": "發送至設備",
+    "CL_DV_OV_24_egg_timer": "煮蛋定時器",
+    "CL_DV_OV_24_egg_timer_content": "選擇煮蛋計時器到期時聽到的聲音的重複次數和持續時間。",
+    "CL_DV_OV_24_finish_sounds": "完成聲音",
+    "CL_DV_OV_24_finish_sounds_content": "選擇完成聲音重複的間隔。",
+    "CL_DV_OV_search_recipes": "搜尋食譜",
+    "CL_CF_CM_search_history": "搜尋紀錄"
 }

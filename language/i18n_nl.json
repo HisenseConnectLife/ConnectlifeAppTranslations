@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Ga in het menu “Geavanceerde instellingen” naar het menu “WiFi” en druk op de instellingenknop om binnen te gaan. Ga vervolgens naar “Apparaat toevoegen” en druk op de instellingenknop om te activeren.",
     "CL_CF_CS_dw005_pair_step5": "Het apparaatnetwerk is nu 3 minuten lang open voor het toevoegen van apparaten.\n Klik op VOLGENDE om verder te gaan.",
     "CL_DV_DW_save_date_invalid": "De eindmaand kan niet kleiner zijn dan de beginmaand!",
-    "CL_DV_OV_send_to_devices": "VERZENDEN NAAR APPARATEN"
+    "CL_DV_OV_send_to_devices": "VERZENDEN NAAR APPARATEN",
+    "CL_DV_OV_24_egg_timer": "Eierwekker",
+    "CL_DV_OV_24_egg_timer_content": "Selecteer de herhaling en duur van het geluid dat u hoort wanneer de eierwekker afloopt.",
+    "CL_DV_OV_24_finish_sounds": "Einde geluiden",
+    "CL_DV_OV_24_finish_sounds_content": "Kies het interval voor de laatste herhaling van het geluid.",
+    "CL_DV_OV_search_recipes": "Zoek recepten",
+    "CL_CF_CM_search_history": "Zoekgeschiedenis"
 }

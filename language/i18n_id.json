@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Pada menu “Pengaturan lanjutan”, buka menu “WiFi” dan tekan tombol pengaturan untuk masuk. Kemudian, buka “Tambah perangkat” dan tekan tombol pengaturan untuk mengaktifkan.",
     "CL_CF_CS_dw005_pair_step5": "Jaringan perangkat sekarang terbuka untuk menambahkan perangkat selama 3 menit.\n Klik LANJUTKAN untuk melanjutkan.",
     "CL_DV_DW_save_date_invalid": "Bulan akhir tidak boleh lebih kecil dari bulan awal!",
-    "CL_DV_OV_send_to_devices": "KIRIM KE PERANGKAT"
+    "CL_DV_OV_send_to_devices": "KIRIM KE PERANGKAT",
+    "CL_DV_OV_24_egg_timer": "Pengatur waktu telur",
+    "CL_DV_OV_24_egg_timer_content": "Pilih pengulangan dan durasi suara yang Anda dengar saat penghitung waktu telur berakhir.",
+    "CL_DV_OV_24_finish_sounds": "Selesaikan suara",
+    "CL_DV_OV_24_finish_sounds_content": "Pilih interval pengulangan suara akhir.",
+    "CL_DV_OV_search_recipes": "Cari Resep",
+    "CL_CF_CM_search_history": "Riwayat Pencarian"
 }

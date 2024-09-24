@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Siirry \"Lisäasetukset\" -valikossa \"WiFi\" -valikkoon ja paina asetuspainiketta päästäksesi sisään. Siirry sitten kohtaan \"Lisää laite\" ja paina asetuspainiketta aktivoidaksesi.",
     "CL_CF_CS_dw005_pair_step5": "Laiteverkko on nyt avoinna laitteen lisäämistä varten 3 minuutin ajan.\n Napsauta SEURAAVA jatkaaksesi.",
     "CL_DV_DW_save_date_invalid": "Loppukuukausi ei voi olla pienempi kuin aloituskuukausi!",
-    "CL_DV_OV_send_to_devices": "LÄHETÄ LAITTEILLE"
+    "CL_DV_OV_send_to_devices": "LÄHETÄ LAITTEILLE",
+    "CL_DV_OV_24_egg_timer": "Muna-ajastin",
+    "CL_DV_OV_24_egg_timer_content": "Valitse munaajastimen umpeutuessa kuulemasi äänen toisto ja kesto.",
+    "CL_DV_OV_24_finish_sounds": "Viimeistele äänet",
+    "CL_DV_OV_24_finish_sounds_content": "Valitse lopetusäänen toistoväli.",
+    "CL_DV_OV_search_recipes": "Etsi Reseptit",
+    "CL_CF_CM_search_history": "Hakuhistoria"
 }

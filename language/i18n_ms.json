@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "Dalam menu \"Tetapan lanjutan\" pergi ke menu \"WiFi\" dan tekan butang tetapan untuk masuk. Kemudian pergi ke \"Tambah peranti\" dan tekan butang tetapan untuk mengaktifkan.",
     "CL_CF_CS_dw005_pair_step5": "Rangkaian peranti kini dibuka untuk menambah peranti selama 3 minit.\n Klik SETERUSNYA untuk meneruskan.",
     "CL_DV_DW_save_date_invalid": "Bulan akhir tidak boleh lebih kecil daripada bulan permulaan!",
-    "CL_DV_OV_send_to_devices": "HANTAR KE PERANTI"
+    "CL_DV_OV_send_to_devices": "HANTAR KE PERANTI",
+    "CL_DV_OV_24_egg_timer": "Pemasa telur",
+    "CL_DV_OV_24_egg_timer_content": "Pilih pengulangan dan tempoh bunyi yang anda dengar apabila pemasa telur tamat tempoh.",
+    "CL_DV_OV_24_finish_sounds": "Habis bunyi",
+    "CL_DV_OV_24_finish_sounds_content": "Pilih selang ulangan bunyi penamat.",
+    "CL_DV_OV_search_recipes": "Cari Resipi",
+    "CL_CF_CM_search_history": "Sejarah Carian"
 }

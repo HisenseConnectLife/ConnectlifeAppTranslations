@@ -4126,5 +4126,11 @@
     "CL_CF_CS_dw005_pair_step4": "A „Speciális beállítások” menüben lépjen a „WiFi” menübe, és nyomja meg a beállítások gombot a belépéshez. Ezután lépjen az „Eszköz hozzáadása” elemre, és nyomja meg a beállítások gombot az aktiváláshoz.",
     "CL_CF_CS_dw005_pair_step5": "Az eszközhálózat most 3 percre készen áll az eszköz hozzáadására.\n A folytatáshoz kattintson a KÖVETKEZŐ gombra.",
     "CL_DV_DW_save_date_invalid": "A záró hónap nem lehet kisebb, mint a kezdő hónap!",
-    "CL_DV_OV_send_to_devices": "KÜLDÉS ESZKÖZÖKRE"
+    "CL_DV_OV_send_to_devices": "KÜLDÉS ESZKÖZÖKRE",
+    "CL_DV_OV_24_egg_timer": "Tojás időzítő",
+    "CL_DV_OV_24_egg_timer_content": "Válassza ki a tojásidőzítő lejártakor hallható hang ismétlődését és időtartamát.",
+    "CL_DV_OV_24_finish_sounds": "Hangok befejezése",
+    "CL_DV_OV_24_finish_sounds_content": "Válassza ki a befejező hang ismétlésének intervallumát.",
+    "CL_DV_OV_search_recipes": "Receptek keresése",
+    "CL_CF_CM_search_history": "Keresési előzmények"
 }
