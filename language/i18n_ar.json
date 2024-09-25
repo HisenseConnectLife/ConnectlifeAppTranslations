@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "إنهاء الأصوات",
     "CL_DV_OV_24_finish_sounds_content": "اختر الفاصل الزمني لتكرار الصوت النهائي.",
     "CL_DV_OV_search_recipes": "البحث عن الوصفات",
-    "CL_CF_CM_search_history": "سجل البحث"
+    "CL_CF_CM_search_history": "سجل البحث",
+    "CL_DV_OV_24_egg_timer_pop_content": "حدد التكرار ومدة الصوت الذي تسمعه عند انتهاء مؤقت البيض. \n\n يمكن سماع صوت توقيت البيض...",
+    "CL_DV_OV_24_finish_sound_pop_content": "اختر الفاصل الزمني لتكرار صوت النهاية عند انتهاء برنامج الطهي. \n\n يمكن سماع صوت النهاية...",
+    "CL_DV_OV_24_night_mode_pop_content": "حدد متى يجب أن يبدأ الوضع الليلي.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "حدد متى يجب أن يبدأ وضع السبت.",
+    "input_email_address": "أدخل عنوان البريد الإلكتروني",
+    "CL_DV_OV_24_cavity_lights": "أضواء التجويف",
+    "CL_DV_OV_24_sabbath_reminder": "تذكير السبت",
+    "CL_DV_OV_24_start_sabbath": "ابدأ السبت",
+    "CL_DV_OV_24_end_sabbath": "نهاية السبت",
+    "CL_DV_OV_24_show_backgrounds": "إظهار الخلفيات",
+    "CL_DV_OV_24_brightness_setting_content": "يمكن تغيير سطوع شاشة الفرن والمفاتيح حسب تفضيلاتك. ",
+    "CL_DV_OV_24_close_user_detected": "تم اكتشاف إغلاق المستخدم"
 }

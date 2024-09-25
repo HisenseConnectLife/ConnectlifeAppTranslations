@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Termină sunetele",
     "CL_DV_OV_24_finish_sounds_content": "Alegeți intervalul de terminare a repetiției sunetului.",
     "CL_DV_OV_search_recipes": "Căutați Rețete",
-    "CL_CF_CM_search_history": "Istoricul căutărilor"
+    "CL_CF_CM_search_history": "Istoricul căutărilor",
+    "CL_DV_OV_24_egg_timer_pop_content": "Selectați repetarea și durata sunetului pe care îl auziți când expiră un cronometru pentru ouă. \n\n Se aude sunetul cronometrului de ouă...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Alegeți intervalul de repetare a sunetului de terminare când un program de gătit este terminat. \n\n Sunetul final se aude...",
+    "CL_DV_OV_24_night_mode_pop_content": "Selectați când ar trebui să pornească modul Noapte.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Selectați când ar trebui să pornească modul Sabat.",
+    "input_email_address": "Introdu adresa de e-mail",
+    "CL_DV_OV_24_cavity_lights": "Lumini de cavitate",
+    "CL_DV_OV_24_sabbath_reminder": "Memento de Sabat",
+    "CL_DV_OV_24_start_sabbath": "Începe Sabatul",
+    "CL_DV_OV_24_end_sabbath": "Încheiați Sabatul",
+    "CL_DV_OV_24_show_backgrounds": "Afișați fundaluri",
+    "CL_DV_OV_24_brightness_setting_content": "Luminozitatea afișajului cuptorului și a tastelor pot fi modificate după preferințele dvs. ",
+    "CL_DV_OV_24_close_user_detected": "A fost detectat un utilizator apropiat"
 }

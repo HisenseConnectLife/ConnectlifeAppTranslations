@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Аяқтау дыбыстары",
     "CL_DV_OV_24_finish_sounds_content": "Аяқтау дыбысының қайталану аралығын таңдаңыз.",
     "CL_DV_OV_search_recipes": "Рецепттерді іздеу",
-    "CL_CF_CM_search_history": "Іздеу тарихы"
+    "CL_CF_CM_search_history": "Іздеу тарихы",
+    "CL_DV_OV_24_egg_timer_pop_content": "Жұмыртқа таймерінің мерзімі біткен кезде естілетін дыбыстың қайталануы мен ұзақтығын таңдаңыз. \n\n Жұмыртқа таймерінің дыбысы естіледі...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Пісіру бағдарламасы аяқталған кезде аяқтау дыбысының қайталану аралығын таңдаңыз. \n\n Аяқтау дыбысы естіледі...",
+    "CL_DV_OV_24_night_mode_pop_content": "Түнгі режим қашан басталатынын таңдаңыз.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Демалыс режимі қашан басталатынын таңдаңыз.",
+    "input_email_address": "Электрондық пошта мекенжайын енгізіңіз",
+    "CL_DV_OV_24_cavity_lights": "Қуыс шамдары",
+    "CL_DV_OV_24_sabbath_reminder": "Сенбі күні туралы еске салу",
+    "CL_DV_OV_24_start_sabbath": "Демалыс күнін бастаңыз",
+    "CL_DV_OV_24_end_sabbath": "Демалыс күнін аяқтаңыз",
+    "CL_DV_OV_24_show_backgrounds": "Фондарды көрсету",
+    "CL_DV_OV_24_brightness_setting_content": "Тұмшапеш дисплейі мен пернелердің жарықтығын қалауыңыз бойынша өзгертуге болады. ",
+    "CL_DV_OV_24_close_user_detected": "Жабылатын пайдаланушы анықталды"
 }

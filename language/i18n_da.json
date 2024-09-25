@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Afslut lyde",
     "CL_DV_OV_24_finish_sounds_content": "Vælg intervallet for gentagelse af finishlyd.",
     "CL_DV_OV_search_recipes": "Søg efter opskrifter",
-    "CL_CF_CM_search_history": "Søgehistorik"
+    "CL_CF_CM_search_history": "Søgehistorik",
+    "CL_DV_OV_24_egg_timer_pop_content": "Vælg gentagelsen og varigheden af ​​den lyd, du hører, når en æggeur udløber. \n\n Æggeurets lyd er hørbar...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Vælg intervallet for gentagelse af afslutningslyden, når et tilberedningsprogram er færdigt. \n\n Slutlyden er hørbar...",
+    "CL_DV_OV_24_night_mode_pop_content": "Vælg, hvornår nattilstand skal starte.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Vælg, hvornår sabbatstilstand skal starte.",
+    "input_email_address": "Indtast e-mailadressen",
+    "CL_DV_OV_24_cavity_lights": "Kavitetslys",
+    "CL_DV_OV_24_sabbath_reminder": "Sabbatspåmindelse",
+    "CL_DV_OV_24_start_sabbath": "Start sabbat",
+    "CL_DV_OV_24_end_sabbath": "Slut sabbatten",
+    "CL_DV_OV_24_show_backgrounds": "Vis baggrunde",
+    "CL_DV_OV_24_brightness_setting_content": "Lysstyrken på ovnens display og tasterne kan ændres efter dine ønsker. ",
+    "CL_DV_OV_24_close_user_detected": "Tæt bruger fundet"
 }

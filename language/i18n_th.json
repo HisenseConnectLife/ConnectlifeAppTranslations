@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "จบเสียง",
     "CL_DV_OV_24_finish_sounds_content": "เลือกช่วงระยะเวลาการจบการทำซ้ำเสียง",
     "CL_DV_OV_search_recipes": "ค้นหาสูตรอาหาร",
-    "CL_CF_CM_search_history": "ประวัติการค้นหา"
+    "CL_CF_CM_search_history": "ประวัติการค้นหา",
+    "CL_DV_OV_24_egg_timer_pop_content": "เลือกรูปแบบการทำซ้ำและระยะเวลาของเสียงที่คุณได้ยินเมื่อเครื่องจับเวลาต้มไข่หมดเวลา \n\n เสียงเครื่องจับเวลาต้มไข่สามารถได้ยิน...",
+    "CL_DV_OV_24_finish_sound_pop_content": "เลือกช่วงระยะเวลาในการทำซ้ำเสียงเมื่อโปรแกรมการปรุงอาหารเสร็จสิ้น \n\n เสียงจบดังฟังชัด...",
+    "CL_DV_OV_24_night_mode_pop_content": "เลือกเวลาที่โหมดกลางคืนควรเริ่มต้น",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "เลือกเวลาที่โหมดวันสะบาโตควรเริ่มต้น",
+    "input_email_address": "กรอกที่อยู่อีเมล",
+    "CL_DV_OV_24_cavity_lights": "ไฟช่อง",
+    "CL_DV_OV_24_sabbath_reminder": "คำเตือนวันสะบาโต",
+    "CL_DV_OV_24_start_sabbath": "เริ่มต้นวันสะบาโต",
+    "CL_DV_OV_24_end_sabbath": "สิ้นสุดวันสะบาโต",
+    "CL_DV_OV_24_show_backgrounds": "แสดงพื้นหลัง",
+    "CL_DV_OV_24_brightness_setting_content": "สามารถเปลี่ยนความสว่างของหน้าจอเตาอบและปุ่มต่างๆ ได้ตามความต้องการ ",
+    "CL_DV_OV_24_close_user_detected": "ตรวจพบผู้ใช้ที่ปิด"
 }

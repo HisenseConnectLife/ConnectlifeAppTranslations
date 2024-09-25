@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Dokončiť zvuky",
     "CL_DV_OV_24_finish_sounds_content": "Vyberte interval opakovania zvuku.",
     "CL_DV_OV_search_recipes": "Hľadať recepty",
-    "CL_CF_CM_search_history": "História vyhľadávania"
+    "CL_CF_CM_search_history": "História vyhľadávania",
+    "CL_DV_OV_24_egg_timer_pop_content": "Vyberte opakovanie a trvanie zvuku, ktorý budete počuť, keď uplynie platnosť časovača vajíčok. \n\n Zvuk časovača vajec je počuteľný...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Vyberte interval opakovania zvuku ukončenia po dokončení programu varenia. \n\n Finálny zvuk je počuteľný...",
+    "CL_DV_OV_24_night_mode_pop_content": "Vyberte, kedy sa má spustiť nočný režim.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Vyberte, kedy sa má spustiť režim Sabbath.",
+    "input_email_address": "Zadajte e-mailovú adresu",
+    "CL_DV_OV_24_cavity_lights": "Svetlá do dutín",
+    "CL_DV_OV_24_sabbath_reminder": "Pripomenutie sabatu",
+    "CL_DV_OV_24_start_sabbath": "Začnite sabat",
+    "CL_DV_OV_24_end_sabbath": "Koniec sabatu",
+    "CL_DV_OV_24_show_backgrounds": "Zobraziť pozadia",
+    "CL_DV_OV_24_brightness_setting_content": "Jas displeja rúry a tlačidiel je možné zmeniť podľa vašich preferencií. ",
+    "CL_DV_OV_24_close_user_detected": "Zistil sa zavrieť používateľ"
 }

@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Завршите звуке",
     "CL_DV_OV_24_finish_sounds_content": "Изаберите интервал завршног понављања звука.",
     "CL_DV_OV_search_recipes": "Сеарцх Реципес",
-    "CL_CF_CM_search_history": "Историја претраге"
+    "CL_CF_CM_search_history": "Историја претраге",
+    "CL_DV_OV_24_egg_timer_pop_content": "Изаберите понављање и трајање звука који чујете када истекне тајмер за јаја. \n\n Звук тајмера за јаја се чује...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Одаберите интервал завршног понављања звука када се програм кувања заврши. \n\n Звук завршетка се чује...",
+    "CL_DV_OV_24_night_mode_pop_content": "Изаберите када треба да се покрене ноћни режим.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Изаберите када треба да почне суботни режим.",
+    "input_email_address": "Унесите адресу е-поште",
+    "CL_DV_OV_24_cavity_lights": "Шупљина светла",
+    "CL_DV_OV_24_sabbath_reminder": "Подсетник за суботу",
+    "CL_DV_OV_24_start_sabbath": "Започните суботу",
+    "CL_DV_OV_24_end_sabbath": "Крај суботе",
+    "CL_DV_OV_24_show_backgrounds": "Прикажи позадине",
+    "CL_DV_OV_24_brightness_setting_content": "Осветљеност екрана и тастера рерне може се променити по жељи. ",
+    "CL_DV_OV_24_close_user_detected": "Откривено је затварање корисника"
 }
