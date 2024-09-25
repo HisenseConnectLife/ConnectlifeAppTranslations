@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Hangok befejezése",
     "CL_DV_OV_24_finish_sounds_content": "Válassza ki a befejező hang ismétlésének intervallumát.",
     "CL_DV_OV_search_recipes": "Receptek keresése",
-    "CL_CF_CM_search_history": "Keresési előzmények"
+    "CL_CF_CM_search_history": "Keresési előzmények",
+    "CL_DV_OV_24_egg_timer_pop_content": "Válassza ki a tojásidőzítő lejártakor hallható hang ismétlődését és időtartamát. \n\n A tojásidőzítő hangja hallható...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Válassza ki a befejező hang ismétlésének intervallumát a főzési program végén. \n\n A befejező hang hallható...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Válassza ki, hogy mikor induljon el a szombat mód.",
+    "input_email_address": "Írja be az e-mail címet"
 }

@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Dokončiť zvuky",
     "CL_DV_OV_24_finish_sounds_content": "Vyberte interval opakovania zvuku.",
     "CL_DV_OV_search_recipes": "Hľadať recepty",
-    "CL_CF_CM_search_history": "História vyhľadávania"
+    "CL_CF_CM_search_history": "História vyhľadávania",
+    "CL_DV_OV_24_egg_timer_pop_content": "Vyberte opakovanie a trvanie zvuku, ktorý budete počuť, keď uplynie platnosť časovača vajíčok. \n\n Zvuk časovača vajec je počuteľný...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Vyberte interval opakovania zvuku ukončenia po dokončení programu varenia. \n\n Finálny zvuk je počuteľný...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Vyberte, kedy sa má spustiť režim Sabbath.",
+    "input_email_address": "Zadajte e-mailovú adresu"
 }
