@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Âm thanh kết thúc",
     "CL_DV_OV_24_finish_sounds_content": "Chọn khoảng thời gian lặp lại âm thanh kết thúc.",
     "CL_DV_OV_search_recipes": "Tìm kiếm công thức nấu ăn",
-    "CL_CF_CM_search_history": "Lịch sử tìm kiếm"
+    "CL_CF_CM_search_history": "Lịch sử tìm kiếm",
+    "CL_DV_OV_24_egg_timer_pop_content": "Chọn thời gian lặp lại và thời lượng của âm thanh bạn nghe thấy khi hết giờ. \n\n Âm thanh của bộ đếm thời gian đánh trứng có thể nghe thấy được...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Chọn khoảng thời gian lặp lại âm thanh kết thúc khi chương trình nấu ăn kết thúc. \n\n Âm thanh kết thúc có thể nghe thấy được...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Chọn thời điểm bắt đầu chế độ Sabbath.",
+    "input_email_address": "Nhập địa chỉ email"
 }

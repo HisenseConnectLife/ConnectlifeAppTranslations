@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Selesaikan suara",
     "CL_DV_OV_24_finish_sounds_content": "Pilih interval pengulangan suara akhir.",
     "CL_DV_OV_search_recipes": "Cari Resep",
-    "CL_CF_CM_search_history": "Riwayat Pencarian"
+    "CL_CF_CM_search_history": "Riwayat Pencarian",
+    "CL_DV_OV_24_egg_timer_pop_content": "Pilih pengulangan dan durasi suara yang Anda dengar saat penghitung waktu telur berakhir. \n\n Suara pengatur waktu telur terdengar...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Pilih interval pengulangan suara akhir saat program memasak selesai. \n\n Suara akhir terdengar...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Pilih kapan mode Sabat harus dimulai.",
+    "input_email_address": "Masukkan alamat email"
 }

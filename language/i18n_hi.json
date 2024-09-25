@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "समाप्त ध्वनि",
     "CL_DV_OV_24_finish_sounds_content": "अंतिम ध्वनि पुनरावृत्ति का अंतराल चुनें.",
     "CL_DV_OV_search_recipes": "व्यंजन खोजें",
-    "CL_CF_CM_search_history": "खोज इतिहास"
+    "CL_CF_CM_search_history": "खोज इतिहास",
+    "CL_DV_OV_24_egg_timer_pop_content": "अंडे का टाइमर समाप्त होने पर आपको सुनाई देने वाली ध्वनि की पुनरावृत्ति और अवधि का चयन करें। \n\n अंडे की टाइमर ध्वनि सुनाई दे रही है...",
+    "CL_DV_OV_24_finish_sound_pop_content": "खाना पकाने का कार्यक्रम समाप्त होने पर अंतिम ध्वनि पुनरावृत्ति का अंतराल चुनें। \n\n समापन ध्वनि सुनाई दे रही है...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "चुनें कि सब्बाथ मोड कब शुरू होना चाहिए.",
+    "input_email_address": "ईमेल पता दर्ज करें"
 }

@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "完成聲音",
     "CL_DV_OV_24_finish_sounds_content": "選擇完成聲音重複的間隔。",
     "CL_DV_OV_search_recipes": "搜尋食譜",
-    "CL_CF_CM_search_history": "搜尋紀錄"
+    "CL_CF_CM_search_history": "搜尋紀錄",
+    "CL_DV_OV_24_egg_timer_pop_content": "選擇煮蛋計時器到期時聽到的聲音的重複次數和持續時間。 \n\n煮蛋計時器的聲音清晰可聞…",
+    "CL_DV_OV_24_finish_sound_pop_content": "選擇烹飪程序完成時重複完成聲音的時間間隔。 \n\n結束的聲音聽得見...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "選擇安息日模式何時開始。",
+    "input_email_address": "輸入電子郵件地址"
 }
