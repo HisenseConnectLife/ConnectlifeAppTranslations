@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Sonidos finales",
     "CL_DV_OV_24_finish_sounds_content": "Elija el intervalo de repetición del sonido final.",
     "CL_DV_OV_search_recipes": "Buscar recetas",
-    "CL_CF_CM_search_history": "Historial de búsqueda"
+    "CL_CF_CM_search_history": "Historial de búsqueda",
+    "CL_DV_OV_24_egg_timer_pop_content": "Selecciona la repetición y la duración del sonido que escuchas cuando expira el temporizador de huevos. \n\n El sonido del temporizador de huevos es audible...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Seleccione el intervalo de repetición del sonido de finalización cuando finaliza un programa de cocción. \n\n El sonido final es audible...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Seleccione cuándo debe comenzar el modo Sabbat.",
+    "input_email_address": "Introduzca la dirección de correo electrónico"
 }

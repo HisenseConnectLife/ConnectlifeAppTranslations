@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Fullfør lyder",
     "CL_DV_OV_24_finish_sounds_content": "Velg intervallet for repetisjon av sluttlyd.",
     "CL_DV_OV_search_recipes": "Søk etter oppskrifter",
-    "CL_CF_CM_search_history": "Søkehistorikk"
+    "CL_CF_CM_search_history": "Søkehistorikk",
+    "CL_DV_OV_24_egg_timer_pop_content": "Velg repetisjonen og varigheten av lyden du hører når en eggtimer utløper. \n\n Eggtimer-lyden er hørbar...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Velg intervallet for repetisjon av sluttlyd når et tilberedningsprogram er ferdig. \n\n Sluttlyden er hørbar...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Velg når sabbatsmodus skal starte.",
+    "input_email_address": "Skriv inn e-postadressen"
 }
