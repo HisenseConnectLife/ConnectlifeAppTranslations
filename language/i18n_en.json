@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Finish sounds",
     "CL_DV_OV_24_finish_sounds_content": "Choose the interval of finish sound repetition.",
     "CL_DV_OV_search_recipes": "Search Recipes",
-    "CL_CF_CM_search_history": "Search History"
+    "CL_CF_CM_search_history": "Search History",
+    "CL_DV_OV_24_egg_timer_pop_content": "Select the repetition and duration of the sound you hear when an egg timer expires.\n\nThe egg timer sound is audible...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Choose the interval of finish sound repetition when a cooking program is finished. \n\nThe finish sound is audible...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Select when Sabbath mode should start.",
+    "input_email_address": "Input the email address"
 }

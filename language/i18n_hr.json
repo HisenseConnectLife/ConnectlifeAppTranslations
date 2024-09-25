@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Završi zvukove",
     "CL_DV_OV_24_finish_sounds_content": "Odaberite interval ponavljanja završnog zvuka.",
     "CL_DV_OV_search_recipes": "Traži recepte",
-    "CL_CF_CM_search_history": "Povijest pretraživanja"
+    "CL_CF_CM_search_history": "Povijest pretraživanja",
+    "CL_DV_OV_24_egg_timer_pop_content": "Odaberite ponavljanje i trajanje zvuka koji čujete kada istekne mjerač vremena za jaja. \n\n Čuje se zvuk mjerača vremena za jaja...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Odaberite interval ponavljanja zvuka završetka kada je program kuhanja završen. \n\n Završni zvuk se čuje...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Odaberite kada treba početi subotnji način rada.",
+    "input_email_address": "Unesite adresu e-pošte"
 }

@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "終了音",
     "CL_DV_OV_24_finish_sounds_content": "終了音の繰り返し間隔を選択します。",
     "CL_DV_OV_search_recipes": "レシピを検索",
-    "CL_CF_CM_search_history": "検索履歴"
+    "CL_CF_CM_search_history": "検索履歴",
+    "CL_DV_OV_24_egg_timer_pop_content": "エッグタイマーの時間が経過したときに鳴る音の繰り返しと長さを選択します。 \n\nエッグタイマーの音が聞こえます...",
+    "CL_DV_OV_24_finish_sound_pop_content": "調理プログラムが終了したときに終了音を繰り返す間隔を選択します。 \n\nフィニッシュの音が聞こえます…",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "安息日モードを開始するタイミングを選択します。",
+    "input_email_address": "メールアドレスを入力してください"
 }

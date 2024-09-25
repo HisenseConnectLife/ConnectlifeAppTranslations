@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "完成声音",
     "CL_DV_OV_24_finish_sounds_content": "选择完成声音重复的间隔。",
     "CL_DV_OV_search_recipes": "搜索菜谱",
-    "CL_CF_CM_search_history": "搜索历史"
+    "CL_CF_CM_search_history": "搜索历史",
+    "CL_DV_OV_24_egg_timer_pop_content": "选择鸡蛋计时器到期时发出的声音的重复次数和持续时间。 \n\n鸡蛋计时器的声音可以听见……",
+    "CL_DV_OV_24_finish_sound_pop_content": "选择烹饪程序完成时完成声音重复的间隔。 \n\n可以听到结束的声音...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "选择安息日模式的开始时间。",
+    "input_email_address": "输入电子邮件地址"
 }
