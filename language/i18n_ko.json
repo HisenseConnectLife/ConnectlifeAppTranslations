@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "사운드 완료",
     "CL_DV_OV_24_finish_sounds_content": "완료음 반복 간격을 선택하세요.",
     "CL_DV_OV_search_recipes": "레시피 검색",
-    "CL_CF_CM_search_history": "검색 기록"
+    "CL_CF_CM_search_history": "검색 기록",
+    "CL_DV_OV_24_egg_timer_pop_content": "계란 타이머가 만료될 때 나는 소리의 반복과 지속 시간을 선택하세요. \n\n 계란 타이머 소리가 들립니다...",
+    "CL_DV_OV_24_finish_sound_pop_content": "요리 프로그램이 완료될 때 완료음이 반복되는 간격을 선택하세요. \n\n 마무리 소리가 들립니다...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "안식일 모드를 시작할 시기를 선택하세요.",
+    "input_email_address": "이메일 주소를 입력하세요"
 }

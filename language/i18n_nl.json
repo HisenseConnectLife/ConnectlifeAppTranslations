@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Einde geluiden",
     "CL_DV_OV_24_finish_sounds_content": "Kies het interval voor de laatste herhaling van het geluid.",
     "CL_DV_OV_search_recipes": "Zoek recepten",
-    "CL_CF_CM_search_history": "Zoekgeschiedenis"
+    "CL_CF_CM_search_history": "Zoekgeschiedenis",
+    "CL_DV_OV_24_egg_timer_pop_content": "Selecteer de herhaling en duur van het geluid dat u hoort wanneer de eierwekker afloopt. \n\n Het geluid van de eierwekker is hoorbaar...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Selecteer het interval voor de herhaling van het eindgeluid wanneer een kookprogramma is voltooid. \n\n Het eindgeluid is hoorbaar...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Selecteer wanneer de sabbatmodus moet starten.",
+    "input_email_address": "Voer het e-mailadres in"
 }
