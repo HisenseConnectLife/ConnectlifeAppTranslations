@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "צלילי סיום",
     "CL_DV_OV_24_finish_sounds_content": "בחר את המרווח של חזרת צליל סיום.",
     "CL_DV_OV_search_recipes": "חפש מתכונים",
-    "CL_CF_CM_search_history": "היסטוריית חיפושים"
+    "CL_CF_CM_search_history": "היסטוריית חיפושים",
+    "CL_DV_OV_24_egg_timer_pop_content": "בחר את החזרה ואת משך הצליל שאתה שומע כאשר טיימר ביצה יפוג. \n\n צליל טיימר הביצים נשמע...",
+    "CL_DV_OV_24_finish_sound_pop_content": "בחר את מרווח החזרה על צליל הסיום לאחר סיום תוכנית הבישול. \n\n צליל הגימור נשמע...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "בחר מתי מצב השבת אמור להתחיל.",
+    "input_email_address": "הזן את כתובת המייל"
 }

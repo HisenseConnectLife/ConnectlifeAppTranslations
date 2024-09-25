@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Klänge beenden",
     "CL_DV_OV_24_finish_sounds_content": "Wählen Sie das Intervall für die Wiederholung des Zieltons.",
     "CL_DV_OV_search_recipes": "Rezepte suchen",
-    "CL_CF_CM_search_history": "Suchverlauf"
+    "CL_CF_CM_search_history": "Suchverlauf",
+    "CL_DV_OV_24_egg_timer_pop_content": "Wählen Sie die Wiederholung und Dauer des Tons aus, der ertönt, wenn eine Eieruhr abläuft. \n\n Der Ton der Eieruhr ist hörbar...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Wählen Sie das Intervall der Wiederholung des Zieltons, wenn ein Kochprogramm beendet ist. \n\n Das Zielgeräusch ist hörbar...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Wählen Sie aus, wann der Sabbatmodus starten soll.",
+    "input_email_address": "Geben Sie die E-Mail-Adresse ein"
 }

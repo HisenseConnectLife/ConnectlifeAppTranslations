@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Завершити звуки",
     "CL_DV_OV_24_finish_sounds_content": "Виберіть інтервал повторення кінцевого звуку.",
     "CL_DV_OV_search_recipes": "Пошук рецептів",
-    "CL_CF_CM_search_history": "Історія пошуку"
+    "CL_CF_CM_search_history": "Історія пошуку",
+    "CL_DV_OV_24_egg_timer_pop_content": "Виберіть повторення та тривалість звуку, який ви чуєте, коли закінчується таймер для яєць. \n\n Чути звук таймера...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Виберіть інтервал повторення звуку завершення після завершення програми приготування. \n\n Фінішний звук чутний...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Виберіть, коли повинен початися суботній режим.",
+    "input_email_address": "Введіть адресу електронної пошти"
 }

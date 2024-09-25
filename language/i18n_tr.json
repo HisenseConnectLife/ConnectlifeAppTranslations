@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Bitiş sesleri",
     "CL_DV_OV_24_finish_sounds_content": "Bitiş sesinin tekrarlanma aralığını seçin.",
     "CL_DV_OV_search_recipes": "Tarifleri Ara",
-    "CL_CF_CM_search_history": "Arama Geçmişi"
+    "CL_CF_CM_search_history": "Arama Geçmişi",
+    "CL_DV_OV_24_egg_timer_pop_content": "Yumurta saati dolduğunda duyduğunuz sesin tekrarını ve süresini seçin. \n\n Yumurta saatinin sesi duyuluyor...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Pişirme programı bittiğinde bitiş sesinin tekrarlanma aralığını seçin. \n\n Bitiş sesi duyuluyor...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Sabbath modunun ne zaman başlayacağını seçin.",
+    "input_email_address": "E-posta adresini girin"
 }

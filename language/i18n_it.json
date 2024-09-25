@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Finisci i suoni",
     "CL_DV_OV_24_finish_sounds_content": "Scegli l'intervallo di ripetizione del suono finale.",
     "CL_DV_OV_search_recipes": "Cerca ricette",
-    "CL_CF_CM_search_history": "Cronologia delle ricerche"
+    "CL_CF_CM_search_history": "Cronologia delle ricerche",
+    "CL_DV_OV_24_egg_timer_pop_content": "Seleziona la ripetizione e la durata del suono che senti quando scade il timer della cucina. \n\n Il suono del timer per le uova è udibile...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Selezionare l'intervallo di ripetizione del suono di fine cottura al termine di un programma. \n\n Il suono finale è udibile...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Seleziona quando deve iniziare la modalità Sabbath.",
+    "input_email_address": "Inserisci l'indirizzo email"
 }

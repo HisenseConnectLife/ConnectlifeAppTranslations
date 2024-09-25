@@ -4132,5 +4132,10 @@
     "CL_DV_OV_24_finish_sounds": "Sons de finition",
     "CL_DV_OV_24_finish_sounds_content": "Choisissez l'intervalle de répétition du son de fin.",
     "CL_DV_OV_search_recipes": "Rechercher des recettes",
-    "CL_CF_CM_search_history": "Historique de recherche"
+    "CL_CF_CM_search_history": "Historique de recherche",
+    "CL_DV_OV_24_egg_timer_pop_content": "Sélectionnez la répétition et la durée du son que vous entendez lorsqu'un minuteur expire. \n\n Le son du minuteur est audible...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Choisissez l'intervalle de répétition du son de fin lorsqu'un programme de cuisson est terminé. \n\n Le son final est audible...",
+    "CL_DV_OV_24_night_mode_pop_content": "",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Sélectionnez quand le mode Sabbat doit démarrer.",
+    "input_email_address": "Entrez l'adresse e-mail"
 }
