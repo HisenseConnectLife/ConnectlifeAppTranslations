@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Habis bunyi",
     "CL_DV_OV_24_finish_sounds_content": "Pilih selang ulangan bunyi penamat.",
     "CL_DV_OV_search_recipes": "Cari Resipi",
-    "CL_CF_CM_search_history": "Sejarah Carian"
+    "CL_CF_CM_search_history": "Sejarah Carian",
+    "CL_DV_OV_24_egg_timer_pop_content": "Pilih pengulangan dan tempoh bunyi yang anda dengar apabila pemasa telur tamat tempoh. \n\n Bunyi pemasa telur boleh didengari...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Pilih selang ulangan bunyi penamat apabila program memasak selesai. \n\n Bunyi penamat boleh didengari...",
+    "CL_DV_OV_24_night_mode_pop_content": "Pilih bila mod Malam harus dimulakan.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Pilih bila mod Sabat harus bermula.",
+    "input_email_address": "Masukkan alamat e-mel",
+    "CL_DV_OV_24_cavity_lights": "Lampu rongga",
+    "CL_DV_OV_24_sabbath_reminder": "Peringatan hari Sabat",
+    "CL_DV_OV_24_start_sabbath": "Mulakan Sabat",
+    "CL_DV_OV_24_end_sabbath": "Tamat Sabat",
+    "CL_DV_OV_24_show_backgrounds": "Tunjukkan latar belakang",
+    "CL_DV_OV_24_brightness_setting_content": "Kecerahan paparan ketuhar dan kekunci boleh ditukar mengikut keutamaan anda. ",
+    "CL_DV_OV_24_close_user_detected": "Tutup pengguna dikesan"
 }

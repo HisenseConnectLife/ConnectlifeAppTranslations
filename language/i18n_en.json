@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Finish sounds",
     "CL_DV_OV_24_finish_sounds_content": "Choose the interval of finish sound repetition.",
     "CL_DV_OV_search_recipes": "Search Recipes",
-    "CL_CF_CM_search_history": "Search History"
+    "CL_CF_CM_search_history": "Search History",
+    "CL_DV_OV_24_egg_timer_pop_content": "Select the repetition and duration of the sound you hear when an egg timer expires.\n\nThe egg timer sound is audible...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Choose the interval of finish sound repetition when a cooking program is finished. \n\nThe finish sound is audible...",
+    "CL_DV_OV_24_night_mode_pop_content": "Select when Night mode should start.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Select when Sabbath mode should start.",
+    "input_email_address": "Input the email address",
+    "CL_DV_OV_24_cavity_lights": "Cavity lights",
+    "CL_DV_OV_24_sabbath_reminder": "Sabbath reminder",
+    "CL_DV_OV_24_start_sabbath": "Start Sabbath",
+    "CL_DV_OV_24_end_sabbath": "End Sabbath",
+    "CL_DV_OV_24_show_backgrounds": "Show backgrounds",
+    "CL_DV_OV_24_brightness_setting_content": "Brightness of the oven display and keys can be changed to your preference. ",
+    "CL_DV_OV_24_close_user_detected": "Close user detected"
 }

@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "صداهای پایان",
     "CL_DV_OV_24_finish_sounds_content": "فاصله تکرار صدای پایان را انتخاب کنید.",
     "CL_DV_OV_search_recipes": "جستجوی دستور غذاها",
-    "CL_CF_CM_search_history": "تاریخچه جستجو"
+    "CL_CF_CM_search_history": "تاریخچه جستجو",
+    "CL_DV_OV_24_egg_timer_pop_content": "تکرار و مدت زمان صدایی را که در زمان منقضی شدن تایمر تخم مرغ می شنوید انتخاب کنید. \n\n صدای تایمر تخم مرغ قابل شنیدن است...",
+    "CL_DV_OV_24_finish_sound_pop_content": "زمانی که یک برنامه پخت و پز تمام شد، فاصله تکرار صدای پایان را انتخاب کنید. \n\n صدای پایان قابل شنیدن است...",
+    "CL_DV_OV_24_night_mode_pop_content": "زمان شروع حالت شب را انتخاب کنید.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "زمان شروع حالت Sabbath را انتخاب کنید.",
+    "input_email_address": "آدرس ایمیل را وارد کنید",
+    "CL_DV_OV_24_cavity_lights": "چراغ های حفره ای",
+    "CL_DV_OV_24_sabbath_reminder": "یادآوری شنبه",
+    "CL_DV_OV_24_start_sabbath": "شنبه را شروع کنید",
+    "CL_DV_OV_24_end_sabbath": "پایان سبت",
+    "CL_DV_OV_24_show_backgrounds": "نمایش پس زمینه ها",
+    "CL_DV_OV_24_brightness_setting_content": "روشنایی نمایشگر فر و کلیدها را می توان به دلخواه تغییر داد. ",
+    "CL_DV_OV_24_close_user_detected": "کاربر نزدیک شناسایی شد"
 }

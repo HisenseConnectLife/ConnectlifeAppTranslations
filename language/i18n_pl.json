@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Dźwięki końcowe",
     "CL_DV_OV_24_finish_sounds_content": "Wybierz interwał powtarzania dźwięku końcowego.",
     "CL_DV_OV_search_recipes": "Wyszukaj przepisy",
-    "CL_CF_CM_search_history": "Historia wyszukiwania"
+    "CL_CF_CM_search_history": "Historia wyszukiwania",
+    "CL_DV_OV_24_egg_timer_pop_content": "Wybierz powtarzalność i czas trwania dźwięku, który usłyszysz, gdy minutnik skończy gotować jajka. \n\n Dźwięk minutnika jest słyszalny...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Wybierz interwał powtarzania dźwięku zakończenia po zakończeniu programu gotowania. \n\n Słychać dźwięk zakończenia...",
+    "CL_DV_OV_24_night_mode_pop_content": "Wybierz, kiedy ma zostać uruchomiony tryb nocny.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Wybierz, kiedy ma rozpocząć się tryb szabatowy.",
+    "input_email_address": "Wprowadź adres e-mail",
+    "CL_DV_OV_24_cavity_lights": "Lampy wnękowe",
+    "CL_DV_OV_24_sabbath_reminder": "Przypomnienie o szabacie",
+    "CL_DV_OV_24_start_sabbath": "Rozpocznij Sabat",
+    "CL_DV_OV_24_end_sabbath": "Koniec szabatu",
+    "CL_DV_OV_24_show_backgrounds": "Pokaż tła",
+    "CL_DV_OV_24_brightness_setting_content": "Jasność wyświetlacza i przycisków piekarnika można zmienić według własnych preferencji. ",
+    "CL_DV_OV_24_close_user_detected": "Zamknij wykryto użytkownika"
 }

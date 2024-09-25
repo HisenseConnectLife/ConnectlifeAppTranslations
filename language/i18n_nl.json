@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Einde geluiden",
     "CL_DV_OV_24_finish_sounds_content": "Kies het interval voor de laatste herhaling van het geluid.",
     "CL_DV_OV_search_recipes": "Zoek recepten",
-    "CL_CF_CM_search_history": "Zoekgeschiedenis"
+    "CL_CF_CM_search_history": "Zoekgeschiedenis",
+    "CL_DV_OV_24_egg_timer_pop_content": "Selecteer de herhaling en duur van het geluid dat u hoort wanneer de eierwekker afloopt. \n\n Het geluid van de eierwekker is hoorbaar...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Selecteer het interval voor de herhaling van het eindgeluid wanneer een kookprogramma is voltooid. \n\n Het eindgeluid is hoorbaar...",
+    "CL_DV_OV_24_night_mode_pop_content": "Selecteer wanneer de nachtmodus moet starten.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Selecteer wanneer de sabbatmodus moet starten.",
+    "input_email_address": "Voer het e-mailadres in",
+    "CL_DV_OV_24_cavity_lights": "Holleruimteverlichting",
+    "CL_DV_OV_24_sabbath_reminder": "Herinnering aan de sabbat",
+    "CL_DV_OV_24_start_sabbath": "Begin sabbat",
+    "CL_DV_OV_24_end_sabbath": "Einde sabbat",
+    "CL_DV_OV_24_show_backgrounds": "Achtergronden weergeven",
+    "CL_DV_OV_24_brightness_setting_content": "U kunt de helderheid van het ovendisplay en de toetsen naar wens aanpassen. ",
+    "CL_DV_OV_24_close_user_detected": "Dichtbij gebruiker gedetecteerd"
 }

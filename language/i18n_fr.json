@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Sons de finition",
     "CL_DV_OV_24_finish_sounds_content": "Choisissez l'intervalle de répétition du son de fin.",
     "CL_DV_OV_search_recipes": "Rechercher des recettes",
-    "CL_CF_CM_search_history": "Historique de recherche"
+    "CL_CF_CM_search_history": "Historique de recherche",
+    "CL_DV_OV_24_egg_timer_pop_content": "Sélectionnez la répétition et la durée du son que vous entendez lorsqu'un minuteur expire. \n\n Le son du minuteur est audible...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Choisissez l'intervalle de répétition du son de fin lorsqu'un programme de cuisson est terminé. \n\n Le son final est audible...",
+    "CL_DV_OV_24_night_mode_pop_content": "Sélectionnez quand le mode nuit doit démarrer.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Sélectionnez quand le mode Sabbat doit démarrer.",
+    "input_email_address": "Entrez l'adresse e-mail",
+    "CL_DV_OV_24_cavity_lights": "Lumières de cavité",
+    "CL_DV_OV_24_sabbath_reminder": "Rappel du sabbat",
+    "CL_DV_OV_24_start_sabbath": "Début du sabbat",
+    "CL_DV_OV_24_end_sabbath": "Fin du sabbat",
+    "CL_DV_OV_24_show_backgrounds": "Afficher les arrière-plans",
+    "CL_DV_OV_24_brightness_setting_content": "La luminosité de l'écran et des touches du four peut être modifiée selon vos préférences. ",
+    "CL_DV_OV_24_close_user_detected": "Utilisateur proche détecté"
 }
