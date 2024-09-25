@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Завършете звуци",
     "CL_DV_OV_24_finish_sounds_content": "Изберете интервала на повторение на финалния звук.",
     "CL_DV_OV_search_recipes": "Търсене на рецепти",
-    "CL_CF_CM_search_history": "История на търсенето"
+    "CL_CF_CM_search_history": "История на търсенето",
+    "CL_DV_OV_24_egg_timer_pop_content": "Изберете повторението и продължителността на звука, който чувате, когато таймерът за яйца изтече. \n\n Звукът на таймера за яйца се чува...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Изберете интервала на повторение на звука за завършване, когато програмата за готвене приключи. \n\n Финалният звук се чува...",
+    "CL_DV_OV_24_night_mode_pop_content": "Изберете кога трябва да започне нощният режим.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Изберете кога да започне съботният режим.",
+    "input_email_address": "Въведете имейл адреса",
+    "CL_DV_OV_24_cavity_lights": "Кухини светлини",
+    "CL_DV_OV_24_sabbath_reminder": "Напомняне за събота",
+    "CL_DV_OV_24_start_sabbath": "Започнете събота",
+    "CL_DV_OV_24_end_sabbath": "Край на съботата",
+    "CL_DV_OV_24_show_backgrounds": "Показване на фонове",
+    "CL_DV_OV_24_brightness_setting_content": "Яркостта на дисплея и бутоните на фурната могат да се променят според вашите предпочитания. ",
+    "CL_DV_OV_24_close_user_detected": "Затворен потребител е открит"
 }

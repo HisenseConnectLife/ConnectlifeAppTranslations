@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Viimeistele äänet",
     "CL_DV_OV_24_finish_sounds_content": "Valitse lopetusäänen toistoväli.",
     "CL_DV_OV_search_recipes": "Etsi Reseptit",
-    "CL_CF_CM_search_history": "Hakuhistoria"
+    "CL_CF_CM_search_history": "Hakuhistoria",
+    "CL_DV_OV_24_egg_timer_pop_content": "Valitse munaajastimen umpeutuessa kuulemasi äänen toisto ja kesto. \n\n Munaajastimen ääni kuuluu...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Valitse lopetusäänen toistoväli, kun kypsennysohjelma on päättynyt. \n\n Loppuääni kuuluu...",
+    "CL_DV_OV_24_night_mode_pop_content": "Valitse, milloin yötilan pitäisi käynnistyä.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Valitse, milloin sapattitilan pitäisi käynnistyä.",
+    "input_email_address": "Syötä sähköpostiosoite",
+    "CL_DV_OV_24_cavity_lights": "Cavity valot",
+    "CL_DV_OV_24_sabbath_reminder": "Sapatin muistutus",
+    "CL_DV_OV_24_start_sabbath": "Aloita sapatti",
+    "CL_DV_OV_24_end_sabbath": "Lopeta sapatti",
+    "CL_DV_OV_24_show_backgrounds": "Näytä taustat",
+    "CL_DV_OV_24_brightness_setting_content": "Uunin näytön ja näppäinten kirkkautta voidaan muuttaa mieleiseksesi. ",
+    "CL_DV_OV_24_close_user_detected": "Suljettu käyttäjä havaittu"
 }

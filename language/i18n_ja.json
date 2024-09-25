@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "終了音",
     "CL_DV_OV_24_finish_sounds_content": "終了音の繰り返し間隔を選択します。",
     "CL_DV_OV_search_recipes": "レシピを検索",
-    "CL_CF_CM_search_history": "検索履歴"
+    "CL_CF_CM_search_history": "検索履歴",
+    "CL_DV_OV_24_egg_timer_pop_content": "エッグタイマーの時間が経過したときに鳴る音の繰り返しと長さを選択します。 \n\nエッグタイマーの音が聞こえます...",
+    "CL_DV_OV_24_finish_sound_pop_content": "調理プログラムが終了したときに終了音を繰り返す間隔を選択します。 \n\nフィニッシュの音が聞こえます…",
+    "CL_DV_OV_24_night_mode_pop_content": "ナイトモードを開始するタイミングを選択します。",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "安息日モードを開始するタイミングを選択します。",
+    "input_email_address": "メールアドレスを入力してください",
+    "CL_DV_OV_24_cavity_lights": "キャビティライト",
+    "CL_DV_OV_24_sabbath_reminder": "安息日のお知らせ",
+    "CL_DV_OV_24_start_sabbath": "安息日を始める",
+    "CL_DV_OV_24_end_sabbath": "安息日の終わり",
+    "CL_DV_OV_24_show_backgrounds": "背景を表示",
+    "CL_DV_OV_24_brightness_setting_content": "オーブンのディスプレイとキーの明るさはお好みに合わせて変更できます。 ",
+    "CL_DV_OV_24_close_user_detected": "クローズユーザーが検出されました"
 }

@@ -4132,5 +4132,17 @@
     "CL_DV_OV_24_finish_sounds": "Ήχοι τελειώματος",
     "CL_DV_OV_24_finish_sounds_content": "Επιλέξτε το διάστημα της επανάληψης του ήχου φινιρίσματος.",
     "CL_DV_OV_search_recipes": "Αναζήτηση συνταγών",
-    "CL_CF_CM_search_history": "Ιστορικό αναζήτησης"
+    "CL_CF_CM_search_history": "Ιστορικό αναζήτησης",
+    "CL_DV_OV_24_egg_timer_pop_content": "Επιλέξτε την επανάληψη και τη διάρκεια του ήχου που ακούτε όταν λήξει ένα χρονόμετρο αυγού. \n\n Ο ήχος του χρονοδιακόπτη αυγού ακούγεται...",
+    "CL_DV_OV_24_finish_sound_pop_content": "Επιλέξτε το διάστημα της επανάληψης του ήχου φινιρίσματος όταν τελειώσει ένα πρόγραμμα μαγειρέματος. \n\n Ο ήχος τερματισμού ακούγεται...",
+    "CL_DV_OV_24_night_mode_pop_content": "Επιλέξτε πότε θα ξεκινήσει η Νυχτερινή λειτουργία.",
+    "CL_DV_OV_24_sabbath_mode_pop_content": "Επιλέξτε πότε θα ξεκινήσει η λειτουργία Sabbath.",
+    "input_email_address": "Εισαγάγετε τη διεύθυνση email",
+    "CL_DV_OV_24_cavity_lights": "Φώτα κοιλότητας",
+    "CL_DV_OV_24_sabbath_reminder": "Υπενθύμιση Σαββάτου",
+    "CL_DV_OV_24_start_sabbath": "Ξεκινήστε το Σάββατο",
+    "CL_DV_OV_24_end_sabbath": "Τέλος Σαββάτου",
+    "CL_DV_OV_24_show_backgrounds": "Εμφάνιση φόντου",
+    "CL_DV_OV_24_brightness_setting_content": "Η φωτεινότητα της οθόνης του φούρνου και των πλήκτρων μπορεί να αλλάξει ανάλογα με τις προτιμήσεις σας. ",
+    "CL_DV_OV_24_close_user_detected": "Εντοπίστηκε στενός χρήστης"
 }
