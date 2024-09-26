@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "End Sabbath",
     "CL_DV_OV_24_show_backgrounds": "Show backgrounds",
     "CL_DV_OV_24_brightness_setting_content": "Brightness of the oven display and keys can be changed to your preference. ",
-    "CL_DV_OV_24_close_user_detected": "Close user detected"
+    "CL_DV_OV_24_close_user_detected": "Close user detected",
+    "CL_CF_AS_firmware_update_upgrading": "Updating ..."
 }

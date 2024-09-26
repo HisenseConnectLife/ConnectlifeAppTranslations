@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "สิ้นสุดวันสะบาโต",
     "CL_DV_OV_24_show_backgrounds": "แสดงพื้นหลัง",
     "CL_DV_OV_24_brightness_setting_content": "สามารถเปลี่ยนความสว่างของหน้าจอเตาอบและปุ่มต่างๆ ได้ตามความต้องการ ",
-    "CL_DV_OV_24_close_user_detected": "ตรวจพบผู้ใช้ที่ปิด"
+    "CL_DV_OV_24_close_user_detected": "ตรวจพบผู้ใช้ที่ปิด",
+    "CL_CF_AS_firmware_update_upgrading": "กำลังอัปเดต ..."
 }

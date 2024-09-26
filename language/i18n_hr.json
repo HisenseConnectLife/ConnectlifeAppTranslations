@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "Kraj Šabata",
     "CL_DV_OV_24_show_backgrounds": "Prikaži pozadine",
     "CL_DV_OV_24_brightness_setting_content": "Svjetlina zaslona pećnice i tipki se mogu promijeniti prema vašim željama. ",
-    "CL_DV_OV_24_close_user_detected": "Otkriven je zatvoriti korisnik"
+    "CL_DV_OV_24_close_user_detected": "Otkriven je zatvoriti korisnik",
+    "CL_CF_AS_firmware_update_upgrading": "Ažuriranje..."
 }

@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "Ende des Sabbats",
     "CL_DV_OV_24_show_backgrounds": "Hintergründe anzeigen",
     "CL_DV_OV_24_brightness_setting_content": "Die Helligkeit des Ofendisplays und der Tasten kann nach Ihren Wünschen geändert werden. ",
-    "CL_DV_OV_24_close_user_detected": "Naher Benutzer erkannt"
+    "CL_DV_OV_24_close_user_detected": "Naher Benutzer erkannt",
+    "CL_CF_AS_firmware_update_upgrading": "Aktualisieren ..."
 }

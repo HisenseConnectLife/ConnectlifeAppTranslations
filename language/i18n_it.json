@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "Fine del Sabbath",
     "CL_DV_OV_24_show_backgrounds": "Mostra sfondi",
     "CL_DV_OV_24_brightness_setting_content": "È possibile modificare la luminosità del display e dei tasti del forno in base alle proprie preferenze. ",
-    "CL_DV_OV_24_close_user_detected": "Utente vicino rilevato"
+    "CL_DV_OV_24_close_user_detected": "Utente vicino rilevato",
+    "CL_CF_AS_firmware_update_upgrading": "Aggiornamento in corso..."
 }

@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "안식일을 끝내다",
     "CL_DV_OV_24_show_backgrounds": "배경 보기",
     "CL_DV_OV_24_brightness_setting_content": "오븐 디스플레이와 키의 밝기를 원하는 대로 변경할 수 있습니다. ",
-    "CL_DV_OV_24_close_user_detected": "사용자 닫기 감지됨"
+    "CL_DV_OV_24_close_user_detected": "사용자 닫기 감지됨",
+    "CL_CF_AS_firmware_update_upgrading": "업데이트 중 ..."
 }
