@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "安息日结束",
     "CL_DV_OV_24_show_backgrounds": "显示背景",
     "CL_DV_OV_24_brightness_setting_content": "您可以根据自己的喜好更改烤箱显示屏和按键的亮度。 ",
-    "CL_DV_OV_24_close_user_detected": "检测到近距离用户"
+    "CL_DV_OV_24_close_user_detected": "检测到近距离用户",
+    "CL_CF_AS_firmware_update_upgrading": "正在更新..."
 }

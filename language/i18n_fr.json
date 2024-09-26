@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "Fin du sabbat",
     "CL_DV_OV_24_show_backgrounds": "Afficher les arrière-plans",
     "CL_DV_OV_24_brightness_setting_content": "La luminosité de l'écran et des touches du four peut être modifiée selon vos préférences. ",
-    "CL_DV_OV_24_close_user_detected": "Utilisateur proche détecté"
+    "CL_DV_OV_24_close_user_detected": "Utilisateur proche détecté",
+    "CL_CF_AS_firmware_update_upgrading": "Mise à jour ..."
 }

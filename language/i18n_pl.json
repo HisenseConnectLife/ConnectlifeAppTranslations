@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "Koniec szabatu",
     "CL_DV_OV_24_show_backgrounds": "Pokaż tła",
     "CL_DV_OV_24_brightness_setting_content": "Jasność wyświetlacza i przycisków piekarnika można zmienić według własnych preferencji. ",
-    "CL_DV_OV_24_close_user_detected": "Zamknij wykryto użytkownika"
+    "CL_DV_OV_24_close_user_detected": "Zamknij wykryto użytkownika",
+    "CL_CF_AS_firmware_update_upgrading": "Aktualizowanie ..."
 }

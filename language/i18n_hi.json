@@ -4144,5 +4144,6 @@
     "CL_DV_OV_24_end_sabbath": "सब्बाथ का अंत",
     "CL_DV_OV_24_show_backgrounds": "पृष्ठभूमि दिखाएं",
     "CL_DV_OV_24_brightness_setting_content": "ओवन डिस्प्ले और कुंजियों की चमक को आपकी पसंद के अनुसार बदला जा सकता है। ",
-    "CL_DV_OV_24_close_user_detected": "बंद उपयोगकर्ता का पता चला"
+    "CL_DV_OV_24_close_user_detected": "बंद उपयोगकर्ता का पता चला",
+    "CL_CF_AS_firmware_update_upgrading": "अपडेट हो रहा है..."
 }
