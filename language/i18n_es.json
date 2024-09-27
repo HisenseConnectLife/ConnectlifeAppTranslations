@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Fin del Sabbath",
     "CL_DV_OV_24_show_backgrounds": "Mostrar fondos",
     "CL_DV_OV_24_brightness_setting_content": "El brillo de la pantalla del horno y de las teclas se puede cambiar según sus preferencias. ",
-    "CL_DV_OV_24_close_user_detected": "Se detectó un usuario cerrado"
+    "CL_DV_OV_24_close_user_detected": "Se detectó un usuario cerrado",
+    "CL_CF_AS_firmware_update_upgrading": "Actualizando...",
+    "CL_DV_HOB_refresh_mode": "Modo de actualización"
 }

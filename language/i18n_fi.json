@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Lopeta sapatti",
     "CL_DV_OV_24_show_backgrounds": "Näytä taustat",
     "CL_DV_OV_24_brightness_setting_content": "Uunin näytön ja näppäinten kirkkautta voidaan muuttaa mieleiseksesi. ",
-    "CL_DV_OV_24_close_user_detected": "Suljettu käyttäjä havaittu"
+    "CL_DV_OV_24_close_user_detected": "Suljettu käyttäjä havaittu",
+    "CL_CF_AS_firmware_update_upgrading": "Päivitetään...",
+    "CL_DV_HOB_refresh_mode": "Päivitystila"
 }

@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Край на съботата",
     "CL_DV_OV_24_show_backgrounds": "Показване на фонове",
     "CL_DV_OV_24_brightness_setting_content": "Яркостта на дисплея и бутоните на фурната могат да се променят според вашите предпочитания. ",
-    "CL_DV_OV_24_close_user_detected": "Затворен потребител е открит"
+    "CL_DV_OV_24_close_user_detected": "Затворен потребител е открит",
+    "CL_CF_AS_firmware_update_upgrading": "Актуализиране...",
+    "CL_DV_HOB_refresh_mode": "Режим на опресняване"
 }

@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "نهاية السبت",
     "CL_DV_OV_24_show_backgrounds": "إظهار الخلفيات",
     "CL_DV_OV_24_brightness_setting_content": "يمكن تغيير سطوع شاشة الفرن والمفاتيح حسب تفضيلاتك. ",
-    "CL_DV_OV_24_close_user_detected": "تم اكتشاف إغلاق المستخدم"
+    "CL_DV_OV_24_close_user_detected": "تم اكتشاف إغلاق المستخدم",
+    "CL_CF_AS_firmware_update_upgrading": "تحديث ...",
+    "CL_DV_HOB_refresh_mode": "وضع التحديث"
 }

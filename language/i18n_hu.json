@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Vége a szombatnak",
     "CL_DV_OV_24_show_backgrounds": "Hátterek megjelenítése",
     "CL_DV_OV_24_brightness_setting_content": "A sütő kijelzőjének és gombjainak fényereje tetszés szerint módosítható. ",
-    "CL_DV_OV_24_close_user_detected": "Felhasználó bezárása észlelve"
+    "CL_DV_OV_24_close_user_detected": "Felhasználó bezárása észlelve",
+    "CL_CF_AS_firmware_update_upgrading": "Frissítés...",
+    "CL_DV_HOB_refresh_mode": "Frissítés mód"
 }

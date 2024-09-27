@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Konec sobote",
     "CL_DV_OV_24_show_backgrounds": "Pokaži ozadja",
     "CL_DV_OV_24_brightness_setting_content": "Svetlost zaslona pečice in tipk lahko spremenite po svojih željah. ",
-    "CL_DV_OV_24_close_user_detected": "Zaznan uporabnik Close"
+    "CL_DV_OV_24_close_user_detected": "Zaznan uporabnik Close",
+    "CL_CF_AS_firmware_update_upgrading": "Posodabljanje ...",
+    "CL_DV_HOB_refresh_mode": "Način osveževanja"
 }

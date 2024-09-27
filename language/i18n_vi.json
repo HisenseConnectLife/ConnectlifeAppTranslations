@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Kết thúc ngày Sa-bát",
     "CL_DV_OV_24_show_backgrounds": "Hiển thị hình nền",
     "CL_DV_OV_24_brightness_setting_content": "Độ sáng của màn hình hiển thị và các phím bấm của lò nướng có thể thay đổi tùy theo sở thích của bạn. ",
-    "CL_DV_OV_24_close_user_detected": "Đóng người dùng phát hiện"
+    "CL_DV_OV_24_close_user_detected": "Đóng người dùng phát hiện",
+    "CL_CF_AS_firmware_update_upgrading": "Đang cập nhật ...",
+    "CL_DV_HOB_refresh_mode": "Chế độ làm mới"
 }

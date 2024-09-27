@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "סוף שבת",
     "CL_DV_OV_24_show_backgrounds": "הצג רקעים",
     "CL_DV_OV_24_brightness_setting_content": "ניתן לשנות את הבהירות של תצוגת התנור והמקשים לפי העדפתך. ",
-    "CL_DV_OV_24_close_user_detected": "זוהה משתמש קרוב"
+    "CL_DV_OV_24_close_user_detected": "זוהה משתמש קרוב",
+    "CL_CF_AS_firmware_update_upgrading": "מעדכן...",
+    "CL_DV_HOB_refresh_mode": "מצב רענון"
 }
