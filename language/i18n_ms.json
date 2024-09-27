@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Tamat Sabat",
     "CL_DV_OV_24_show_backgrounds": "Tunjukkan latar belakang",
     "CL_DV_OV_24_brightness_setting_content": "Kecerahan paparan ketuhar dan kekunci boleh ditukar mengikut keutamaan anda. ",
-    "CL_DV_OV_24_close_user_detected": "Tutup pengguna dikesan"
+    "CL_DV_OV_24_close_user_detected": "Tutup pengguna dikesan",
+    "CL_CF_AS_firmware_update_upgrading": "Mengemas kini...",
+    "CL_DV_HOB_refresh_mode": "Mod muat semula"
 }

@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Koniec sabatu",
     "CL_DV_OV_24_show_backgrounds": "Zobraziť pozadia",
     "CL_DV_OV_24_brightness_setting_content": "Jas displeja rúry a tlačidiel je možné zmeniť podľa vašich preferencií. ",
-    "CL_DV_OV_24_close_user_detected": "Zistil sa zavrieť používateľ"
+    "CL_DV_OV_24_close_user_detected": "Zistil sa zavrieť používateľ",
+    "CL_CF_AS_firmware_update_upgrading": "Aktualizuje sa...",
+    "CL_DV_HOB_refresh_mode": "Režim obnovenia"
 }

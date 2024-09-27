@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Einde sabbat",
     "CL_DV_OV_24_show_backgrounds": "Achtergronden weergeven",
     "CL_DV_OV_24_brightness_setting_content": "U kunt de helderheid van het ovendisplay en de toetsen naar wens aanpassen. ",
-    "CL_DV_OV_24_close_user_detected": "Dichtbij gebruiker gedetecteerd"
+    "CL_DV_OV_24_close_user_detected": "Dichtbij gebruiker gedetecteerd",
+    "CL_CF_AS_firmware_update_upgrading": "Bijwerken ...",
+    "CL_DV_HOB_refresh_mode": "Vernieuwingsmodus"
 }

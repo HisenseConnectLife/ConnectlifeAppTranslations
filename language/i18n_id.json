@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Akhir Sabat",
     "CL_DV_OV_24_show_backgrounds": "Tampilkan latar belakang",
     "CL_DV_OV_24_brightness_setting_content": "Kecerahan layar oven dan tombol dapat diubah sesuai keinginan Anda. ",
-    "CL_DV_OV_24_close_user_detected": "Pengguna dekat terdeteksi"
+    "CL_DV_OV_24_close_user_detected": "Pengguna dekat terdeteksi",
+    "CL_CF_AS_firmware_update_upgrading": "Memperbarui ...",
+    "CL_DV_HOB_refresh_mode": "Mode penyegaran"
 }

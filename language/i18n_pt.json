@@ -4144,5 +4144,7 @@
     "CL_DV_OV_24_end_sabbath": "Fim do Sábado",
     "CL_DV_OV_24_show_backgrounds": "Mostrar fundos",
     "CL_DV_OV_24_brightness_setting_content": "O brilho do visor e das teclas do forno pode ser alterado de acordo com sua preferência. ",
-    "CL_DV_OV_24_close_user_detected": "Usuário próximo detectado"
+    "CL_DV_OV_24_close_user_detected": "Usuário próximo detectado",
+    "CL_CF_AS_firmware_update_upgrading": "Atualizando...",
+    "CL_DV_HOB_refresh_mode": "Modo de atualização"
 }
