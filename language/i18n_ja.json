@@ -2661,9 +2661,9 @@
     "hob_induction2": "適切な温度で調理する（2/4）",
     "hob_induction2_tips": "完璧な料理を作るために必要な温度をすべて見つける",
     "hob_induction3": "接続してすべてのレシピを発見する (3/4)",
-    "hob_induction3_tips": "スマート調理器具を接続する方法を学び、温度に合わせて特別に作成された幅広いステップバイステップのレシピを閲覧します。",
+    "hob_induction3_tips": "スマート調理器具を接続する方法を学び、温度を正確に制御した調理に特化した、さまざまなステップバイステップのレシピを閲覧します。",
     "hob_induction4": "インスピレーションを得て好みを設定する (4/4)",
-    "hob_induction4_tips": "デジタルマニュアルを確認し、最新のファームウェアアップデートでアプライアンスを最新の状態に保ってください。",
+    "hob_induction4_tips": "すべての機能を調べ、デジタル マニュアルを見つけ、最新のファームウェア アップデートでアプライアンスを最新の状態に維持します。",
     "get_started": "スタート",
     "hob_get_started_tips": "コンロで何ができるかを調べてみよう。 その仕組みをお見せしましょう。",
     "refresh_program_list": "番組リストを更新する",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "オーブンのディスプレイとキーの明るさはお好みに合わせて変更できます。 ",
     "CL_DV_OV_24_close_user_detected": "クローズユーザーが検出されました",
     "CL_CF_AS_firmware_update_upgrading": "更新中...",
-    "CL_DV_HOB_refresh_mode": "リフレッシュモード"
+    "CL_DV_HOB_refresh_mode": "リフレッシュモード",
+    "hob_induction3_new_tips": "スマート調理器具を接続する方法を学び、温度を正確に制御した調理に特化した、さまざまなステップバイステップのレシピを閲覧します。",
+    "CL_DV_OV_added_successfully": "正常に追加されました!",
+    "add_routine": "ルーチンを追加"
 }

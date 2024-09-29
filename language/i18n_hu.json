@@ -2661,9 +2661,9 @@
     "hob_induction2": "Főzzük a megfelelő hőmérsékleten (2/4)",
     "hob_induction2_tips": "Találja meg az összes hőmérsékletet, amire szüksége van a tökéletes étel elkészítéséhez",
     "hob_induction3": "Csatlakozás & fedezze fel az összes receptet (3/4)",
-    "hob_induction3_tips": "Ismerje meg, hogyan csatlakoztathatja intelligens edényeit, és böngésszen a lépésről-lépésre receptek széles választékában, amelyeket kifejezetten hőmérsékletre gyártanak",
+    "hob_induction3_tips": "Tanulja meg, hogyan csatlakoztathatja intelligens edényeit, és böngésszen a lépésenkénti receptek széles skálája között, amelyek kifejezetten a hőmérséklet-precíz főzéshez készültek.",
     "hob_induction4": "Merítsen ihletet és állítsa be preferenciáit (4/4)",
-    "hob_induction4_tips": "Ismerje meg, digitális kézikönyvet, és tartsa naprakészen készülékét a legújabb firmware-frissítésekkel.",
+    "hob_induction4_tips": "Fedezze fel az összes funkciót, keresse meg a digitális kézikönyvet, és tartsa naprakészen készülékét a legújabb firmware-frissítésekkel.",
     "get_started": "Fogj neki",
     "hob_get_started_tips": "Tudja meg, mit tehet a főzőlapjával. Megmutatjuk, hogyan működik.",
     "refresh_program_list": "Programlista frissítése",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "A sütő kijelzőjének és gombjainak fényereje tetszés szerint módosítható. ",
     "CL_DV_OV_24_close_user_detected": "Felhasználó bezárása észlelve",
     "CL_CF_AS_firmware_update_upgrading": "Frissítés...",
-    "CL_DV_HOB_refresh_mode": "Frissítés mód"
+    "CL_DV_HOB_refresh_mode": "Frissítés mód",
+    "hob_induction3_new_tips": "Tanulja meg, hogyan csatlakoztathatja intelligens edényeit, és böngésszen a lépésenkénti receptek széles skálája között, amelyek kifejezetten a hőmérséklet-precíz főzéshez készültek.",
+    "CL_DV_OV_added_successfully": "Sikeresen hozzáadva!",
+    "add_routine": "RUTIN HOZZÁADÁSA"
 }

@@ -2661,9 +2661,9 @@
     "hob_induction2": "Masak dengan suhu yang betul (2/4)",
     "hob_induction2_tips": "Cari semua suhu yang anda perlukan untuk menyediakan hidangan yang sempurna",
     "hob_induction3": "Sambung & temui semua resipi (3/4)",
-    "hob_induction3_tips": "Ketahui cara menyambungkan alat memasak pintar anda dan semak imbas pelbagai resipi langkah demi langkah, yang dihasilkan khusus untuk suhu",
+    "hob_induction3_tips": "Ketahui cara menyambungkan alat memasak pintar anda dan semak imbas pelbagai resipi langkah demi langkah, yang dibuat khusus untuk memasak tepat pada suhu.",
     "hob_induction4": "Dapatkan inspirasi dan tetapkan pilihan anda (4/4)",
-    "hob_induction4_tips": "Ketahui, manual digital dan pastikan perkakas anda dikemas kini dengan kemas kini perisian tegar terkini.",
+    "hob_induction4_tips": "Terokai semua fungsi, cari manual digital dan pastikan perkakas anda dikemas kini dengan kemas kini perisian tegar terkini.",
     "get_started": "Mulakan",
     "hob_get_started_tips": "Ketahui perkara yang boleh anda lakukan dengan pekerjaan anda. Kami akan menunjukkan kepada anda cara ia berfungsi.",
     "refresh_program_list": "Muat semula senarai program",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Kecerahan paparan ketuhar dan kekunci boleh ditukar mengikut keutamaan anda. ",
     "CL_DV_OV_24_close_user_detected": "Tutup pengguna dikesan",
     "CL_CF_AS_firmware_update_upgrading": "Mengemas kini...",
-    "CL_DV_HOB_refresh_mode": "Mod muat semula"
+    "CL_DV_HOB_refresh_mode": "Mod muat semula",
+    "hob_induction3_new_tips": "Ketahui cara menyambungkan alat memasak pintar anda dan semak imbas pelbagai resipi langkah demi langkah, yang dibuat khusus untuk memasak dengan tepat suhu.",
+    "CL_DV_OV_added_successfully": "Berjaya ditambahkan!",
+    "add_routine": "TAMBAH RUTIN"
 }
