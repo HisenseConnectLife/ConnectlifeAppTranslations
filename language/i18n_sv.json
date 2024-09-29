@@ -2661,9 +2661,9 @@
     "hob_induction2": "Tillaga med rätt temperaturer (2/4)",
     "hob_induction2_tips": "Hitta alla temperaturer du behöver för att förbereda den perfekta rätten",
     "hob_induction3": "Anslut och upptäck alla recept (3/4)",
-    "hob_induction3_tips": "Lär dig hur du ansluter dina smarta köksredskap och bläddrar igenom ett brett utbud av steg-för-steg-recept, speciellt framtagna för temperatur",
+    "hob_induction3_tips": "Lär dig hur du ansluter dina smarta köksredskap och bläddrar igenom ett brett utbud av steg-för-steg-recept, speciellt framtagna för exakt temperaturtillagning.",
     "hob_induction4": "Bli inspirerad och gör dina preferenser (4/4)",
-    "hob_induction4_tips": "Ta reda på, digital manual och håll din apparat uppdaterad med de senaste firmwareuppdateringarna.",
+    "hob_induction4_tips": "Utforska alla funktioner, hitta den digitala manualen och håll din apparat uppdaterad med de senaste firmwareuppdateringarna.",
     "get_started": "Komma igång",
     "hob_get_started_tips": "Ta reda på vad du kan göra med din hob. Vi visar dig hur det fungerar.",
     "refresh_program_list": "Uppdatera programlistan",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Ljusstyrkan på ugnsdisplayen och knapparna kan ändras efter dina önskemål. ",
     "CL_DV_OV_24_close_user_detected": "Nära användare upptäcktes",
     "CL_CF_AS_firmware_update_upgrading": "Uppdaterar...",
-    "CL_DV_HOB_refresh_mode": "Uppdateringsläge"
+    "CL_DV_HOB_refresh_mode": "Uppdateringsläge",
+    "hob_induction3_new_tips": "Lär dig hur du ansluter dina smarta köksredskap och bläddrar igenom ett brett utbud av steg-för-steg-recept, speciellt framtagna för exakt temperaturtillagning.",
+    "CL_DV_OV_added_successfully": "Tillagd framgångsrikt!",
+    "add_routine": "LÄGG TILL RUTIN"
 }

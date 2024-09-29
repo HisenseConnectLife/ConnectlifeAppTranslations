@@ -2661,9 +2661,9 @@
     "hob_induction2": "Kypsennä oikeissa lämpötiloissa (2/4)",
     "hob_induction2_tips": "Löydä kaikki lämpötilat, joita tarvitset täydellisen ruokalajin valmistamiseen",
     "hob_induction3": "Yhdistä & löydä kaikki reseptit (3/4)",
-    "hob_induction3_tips": "Opi yhdistämään älykkäät astiat ja selaa laajaa valikoimaa vaiheittaisia reseptejä, jotka on valmistettu erityisesti lämpötilaan",
+    "hob_induction3_tips": "Opi yhdistämään älykkäät keittoastiasi ja selaamaan laajaa valikoimaa vaiheittaisia ​​reseptejä, jotka on suunniteltu erityisesti lämpötilan tarkkaan ruoanlaittoon.",
     "hob_induction4": "Inspiroidu ja määritä mieltymyksesi (4/4)",
-    "hob_induction4_tips": "Tutustu digitaaliseen käyttöoppaaseen ja pidä laitteesi ajan tasalla uusimmilla laiteohjelmistopäivityksillä.",
+    "hob_induction4_tips": "Tutustu kaikkiin toimintoihin, löydä digitaalinen käyttöopas ja pidä laitteesi ajan tasalla uusimpien laiteohjelmistopäivitysten kanssa.",
     "get_started": "Aloittaa",
     "hob_get_started_tips": "Ota selvää, mitä voit tehdä keittotasollasi. Näytämme sinulle, miten se toimii.",
     "refresh_program_list": "Päivitä ohjelmaluettelo",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Uunin näytön ja näppäinten kirkkautta voidaan muuttaa mieleiseksesi. ",
     "CL_DV_OV_24_close_user_detected": "Suljettu käyttäjä havaittu",
     "CL_CF_AS_firmware_update_upgrading": "Päivitetään...",
-    "CL_DV_HOB_refresh_mode": "Päivitystila"
+    "CL_DV_HOB_refresh_mode": "Päivitystila",
+    "hob_induction3_new_tips": "Opi yhdistämään älykkäät keittoastiasi ja selaamaan laajaa valikoimaa vaiheittaisia ​​reseptejä, jotka on suunniteltu erityisesti lämpötilan tarkkaan ruoanlaittoon.",
+    "CL_DV_OV_added_successfully": "Lisätty onnistuneesti!",
+    "add_routine": "LISÄÄ RUTIIINI"
 }

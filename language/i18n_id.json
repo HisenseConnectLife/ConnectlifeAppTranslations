@@ -2661,9 +2661,9 @@
     "hob_induction2": "Masak dengan suhu yang tepat (2/4)",
     "hob_induction2_tips": "Temukan semua suhu yang Anda perlukan untuk menyiapkan hidangan sempurna",
     "hob_induction3": "Hubungkan & temukan semua resep (3/4)",
-    "hob_induction3_tips": "Pelajari cara menghubungkan peralatan masak pintar Anda dan menelusuri berbagai resep langkah demi langkah, yang dibuat khusus untuk suhu",
+    "hob_induction3_tips": "Pelajari cara menghubungkan peralatan memasak pintar Anda dan telusuri berbagai resep langkah demi langkah, yang dibuat khusus untuk memasak dengan suhu tepat.",
     "hob_induction4": "Dapatkan inspirasi dan tentukan preferensi Anda (4/4)",
-    "hob_induction4_tips": "Cari tahu, manual digital dan selalu perbarui peralatan Anda dengan pembaruan firmware terbaru.",
+    "hob_induction4_tips": "Jelajahi semua fungsi, temukan manual digital dan selalu perbarui peralatan Anda dengan pembaruan firmware terkini.",
     "get_started": "Memulai",
     "hob_get_started_tips": "Cari tahu apa yang dapat Anda lakukan dengan kompor Anda. Kami akan menunjukkan cara kerjanya.",
     "refresh_program_list": "Segarkan daftar program",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Kecerahan layar oven dan tombol dapat diubah sesuai keinginan Anda. ",
     "CL_DV_OV_24_close_user_detected": "Pengguna dekat terdeteksi",
     "CL_CF_AS_firmware_update_upgrading": "Memperbarui ...",
-    "CL_DV_HOB_refresh_mode": "Mode penyegaran"
+    "CL_DV_HOB_refresh_mode": "Mode penyegaran",
+    "hob_induction3_new_tips": "Pelajari cara menghubungkan peralatan memasak pintar Anda dan telusuri berbagai resep langkah demi langkah, yang dibuat khusus untuk memasak dengan suhu tepat.",
+    "CL_DV_OV_added_successfully": "Berhasil ditambahkan!",
+    "add_routine": "TAMBAHKAN RUTINITAS"
 }

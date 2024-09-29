@@ -2661,9 +2661,9 @@
     "hob_induction2": "Varte pri správnych teplotách (2/4)",
     "hob_induction2_tips": "Nájdite všetky teploty, ktoré potrebujete na prípravu dokonalého jedla",
     "hob_induction3": "Pripojte sa a objavte všetky recepty (3/4)",
-    "hob_induction3_tips": "Naučte sa pripojiť svoj inteligentný riad a prezerajte si širokú škálu receptov krok za krokom, špeciálne vyrobených pre teplotu",
+    "hob_induction3_tips": "Naučte sa pripojiť svoj inteligentný riad a prezrite si širokú škálu receptov krok za krokom, špeciálne vytvorených na varenie s presnou teplotou.",
     "hob_induction4": "Nechajte sa inšpirovať a nastavte si svoje preferencie (4/4)",
-    "hob_induction4_tips": "Nájdite digitálny manuál a udržujte svoj spotrebič v aktualizovanom stave pomocou najnovších aktualizácií firmvéru.",
+    "hob_induction4_tips": "Preskúmajte všetky funkcie, nájdite digitálny manuál a udržujte svoj spotrebič v aktualizovanom stave pomocou najnovších aktualizácií firmvéru.",
     "get_started": "Začať",
     "hob_get_started_tips": "Zistite, čo môžete robiť so svojou varnou doskou. Ukážeme vám, ako to funguje.",
     "refresh_program_list": "Obnoviť zoznam programov",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Jas displeja rúry a tlačidiel je možné zmeniť podľa vašich preferencií. ",
     "CL_DV_OV_24_close_user_detected": "Zistil sa zavrieť používateľ",
     "CL_CF_AS_firmware_update_upgrading": "Aktualizuje sa...",
-    "CL_DV_HOB_refresh_mode": "Režim obnovenia"
+    "CL_DV_HOB_refresh_mode": "Režim obnovenia",
+    "hob_induction3_new_tips": "Naučte sa pripojiť svoj inteligentný riad a prezrite si širokú škálu receptov krok za krokom, špeciálne vytvorených na varenie s presnou teplotou.",
+    "CL_DV_OV_added_successfully": "Úspešne pridané!",
+    "add_routine": "PRIDAŤ RUTINU"
 }

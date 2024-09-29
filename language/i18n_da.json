@@ -2661,9 +2661,9 @@
     "hob_induction2": "Kog med de rigtige temperaturer (2/4)",
     "hob_induction2_tips": "Find alle de temperaturer, du skal bruge for at tilberede den perfekte ret",
     "hob_induction3": "Forbind og opdag alle opskrifter (3/4)",
-    "hob_induction3_tips": "Lær, hvordan du forbinder dit smarte køkkengrej, og gennemse en bred vifte af trin-for-trin opskrifter, specielt fremstillet til temperatur",
+    "hob_induction3_tips": "Lær, hvordan du forbinder dit smarte køkkengrej, og gennemse en lang række trin-for-trin-opskrifter, specielt lavet til temperaturpræcis madlavning.",
     "hob_induction4": "Bliv inspireret og sæt dine præferencer (4/4)",
-    "hob_induction4_tips": "Find ud af, digital manual, og hold dit apparat opdateret med de seneste firmwareopdateringer.",
+    "hob_induction4_tips": "Udforsk alle funktioner, find den digitale manual og hold dit apparat opdateret med de seneste firmwareopdateringer.",
     "get_started": "Kom igang",
     "hob_get_started_tips": "Find ud af, hvad du kan gøre med din kogeplade. Vi viser dig, hvordan det fungerer.",
     "refresh_program_list": "Opdater programlisten",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Lysstyrken på ovnens display og tasterne kan ændres efter dine ønsker. ",
     "CL_DV_OV_24_close_user_detected": "Tæt bruger fundet",
     "CL_CF_AS_firmware_update_upgrading": "Opdaterer...",
-    "CL_DV_HOB_refresh_mode": "Opdateringstilstand"
+    "CL_DV_HOB_refresh_mode": "Opdateringstilstand",
+    "hob_induction3_new_tips": "Lær, hvordan du forbinder dit smarte køkkengrej, og gennemse en lang række trin-for-trin-opskrifter, specielt lavet til temperaturpræcis madlavning.",
+    "CL_DV_OV_added_successfully": "Tilføjet med succes!",
+    "add_routine": "TILFØJ RUTINE"
 }

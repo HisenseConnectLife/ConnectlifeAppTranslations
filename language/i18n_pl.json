@@ -2661,9 +2661,9 @@
     "hob_induction2": "Gotuj w odpowiednich temperaturach (2/4)",
     "hob_induction2_tips": "Znajdź wszystkie temperatury potrzebne do przygotowania idealnego dania",
     "hob_induction3": "Połącz i odkryj wszystkie przepisy (3/4)",
-    "hob_induction3_tips": "Dowiedz się, jak podłączyć inteligentne naczynia kuchenne i przejrzyj szeroką gamę przepisów krok po kroku, opracowanych specjalnie pod kątem określonej temperatury",
+    "hob_induction3_tips": "Dowiedz się, jak podłączyć inteligentne naczynia kuchenne i przejrzyj szeroką gamę przepisów krok po kroku, stworzonych specjalnie do gotowania z precyzją odpowiadającą temperaturze.",
     "hob_induction4": "Zainspiruj się i ustal swoje preferencje (4/4)",
-    "hob_induction4_tips": "Dowiedz się, cyfrowa instrukcja obsługi i aktualizuj swoje urządzenie dzięki najnowszym aktualizacjom oprogramowania sprzętowego.",
+    "hob_induction4_tips": "Poznaj wszystkie funkcje, znajdź instrukcję obsługi w wersji cyfrowej i aktualizuj urządzenie, korzystając z najnowszych wersji oprogramowania sprzętowego.",
     "get_started": "Zaczynaj",
     "hob_get_started_tips": "Dowiedz się, co możesz zrobić ze swoją płytą grzejną. Pokażemy Ci, jak to działa.",
     "refresh_program_list": "Odśwież listę programów",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Jasność wyświetlacza i przycisków piekarnika można zmienić według własnych preferencji. ",
     "CL_DV_OV_24_close_user_detected": "Zamknij wykryto użytkownika",
     "CL_CF_AS_firmware_update_upgrading": "Aktualizowanie ...",
-    "CL_DV_HOB_refresh_mode": "Tryb odświeżania"
+    "CL_DV_HOB_refresh_mode": "Tryb odświeżania",
+    "hob_induction3_new_tips": "Dowiedz się, jak podłączyć inteligentne naczynia kuchenne i przejrzyj szeroką gamę przepisów krok po kroku, stworzonych specjalnie do gotowania z precyzją odpowiadającą temperaturze.",
+    "CL_DV_OV_added_successfully": "Dodano pomyślnie!",
+    "add_routine": "DODAJ RUTYNĘ"
 }

@@ -2661,9 +2661,9 @@
     "hob_induction2": "Kuhajte s pravim temperaturama (2/4)",
     "hob_induction2_tips": "Pronađite sve temperature potrebne za pripremu savršenog jela",
     "hob_induction3": "Povežite se i otkrijte sve recepte (3/4)",
-    "hob_induction3_tips": "Saznajte kako povezati pametno posuđe i pregledati širok raspon detaljnih recepata, posebno proizvedenih za temperaturu",
+    "hob_induction3_tips": "Naučite kako povezati svoje pametno posuđe i pregledavajte širok raspon recepata korak po korak, posebno napravljenih za kuhanje s preciznom temperaturom.",
     "hob_induction4": "Inspirirajte se i postavite svoje preferencije (4/4)",
-    "hob_induction4_tips": "Saznajte, digitalni priručnik i održavajte uređaj ažurnim najnovijim ažuriranjima firmvera.",
+    "hob_induction4_tips": "Istražite sve funkcije, pronađite digitalni priručnik i održavajte svoj uređaj ažuriranim s najnovijim ažuriranjima firmvera.",
     "get_started": "Započnite",
     "hob_get_started_tips": "Saznajte što možete učiniti sa svojom pločom za kuhanje. Pokazat ćemo vam kako to funkcionira.",
     "refresh_program_list": "Osvježi popis programa",
@@ -4146,5 +4146,8 @@
     "CL_DV_OV_24_brightness_setting_content": "Svjetlina zaslona pećnice i tipki se mogu promijeniti prema vašim željama. ",
     "CL_DV_OV_24_close_user_detected": "Otkriven je zatvoriti korisnik",
     "CL_CF_AS_firmware_update_upgrading": "Ažuriranje...",
-    "CL_DV_HOB_refresh_mode": "Režim osvježavanja"
+    "CL_DV_HOB_refresh_mode": "Režim osvježavanja",
+    "hob_induction3_new_tips": "Naučite kako povezati svoje pametno posuđe i pregledavajte širok raspon recepata korak po korak, posebno napravljenih za kuhanje s preciznom temperaturom.",
+    "CL_DV_OV_added_successfully": "Uspješno dodano!",
+    "add_routine": "DODAJTE RUTINU"
 }
