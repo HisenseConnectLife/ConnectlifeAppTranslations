@@ -2661,9 +2661,9 @@
     "hob_induction2": "Kuhajte s pravimi temperaturami (2/4",
     "hob_induction2_tips": "Poiščite vse temperature, ki jih potrebujete za pripravo popolne jedi",
     "hob_induction3": "Povežite se in odkrijte vse recepte (3/4",
-    "hob_induction3_tips": "Naučite se, kako povezati pametno posodo in brskajte po široki paleti receptov po korakih, posebej izdelanih za temperaturo",
+    "hob_induction3_tips": "Naučite se povezati vašo pametno kuhinjsko posodo in pobrskajte po širokem naboru receptov po korakih, izdelanih posebej za kuhanje z natančno temperaturo.",
     "hob_induction4": "Pridobite ideje in nastavite svoje preference (4/4)",
-    "hob_induction4_tips": "Odkrijte, digitalni priročnik in redno posodabljajte svojo napravo z najnovejšimi posodobitvami vdelane programske opreme.",
+    "hob_induction4_tips": "Raziščite vse funkcije, poiščite digitalni priročnik in poskrbite, da bo vaša naprava posodobljena z najnovejšimi posodobitvami vdelane programske opreme.",
     "get_started": "Začeti",
     "hob_get_started_tips": "Ugotovite, kaj lahko storite s kuhalno ploščo. Pokazali vam bomo, kako deluje.",
     "refresh_program_list": "Osvežitev seznama programov",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "Svetlost zaslona pečice in tipk lahko spremenite po svojih željah. ",
     "CL_DV_OV_24_close_user_detected": "Zaznan uporabnik Close",
     "CL_CF_AS_firmware_update_upgrading": "Posodabljanje ...",
-    "CL_DV_HOB_refresh_mode": "Način osveževanja"
+    "CL_DV_HOB_refresh_mode": "Način osveževanja",
+    "hob_induction3_new_tips": "Naučite se povezati vašo pametno kuhinjsko posodo in pobrskajte po širokem naboru receptov po korakih, izdelanih posebej za kuhanje z natančno temperaturo."
 }

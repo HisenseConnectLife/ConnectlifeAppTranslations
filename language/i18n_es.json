@@ -2661,9 +2661,9 @@
     "hob_induction2": "Cocinar con las temperaturas adecuadas (2/4)",
     "hob_induction2_tips": "Encuentra todas las temperaturas que necesitas para preparar el plato perfecto",
     "hob_induction3": "Conéctate y descubre todas las recetas (3/4)",
-    "hob_induction3_tips": "Aprenda cómo conectar sus utensilios de cocina inteligentes y explore una amplia gama de recetas paso a paso, producidas específicamente para la temperatura.",
+    "hob_induction3_tips": "Aprenda a conectar sus utensilios de cocina inteligentes y explore una amplia gama de recetas paso a paso, diseñadas específicamente para cocinar con temperatura precisa.",
     "hob_induction4": "Inspírate y establece tus preferencias (4/4)",
-    "hob_induction4_tips": "Infórmate, manual digital y mantén tu electrodoméstico actualizado con las últimas actualizaciones de firmware.",
+    "hob_induction4_tips": "Explora todas las funciones, encuentra el manual digital y mantén tu electrodoméstico actualizado con las últimas actualizaciones de firmware.",
     "get_started": "Empezar",
     "hob_get_started_tips": "Averigüe qué puede hacer con su cocina. Te mostraremos cómo funciona.",
     "refresh_program_list": "Actualizar lista de programas",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "El brillo de la pantalla del horno y de las teclas se puede cambiar según sus preferencias. ",
     "CL_DV_OV_24_close_user_detected": "Se detectó un usuario cerrado",
     "CL_CF_AS_firmware_update_upgrading": "Actualizando...",
-    "CL_DV_HOB_refresh_mode": "Modo de actualización"
+    "CL_DV_HOB_refresh_mode": "Modo de actualización",
+    "hob_induction3_new_tips": "Aprenda a conectar sus utensilios de cocina inteligentes y explore una amplia gama de recetas paso a paso, diseñadas específicamente para cocinar con temperatura precisa."
 }

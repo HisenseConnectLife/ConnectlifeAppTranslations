@@ -2661,9 +2661,9 @@
     "hob_induction2": "Kook met de juiste temperaturen (2/4",
     "hob_induction2_tips": "Vind alle temperaturen die je nodig hebt om het perfecte gerecht te bereiden",
     "hob_induction3": "Connect & ontdek alle recepten (3/4",
-    "hob_induction3_tips": "Leer hoe u uw slimme kookgerei aansluit en blader door een breed scala aan stapsgewijze recepten, speciaal geproduceerd voor temperatuur",
+    "hob_induction3_tips": "Ontdek hoe u uw slimme kookgerei kunt verbinden en blader door een breed scala aan stapsgewijze recepten, speciaal ontwikkeld voor koken op nauwkeurige temperatuur.",
     "hob_induction4": "Laat je inspireren en stel je voorkeuren in (4/4",
-    "hob_induction4_tips": "Ontdek de digitale handleiding en houd uw apparaat up-to-date met de nieuwste firmware-updates.",
+    "hob_induction4_tips": "Ontdek alle functies, vind de digitale handleiding en houd uw apparaat up-to-date met de nieuwste firmware-updates.",
     "get_started": "Begin",
     "hob_get_started_tips": "Ontdek wat je met je kookplaat kunt doen. We laten je zien hoe het werkt.",
     "refresh_program_list": "Programmalijst verversen",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "U kunt de helderheid van het ovendisplay en de toetsen naar wens aanpassen. ",
     "CL_DV_OV_24_close_user_detected": "Dichtbij gebruiker gedetecteerd",
     "CL_CF_AS_firmware_update_upgrading": "Bijwerken ...",
-    "CL_DV_HOB_refresh_mode": "Vernieuwingsmodus"
+    "CL_DV_HOB_refresh_mode": "Vernieuwingsmodus",
+    "hob_induction3_new_tips": "Ontdek hoe u uw slimme kookgerei kunt verbinden en blader door een breed scala aan stapsgewijze recepten, speciaal ontwikkeld voor koken op nauwkeurige temperatuur."
 }

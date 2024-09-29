@@ -2661,9 +2661,9 @@
     "hob_induction2": "Cucinare con le giuste temperature (2/4)",
     "hob_induction2_tips": "Trova tutte le temperature che ti servono per preparare il piatto perfetto",
     "hob_induction3": "Connettiti e scopri tutte le ricette (3/4)",
-    "hob_induction3_tips": "Scopri come connettere le tue pentole intelligenti e sfoglia un'ampia gamma di ricette passo passo, realizzate appositamente per la temperatura",
+    "hob_induction3_tips": "Scopri come collegare le tue pentole intelligenti e sfoglia un'ampia gamma di ricette passo dopo passo, pensate appositamente per una cottura con temperatura precisa.",
     "hob_induction4": "Lasciati ispirare e imposta le tue preferenze (4/4)",
-    "hob_induction4_tips": "Scopri il manuale digitale e mantieni aggiornato il tuo elettrodomestico con gli ultimi aggiornamenti firmware.",
+    "hob_induction4_tips": "Esplora tutte le funzioni, trova il manuale digitale e mantieni il tuo elettrodomestico aggiornato con gli ultimi aggiornamenti firmware.",
     "get_started": "Iniziare",
     "hob_get_started_tips": "Scopri cosa puoi fare con il tuo piano cottura. Vi mostreremo come funziona.",
     "refresh_program_list": "Aggiorna l'elenco dei programmi",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "È possibile modificare la luminosità del display e dei tasti del forno in base alle proprie preferenze. ",
     "CL_DV_OV_24_close_user_detected": "Utente vicino rilevato",
     "CL_CF_AS_firmware_update_upgrading": "Aggiornamento in corso...",
-    "CL_DV_HOB_refresh_mode": "Modalità di aggiornamento"
+    "CL_DV_HOB_refresh_mode": "Modalità di aggiornamento",
+    "hob_induction3_new_tips": "Scopri come collegare le tue pentole intelligenti e sfoglia un'ampia gamma di ricette passo dopo passo, pensate appositamente per una cottura con temperatura precisa."
 }

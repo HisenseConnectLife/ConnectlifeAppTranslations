@@ -2661,9 +2661,9 @@
     "hob_induction2": "Cook with the right temperatures (2/4)",
     "hob_induction2_tips": "Find all the temperatures you need to prepare the perfect dish",
     "hob_induction3": "Connect & discover all recipes (3/4)",
-    "hob_induction3_tips": "Learn how to connect your smart cookware and browse through a wide range of step-by-step recipes, specifically produced for temperature",
+    "hob_induction3_tips": "Learn how to connect your smart cookware and browse through a wide range of step-by-step recipes, specifically made for temperature precise cooking.",
     "hob_induction4": "Get inspired and set your preferences (4/4)",
-    "hob_induction4_tips": "Find out, digital manual and keep your appliance up-to-date with the latest firmware updates.",
+    "hob_induction4_tips": "Explore all functions, find the digital manual and keep your appliance up-to-date with the latest firmware updates.",
     "get_started": "Get started",
     "hob_get_started_tips": "Find out what you can do with your hob. We’ll show you how it works.",
     "refresh_program_list": "Refresh program list",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "Brightness of the oven display and keys can be changed to your preference. ",
     "CL_DV_OV_24_close_user_detected": "Close user detected",
     "CL_CF_AS_firmware_update_upgrading": "Updating ...",
-    "CL_DV_HOB_refresh_mode": "Refresh mode"
+    "CL_DV_HOB_refresh_mode": "Refresh mode",
+    "hob_induction3_new_tips": "Learn how to connect your smart cookware and browse through a wide range of step-by-step recipes, specifically made for temperature precise cooking."
 }

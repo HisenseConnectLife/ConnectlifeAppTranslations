@@ -2661,9 +2661,9 @@
     "hob_induction2": "Doğru sıcaklıklarda pişirin (2/4)",
     "hob_induction2_tips": "Mükemmel yemeği hazırlamak için ihtiyacınız olan tüm sıcaklıkları bulun",
     "hob_induction3": "Tüm tarifleri bağlayın ve keşfedin (3/4)",
-    "hob_induction3_tips": "Akıllı pişirme kabınızı nasıl bağlayacağınızı öğrenin ve sıcaklık için özel olarak üretilmiş çok çeşitli adım adım tariflere göz atın",
+    "hob_induction3_tips": "Akıllı pişirme kaplarınızı nasıl bağlayacağınızı öğrenin ve özellikle hassas sıcaklık pişirme için hazırlanmış çok çeşitli adım adım tariflere göz atın.",
     "hob_induction4": "İlham alın ve tercihlerinizi belirleyin (4/4)",
-    "hob_induction4_tips": "Dijital kılavuzu öğrenin ve cihazınızı en son cihaz yazılımı güncellemeleriyle güncel tutun.",
+    "hob_induction4_tips": "Tüm fonksiyonları keşfedin, dijital kılavuzu bulun ve cihazınızı en son yazılım güncellemeleriyle güncel tutun.",
     "get_started": "Başlayın",
     "hob_get_started_tips": "Ocağınızla neler yapabileceğinizi öğrenin. Size nasıl çalıştığını göstereceğiz.",
     "refresh_program_list": "Program listesini yenile",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "Fırın ekranının ve tuşlarının parlaklığını isteğinize göre değiştirebilirsiniz. ",
     "CL_DV_OV_24_close_user_detected": "Yakın kullanıcı algılandı",
     "CL_CF_AS_firmware_update_upgrading": "Güncelleniyor...",
-    "CL_DV_HOB_refresh_mode": "Yenileme modu"
+    "CL_DV_HOB_refresh_mode": "Yenileme modu",
+    "hob_induction3_new_tips": "Akıllı pişirme kaplarınızı nasıl bağlayacağınızı öğrenin ve özellikle hassas sıcaklık pişirme için hazırlanmış çok çeşitli adım adım tariflere göz atın."
 }

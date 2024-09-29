@@ -2661,9 +2661,9 @@
     "hob_induction2": "적절한 온도로 요리하세요 (2/4)",
     "hob_induction2_tips": "완벽한 요리를 준비하는 데 필요한 모든 온도를 찾아보세요",
     "hob_induction3": "모든 레시피를 연결하고 찾아보세요(3/4)",
-    "hob_induction3_tips": "스마트 조리기구를 연결하는 방법을 알아보고 온도에 맞게 특별히 제작된 다양한 단계별 조리법을 살펴보세요.",
+    "hob_induction3_tips": "스마트 조리기구를 연결하는 방법을 알아보고, 정확한 온도로 조리하기 위해 특별히 만들어진 다양한 단계별 요리법을 살펴보세요.",
     "hob_induction4": "영감을 얻고 환경 설정을 지정하세요(4/4)",
-    "hob_induction4_tips": "디지털 설명서를 확인하고 최신 펌웨어 업데이트로 기기를 최신 상태로 유지하세요.",
+    "hob_induction4_tips": "모든 기능을 살펴보고, 디지털 설명서를 찾아보고, 최신 펌웨어 업데이트로 기기를 최신 상태로 유지하세요.",
     "get_started": "시작하다",
     "hob_get_started_tips": "호브로 무엇을 할 수 있는지 알아보세요. 어떻게 작동하는지 보여드리겠습니다.",
     "refresh_program_list": "프로그램 목록 새로 고침",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "오븐 디스플레이와 키의 밝기를 원하는 대로 변경할 수 있습니다. ",
     "CL_DV_OV_24_close_user_detected": "사용자 닫기 감지됨",
     "CL_CF_AS_firmware_update_upgrading": "업데이트 중 ...",
-    "CL_DV_HOB_refresh_mode": "새로 고침 모드"
+    "CL_DV_HOB_refresh_mode": "새로 고침 모드",
+    "hob_induction3_new_tips": "스마트 조리기구를 연결하는 방법을 알아보고, 정확한 온도로 조리하기 위해 특별히 만들어진 다양한 단계별 요리법을 살펴보세요."
 }

@@ -2661,9 +2661,9 @@
     "hob_induction2": "用適當的溫度烹調 (2/4)",
     "hob_induction2_tips": "找到準備完美菜餚所需的所有溫度",
     "hob_induction3": "連接並發現所有食譜 (3/4)",
-    "hob_induction3_tips": "了解如何連接您的智慧炊具並瀏覽專門針對溫度製作的各種逐步食譜",
+    "hob_induction3_tips": "了解如何連接您的智慧炊具並瀏覽各種專為精確溫度烹飪而設計的逐步食譜。",
     "hob_induction4": "獲得靈感並設定您的偏好 (4/4)",
-    "hob_induction4_tips": "了解數位手冊並讓您的裝置保持最新的韌體更新。",
+    "hob_induction4_tips": "探索所有功能，尋找數位手冊並透過最新的韌體更新讓您的裝置保持最新狀態。",
     "get_started": "開始使用",
     "hob_get_started_tips": "了解您可以用您的爐灶做什麼。我們將向您展示它是如何運作的。",
     "refresh_program_list": "刷新節目列表",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "烤箱顯示器和按鍵的亮度可以根據您的喜好進行更改。 ",
     "CL_DV_OV_24_close_user_detected": "偵測到關閉用戶",
     "CL_CF_AS_firmware_update_upgrading": "正在更新...",
-    "CL_DV_HOB_refresh_mode": "刷新模式"
+    "CL_DV_HOB_refresh_mode": "刷新模式",
+    "hob_induction3_new_tips": "了解如何連接您的智慧炊具並瀏覽各種專為精確溫度烹飪而設計的逐步食譜。"
 }

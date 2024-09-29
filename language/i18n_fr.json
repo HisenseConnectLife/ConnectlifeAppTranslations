@@ -2661,9 +2661,9 @@
     "hob_induction2": "Cuisinez aux bonnes températures (2/4)",
     "hob_induction2_tips": "Trouvez toutes les températures dont vous avez besoin pour préparer le plat parfait",
     "hob_induction3": "Connectez-vous et découvrez toutes les recettes (3/4)",
-    "hob_induction3_tips": "Apprenez à connecter vos ustensiles de cuisine intelligents et parcourez une large gamme de recettes étape par étape, spécialement conçues pour la température.",
+    "hob_induction3_tips": "Découvrez comment connecter vos ustensiles de cuisine intelligents et parcourez une large gamme de recettes étape par étape, spécialement conçues pour une cuisson à température précise.",
     "hob_induction4": "Inspirez-vous et définissez vos préférences (4/4)",
-    "hob_induction4_tips": "Découvrez le manuel numérique et maintenez votre appareil à jour avec les dernières mises à jour du micrologiciel.",
+    "hob_induction4_tips": "Explorez toutes les fonctions, trouvez le manuel numérique et maintenez votre appareil à jour avec les dernières mises à jour du micrologiciel.",
     "get_started": "Commencer",
     "hob_get_started_tips": "Découvrez ce que vous pouvez faire avec votre table de cuisson. Nous allons vous montrer comment cela fonctionne.",
     "refresh_program_list": "Actualiser la liste des programmes",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "La luminosité de l'écran et des touches du four peut être modifiée selon vos préférences. ",
     "CL_DV_OV_24_close_user_detected": "Utilisateur proche détecté",
     "CL_CF_AS_firmware_update_upgrading": "Mise à jour ...",
-    "CL_DV_HOB_refresh_mode": "Mode de rafraîchissement"
+    "CL_DV_HOB_refresh_mode": "Mode de rafraîchissement",
+    "hob_induction3_new_tips": "Découvrez comment connecter vos ustensiles de cuisine intelligents et parcourez une large gamme de recettes étape par étape, spécialement conçues pour une cuisson à température précise."
 }

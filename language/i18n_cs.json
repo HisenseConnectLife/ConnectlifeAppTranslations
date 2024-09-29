@@ -2661,9 +2661,9 @@
     "hob_induction2": "Vařte při správných teplotách (2/4)",
     "hob_induction2_tips": "Najděte všechny teploty, které potřebujete k přípravě dokonalého pokrmu",
     "hob_induction3": "Připojte se a objevte všechny recepty (3/4)",
-    "hob_induction3_tips": "Naučte se připojit své chytré nádobí a procházejte širokou škálu receptů krok za krokem, speciálně vyrobených pro teplotu",
+    "hob_induction3_tips": "Naučte se připojit své chytré nádobí a procházejte širokou škálu receptů krok za krokem, speciálně vytvořených pro vaření s přesnou teplotou.",
     "hob_induction4": "Nechte se inspirovat a nastavte si své preference (4/4)",
-    "hob_induction4_tips": "Najděte digitální příručku a udržujte svůj spotřebič aktuální pomocí nejnovějších aktualizací firmwaru.",
+    "hob_induction4_tips": "Prozkoumejte všechny funkce, najděte digitální příručku a udržujte svůj spotřebič v aktuálním stavu pomocí nejnovějších aktualizací firmwaru.",
     "get_started": "Začít",
     "hob_get_started_tips": "Zjistěte, co můžete s varnou deskou dělat. Ukážeme vám, jak to funguje.",
     "refresh_program_list": "Obnovit seznam programů",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "Jas displeje trouby a tlačítek lze změnit podle vašich preferencí. ",
     "CL_DV_OV_24_close_user_detected": "Bylo zjištěno uzavření uživatele",
     "CL_CF_AS_firmware_update_upgrading": "Aktualizace...",
-    "CL_DV_HOB_refresh_mode": "Obnovovací režim"
+    "CL_DV_HOB_refresh_mode": "Obnovovací režim",
+    "hob_induction3_new_tips": "Naučte se, jak připojit své chytré nádobí a procházejte širokou škálu receptů krok za krokem, speciálně vytvořených pro vaření s přesnou teplotou."
 }

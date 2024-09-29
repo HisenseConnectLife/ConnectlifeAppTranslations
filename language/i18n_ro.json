@@ -2661,9 +2661,9 @@
     "hob_induction2": "Gatiti la temperaturi potrivite (2/4)",
     "hob_induction2_tips": "Găsiți toate temperaturile de care aveți nevoie pentru a pregăti preparatul perfect",
     "hob_induction3": "Conectați-vă și descoperiți toate rețetele (3/4)",
-    "hob_induction3_tips": "Aflați cum să vă conectați vasele inteligente și să răsfoiți o gamă largă de rețete pas cu pas, produse special pentru temperatură",
+    "hob_induction3_tips": "Aflați cum să vă conectați vasele inteligente de gătit și să răsfoiți o gamă largă de rețete pas cu pas, special create pentru gătit la temperaturi precise.",
     "hob_induction4": "Inspiră-te și stabilește-ți preferințele (4/4)",
-    "hob_induction4_tips": "Descoperiți manualul digital și păstrați-vă aparatul la zi cu cele mai recente actualizări de firmware.",
+    "hob_induction4_tips": "Explorați toate funcțiile, găsiți manualul digital și păstrați-vă aparatul la zi cu cele mai recente actualizări de firmware.",
     "get_started": "Incepe",
     "hob_get_started_tips": "Aflați ce puteți face cu plita dumneavoastră. Vă vom arăta cum funcționează.",
     "refresh_program_list": "Actualizează lista de programe",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "Luminozitatea afișajului cuptorului și a tastelor pot fi modificate după preferințele dvs. ",
     "CL_DV_OV_24_close_user_detected": "A fost detectat un utilizator apropiat",
     "CL_CF_AS_firmware_update_upgrading": "Se actualizează...",
-    "CL_DV_HOB_refresh_mode": "Modul de reîmprospătare"
+    "CL_DV_HOB_refresh_mode": "Modul de reîmprospătare",
+    "hob_induction3_new_tips": "Aflați cum să vă conectați vasele inteligente de gătit și să răsfoiți o gamă largă de rețete pas cu pas, special create pentru gătit cu precizie la temperatură."
 }

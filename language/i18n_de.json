@@ -2661,9 +2661,9 @@
     "hob_induction2": "Kochen bei den richtigen Temperaturen (2/4)",
     "hob_induction2_tips": "Finden Sie alle Temperaturen, die Sie für die Zubereitung des perfekten Gerichts benötigen",
     "hob_induction3": "Vernetzen & alle Rezepte entdecken (3/4)",
-    "hob_induction3_tips": "Erfahren Sie, wie Sie Ihr intelligentes Kochgeschirr verbinden und stöbern Sie durch eine große Auswahl an Schritt-für-Schritt-Rezepten, die speziell für die Temperatur entwickelt wurden",
+    "hob_induction3_tips": "Erfahren Sie, wie Sie Ihr intelligentes Kochgeschirr verbinden und stöbern Sie durch eine große Auswahl an Schritt-für-Schritt-Rezepten, die speziell für temperaturgenaues Kochen entwickelt wurden.",
     "hob_induction4": "Lassen Sie sich inspirieren und legen Sie Ihre Präferenzen fest (4/4)",
-    "hob_induction4_tips": "Informieren Sie sich über das digitale Handbuch und halten Sie Ihr Gerät mit den aktuellsten Firmware-Updates auf dem neuesten Stand.",
+    "hob_induction4_tips": "Entdecken Sie alle Funktionen, finden Sie das digitale Handbuch und halten Sie Ihr Gerät mit den neuesten Firmware-Updates auf dem neuesten Stand.",
     "get_started": "Loslegen",
     "hob_get_started_tips": "Finden Sie heraus, was Sie mit Ihrem Kochfeld machen können. Wir zeigen Ihnen, wie es funktioniert.",
     "refresh_program_list": "Programmliste aktualisieren",
@@ -4146,5 +4146,6 @@
     "CL_DV_OV_24_brightness_setting_content": "Die Helligkeit des Ofendisplays und der Tasten kann nach Ihren Wünschen geändert werden. ",
     "CL_DV_OV_24_close_user_detected": "Naher Benutzer erkannt",
     "CL_CF_AS_firmware_update_upgrading": "Aktualisieren ...",
-    "CL_DV_HOB_refresh_mode": "Aktualisierungsmodus"
+    "CL_DV_HOB_refresh_mode": "Aktualisierungsmodus",
+    "hob_induction3_new_tips": "Erfahren Sie, wie Sie Ihr intelligentes Kochgeschirr verbinden und stöbern Sie durch eine große Auswahl an Schritt-für-Schritt-Rezepten, die speziell für temperaturgenaues Kochen entwickelt wurden."
 }
