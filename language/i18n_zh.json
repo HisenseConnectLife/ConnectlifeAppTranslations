@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "环境模式融入生活空间氛围。当门关闭时，它将被激活。",
     "three_standby": "设置在‘时钟屏幕’之后多少分钟没有操作，机柜显示屏将进入待机状态。",
     "delete_account_tips": "当您的所有数据从我们的系统中删除时，您将收到一封电子邮件。",
-    "CL_DV_RF_water_inlet_tube_sensor": "进水管传感器"
+    "CL_DV_RF_water_inlet_tube_sensor": "进水管传感器",
+    "CL_DV_OV_set_power_watts": "设置功率（瓦）",
+    "CL_DV_OV_power_90_desc": "解冻奶油糕点。",
+    "CL_DV_OV_power_180_desc": "手动解冻和软化黄油或冰淇淋。",
+    "CL_DV_OV_power_360_desc": "低温烹饪乳制品或果酱。",
+    "CL_DV_OV_power_600_desc": "适合融化巧克力，烹饪鱼类和海鲜，低温烹饪干豆。重新加热和烹饪精致的蛋类菜肴。",
+    "CL_DV_OV_power_750_desc": "用于烹饪新鲜或冷冻的蔬菜。",
+    "CL_DV_OV_power_1000_desc": "最适合快速加热饮料、水和含有大量液体的菜肴或烹饪含水量高的菜肴（汤、酱汁等）。",
+    "CL_DV_OV_microwave_power_levels": "微波功率水平"
 }

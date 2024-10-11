@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambientný režim zapadá do atmosféry obytného priestoru. Aktivuje sa po zatvorení dverí.",
     "three_standby": "Nastavte, po koľkých minútach nečinnosti po „obrazovke hodín“ sa displej skrinky prepne do pohotovostného režimu.",
     "delete_account_tips": "Keď budú všetky vaše údaje vymazané z nášho systému, dostanete e-mail.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Senzor prívodnej trubice vody"
+    "CL_DV_RF_water_inlet_tube_sensor": "Senzor prívodnej trubice vody",
+    "CL_DV_OV_set_power_watts": "NASTAVIŤ VÝKON (WATTS)",
+    "CL_DV_OV_power_90_desc": "Rozmrazovanie smotanového pečiva.",
+    "CL_DV_OV_power_180_desc": "Ručné rozmrazovanie a zmäkčovanie masla alebo zmrzliny.",
+    "CL_DV_OV_power_360_desc": "Varenie mliečnych výrobkov alebo džemov pri nízkej teplote.",
+    "CL_DV_OV_power_600_desc": "Vhodné na rozpúšťanie čokolády, varenie rýb a morských plodov, varenie sušenej fazule pri nízkej teplote. Ohrievanie a varenie jemných pokrmov na báze vajec.",
+    "CL_DV_OV_power_750_desc": "Používa sa na varenie čerstvej alebo mrazenej zeleniny.",
+    "CL_DV_OV_power_1000_desc": "Najlepšie na rýchle ohrievanie nápojov, vody a riadu s veľkým objemom tekutín alebo varenie jedál s vysokým obsahom vody (polievky, omáčky atď.).",
+    "CL_DV_OV_microwave_power_levels": "ÚROVNE VÝKONU MIKROVLN"
 }

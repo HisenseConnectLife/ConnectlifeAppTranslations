@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient modu yaşam alanı ambiyansına uyum sağlar. Kapı kapatıldığında aktif hale gelir.",
     "three_standby": "'Saat ekranı'ndan sonra kaç dakika hiçbir işlem yapılmazsa, kabin ekranının bekleme moduna geçeceğini ayarlayın.",
     "delete_account_tips": "Sistemimizden tüm verileriniz silindiğinde bir e-posta alacaksınız.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Su Giriş Borusu Sensörü"
+    "CL_DV_RF_water_inlet_tube_sensor": "Su Giriş Borusu Sensörü",
+    "CL_DV_OV_set_power_watts": "GÜÇ AYARLA (WATT)",
+    "CL_DV_OV_power_90_desc": "Kremalı böreğin çözülmesi.",
+    "CL_DV_OV_power_180_desc": "Tereyağını veya dondurmayı elle çözdürüp yumuşatmak.",
+    "CL_DV_OV_power_360_desc": "Süt ürünlerinin veya reçellerin düşük ısıda pişirilmesi.",
+    "CL_DV_OV_power_600_desc": "Çikolata eritmek, balık ve deniz ürünlerini pişirmek, kuru fasulyeyi kısık ateşte pişirmek için uygundur. Hassas yumurtalı yemeklerin ısıtılması ve pişirilmesinde kullanılır.",
+    "CL_DV_OV_power_750_desc": "Taze veya dondurulmuş sebzeleri pişirmek için kullanılır.",
+    "CL_DV_OV_power_1000_desc": "İçecekleri, suyu ve çok miktarda sıvı içeren yemekleri hızlı bir şekilde ısıtmak veya su içeriği yüksek yemekleri (çorbalar, soslar vb.) pişirmek için idealdir.",
+    "CL_DV_OV_microwave_power_levels": "MİKRODALGA GÜÇ SEVİYELERİ"
 }

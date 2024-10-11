@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Le mode Ambient s'intègre parfaitement à l'ambiance de l'espace de vie. Il s'active lorsque la porte est fermée.",
     "three_standby": "Définissez après combien de minutes d'inaction après « Écran d'horloge », l'affichage de l'armoire passera en veille.",
     "delete_account_tips": "Vous recevrez un e-mail lorsque toutes vos données seront supprimées de notre système.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Capteur de tube d'arrivée d'eau"
+    "CL_DV_RF_water_inlet_tube_sensor": "Capteur de tube d'arrivée d'eau",
+    "CL_DV_OV_set_power_watts": "RÉGLER LA PUISSANCE (WATTS)",
+    "CL_DV_OV_power_90_desc": "Décongeler une pâtisserie fourrée à la crème.",
+    "CL_DV_OV_power_180_desc": "Décongélation et ramollissement manuels du beurre ou de la crème glacée.",
+    "CL_DV_OV_power_360_desc": "Cuisson à basse température de produits laitiers ou de confitures.",
+    "CL_DV_OV_power_600_desc": "Convient pour faire fondre le chocolat, cuire le poisson et les fruits de mer, cuire les haricots secs à feu doux. Réchauffer et cuire des plats délicats à base d'œufs.",
+    "CL_DV_OV_power_750_desc": "Utiliser pour la cuisson de légumes frais ou surgelés.",
+    "CL_DV_OV_power_1000_desc": "Idéal pour réchauffer rapidement des boissons, de l'eau et des plats contenant un grand volume de liquide ou pour cuire des plats à forte teneur en eau (soupes, sauces, etc.).",
+    "CL_DV_OV_microwave_power_levels": "NIVEAUX DE PUISSANCE DU MICRO-ONDES"
 }

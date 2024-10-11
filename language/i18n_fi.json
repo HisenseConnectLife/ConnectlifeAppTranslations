@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient-tila sulautuu asuintilan tunnelmaan. Se aktivoituu, kun ovi suljetaan.",
     "three_standby": "Aseta, kuinka monen minuutin kuluttua toimintoa ei ole tehty \"Kellonäyttö\"-kohdan jälkeen, kaapin näyttö siirtyy valmiustilaan.",
     "delete_account_tips": "Saat sähköpostin, kun kaikki tietosi poistetaan järjestelmästämme.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Veden tuloputken anturi"
+    "CL_DV_RF_water_inlet_tube_sensor": "Veden tuloputken anturi",
+    "CL_DV_OV_set_power_watts": "ASETUSTEHO (WATTIA)",
+    "CL_DV_OV_power_90_desc": "Kermatäytteisen leivonnaisen sulatus.",
+    "CL_DV_OV_power_180_desc": "Voin tai jäätelön manuaalinen sulatus ja pehmentäminen.",
+    "CL_DV_OV_power_360_desc": "Maitotuotteiden tai hillojen kypsennys matalalla lämmöllä.",
+    "CL_DV_OV_power_600_desc": "Soveltuu suklaan sulattamiseen, kalan ja äyriäisten kypsentämiseen, kuivattujen papujen kypsentämiseen alhaisella lämmöllä. Herkkien munapohjaisten ruokien lämmitykseen ja kypsentämiseen.",
+    "CL_DV_OV_power_750_desc": "Käytä tuoreiden tai pakastevihanneksien kypsentämiseen.",
+    "CL_DV_OV_power_1000_desc": "Paras juomien, veden ja runsaasti nestettä sisältävien ruokien tai runsaasti vettä sisältävien ruokien (keitot, kastikkeet jne.) nopeaan lämmittämiseen.",
+    "CL_DV_OV_microwave_power_levels": "MIKROAALTOTEHOTASOT"
 }

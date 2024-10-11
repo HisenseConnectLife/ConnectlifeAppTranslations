@@ -3308,7 +3308,7 @@
     "example:_every_day_at_12:00": "Esempio: ogni giorno alle 12:00",
     "time_select": "Selezione del tempo",
     "example:_air_conditioner_turned_on": "Esempio: Condizionatore d’aria acceso",
-    "select_trigger_feature": "FUNZIONALITÀ SELEZIONA L’ATTIVAZIONE",
+    "select_trigger_feature": "SELEZIONARE LA FUNZIONE DI ATTIVAZIONE",
     "weather": "Condizioni meteo",
     "example:_temp_is_higher_than_28": "Esempio: Temperatura superiore a 28",
     "weather_phenomenon": "Fenomeno meteo",
@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "La modalità Ambient si fonde con l'ambiente dello spazio abitativo. Si attiva quando la porta è chiusa.",
     "three_standby": "Imposta dopo quanti minuti di inattività, dopo la visualizzazione della \"Schermata orologio\", il display del cabinet passerà alla modalità standby.",
     "delete_account_tips": "Riceverai un'e-mail quando tutti i tuoi dati saranno stati eliminati dal nostro sistema.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Sensore del tubo di ingresso dell'acqua"
+    "CL_DV_RF_water_inlet_tube_sensor": "Sensore del tubo di ingresso dell'acqua",
+    "CL_DV_OV_set_power_watts": "POTENZA IMPOSTATA (WATT)",
+    "CL_DV_OV_power_90_desc": "Scongelamento della pasta sfoglia ripiena di crema.",
+    "CL_DV_OV_power_180_desc": "Scongelamento manuale e ammorbidimento del burro o del gelato.",
+    "CL_DV_OV_power_360_desc": "Cottura a bassa temperatura di latticini o marmellate.",
+    "CL_DV_OV_power_600_desc": "Adatto per sciogliere il cioccolato, cucinare pesce e frutti di mare, cuocere fagioli secchi a fuoco basso. Riscaldamento e cottura di piatti delicati a base di uova.",
+    "CL_DV_OV_power_750_desc": "Da utilizzare per cucinare verdure fresche o surgelate.",
+    "CL_DV_OV_power_1000_desc": "Ideale per riscaldare rapidamente bevande, acqua e piatti contenenti grandi quantità di liquido o per cucinare pietanze ad alto contenuto di acqua (zuppe, salse, ecc.).",
+    "CL_DV_OV_microwave_power_levels": "LIVELLI DI POTENZA DELLE MICROONDE"
 }

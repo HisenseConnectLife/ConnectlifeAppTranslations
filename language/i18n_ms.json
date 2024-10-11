@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Mod ambien menggabungkan ke dalam suasana ruang tamu. Ia akan diaktifkan apabila pintu ditutup.",
     "three_standby": "Tetapkan selepas berapa minit tiada tindakan selepas 'Skrin jam', paparan kabinet akan pergi ke siap sedia.",
     "delete_account_tips": "Anda akan menerima e-mel apabila semua data anda dipadamkan daripada sistem kami.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Sensor tiub Masuk Air"
+    "CL_DV_RF_water_inlet_tube_sensor": "Sensor tiub Masuk Air",
+    "CL_DV_OV_set_power_watts": "SET KUASA (WATTS)",
+    "CL_DV_OV_power_90_desc": "Menyahbeku pastri berisi krim.",
+    "CL_DV_OV_power_180_desc": "Menyahbeku secara manual dan melembutkan mentega atau ais krim.",
+    "CL_DV_OV_power_360_desc": "Memasak produk tenusu atau jem dengan api rendah.",
+    "CL_DV_OV_power_600_desc": "Sesuai untuk mencairkan coklat, memasak ikan dan makanan laut, memasak kacang kering dengan api perlahan.Memanaskan semula dan memasak hidangan berasaskan telur yang halus.",
+    "CL_DV_OV_power_750_desc": "Gunakan untuk memasak sayur-sayuran segar atau beku.",
+    "CL_DV_OV_power_1000_desc": "Terbaik untuk memanaskan semula minuman, air dan hidangan yang mengandungi sejumlah besar cecair atau hidangan memasak dengan kandungan air yang tinggi (sup, sos dll.).",
+    "CL_DV_OV_microwave_power_levels": "TAHAP KUASA GELOMBANG MIKRO"
 }

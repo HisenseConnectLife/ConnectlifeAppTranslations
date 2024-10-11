@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient-tilstand blander sig ind i boligens atmosfære. Den aktiveres, når døren lukkes.",
     "three_standby": "Indstil efter hvor mange minutter uden handling efter 'Clock screen', vil skabets display gå til standby.",
     "delete_account_tips": "Du vil modtage en e-mail, når alle dine data er slettet fra vores system.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Vandindtagsrørsensor"
+    "CL_DV_RF_water_inlet_tube_sensor": "Vandindtagsrørsensor",
+    "CL_DV_OV_set_power_watts": "INDSTIL EFFEKT (WATT)",
+    "CL_DV_OV_power_90_desc": "Optøning af flødefyldt wienerbrød.",
+    "CL_DV_OV_power_180_desc": "Manuel optøning og blødgøring af smør eller is.",
+    "CL_DV_OV_power_360_desc": "Lavvarme tilberedning af mejeriprodukter eller marmelade.",
+    "CL_DV_OV_power_600_desc": "Velegnet til smeltning af chokolade, tilberedning af fisk og skaldyr, tilberedning af tørrede bønner ved lav varme. Genopvarmning og tilberedning af delikate ægbaserede retter.",
+    "CL_DV_OV_power_750_desc": "Bruges til tilberedning af friske eller frosne grøntsager.",
+    "CL_DV_OV_power_1000_desc": "Bedst til hurtig genopvarmning af drikkevarer, vand og retter indeholdende en stor mængde væske eller til madlavning af retter med højt vandindhold (supper, saucer osv.).",
+    "CL_DV_OV_microwave_power_levels": "MIKROBØLGEEFFEKT NIVEAUER"
 }

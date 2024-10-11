@@ -792,7 +792,7 @@
     "device_status_open": "Geöffnet",
     "device_status_not_available": "Nicht verfügbar",
     "device_status_weight": "Wiegen",
-    "device_status_prewashing": "Vorwäsche",
+    "device_status_prewashing": "Vorwaschen",
     "device_status_washing": "Waschen",
     "device_status_rinsing": "Spülen",
     "device_status_soften": "Erweichen",
@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Der Ambient-Modus fügt sich in das Wohnraumambiente ein. Er wird aktiviert, wenn die Tür geschlossen wird.",
     "three_standby": "Legen Sie fest, nach wie vielen Minuten ohne Aktion nach der „Uhranzeige“ die Anzeige des Schranks in den Standby-Modus wechselt.",
     "delete_account_tips": "Sie erhalten eine E-Mail, wenn alle Ihre Daten aus unserem System gelöscht sind.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Sensor des Wasserzulaufrohrs"
+    "CL_DV_RF_water_inlet_tube_sensor": "Sensor des Wasserzulaufrohrs",
+    "CL_DV_OV_set_power_watts": "EINGESTELLTE LEISTUNG (WATT)",
+    "CL_DV_OV_power_90_desc": "Auftauen von mit Creme gefülltem Gebäck.",
+    "CL_DV_OV_power_180_desc": "Manuelles Auftauen und Erweichen von Butter oder Eis.",
+    "CL_DV_OV_power_360_desc": "Garen von Milchprodukten oder Marmelade bei niedriger Hitze.",
+    "CL_DV_OV_power_600_desc": "Geeignet zum Schmelzen von Schokolade, Kochen von Fisch und Meeresfrüchten, Kochen von getrockneten Bohnen bei niedriger Hitze sowie zum Aufwärmen und Kochen von empfindlichen Eierspeisen.",
+    "CL_DV_OV_power_750_desc": "Zum Kochen von frischem oder gefrorenem Gemüse verwenden.",
+    "CL_DV_OV_power_1000_desc": "Am besten geeignet zum schnellen Aufwärmen von Getränken, Wasser und Gerichten mit viel Flüssigkeit oder zum Zubereiten von Gerichten mit hohem Wassergehalt (Suppen, Soßen usw.).",
+    "CL_DV_OV_microwave_power_levels": "MIKROWELLEN-LEISTUNGSSTUFEN"
 }

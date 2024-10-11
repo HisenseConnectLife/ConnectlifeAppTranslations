@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "El modo ambiente se integra con el ambiente del espacio habitable. Se activará cuando se cierre la puerta.",
     "three_standby": "Establezca después de cuántos minutos de inactividad después de 'Pantalla del reloj', la pantalla del gabinete pasará al modo de espera.",
     "delete_account_tips": "Recibirá un correo electrónico cuando se eliminen todos sus datos de nuestro sistema.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Sensor del tubo de entrada de agua"
+    "CL_DV_RF_water_inlet_tube_sensor": "Sensor del tubo de entrada de agua",
+    "CL_DV_OV_set_power_watts": "CONFIGURAR POTENCIA (WATTS)",
+    "CL_DV_OV_power_90_desc": "Descongelar pasteles rellenos de crema.",
+    "CL_DV_OV_power_180_desc": "Descongelación manual y ablandamiento de mantequilla o helado.",
+    "CL_DV_OV_power_360_desc": "Cocción a fuego lento de productos lácteos o mermeladas.",
+    "CL_DV_OV_power_600_desc": "Adecuado para derretir chocolate, cocinar pescado y marisco, cocinar judías secas a fuego lento. Recalentar y cocinar platos delicados a base de huevo.",
+    "CL_DV_OV_power_750_desc": "Úselo para cocinar verduras frescas o congeladas.",
+    "CL_DV_OV_power_1000_desc": "Ideal para recalentar rápidamente bebidas, agua y platos que contengan un gran volumen de líquido o cocinar platos con alto contenido de agua (sopas, salsas, etc.).",
+    "CL_DV_OV_microwave_power_levels": "NIVELES DE POTENCIA DEL MICROONDAS"
 }

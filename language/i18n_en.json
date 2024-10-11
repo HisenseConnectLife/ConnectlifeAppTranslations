@@ -960,7 +960,7 @@
     "washer_atag_mode_storage": "STORAGE",
     "washer_atag_step_by_step": "Step by step: Wash dishes",
     "washer_atag_step_main_load": "What is the main load?",
-    "washer_atag_step_main_load_pans": "Pans and pots",
+    "washer_atag_step_main_load_pans": "Pans and Pots",
     "washer_atag_step_main_load_glasses": "Wine glasses",
     "washer_atag_step_main_load_dishes": "Dishes and cutlery",
     "washer_atag_step_soiled": "How soiled is the load?",
@@ -4169,7 +4169,7 @@
     "CL_DV_WM_pump_clean_how_to_use_1": "1.Empty and fill the compartment with water before activating the pump clean function.",
     "CL_DV_WM_pump_clean_how_to_use_2": "2.Active the pump clean function from the machine side.",
     "CL_DV_WM_pump_clean_when_to_use": "When to use?",
-    "CL_DV_WM_pump_clean_when_to_use_1": "1.If you wish to change the contents in the “Softener”compartment, please ensure it is empty and runthe pump clean function before next use. ",
+    "CL_DV_WM_pump_clean_when_to_use_1": "1.If you wish to change the contents in the “Softener”compartment, please ensure it is empty and run the pump clean function before next use. ",
     "CL_DV_WM_pump_clean_when_to_use_2": "2.More than half year you havent clean the Pump, you can  active the pump clean function.",
     "CL_DV_WM_standard_auto_does_key": "STANDARD AUTODOSE",
     "CL_DV_WM_compartment_in_use_key": "COMPARTMENT IN USE",
@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient mode blends into the living space ambience. It will be activated when the door is closed.",
     "three_standby": "Set after how many minutes of no action after ‘Clock screen’, the display of the cabinet will go to the standby.",
     "delete_account_tips": "You will receive an e-mail when all your data is deleted from our system.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Water Inlet tube sensor"
+    "CL_DV_RF_water_inlet_tube_sensor": "Water Inlet tube sensor",
+    "CL_DV_OV_set_power_watts": "SET POWER (WATTS)",
+    "CL_DV_OV_power_90_desc": "Defrosting cream-filled pastry.",
+    "CL_DV_OV_power_180_desc": "Manual defrosting and softening butter or ice cream.",
+    "CL_DV_OV_power_360_desc": "Low-heat cooking of dairy products or jams.",
+    "CL_DV_OV_power_600_desc": "Suitable for melting chocolate, cooking fish and seafood, cooking dried beans at low heat.Reheating and cooking of delicate egg-based dishes.",
+    "CL_DV_OV_power_750_desc": "Use for cooking fresh or frozen vegetables.",
+    "CL_DV_OV_power_1000_desc": "Best for quickly reheating beverages, water and dishes containing a large volume of liquid or cooking dishes with high water content (soups, sauces etc.).",
+    "CL_DV_OV_microwave_power_levels": "MICROWAVE POWER LEVELS"
 }

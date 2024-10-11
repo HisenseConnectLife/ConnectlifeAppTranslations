@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient mode past zich aan de ambiance van de leefruimte aan. Deze wordt geactiveerd wanneer de deur gesloten is.",
     "three_standby": "Stel in na hoeveel minuten zonder actie het display van de kast op stand-by gaat.",
     "delete_account_tips": "Zodra al uw gegevens uit ons systeem zijn verwijderd, ontvangt u een e-mail.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Waterinlaatbuissensor"
+    "CL_DV_RF_water_inlet_tube_sensor": "Waterinlaatbuissensor",
+    "CL_DV_OV_set_power_watts": "VERMOGEN INSTELLEN (WATT)",
+    "CL_DV_OV_power_90_desc": "Ontdooien van roomgevulde gebakjes.",
+    "CL_DV_OV_power_180_desc": "Handmatig ontdooien en zacht maken van boter of ijs.",
+    "CL_DV_OV_power_360_desc": "Het op lage temperatuur bereiden van zuivelproducten of jam.",
+    "CL_DV_OV_power_600_desc": "Geschikt voor het smelten van chocolade, het koken van vis en zeevruchten, het koken van gedroogde bonen op lage temperatuur. Opwarmen en koken van delicate gerechten op basis van eieren.",
+    "CL_DV_OV_power_750_desc": "Voor het koken van verse of diepvriesgroenten.",
+    "CL_DV_OV_power_1000_desc": "Ideaal voor het snel opwarmen van dranken, water en gerechten met een grote hoeveelheid vloeistof of voor het koken van gerechten met een hoog watergehalte (soepen, sauzen, enz.).",
+    "CL_DV_OV_microwave_power_levels": "MAGNETRONVERMOGENSNIVEAUS"
 }

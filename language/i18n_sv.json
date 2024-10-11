@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient-läget smälter in i atmosfären i vardagsrummet. Den kommer att aktiveras när dörren stängs.",
     "three_standby": "Ställ in efter hur många minuter utan åtgärd efter 'Klockskärm', kommer displayen på skåpet att gå till standby.",
     "delete_account_tips": "Du kommer att få ett e-postmeddelande när all din data har raderats från vårt system.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Sensor för vatteninloppsrör"
+    "CL_DV_RF_water_inlet_tube_sensor": "Sensor för vatteninloppsrör",
+    "CL_DV_OV_set_power_watts": "STÄLL IN EFFEKT (WATT)",
+    "CL_DV_OV_power_90_desc": "Upptining av gräddfylld bakelse.",
+    "CL_DV_OV_power_180_desc": "Manuell upptining och mjukgörande smör eller glass.",
+    "CL_DV_OV_power_360_desc": "Lågvärme tillagning av mejeriprodukter eller sylt.",
+    "CL_DV_OV_power_600_desc": "Lämplig för att smälta choklad, laga fisk och skaldjur, koka torkade bönor på låg värme. Uppvärmning och tillagning av ömtåliga äggbaserade rätter.",
+    "CL_DV_OV_power_750_desc": "Använd för tillagning av färska eller frysta grönsaker.",
+    "CL_DV_OV_power_1000_desc": "Bäst för att snabbt värma upp drycker, vatten och rätter som innehåller en stor volym vätska eller tillagning av rätter med hög vattenhalt (soppor, såser etc.).",
+    "CL_DV_OV_microwave_power_levels": "MIKROVÅGSEFFEKTNIVÅER"
 }

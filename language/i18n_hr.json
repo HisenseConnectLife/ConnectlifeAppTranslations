@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambijentalni način rada stapa se s ambijentom životnog prostora. Aktivira se kada se vrata zatvore.",
     "three_standby": "Postavite nakon koliko minuta bez radnje nakon 'Ekran sata', zaslon kabineta će prijeći u stanje pripravnosti.",
     "delete_account_tips": "Primit ćete e-mail kada svi vaši podaci budu izbrisani iz našeg sustava.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Senzor cijevi za dovod vode"
+    "CL_DV_RF_water_inlet_tube_sensor": "Senzor cijevi za dovod vode",
+    "CL_DV_OV_set_power_watts": "POSTAVLJENA SNAGA (WATI)",
+    "CL_DV_OV_power_90_desc": "Odmrzavanje tijesta punjenog kremom.",
+    "CL_DV_OV_power_180_desc": "Ručno odmrzavanje i omekšavanje maslaca ili sladoleda.",
+    "CL_DV_OV_power_360_desc": "Kuhanje mliječnih proizvoda ili džemova na niskoj temperaturi.",
+    "CL_DV_OV_power_600_desc": "Prikladno za topljenje čokolade, kuhanje ribe i plodova mora, kuhanje sušenog graha na laganoj vatri. Podgrijavanje i kuhanje delikatnih jela na bazi jaja.",
+    "CL_DV_OV_power_750_desc": "Koristite za kuhanje svježeg ili smrznutog povrća.",
+    "CL_DV_OV_power_1000_desc": "Najbolje za brzo podgrijavanje napitaka, vode i jela koja sadrže veliku količinu tekućine ili kuhanje jela s visokim udjelom vode (juhe, umaci itd.).",
+    "CL_DV_OV_microwave_power_levels": "RAZINE MIKROVALNE SNAGE"
 }
