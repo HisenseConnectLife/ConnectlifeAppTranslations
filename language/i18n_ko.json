@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "앰비언트 모드는 거주 공간 분위기에 녹아듭니다. 문이 닫히면 활성화됩니다.",
     "three_standby": "'시계 화면'이 켜진 후 몇 분 동안 아무런 동작이 없으면 캐비닛 디스플레이가 대기 모드로 전환될지 설정합니다.",
     "delete_account_tips": "모든 데이터가 시스템에서 삭제되면 이메일을 받게 됩니다.",
-    "CL_DV_RF_water_inlet_tube_sensor": "물 유입 튜브 센서"
+    "CL_DV_RF_water_inlet_tube_sensor": "물 유입 튜브 센서",
+    "CL_DV_OV_set_power_watts": "전력 설정(와트)",
+    "CL_DV_OV_power_90_desc": "크림이 들어간 페이스트리를 해동하는 중입니다.",
+    "CL_DV_OV_power_180_desc": "버터나 아이스크림을 수동으로 해동하고 부드럽게 만드는 방법.",
+    "CL_DV_OV_power_360_desc": "유제품이나 잼을 낮은 온도에서 조리하는 것.",
+    "CL_DV_OV_power_600_desc": "초콜릿 녹이기, 생선 및 해산물 조리, 말린 콩을 낮은 불에서 조리하는 데 적합합니다. 섬세한 계란 요리의 데우기와 조리에도 적합합니다.",
+    "CL_DV_OV_power_750_desc": "신선한 야채나 냉동 야채를 요리할 때 사용합니다.",
+    "CL_DV_OV_power_1000_desc": "음료, 물, 많은 양의 액체가 담긴 요리 또는 수분 함량이 높은 요리(수프, 소스 등)를 빠르게 데우는 데 가장 적합합니다.",
+    "CL_DV_OV_microwave_power_levels": "마이크로파 전력 레벨"
 }

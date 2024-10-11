@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Modul ambiental se îmbină în atmosfera spațiului de locuit. Acesta va fi activat când ușa este închisă.",
     "three_standby": "Setați după câte minute fără acțiune după „Ecran ceas”, afișajul dulapului va intra în standby.",
     "delete_account_tips": "Veți primi un e-mail când toate datele dumneavoastră sunt șterse din sistemul nostru.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Senzor tub de admisie a apei"
+    "CL_DV_RF_water_inlet_tube_sensor": "Senzor tub de admisie a apei",
+    "CL_DV_OV_set_power_watts": "SETARE PUTEREA (WATI)",
+    "CL_DV_OV_power_90_desc": "Decongelarea produselor de patiserie umplute cu crema.",
+    "CL_DV_OV_power_180_desc": "Decongelare manuală și înmuiere a untului sau a înghețatei.",
+    "CL_DV_OV_power_360_desc": "Gătirea la căldură scăzută a produselor lactate sau a dulcețurilor.",
+    "CL_DV_OV_power_600_desc": "Potrivit pentru topirea ciocolatei, gătitul peștelui și fructelor de mare, gătirea fasolei uscate la foc mic. Reîncălzirea și gătirea mâncărurilor delicate pe bază de ouă.",
+    "CL_DV_OV_power_750_desc": "Utilizați pentru a găti legume proaspete sau congelate.",
+    "CL_DV_OV_power_1000_desc": "Cel mai bun pentru reîncălzirea rapidă a băuturilor, a apei și a vaselor care conțin un volum mare de lichide sau a mâncărurilor de gătit cu conținut ridicat de apă (supe, sosuri etc.).",
+    "CL_DV_OV_microwave_power_levels": "NIVELELE DE PUTEREA CU MICROUNDE"
 }

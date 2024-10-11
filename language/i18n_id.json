@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Mode ambient menyatu dengan suasana ruang keluarga. Mode ini akan aktif saat pintu ditutup.",
     "three_standby": "Diatur setelah berapa menit tidak ada tindakan setelah 'Layar Jam', tampilan kabinet akan masuk ke mode siaga.",
     "delete_account_tips": "Anda akan menerima email saat semua data Anda dihapus dari sistem kami.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Sensor tabung saluran masuk air"
+    "CL_DV_RF_water_inlet_tube_sensor": "Sensor tabung saluran masuk air",
+    "CL_DV_OV_set_power_watts": "Atur Daya (WAT)",
+    "CL_DV_OV_power_90_desc": "Mencairkan kue kering berisi krim.",
+    "CL_DV_OV_power_180_desc": "Pencairan dan pelunakan mentega atau es krim secara manual.",
+    "CL_DV_OV_power_360_desc": "Memasak produk susu atau selai dengan api kecil.",
+    "CL_DV_OV_power_600_desc": "Cocok untuk melelehkan coklat, memasak ikan dan makanan laut, memasak kacang kering dengan api kecil. Memanaskan kembali dan memasak hidangan berbahan dasar telur yang lembut.",
+    "CL_DV_OV_power_750_desc": "Digunakan untuk memasak sayuran segar atau beku.",
+    "CL_DV_OV_power_1000_desc": "Paling cocok untuk memanaskan kembali minuman, air, dan hidangan yang berisi banyak cairan atau memasak hidangan dengan kandungan air tinggi (sup, saus, dan lain-lain).",
+    "CL_DV_OV_microwave_power_levels": "TINGKAT DAYA MICROWAVE"
 }

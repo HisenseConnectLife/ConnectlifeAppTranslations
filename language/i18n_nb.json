@@ -4200,5 +4200,13 @@
     "ambient_mode_msg": "Ambient-modus smelter inn i bomiljøet. Den aktiveres når døren lukkes.",
     "three_standby": "Still inn etter hvor mange minutter uten handling etter 'Klokkeskjerm', displayet på kabinettet vil gå til standby.",
     "delete_account_tips": "Du vil motta en e-post når alle dataene dine er slettet fra systemet vårt.",
-    "CL_DV_RF_water_inlet_tube_sensor": "Vanninntaksrørsensor"
+    "CL_DV_RF_water_inlet_tube_sensor": "Vanninntaksrørsensor",
+    "CL_DV_OV_set_power_watts": "STILLE EFFEKT (WATT)",
+    "CL_DV_OV_power_90_desc": "Tining av kremfylt bakverk.",
+    "CL_DV_OV_power_180_desc": "Manuell tining og mykgjøring av smør eller iskrem.",
+    "CL_DV_OV_power_360_desc": "Lavvarme koking av meieriprodukter eller syltetøy.",
+    "CL_DV_OV_power_600_desc": "Egnet til å smelte sjokolade, tilberede fisk og sjømat, koke tørkede bønner på lav varme. Gjenoppvarming og tilberedning av delikate eggbaserte retter.",
+    "CL_DV_OV_power_750_desc": "Brukes til å tilberede ferske eller frosne grønnsaker.",
+    "CL_DV_OV_power_1000_desc": "Best for rask oppvarming av drikkevarer, vann og retter som inneholder store mengder væske eller tilberedning av retter med høyt vanninnhold (supper, sauser osv.).",
+    "CL_DV_OV_microwave_power_levels": "MIKROBØLGEEFFEKTNIVA"
 }
