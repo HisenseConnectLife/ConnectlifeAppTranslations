@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Nadaje się do topienia czekolady, gotowania ryb i owoców morza, gotowania suszonej fasoli w niskiej temperaturze. Podgrzewania i gotowania delikatnych potraw na bazie jajek.",
     "CL_DV_OV_power_750_desc": "Stosować do gotowania świeżych lub mrożonych warzyw.",
     "CL_DV_OV_power_1000_desc": "Najlepiej nadaje się do szybkiego podgrzewania napojów, wody i potraw zawierających dużą ilość płynu lub do gotowania potraw z dużą zawartością wody (zupy, sosy itp.).",
-    "CL_DV_OV_microwave_power_levels": "POZIOMY MOCY MIKROFALÓWKI"
+    "CL_DV_OV_microwave_power_levels": "POZIOMY MOCY MIKROFALÓWKI",
+    "CL_DV_OV_add_steam": "Dodaj parę",
+    "CL_DV_OV_add_steam_desc": "Ustaw, kiedy para powinna zostać dodana. Możesz dodać do 3 zaplanowanych cykli parowych.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Lato - Zima Czas Automatyczny",
+    "CL_DV_OV_start_cycle_at": "Rozpocznij cykl o",
+    "CL_DV_OV_cycle": "cykl",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Dźwięki powiadomień",
+    "CL_DV_OV_24_navigation_sounds": "Dźwięki nawigacyjne",
+    "CL_DV_OV_24_on_during_use": "Włączone podczas użytkowania"
 }

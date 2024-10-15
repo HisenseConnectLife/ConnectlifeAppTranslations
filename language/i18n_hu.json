@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Alkalmas csokoládé olvasztására, hal és tenger gyümölcsei főzésére, szárított bab főzésére alacsony hőfokon. Finom tojás alapú ételek melegítése és főzése.",
     "CL_DV_OV_power_750_desc": "Friss vagy fagyasztott zöldségek főzésére használható.",
     "CL_DV_OV_power_1000_desc": "Legjobb italok, víz és nagy mennyiségű folyadékot tartalmazó ételek gyors felmelegítésére vagy magas víztartalmú ételek (levesek, szószok stb.) főzésére.",
-    "CL_DV_OV_microwave_power_levels": "MIKROHULLÁMÚ TELJESÍTMÉNYSZINT"
+    "CL_DV_OV_microwave_power_levels": "MIKROHULLÁMÚ TELJESÍTMÉNYSZINT",
+    "CL_DV_OV_add_steam": "Adjunk hozzá gőzt",
+    "CL_DV_OV_add_steam_desc": "Állítsa be, hogy mikor kell hozzáadni a gőzt. Legfeljebb 3 tervezett gőzölési ciklust adhat hozzá.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Nyári - Téli időszámítás Automatikus",
+    "CL_DV_OV_start_cycle_at": "Indítsa el a ciklust a",
+    "CL_DV_OV_cycle": "ciklus",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Értesítési hangok",
+    "CL_DV_OV_24_navigation_sounds": "Navigációs hangok",
+    "CL_DV_OV_24_on_during_use": "Használat közben bekapcsolva"
 }

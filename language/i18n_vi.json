@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Thích hợp để làm tan chảy sô cô la, nấu cá và hải sản, nấu đậu khô ở nhiệt độ thấp. Hâm nóng và nấu các món ăn tinh tế từ trứng.",
     "CL_DV_OV_power_750_desc": "Dùng để nấu rau tươi hoặc rau đông lạnh.",
     "CL_DV_OV_power_1000_desc": "Tốt nhất để hâm nóng nhanh đồ uống, nước và các món ăn chứa nhiều chất lỏng hoặc nấu các món ăn có hàm lượng nước cao (súp, nước sốt, v.v.).",
-    "CL_DV_OV_microwave_power_levels": "MỨC CÔNG SUẤT LÒ VI SÓNG"
+    "CL_DV_OV_microwave_power_levels": "MỨC CÔNG SUẤT LÒ VI SÓNG",
+    "CL_DV_OV_add_steam": "Thêm hơi nước",
+    "CL_DV_OV_add_steam_desc": "Cài đặt thời điểm cần thêm hơi nước. Bạn có thể thêm tối đa 3 chu trình hơi nước theo kế hoạch.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Mùa hè - Mùa đông Tự động",
+    "CL_DV_OV_start_cycle_at": "Bắt đầu chu kỳ tại",
+    "CL_DV_OV_cycle": "xe đạp",
+    "CL_CF_RM_asko_pro_floor": "ASKO Chuyên nghiệp",
+    "CL_DV_OV_24_notification_sounds": "Âm thanh thông báo",
+    "CL_DV_OV_24_navigation_sounds": "Âm thanh dẫn đường",
+    "CL_DV_OV_24_on_during_use": "Bật trong khi sử dụng"
 }

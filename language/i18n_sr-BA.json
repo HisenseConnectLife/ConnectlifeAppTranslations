@@ -1919,8 +1919,8 @@
     "program_mode_time_care_2": "Time Care 2",
     "td22_connect_step1_desc": "Uključite mašinu za sušenje veša.\nDodirnite i držite dugmad \"delay end\" i \"nature dry\" 3 sekunde.\n\"OFF\" će se pojaviti na ekranu.",
     "td22_connect_step2_desc": "Uključite Vi-Fi dodirom dugmeta \"nature dry\".\n\"On\" i Vi-Fi simbol će se pojaviti na ekranu.\nDugme \"start pause\" će početi da treperi.",
-    "td22_connect_step3_desc": "Dodirnite dugme \"start pause\".\n\"Con\" će se pojaviti na ekranu.",
-    "td22_connect_step4_desc": "Potvrdite dugmetom  \"start pause\" .\nVi-Fi simbol će početi da treperi.\nMreža uređaja je otvorena za povezivanje 5 minuta.\nKliknite na DALJE da nastavite.",
+    "td22_connect_step3_desc": "Додирните тастер „start pause“.\n„Con“ ће се појавити на екрану.",
+    "td22_connect_step4_desc": "Потврдите дугметом \"start pause\".\nWi-Fi симбол ће почети да трепери.\nМрежа уређаја је отворена за повезивање 5 минута.\nКликните на ДАЉЕ да наставите.",
     "td22_pair_step1_desc": "Укључите машину за сушење веша.\nДодирните и држите дугмад „delay end“ и „nature dry“ 3 секунде.\n„Con“ ће се појавити на екрану.",
     "td22_pair_step2_desc": "Идите у мени помоћу дугмета „nature dry“ и изаберите режим „PAr“",
     "td22_pair_step3_desc": "Додирните дугме „start pause“ да бисте потврдили режим упаривања.\nКликните на ДАЉЕ да бисте наставили.",
@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Погодно за топљење чоколаде, кување рибе и морских плодова, кување сушеног пасуља на лаганој ватри. Подгревање и кување деликатних јела на бази јаја.",
     "CL_DV_OV_power_750_desc": "Користи се за кување свежег или смрзнутог поврћа.",
     "CL_DV_OV_power_1000_desc": "Најбоље за брзо подгревање напитака, воде и јела која садрже велику количину течности или јела за кување са високим садржајем воде (супе, сосови итд.).",
-    "CL_DV_OV_microwave_power_levels": "НИВОИ СНАГЕ МИКРОТАЛАСНЕ"
+    "CL_DV_OV_microwave_power_levels": "НИВОИ СНАГЕ МИКРОТАЛАСНЕ",
+    "CL_DV_OV_add_steam": "Додајте пару",
+    "CL_DV_OV_add_steam_desc": "Подесите када треба додати пару. Можете додати до 3 планирана циклуса паре.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Летње - Зимско време Аутоматско",
+    "CL_DV_OV_start_cycle_at": "Започни циклус у",
+    "CL_DV_OV_cycle": "циклуса",
+    "CL_CF_RM_asko_pro_floor": "АСКО Про",
+    "CL_DV_OV_24_notification_sounds": "Звукови обавештења",
+    "CL_DV_OV_24_navigation_sounds": "Звукови навигације",
+    "CL_DV_OV_24_on_during_use": "Укључено током употребе"
 }

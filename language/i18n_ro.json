@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Potrivit pentru topirea ciocolatei, gătitul peștelui și fructelor de mare, gătirea fasolei uscate la foc mic. Reîncălzirea și gătirea mâncărurilor delicate pe bază de ouă.",
     "CL_DV_OV_power_750_desc": "Utilizați pentru a găti legume proaspete sau congelate.",
     "CL_DV_OV_power_1000_desc": "Cel mai bun pentru reîncălzirea rapidă a băuturilor, a apei și a vaselor care conțin un volum mare de lichide sau a mâncărurilor de gătit cu conținut ridicat de apă (supe, sosuri etc.).",
-    "CL_DV_OV_microwave_power_levels": "NIVELELE DE PUTEREA CU MICROUNDE"
+    "CL_DV_OV_microwave_power_levels": "NIVELELE DE PUTEREA CU MICROUNDE",
+    "CL_DV_OV_add_steam": "Adăugați abur",
+    "CL_DV_OV_add_steam_desc": "Setați când trebuie adăugat abur. Puteți adăuga până la 3 cicluri de abur planificate.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Vară - Iarnă Automat",
+    "CL_DV_OV_start_cycle_at": "Începeți ciclul la",
+    "CL_DV_OV_cycle": "ciclu",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Sunete de notificare",
+    "CL_DV_OV_24_navigation_sounds": "Sunete de navigare",
+    "CL_DV_OV_24_on_during_use": "Pornit în timpul utilizării"
 }

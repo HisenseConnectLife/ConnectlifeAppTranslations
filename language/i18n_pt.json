@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Adequado para derreter chocolate, cozinhar peixes e frutos do mar, cozinhar feijões secos em fogo baixo. Reaquecer e cozinhar pratos delicados à base de ovos.",
     "CL_DV_OV_power_750_desc": "Use para cozinhar vegetais frescos ou congelados.",
     "CL_DV_OV_power_1000_desc": "Ideal para reaquecer rapidamente bebidas, água e pratos que contenham grande volume de líquido ou cozinhar pratos com alto teor de água (sopas, molhos etc.).",
-    "CL_DV_OV_microwave_power_levels": "NÍVEIS DE POTÊNCIA DO MICROONDAS"
+    "CL_DV_OV_microwave_power_levels": "NÍVEIS DE POTÊNCIA DO MICROONDAS",
+    "CL_DV_OV_add_steam": "Adicionar vapor",
+    "CL_DV_OV_add_steam_desc": "Defina quando o vapor deve ser adicionado. Você pode adicionar até 3 ciclos de vapor planejados.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Horário de verão - inverno Automático",
+    "CL_DV_OV_start_cycle_at": "Iniciar ciclo em",
+    "CL_DV_OV_cycle": "ciclo",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Sons de notificação",
+    "CL_DV_OV_24_navigation_sounds": "Sons de navegação",
+    "CL_DV_OV_24_on_during_use": "Ligado durante o uso"
 }

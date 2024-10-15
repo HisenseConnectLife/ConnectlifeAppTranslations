@@ -4045,7 +4045,7 @@
     "CL_CF_CS_bio24_elements_setup_step2": "Pomaknite se navzdol po meniju z nastavitvami, dokler ne vidite »Povezljivost«. Pritisnite za vstop v meni Povezljivost.",
     "CL_CF_CS_bio24_elements_setup_step3": "Na levi strani pritisnite ''POVEŽI PEČICO''. Ko se odpre meni, pritisnite preklopni gumb na desni, da omogočite Wi-Fi.",
     "CL_CF_CS_bio24_elements_setup_step4": "Prikaže se gumb ''POVEŽI''. Pritisnite na gumb. Zdaj lahko nadaljujete v aplikaciji tako, da tapnete spodnji gumb NAPREJ.",
-    "CL_CF_CS_bio24_elements_pair_step3": "Pritisnite ''POVEŽI UPORABNIKA'' na levi strani. Ko se meni odpre, pritisnite gumb ''PAIR''. Zdaj lahko nadaljujete v aplikaciji tako, da se dotaknete spodnjega gumba NEXT.",
+    "CL_CF_CS_bio24_elements_pair_step3": "Pritisnite na ''CONNECT USER'' na levi strani. Ko se odpre meni, pritisnite gumb ''PAIR''. Zdaj lahko nadaljujete v aplikaciji tako, da pritisnete spodnji gumb NEXT.",
     "CL_DV_RF_scan_login_code_invalid": "Neveljavna QR koda za prijavo!",
     "CL_CF_CS_soft_last_step": "Povežite se z omrežjem \"HIS-xxxx\" v nastavitvah Wi-Fi vašega pametnega telefona. \n\n Zaprite aplikacijo ConnectLife, pojdite v nastavitve WiFi vašega pametnega telefona. Povežite se z omrežjem \"HIS-xxxx\" in se vrnite nazaj v aplikacijo ConnectLife.",
     "CL_DV_RF_view_detail": "Poglej podrobnosti",
@@ -4178,7 +4178,7 @@
     "CL_CF_CS_oven_g_800_cs_3": "Omrežje naprave je zdaj odprto za povezavo 5 minut.\n Za nadaljevanje kliknite NAPREJ.",
     "CL_CF_CS_oven_g_800_p_1": "Napravo nastavite na običajne pogoje delovanja.\n Tapnite ikono menija.",
     "CL_CF_CS_oven_g_800_p_2": "Tapnite ikono Wi-Fi in jo držite približno 6–9 sekund, dokler ne doseže črke »P« na časovnici.",
-    "CL_CF_CS_oven_g_800_p_3": "Naprava je zdaj pripravljena za seznanjanje 3 minute.\n Za nadaljevanje kliknite NAPREJ.",
+    "CL_CF_CS_oven_g_800_p_3": "Naprava je zdaj 3 minute pripravljena za seznanjanje. \nZa nadaljevanje kliknite NEXT.",
     "CL_DV_PIND_update_fail_tip1": "Prišlo je do nepričakovane napake. Posodobitev vdelane programske opreme ni bila uspešna.",
     "CL_DV_PIND_update_fail_tip4": "Prosimo, poskusite znova posodobiti svojo dodatno opremo.",
     "CL_DV_PIND_update_fail_tip2": "Med posodabljanjem imejte svoje naprave blizu.",
@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Primerno za topljenje čokolade, kuhanje rib in morskih sadežev, kuhanje suhega fižola na nizki temperaturi. Pogrevanje in kuhanje občutljivih jedi na osnovi jajc.",
     "CL_DV_OV_power_750_desc": "Uporabljajte za kuhanje sveže ali zamrznjene zelenjave.",
     "CL_DV_OV_power_1000_desc": "Najboljše za hitro segrevanje pijač, vode in jedi z veliko količino tekočine ali kuhanje jedi z visoko vsebnostjo vode (juhe, omake itd.).",
-    "CL_DV_OV_microwave_power_levels": "STOPNJE MOČI MIKROVALOV"
+    "CL_DV_OV_microwave_power_levels": "STOPNJE MOČI MIKROVALOV",
+    "CL_DV_OV_add_steam": "Dodajte paro",
+    "CL_DV_OV_add_steam_desc": "Nastavite, kdaj je treba dodati paro. Dodate lahko do 3 načrtovane parne cikle.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Poletni - zimski čas Samodejno",
+    "CL_DV_OV_start_cycle_at": "Začnite cikel ob",
+    "CL_DV_OV_cycle": "cikel",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Zvoki obvestil",
+    "CL_DV_OV_24_navigation_sounds": "Zvoki navigacije",
+    "CL_DV_OV_24_on_during_use": "Vklopljen med uporabo"
 }
