@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Sesuai untuk mencairkan coklat, memasak ikan dan makanan laut, memasak kacang kering dengan api perlahan.Memanaskan semula dan memasak hidangan berasaskan telur yang halus.",
     "CL_DV_OV_power_750_desc": "Gunakan untuk memasak sayur-sayuran segar atau beku.",
     "CL_DV_OV_power_1000_desc": "Terbaik untuk memanaskan semula minuman, air dan hidangan yang mengandungi sejumlah besar cecair atau hidangan memasak dengan kandungan air yang tinggi (sup, sos dll.).",
-    "CL_DV_OV_microwave_power_levels": "TAHAP KUASA GELOMBANG MIKRO"
+    "CL_DV_OV_microwave_power_levels": "TAHAP KUASA GELOMBANG MIKRO",
+    "CL_DV_OV_add_steam": "Tambah wap",
+    "CL_DV_OV_add_steam_desc": "Tetapkan apabila wap perlu ditambah. Anda boleh menambah sehingga 3 kitaran wap yang dirancang.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Musim Panas - Waktu musim sejuk Automatik",
+    "CL_DV_OV_start_cycle_at": "Mulakan kitaran di",
+    "CL_DV_OV_cycle": "kitaran",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Bunyi pemberitahuan",
+    "CL_DV_OV_24_navigation_sounds": "Bunyi navigasi",
+    "CL_DV_OV_24_on_during_use": "Hidup semasa digunakan"
 }

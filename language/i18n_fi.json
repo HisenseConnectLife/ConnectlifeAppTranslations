@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Soveltuu suklaan sulattamiseen, kalan ja äyriäisten kypsentämiseen, kuivattujen papujen kypsentämiseen alhaisella lämmöllä. Herkkien munapohjaisten ruokien lämmitykseen ja kypsentämiseen.",
     "CL_DV_OV_power_750_desc": "Käytä tuoreiden tai pakastevihanneksien kypsentämiseen.",
     "CL_DV_OV_power_1000_desc": "Paras juomien, veden ja runsaasti nestettä sisältävien ruokien tai runsaasti vettä sisältävien ruokien (keitot, kastikkeet jne.) nopeaan lämmittämiseen.",
-    "CL_DV_OV_microwave_power_levels": "MIKROAALTOTEHOTASOT"
+    "CL_DV_OV_microwave_power_levels": "MIKROAALTOTEHOTASOT",
+    "CL_DV_OV_add_steam": "Lisää höyryä",
+    "CL_DV_OV_add_steam_desc": "Aseta, milloin höyryä tulee lisätä. Voit lisätä enintään 3 suunniteltua höyrytysjaksoa.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Kesä - Talviaika Automaattinen",
+    "CL_DV_OV_start_cycle_at": "Aloita sykli klo",
+    "CL_DV_OV_cycle": "sykli",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Ilmoitusäänet",
+    "CL_DV_OV_24_navigation_sounds": "Navigointiäänet",
+    "CL_DV_OV_24_on_during_use": "Käytössä käytössä"
 }

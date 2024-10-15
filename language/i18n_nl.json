@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Geschikt voor het smelten van chocolade, het koken van vis en zeevruchten, het koken van gedroogde bonen op lage temperatuur. Opwarmen en koken van delicate gerechten op basis van eieren.",
     "CL_DV_OV_power_750_desc": "Voor het koken van verse of diepvriesgroenten.",
     "CL_DV_OV_power_1000_desc": "Ideaal voor het snel opwarmen van dranken, water en gerechten met een grote hoeveelheid vloeistof of voor het koken van gerechten met een hoog watergehalte (soepen, sauzen, enz.).",
-    "CL_DV_OV_microwave_power_levels": "MAGNETRONVERMOGENSNIVEAUS"
+    "CL_DV_OV_microwave_power_levels": "MAGNETRONVERMOGENSNIVEAUS",
+    "CL_DV_OV_add_steam": "Voeg stoom toe",
+    "CL_DV_OV_add_steam_desc": "Stel in wanneer stoom moet worden toegevoegd. U kunt maximaal 3 geplande stoomcycli toevoegen.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Zomer - Wintertijd Automatisch",
+    "CL_DV_OV_start_cycle_at": "Start cyclus bij",
+    "CL_DV_OV_cycle": "cyclus",
+    "CL_CF_RM_asko_pro_floor": "ASKO-Pro",
+    "CL_DV_OV_24_notification_sounds": "Meldingsgeluiden",
+    "CL_DV_OV_24_navigation_sounds": "Navigatiegeluiden",
+    "CL_DV_OV_24_on_during_use": "Aan tijdens gebruik"
 }

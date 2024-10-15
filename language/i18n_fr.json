@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Convient pour faire fondre le chocolat, cuire le poisson et les fruits de mer, cuire les haricots secs à feu doux. Réchauffer et cuire des plats délicats à base d'œufs.",
     "CL_DV_OV_power_750_desc": "Utiliser pour la cuisson de légumes frais ou surgelés.",
     "CL_DV_OV_power_1000_desc": "Idéal pour réchauffer rapidement des boissons, de l'eau et des plats contenant un grand volume de liquide ou pour cuire des plats à forte teneur en eau (soupes, sauces, etc.).",
-    "CL_DV_OV_microwave_power_levels": "NIVEAUX DE PUISSANCE DU MICRO-ONDES"
+    "CL_DV_OV_microwave_power_levels": "NIVEAUX DE PUISSANCE DU MICRO-ONDES",
+    "CL_DV_OV_add_steam": "Ajouter de la vapeur",
+    "CL_DV_OV_add_steam_desc": "Définissez le moment où la vapeur doit être ajoutée. Vous pouvez ajouter jusqu'à 3 cycles de vapeur planifiés.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Heure d'été - Heure d'hiver Automatique",
+    "CL_DV_OV_start_cycle_at": "Démarrer le cycle à",
+    "CL_DV_OV_cycle": "faire du vélo",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Sons de notification",
+    "CL_DV_OV_24_navigation_sounds": "Sons de navigation",
+    "CL_DV_OV_24_on_during_use": "Allumé pendant l'utilisation"
 }

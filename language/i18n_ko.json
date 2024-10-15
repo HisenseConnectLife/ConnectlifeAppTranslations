@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "초콜릿 녹이기, 생선 및 해산물 조리, 말린 콩을 낮은 불에서 조리하는 데 적합합니다. 섬세한 계란 요리의 데우기와 조리에도 적합합니다.",
     "CL_DV_OV_power_750_desc": "신선한 야채나 냉동 야채를 요리할 때 사용합니다.",
     "CL_DV_OV_power_1000_desc": "음료, 물, 많은 양의 액체가 담긴 요리 또는 수분 함량이 높은 요리(수프, 소스 등)를 빠르게 데우는 데 가장 적합합니다.",
-    "CL_DV_OV_microwave_power_levels": "마이크로파 전력 레벨"
+    "CL_DV_OV_microwave_power_levels": "마이크로파 전력 레벨",
+    "CL_DV_OV_add_steam": "스팀 추가",
+    "CL_DV_OV_add_steam_desc": "스팀을 추가할 시기를 설정합니다. 최대 3개의 계획된 스팀 사이클을 추가할 수 있습니다.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "여름 - 겨울 시간 자동",
+    "CL_DV_OV_start_cycle_at": "사이클 시작",
+    "CL_DV_OV_cycle": "주기",
+    "CL_CF_RM_asko_pro_floor": "아스코 프로",
+    "CL_DV_OV_24_notification_sounds": "알림음",
+    "CL_DV_OV_24_navigation_sounds": "항해 소리",
+    "CL_DV_OV_24_on_during_use": "사용 중 켜짐"
 }

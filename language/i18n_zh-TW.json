@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "適合融化巧克力、烹飪魚類和海鮮、低火烹飪乾豆。",
     "CL_DV_OV_power_750_desc": "用於烹飪新鮮或冷凍蔬菜。",
     "CL_DV_OV_power_1000_desc": "最適合快速加熱飲料、水和含有大量液體的菜餚或烹飪含水量高的菜餚（湯、醬汁等）。",
-    "CL_DV_OV_microwave_power_levels": "微波功率等級"
+    "CL_DV_OV_microwave_power_levels": "微波功率等級",
+    "CL_DV_OV_add_steam": "添加蒸汽",
+    "CL_DV_OV_add_steam_desc": "設定何時應添加蒸氣。您最多可以添加 3 個計劃的蒸氣循環。",
+    "CL_DV_OV_24_summer_winter_time_automatic": "夏季 - 冬季時間 自動",
+    "CL_DV_OV_start_cycle_at": "循環開始於",
+    "CL_DV_OV_cycle": "循環",
+    "CL_CF_RM_asko_pro_floor": "ASKO專業版",
+    "CL_DV_OV_24_notification_sounds": "通知聲音",
+    "CL_DV_OV_24_navigation_sounds": "導航聲音",
+    "CL_DV_OV_24_on_during_use": "使用期間開啟"
 }

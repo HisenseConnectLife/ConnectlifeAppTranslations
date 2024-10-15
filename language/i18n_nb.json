@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Egnet til å smelte sjokolade, tilberede fisk og sjømat, koke tørkede bønner på lav varme. Gjenoppvarming og tilberedning av delikate eggbaserte retter.",
     "CL_DV_OV_power_750_desc": "Brukes til å tilberede ferske eller frosne grønnsaker.",
     "CL_DV_OV_power_1000_desc": "Best for rask oppvarming av drikkevarer, vann og retter som inneholder store mengder væske eller tilberedning av retter med høyt vanninnhold (supper, sauser osv.).",
-    "CL_DV_OV_microwave_power_levels": "MIKROBØLGEEFFEKTNIVA"
+    "CL_DV_OV_microwave_power_levels": "MIKROBØLGEEFFEKTNIVA",
+    "CL_DV_OV_add_steam": "Tilsett damp",
+    "CL_DV_OV_add_steam_desc": "Still inn når damp skal tilsettes. Du kan legge til opptil 3 planlagte dampsykluser.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Sommer - vintertid Automatisk",
+    "CL_DV_OV_start_cycle_at": "Start syklus kl",
+    "CL_DV_OV_cycle": "syklus",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Varslingslyder",
+    "CL_DV_OV_24_navigation_sounds": "Navigasjonslyder",
+    "CL_DV_OV_24_on_during_use": "På under bruk"
 }

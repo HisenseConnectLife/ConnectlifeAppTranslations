@@ -764,7 +764,7 @@
     "position": "POSITION",
     "expiry_date": "Udløbsdato",
     "item_photo": "VAREFOTO",
-    "send_to_shopping_list": "SEND TIL   INDKØBSLISTE",
+    "send_to_shopping_list": "SEND TIL INDKØBSLISTE",
     "hisrf_exit_eco_mode": "Manuel temperaturjustering Afslut ECO-tilstand",
     "hisrf_exit_holiday_mode": "Manuel temperaturjustering Afslut ferietilstand",
     "hisrf_exit_super_freeze_mode": "Manuel temperaturjustering Afslut Super Freeze-tilstand",
@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Velegnet til smeltning af chokolade, tilberedning af fisk og skaldyr, tilberedning af tørrede bønner ved lav varme. Genopvarmning og tilberedning af delikate ægbaserede retter.",
     "CL_DV_OV_power_750_desc": "Bruges til tilberedning af friske eller frosne grøntsager.",
     "CL_DV_OV_power_1000_desc": "Bedst til hurtig genopvarmning af drikkevarer, vand og retter indeholdende en stor mængde væske eller til madlavning af retter med højt vandindhold (supper, saucer osv.).",
-    "CL_DV_OV_microwave_power_levels": "MIKROBØLGEEFFEKT NIVEAUER"
+    "CL_DV_OV_microwave_power_levels": "MIKROBØLGEEFFEKT NIVEAUER",
+    "CL_DV_OV_add_steam": "Tilsæt damp",
+    "CL_DV_OV_add_steam_desc": "Indstil hvornår der skal tilsættes damp. Du kan tilføje op til 3 planlagte dampcyklusser.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Sommer - vintertid Automatisk",
+    "CL_DV_OV_start_cycle_at": "Start cyklus kl",
+    "CL_DV_OV_cycle": "cyklus",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Besked lyder",
+    "CL_DV_OV_24_navigation_sounds": "Navigationslyde",
+    "CL_DV_OV_24_on_during_use": "Tændt under brug"
 }

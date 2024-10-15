@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Vhodné pro rozpouštění čokolády, vaření ryb a mořských plodů, vaření sušených fazolí při nízké teplotě. Ohřívání a vaření jemných pokrmů na bázi vajec.",
     "CL_DV_OV_power_750_desc": "Použijte k vaření čerstvé nebo mražené zeleniny.",
     "CL_DV_OV_power_1000_desc": "Nejlepší pro rychlý ohřev nápojů, vody a nádobí s velkým objemem tekutin nebo vaření pokrmů s vysokým obsahem vody (polévky, omáčky atd.).",
-    "CL_DV_OV_microwave_power_levels": "ÚROVNĚ VÝKONU MIKROVLN"
+    "CL_DV_OV_microwave_power_levels": "ÚROVNĚ VÝKONU MIKROVLN",
+    "CL_DV_OV_add_steam": "Přidejte páru",
+    "CL_DV_OV_add_steam_desc": "Nastavte, kdy má být přidána pára. Můžete přidat až 3 plánované parní cykly.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Letní - Zimní čas Automaticky",
+    "CL_DV_OV_start_cycle_at": "Spustit cyklus v",
+    "CL_DV_OV_cycle": "cyklus",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Zvuky upozornění",
+    "CL_DV_OV_24_navigation_sounds": "Zvuky navigace",
+    "CL_DV_OV_24_on_during_use": "Zapnuto během používání"
 }

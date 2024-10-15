@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "מתאים להמסת שוקולד, בישול דגים ופירות ים, בישול שעועית יבשה בחום נמוך.חימום ובישול של תבשילים עדינים על בסיס ביצים.",
     "CL_DV_OV_power_750_desc": "השתמש לבישול ירקות טריים או קפואים.",
     "CL_DV_OV_power_1000_desc": "הטוב ביותר לחימום מהיר של משקאות, מים וכלים המכילים נפח גדול של נוזלים או מנות בישול עם תכולת מים גבוהה (מרקים, רטבים וכו').",
-    "CL_DV_OV_microwave_power_levels": "רמות כוח במיקרוגל"
+    "CL_DV_OV_microwave_power_levels": "רמות כוח במיקרוגל",
+    "CL_DV_OV_add_steam": "הוסף קיטור",
+    "CL_DV_OV_add_steam_desc": "קבע מתי יש להוסיף אדים. ניתן להוסיף עד 3 מחזורי קיטור מתוכננים.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "קיץ - שעון חורף אוטומטי",
+    "CL_DV_OV_start_cycle_at": "התחל מחזור ב",
+    "CL_DV_OV_cycle": "מַחזוֹר",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "נשמע הודעה",
+    "CL_DV_OV_24_navigation_sounds": "צלילי ניווט",
+    "CL_DV_OV_24_on_during_use": "דולק במהלך השימוש"
 }

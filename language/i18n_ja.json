@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "チョコレートを溶かしたり、魚介類を調理したり、乾燥豆を弱火で調理したりするのに適しています。デリケートな卵料理の再加熱や調理にも最適です。",
     "CL_DV_OV_power_750_desc": "新鮮な野菜や冷凍野菜の調理に使用します。",
     "CL_DV_OV_power_1000_desc": "大量の液体を含む飲み物、水、料理を素早く温めたり、水分の多い料理（スープ、ソースなど）を調理するのに最適です。",
-    "CL_DV_OV_microwave_power_levels": "マイクロ波電力レベル"
+    "CL_DV_OV_microwave_power_levels": "マイクロ波電力レベル",
+    "CL_DV_OV_add_steam": "蒸気を加える",
+    "CL_DV_OV_add_steam_desc": "蒸気を追加するタイミングを設定します。計画された蒸気サイクルを最大 3 つまで追加できます。",
+    "CL_DV_OV_24_summer_winter_time_automatic": "夏 - 冬時間 自動",
+    "CL_DV_OV_start_cycle_at": "サイクル開始時刻",
+    "CL_DV_OV_cycle": "サイクル",
+    "CL_CF_RM_asko_pro_floor": "ASKOプロ",
+    "CL_DV_OV_24_notification_sounds": "通知音",
+    "CL_DV_OV_24_navigation_sounds": "ナビゲーションサウンド",
+    "CL_DV_OV_24_on_during_use": "使用中にオン"
 }

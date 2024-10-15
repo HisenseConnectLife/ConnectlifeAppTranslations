@@ -4208,5 +4208,14 @@
     "CL_DV_OV_power_600_desc": "Lämplig för att smälta choklad, laga fisk och skaldjur, koka torkade bönor på låg värme. Uppvärmning och tillagning av ömtåliga äggbaserade rätter.",
     "CL_DV_OV_power_750_desc": "Använd för tillagning av färska eller frysta grönsaker.",
     "CL_DV_OV_power_1000_desc": "Bäst för att snabbt värma upp drycker, vatten och rätter som innehåller en stor volym vätska eller tillagning av rätter med hög vattenhalt (soppor, såser etc.).",
-    "CL_DV_OV_microwave_power_levels": "MIKROVÅGSEFFEKTNIVÅER"
+    "CL_DV_OV_microwave_power_levels": "MIKROVÅGSEFFEKTNIVÅER",
+    "CL_DV_OV_add_steam": "Tillsätt ånga",
+    "CL_DV_OV_add_steam_desc": "Ställ in när ånga ska tillsättas. Du kan lägga till upp till 3 planerade ångcykler.",
+    "CL_DV_OV_24_summer_winter_time_automatic": "Sommar - vintertid Automatisk",
+    "CL_DV_OV_start_cycle_at": "Starta cykeln kl",
+    "CL_DV_OV_cycle": "cykel",
+    "CL_CF_RM_asko_pro_floor": "ASKO Pro",
+    "CL_DV_OV_24_notification_sounds": "Aviseringsljud",
+    "CL_DV_OV_24_navigation_sounds": "Navigationsljud",
+    "CL_DV_OV_24_on_during_use": "På under användning"
 }
