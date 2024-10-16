@@ -4169,16 +4169,16 @@
     "CL_DV_WM_pump_clean_how_to_use_1": "1. Izpraznite in napolnite predel z vodo, preden aktivirate funkcijo čiščenja črpalke.",
     "CL_DV_WM_pump_clean_how_to_use_2": "2. Aktivirajte funkcijo čiščenja črpalke s strani stroja.",
     "CL_DV_WM_pump_clean_when_to_use": "Kdaj uporabiti?",
-    "CL_DV_WM_pump_clean_when_to_use_1": "1. Če želite zamenjati vsebino predelka za \"mehčalec\", se prepričajte, da je prazen, in pred naslednjo uporabo zaženite funkcijo čiščenja črpalke. ",
+    "CL_DV_WM_pump_clean_when_to_use_1": "1.Če želite spremeniti vsebino v predalu za mehčalce, se prepričajte, da je prazen in pred naslednjo uporabo zaženite funkcijo čiščenja črpalke. ",
     "CL_DV_WM_pump_clean_when_to_use_2": "2. Več kot pol leta niste očistili črpalke, lahko aktivirate funkcijo čiščenja črpalke.",
     "CL_DV_WM_standard_auto_does_key": "STANDARDNA AVTODOZA",
     "CL_DV_WM_compartment_in_use_key": "PREDAL V UPORABI",
     "CL_CF_CS_oven_g_800_cs_1": "Napravo nastavite na običajne pogoje delovanja.\n Tapnite ikono menija.",
     "CL_CF_CS_oven_g_800_cs_2": "Tapnite ikono Wi-Fi in jo držite približno 3-6 sekund, dokler ne doseže \"C\" na časovni premici.",
     "CL_CF_CS_oven_g_800_cs_3": "Omrežje naprave je zdaj odprto za povezavo 5 minut.\n Za nadaljevanje kliknite NAPREJ.",
-    "CL_CF_CS_oven_g_800_p_1": "Napravo nastavite na običajne pogoje delovanja.\n Tapnite ikono menija.",
-    "CL_CF_CS_oven_g_800_p_2": "Tapnite ikono Wi-Fi in jo držite približno 6–9 sekund, dokler ne doseže črke »P« na časovnici.",
-    "CL_CF_CS_oven_g_800_p_3": "Naprava je zdaj 3 minute pripravljena za seznanjanje. \nZa nadaljevanje kliknite NEXT.",
+    "CL_CF_CS_oven_g_800_p_1": "Napravo nastavite na normalne pogoje delovanja.\nDotaknite se ikone menija.",
+    "CL_CF_CS_oven_g_800_p_2": "Dotaknite se in držite ikono Wi-Fi približno 6-9 sekund, dokler ne doseže »P« na časovnici.",
+    "CL_CF_CS_oven_g_800_p_3": "Naprava je zdaj pripravljena za seznanjanje 3 minute. Za nadaljevanje kliknite NAPREJ.",
     "CL_DV_PIND_update_fail_tip1": "Prišlo je do nepričakovane napake. Posodobitev vdelane programske opreme ni bila uspešna.",
     "CL_DV_PIND_update_fail_tip4": "Prosimo, poskusite znova posodobiti svojo dodatno opremo.",
     "CL_DV_PIND_update_fail_tip2": "Med posodabljanjem imejte svoje naprave blizu.",
@@ -4217,5 +4217,6 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Zvoki obvestil",
     "CL_DV_OV_24_navigation_sounds": "Zvoki navigacije",
-    "CL_DV_OV_24_on_during_use": "Vklopljen med uporabo"
+    "CL_DV_OV_24_on_during_use": "Vklopljen med uporabo",
+    "tips_key": "Nasveti"
 }
