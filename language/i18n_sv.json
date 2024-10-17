@@ -4230,5 +4230,8 @@
     "p_check_email": "Kontrollera din e-post",
     "CL_CF_FM_storage_appliance": "Förvaringsapparat",
     "storage_appliance": "FÖRVARINGSAPPARAT",
-    "CL_CF_FM_quickly_select_food": "Välj snabbt ut befintlig mat i kylskåpet"
+    "CL_CF_FM_quickly_select_food": "Välj snabbt ut befintlig mat i kylskåpet",
+    "CL_CF_FM_add_selected_items_to_ref": "LÄGG TILL VALDA ARTIKLAR TILL REF",
+    "CL_CF_FM_skip_to_library": "HOPPA TILL BIBLIOTEKET",
+    "sch_name": "Schemaläggarens NAMN"
 }

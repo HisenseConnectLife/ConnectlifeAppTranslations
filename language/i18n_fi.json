@@ -4230,5 +4230,8 @@
     "p_check_email": "Tarkista sähköpostisi",
     "CL_CF_FM_storage_appliance": "Säilytyslaite",
     "storage_appliance": "SÄILYTYSLAITE",
-    "CL_CF_FM_quickly_select_food": "Valitse jääkaapissa oleva ruoka nopeasti"
+    "CL_CF_FM_quickly_select_food": "Valitse jääkaapissa oleva ruoka nopeasti",
+    "CL_CF_FM_add_selected_items_to_ref": "LISÄÄ VALITUT KOHTEET VIITEESEEN",
+    "CL_CF_FM_skip_to_library": "SIIRRY KIRJASTOON",
+    "sch_name": "AIKATAULUJA NIMI"
 }

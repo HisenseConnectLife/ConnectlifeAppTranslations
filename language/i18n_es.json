@@ -4230,5 +4230,8 @@
     "p_check_email": "Por favor revise su correo electrónico",
     "CL_CF_FM_storage_appliance": "Dispositivo de almacenamiento",
     "storage_appliance": "APARATO DE ALMACENAMIENTO",
-    "CL_CF_FM_quickly_select_food": "Seleccione rápidamente los alimentos existentes en el refrigerador"
+    "CL_CF_FM_quickly_select_food": "Seleccione rápidamente los alimentos existentes en el refrigerador",
+    "CL_CF_FM_add_selected_items_to_ref": "AGREGAR ARTÍCULOS SELECCIONADOS A LA REFERENCIA",
+    "CL_CF_FM_skip_to_library": "IR A LA BIBLIOTECA",
+    "sch_name": "NOMBRE DEL PROGRAMADOR"
 }

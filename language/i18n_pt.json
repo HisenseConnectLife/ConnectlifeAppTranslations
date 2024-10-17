@@ -4230,5 +4230,8 @@
     "p_check_email": "Por favor, verifique seu e-mail",
     "CL_CF_FM_storage_appliance": "Dispositivo de armazenamento",
     "storage_appliance": "APARELHO DE ARMAZENAMENTO",
-    "CL_CF_FM_quickly_select_food": "Selecione rapidamente os alimentos existentes na geladeira"
+    "CL_CF_FM_quickly_select_food": "Selecione rapidamente os alimentos existentes na geladeira",
+    "CL_CF_FM_add_selected_items_to_ref": "ADICIONE ITENS SELECIONADOS À REF.",
+    "CL_CF_FM_skip_to_library": "PULAR PARA A BIBLIOTECA",
+    "sch_name": "NOME DO AGENDADOR"
 }

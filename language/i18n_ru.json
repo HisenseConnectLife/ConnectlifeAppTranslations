@@ -4230,5 +4230,8 @@
     "p_check_email": "Пожалуйста, проверьте свою электронную почту.",
     "CL_CF_FM_storage_appliance": "Устройство для хранения",
     "storage_appliance": "УСТРОЙСТВО ДЛЯ ХРАНЕНИЯ",
-    "CL_CF_FM_quickly_select_food": "Быстро выберите имеющуюся еду в холодильнике"
+    "CL_CF_FM_quickly_select_food": "Быстро выберите имеющуюся еду в холодильнике",
+    "CL_CF_FM_add_selected_items_to_ref": "ДОБАВИТЬ ВЫБРАННЫЕ ЭЛЕМЕНТЫ В ССЫЛКУ",
+    "CL_CF_FM_skip_to_library": "ПЕРЕЙТИ В БИБЛИОТЕКУ",
+    "sch_name": "ИМЯ ПЛАНИРОВЩИКА"
 }

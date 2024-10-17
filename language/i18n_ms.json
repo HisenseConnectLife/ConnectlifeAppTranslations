@@ -4230,5 +4230,8 @@
     "p_check_email": "Sila semak e-mel anda",
     "CL_CF_FM_storage_appliance": "Perkakas Penyimpanan",
     "storage_appliance": "PERKAKAS PENYIMPANAN",
-    "CL_CF_FM_quickly_select_food": "Cepat pilih makanan sedia ada di dalam peti sejuk"
+    "CL_CF_FM_quickly_select_food": "Cepat pilih makanan sedia ada di dalam peti sejuk",
+    "CL_CF_FM_add_selected_items_to_ref": "TAMBAHKAN ITEM PILIHAN KE RUJUKAN",
+    "CL_CF_FM_skip_to_library": "LANGKAH KE PERPUSTAKAAN",
+    "sch_name": "NAMA PENJADUAL"
 }
