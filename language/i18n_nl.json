@@ -4230,5 +4230,8 @@
     "p_check_email": "Controleer uw e-mail",
     "CL_CF_FM_storage_appliance": "Opslagapparaat",
     "storage_appliance": "OPSLAGAPPARAAT",
-    "CL_CF_FM_quickly_select_food": "Selecteer snel bestaand voedsel in de koelkast"
+    "CL_CF_FM_quickly_select_food": "Selecteer snel bestaand voedsel in de koelkast",
+    "CL_CF_FM_add_selected_items_to_ref": "GESELECTEERDE ITEMS TOEVOEGEN AAN REF",
+    "CL_CF_FM_skip_to_library": "GA NAAR DE BIBLIOTHEEK",
+    "sch_name": "NAAM VAN DE PLANNER"
 }

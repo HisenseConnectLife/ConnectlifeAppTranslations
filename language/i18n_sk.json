@@ -4230,5 +4230,8 @@
     "p_check_email": "Skontrolujte svoj e-mail",
     "CL_CF_FM_storage_appliance": "Úložné zariadenie",
     "storage_appliance": "SKLADOVACIE ZARIADENIE",
-    "CL_CF_FM_quickly_select_food": "Rýchlo vyberte existujúce potraviny v chladničke"
+    "CL_CF_FM_quickly_select_food": "Rýchlo vyberte existujúce potraviny v chladničke",
+    "CL_CF_FM_add_selected_items_to_ref": "PRIDAJTE VYBRANÉ POLOŽKY K REF",
+    "CL_CF_FM_skip_to_library": "PRESKOČIŤ DO KNIŽNICE",
+    "sch_name": "NÁZOV PLÁNOVAČA"
 }

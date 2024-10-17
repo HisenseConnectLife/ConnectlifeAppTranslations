@@ -4230,5 +4230,8 @@
     "p_check_email": "Provjerite svoju e-poštu",
     "CL_CF_FM_storage_appliance": "Uređaj za pohranu",
     "storage_appliance": "UREĐAJ ZA SKLADIŠTENJE",
-    "CL_CF_FM_quickly_select_food": "Brzo odaberite postojeću hranu u hladnjaku"
+    "CL_CF_FM_quickly_select_food": "Brzo odaberite postojeću hranu u hladnjaku",
+    "CL_CF_FM_add_selected_items_to_ref": "DODAJTE ODABRANE STAVKE REF",
+    "CL_CF_FM_skip_to_library": "PRESKOČITE DO KNJIŽNICE",
+    "sch_name": "NAZIV RASPOREDNIKA"
 }

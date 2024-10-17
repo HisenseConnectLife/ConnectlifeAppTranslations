@@ -4230,5 +4230,8 @@
     "p_check_email": "이메일을 확인해 주세요",
     "CL_CF_FM_storage_appliance": "저장 장치",
     "storage_appliance": "저장 기기",
-    "CL_CF_FM_quickly_select_food": "냉장고에 있는 기존 식품을 빠르게 선택하세요"
+    "CL_CF_FM_quickly_select_food": "냉장고에 있는 기존 식품을 빠르게 선택하세요",
+    "CL_CF_FM_add_selected_items_to_ref": "선택한 항목을 참조에 추가",
+    "CL_CF_FM_skip_to_library": "라이브러리로 건너뛰기",
+    "sch_name": "스케줄러 이름"
 }

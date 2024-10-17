@@ -4230,5 +4230,8 @@
     "p_check_email": "Lütfen e-postanızı kontrol edin",
     "CL_CF_FM_storage_appliance": "Depolama Cihazı",
     "storage_appliance": "DEPOLAMA CİHAZI",
-    "CL_CF_FM_quickly_select_food": "Buzdolabında bulunan yiyecekleri hızlıca seçin"
+    "CL_CF_FM_quickly_select_food": "Buzdolabında bulunan yiyecekleri hızlıca seçin",
+    "CL_CF_FM_add_selected_items_to_ref": "SEÇİLEN ÖĞELERİ REFERANS'A EKLEYİN",
+    "CL_CF_FM_skip_to_library": "KÜTÜPHANEYE GİT",
+    "sch_name": "PROGRAMLAYICI ADI"
 }

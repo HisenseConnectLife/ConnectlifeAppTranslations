@@ -4230,5 +4230,8 @@
     "p_check_email": "Ве молиме проверете ја вашата е-пошта",
     "CL_CF_FM_storage_appliance": "Апарат за складирање",
     "storage_appliance": "АПАРАТ ЗА СКЛАДИРАЊЕ",
-    "CL_CF_FM_quickly_select_food": "Брзо изберете ја постоечката храна во фрижидерот"
+    "CL_CF_FM_quickly_select_food": "Брзо изберете ја постоечката храна во фрижидерот",
+    "CL_CF_FM_add_selected_items_to_ref": "ДОДАЈ ГИ ИЗБРАНИ СТАВКИ НА РЕФ",
+    "CL_CF_FM_skip_to_library": "СКОКНИ ДО БИБЛИОТЕКАТА",
+    "sch_name": "ИМЕ НА РАСПОРЕДОТ"
 }

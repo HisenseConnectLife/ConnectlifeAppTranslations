@@ -4230,5 +4230,8 @@
     "p_check_email": "Vennligst sjekk e-posten din",
     "CL_CF_FM_storage_appliance": "Oppbevaringsapparat",
     "storage_appliance": "OPPBEVARINGSAPPARAT",
-    "CL_CF_FM_quickly_select_food": "Velg raskt eksisterende mat i kjøleskapet"
+    "CL_CF_FM_quickly_select_food": "Velg raskt eksisterende mat i kjøleskapet",
+    "CL_CF_FM_add_selected_items_to_ref": "LEGG TIL UTVALGTE ELEMENTER TIL REF",
+    "CL_CF_FM_skip_to_library": "HOPPE TIL BIBLIOTEKET",
+    "sch_name": "PLANLEGGERS NAVN"
 }
