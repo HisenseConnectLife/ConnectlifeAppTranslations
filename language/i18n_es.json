@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "capucha",
     "CL_DV_RF_food_inventory": "Inventario de alimentos",
     "p_check_email": "Por favor revise su correo electrónico",
-    "CL_DV_RF_storage_appliance": "Dispositivo de almacenamiento"
+    "CL_DV_RF_storage_appliance": "Dispositivo de almacenamiento",
+    "storage_appliance": "APARATO DE ALMACENAMIENTO"
 }

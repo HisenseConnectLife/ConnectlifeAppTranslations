@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "kap",
     "CL_DV_RF_food_inventory": "Voedselinventaris",
     "p_check_email": "Controleer uw e-mail",
-    "CL_DV_RF_storage_appliance": "Opslagapparaat"
+    "CL_DV_RF_storage_appliance": "Opslagapparaat",
+    "storage_appliance": "OPSLAGAPPARAAT"
 }

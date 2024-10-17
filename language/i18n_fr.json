@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "capot",
     "CL_DV_RF_food_inventory": "Inventaire des aliments",
     "p_check_email": "Veuillez vérifier votre email",
-    "CL_DV_RF_storage_appliance": "Appareil de stockage"
+    "CL_DV_RF_storage_appliance": "Appareil de stockage",
+    "storage_appliance": "APPAREIL DE STOCKAGE"
 }

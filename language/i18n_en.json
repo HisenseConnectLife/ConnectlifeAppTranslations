@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "hood",
     "CL_DV_RF_food_inventory": "Food Inventory",
     "p_check_email": "Please check your email",
-    "CL_DV_RF_storage_appliance": "Storage Appliance"
+    "CL_DV_RF_storage_appliance": "Storage Appliance",
+    "storage_appliance": "STORAGE APPLIANCE"
 }

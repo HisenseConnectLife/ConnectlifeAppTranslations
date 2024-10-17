@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "کاپوت",
     "CL_DV_RF_food_inventory": "موجودی مواد غذایی",
     "p_check_email": "لطفا ایمیل خود را بررسی کنید",
-    "CL_DV_RF_storage_appliance": "لوازم ذخیره سازی"
+    "CL_DV_RF_storage_appliance": "لوازم ذخیره سازی",
+    "storage_appliance": "دستگاه ذخیره سازی"
 }

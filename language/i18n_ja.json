@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "フード",
     "CL_DV_RF_food_inventory": "食品在庫",
     "p_check_email": "メールを確認してください",
-    "CL_DV_RF_storage_appliance": "ストレージアプライアンス"
+    "CL_DV_RF_storage_appliance": "ストレージアプライアンス",
+    "storage_appliance": "ストレージアプライアンス"
 }
