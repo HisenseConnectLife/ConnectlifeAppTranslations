@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Aviseringsljud",
     "CL_DV_OV_24_navigation_sounds": "Navigationsljud",
-    "CL_DV_OV_24_on_during_use": "På under användning"
+    "CL_DV_OV_24_on_during_use": "På under användning",
+    "tips_key": "Tips",
+    "CL_DV_OV_stage_cooking_desc": "Flerfasig matlagning låter dig kombinera flera värmesystem i en tillagningsprocess. Välj olika funktioner och inställningar för att komponera tillagningsprocessen efter dina önskemål.",
+    "CL_DV_OV_remote_start_tips": "Om du slår på Fjärrstart kan du inte bara skicka utan även starta programmet på distans.",
+    "CL_DV_OV_how_to_do_this": "Hur gör man detta?",
+    "CL_DV_OV_add_stage": "Lägg till scen",
+    "CL_DV_OV_stage": "Etapp",
+    "CL_DV_HOB_sensitivity_level": "Automatisk huvkänslighetsnivå",
+    "CL_DV_HOB_hood_title": "huva",
+    "CL_DV_RF_food_inventory": "Matinventering",
+    "p_check_email": "Kontrollera din e-post",
+    "CL_DV_RF_storage_appliance": "Förvaringsapparat"
 }

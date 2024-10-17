@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Sons de notification",
     "CL_DV_OV_24_navigation_sounds": "Sons de navigation",
-    "CL_DV_OV_24_on_during_use": "Allumé pendant l'utilisation"
+    "CL_DV_OV_24_on_during_use": "Allumé pendant l'utilisation",
+    "tips_key": "Conseils",
+    "CL_DV_OV_stage_cooking_desc": "La cuisson multi-phases vous permet de combiner plusieurs systèmes de cuisson en un seul processus de cuisson. Sélectionnez différentes fonctions et réglages pour composer le processus de cuisson de votre choix.",
+    "CL_DV_OV_remote_start_tips": "Si vous activez le démarrage à distance, vous pouvez non seulement envoyer mais également démarrer le programme à distance.",
+    "CL_DV_OV_how_to_do_this": "Comment faire cela ?",
+    "CL_DV_OV_add_stage": "Ajouter une étape",
+    "CL_DV_OV_stage": "Scène",
+    "CL_DV_HOB_sensitivity_level": "Niveau de sensibilité du capot automatique",
+    "CL_DV_HOB_hood_title": "capot",
+    "CL_DV_RF_food_inventory": "Inventaire des aliments",
+    "p_check_email": "Veuillez vérifier votre email",
+    "CL_DV_RF_storage_appliance": "Appareil de stockage"
 }

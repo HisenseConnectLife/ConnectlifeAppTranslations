@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "อัสโก โปร",
     "CL_DV_OV_24_notification_sounds": "เสียงแจ้งเตือน",
     "CL_DV_OV_24_navigation_sounds": "เสียงนำทาง",
-    "CL_DV_OV_24_on_during_use": "เปิดระหว่างใช้งาน"
+    "CL_DV_OV_24_on_during_use": "เปิดระหว่างใช้งาน",
+    "tips_key": "เคล็ดลับ",
+    "CL_DV_OV_stage_cooking_desc": "การปรุงอาหารแบบหลายขั้นตอนช่วยให้คุณสามารถรวมระบบทำความร้อนหลายระบบไว้ในกระบวนการปรุงอาหารเดียว เลือกฟังก์ชันและการตั้งค่าต่างๆ เพื่อกำหนดกระบวนการปรุงอาหารตามที่คุณต้องการ",
+    "CL_DV_OV_remote_start_tips": "หากเปิด Remote Start คุณไม่เพียงแต่สามารถส่งแต่ยังสามารถเริ่มโปรแกรมจากระยะไกลได้อีกด้วย",
+    "CL_DV_OV_how_to_do_this": "จะทำอย่างไร?",
+    "CL_DV_OV_add_stage": "เพิ่มเวที",
+    "CL_DV_OV_stage": "เวที",
+    "CL_DV_HOB_sensitivity_level": "ระดับความไวของฮูดอัตโนมัติ",
+    "CL_DV_HOB_hood_title": "หมวกคลุมศีรษะ",
+    "CL_DV_RF_food_inventory": "บัญชีรายการอาหาร",
+    "p_check_email": "กรุณาตรวจสอบอีเมล์ของคุณ",
+    "CL_DV_RF_storage_appliance": "อุปกรณ์จัดเก็บ"
 }

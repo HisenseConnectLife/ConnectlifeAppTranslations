@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO 专业版",
     "CL_DV_OV_24_notification_sounds": "通知声音",
     "CL_DV_OV_24_navigation_sounds": "导航声音",
-    "CL_DV_OV_24_on_during_use": "使用期间开启"
+    "CL_DV_OV_24_on_during_use": "使用期间开启",
+    "tips_key": "尖端",
+    "CL_DV_OV_stage_cooking_desc": "多阶段烹饪允许您在一个烹饪过程中组合多个加热器系统。选择不同的功能和设置来组成您喜欢的烹饪过程。",
+    "CL_DV_OV_remote_start_tips": "如果打开远程启动，您不仅可以发送，还可以从远处启动程序。",
+    "CL_DV_OV_how_to_do_this": "如何做到这一点？",
+    "CL_DV_OV_add_stage": "添加阶段",
+    "CL_DV_OV_stage": "阶段",
+    "CL_DV_HOB_sensitivity_level": "汽车引擎盖灵敏度等级",
+    "CL_DV_HOB_hood_title": "兜帽",
+    "CL_DV_RF_food_inventory": "食品库存",
+    "p_check_email": "请查看你的电子邮件",
+    "CL_DV_RF_storage_appliance": "存储设备"
 }

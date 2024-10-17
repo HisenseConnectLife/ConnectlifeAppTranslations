@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Profesional",
     "CL_DV_OV_24_notification_sounds": "Suara notifikasi",
     "CL_DV_OV_24_navigation_sounds": "Suara navigasi",
-    "CL_DV_OV_24_on_during_use": "Aktif saat digunakan"
+    "CL_DV_OV_24_on_during_use": "Aktif saat digunakan",
+    "tips_key": "Kiat-kiat",
+    "CL_DV_OV_stage_cooking_desc": "Tahap memasak multifase memungkinkan Anda menggabungkan beberapa sistem pemanas dalam satu proses memasak. Pilih fungsi dan pengaturan yang berbeda untuk menyusun proses memasak sesuai keinginan Anda.",
+    "CL_DV_OV_remote_start_tips": "Jika Anda mengaktifkan Remote Start, Anda tidak hanya dapat mengirim tetapi juga memulai program dari jarak jauh.",
+    "CL_DV_OV_how_to_do_this": "Bagaimana cara melakukannya?",
+    "CL_DV_OV_add_stage": "Tambahkan panggung",
+    "CL_DV_OV_stage": "Panggung",
+    "CL_DV_HOB_sensitivity_level": "Tingkat sensitivitas kap otomatis",
+    "CL_DV_HOB_hood_title": "tudung",
+    "CL_DV_RF_food_inventory": "Inventaris Makanan",
+    "p_check_email": "Silakan periksa email Anda",
+    "CL_DV_RF_storage_appliance": "Peralatan Penyimpanan"
 }

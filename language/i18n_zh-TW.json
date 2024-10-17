@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO專業版",
     "CL_DV_OV_24_notification_sounds": "通知聲音",
     "CL_DV_OV_24_navigation_sounds": "導航聲音",
-    "CL_DV_OV_24_on_during_use": "使用期間開啟"
+    "CL_DV_OV_24_on_during_use": "使用期間開啟",
+    "tips_key": "尖端",
+    "CL_DV_OV_stage_cooking_desc": "多階段烹飪可讓您在一個烹飪過程中組合多個加熱器系統。選擇不同的功能和設定來組成您喜歡的烹飪過程。",
+    "CL_DV_OV_remote_start_tips": "如果開啟遠端啟動，您不僅可以發送程序，還可以遠端啟動程序。",
+    "CL_DV_OV_how_to_do_this": "如何做到這一點？",
+    "CL_DV_OV_add_stage": "添加舞台",
+    "CL_DV_OV_stage": "階段",
+    "CL_DV_HOB_sensitivity_level": "汽車引擎蓋靈敏度級別",
+    "CL_DV_HOB_hood_title": "兜帽",
+    "CL_DV_RF_food_inventory": "食材管理",
+    "p_check_email": "請檢查您的電子郵件",
+    "CL_DV_RF_storage_appliance": "儲存裝置"
 }

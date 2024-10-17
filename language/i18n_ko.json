@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "아스코 프로",
     "CL_DV_OV_24_notification_sounds": "알림음",
     "CL_DV_OV_24_navigation_sounds": "항해 소리",
-    "CL_DV_OV_24_on_during_use": "사용 중 켜짐"
+    "CL_DV_OV_24_on_during_use": "사용 중 켜짐",
+    "tips_key": "팁",
+    "CL_DV_OV_stage_cooking_desc": "다단계 조리를 통해 여러 히터 시스템을 하나의 조리 과정에 결합할 수 있습니다. 다양한 기능과 설정을 선택하여 원하는 조리 과정을 구성하세요.",
+    "CL_DV_OV_remote_start_tips": "원격 시작을 켜면, 프로그램을 보낼 수 있을 뿐만 아니라, 원격에서도 프로그램을 시작할 수 있습니다.",
+    "CL_DV_OV_how_to_do_this": "어떻게 하나요?",
+    "CL_DV_OV_add_stage": "스테이지 추가",
+    "CL_DV_OV_stage": "단계",
+    "CL_DV_HOB_sensitivity_level": "자동 후드 감도 레벨",
+    "CL_DV_HOB_hood_title": "후드",
+    "CL_DV_RF_food_inventory": "식품 재고",
+    "p_check_email": "이메일을 확인해 주세요",
+    "CL_DV_RF_storage_appliance": "저장 장치"
 }

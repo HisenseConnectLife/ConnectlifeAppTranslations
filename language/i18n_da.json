@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Besked lyder",
     "CL_DV_OV_24_navigation_sounds": "Navigationslyde",
-    "CL_DV_OV_24_on_during_use": "Tændt under brug"
+    "CL_DV_OV_24_on_during_use": "Tændt under brug",
+    "tips_key": "Tips",
+    "CL_DV_OV_stage_cooking_desc": "Flerfaset madlavning giver dig mulighed for at kombinere flere varmesystemer i én tilberedningsproces. Vælg forskellige funktioner og indstillinger for at sammensætte tilberedningen efter dine præferencer.",
+    "CL_DV_OV_remote_start_tips": "Slår du fjernstart til, kan du ikke kun sende, men også starte programmet på afstand.",
+    "CL_DV_OV_how_to_do_this": "Hvordan gør man dette?",
+    "CL_DV_OV_add_stage": "Tilføj scene",
+    "CL_DV_OV_stage": "Scene",
+    "CL_DV_HOB_sensitivity_level": "Automatisk emhættefølsomhedsniveau",
+    "CL_DV_HOB_hood_title": "hætte",
+    "CL_DV_RF_food_inventory": "Fødevareopgørelse",
+    "p_check_email": "Tjek venligst din e-mail",
+    "CL_DV_RF_storage_appliance": "Opbevaringsapparat"
 }

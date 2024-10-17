@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Zvuky upozornenia",
     "CL_DV_OV_24_navigation_sounds": "Zvuky navigácie",
-    "CL_DV_OV_24_on_during_use": "Zapnuté počas používania"
+    "CL_DV_OV_24_on_during_use": "Zapnuté počas používania",
+    "tips_key": "Tipy",
+    "CL_DV_OV_stage_cooking_desc": "Viacfázové varenie vám umožňuje kombinovať viacero vykurovacích systémov v jednom procese varenia. Vyberte si rôzne funkcie a nastavenia, aby ste si zostavili proces varenia podľa svojich predstáv.",
+    "CL_DV_OV_remote_start_tips": "Ak si zapnete Remote Start, môžete program nielen odosielať, ale aj spúšťať na diaľku.",
+    "CL_DV_OV_how_to_do_this": "Ako na to?",
+    "CL_DV_OV_add_stage": "Pridať scénu",
+    "CL_DV_OV_stage": "Etapa",
+    "CL_DV_HOB_sensitivity_level": "Úroveň citlivosti automatickej kapoty",
+    "CL_DV_HOB_hood_title": "kapucňa",
+    "CL_DV_RF_food_inventory": "Potravinový inventár",
+    "p_check_email": "Skontrolujte svoj e-mail",
+    "CL_DV_RF_storage_appliance": "Úložné zariadenie"
 }

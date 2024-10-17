@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Zvuky upozornění",
     "CL_DV_OV_24_navigation_sounds": "Zvuky navigace",
-    "CL_DV_OV_24_on_during_use": "Zapnuto během používání"
+    "CL_DV_OV_24_on_during_use": "Zapnuto během používání",
+    "tips_key": "Tipy",
+    "CL_DV_OV_stage_cooking_desc": "Vícefázové vaření vám umožňuje kombinovat více topných systémů v jednom procesu vaření. Vyberte různé funkce a nastavení, abyste si sestavili proces vaření podle svých preferencí.",
+    "CL_DV_OV_remote_start_tips": "Pokud zapnete Remote Start, můžete program nejen odesílat, ale také spouštět na dálku.",
+    "CL_DV_OV_how_to_do_this": "Jak to udělat?",
+    "CL_DV_OV_add_stage": "Přidat fázi",
+    "CL_DV_OV_stage": "Fáze",
+    "CL_DV_HOB_sensitivity_level": "Úroveň citlivosti automatické kapoty",
+    "CL_DV_HOB_hood_title": "kapuce",
+    "CL_DV_RF_food_inventory": "Inventář potravin",
+    "p_check_email": "Zkontrolujte prosím svůj e-mail",
+    "CL_DV_RF_storage_appliance": "Skladovací zařízení"
 }
