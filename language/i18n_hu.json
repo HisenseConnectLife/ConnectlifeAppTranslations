@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "motorháztető",
     "CL_DV_RF_food_inventory": "Élelmiszer-leltár",
     "p_check_email": "Kérjük, ellenőrizze e-mailjét",
-    "CL_DV_RF_storage_appliance": "Tároló készülék"
+    "CL_DV_RF_storage_appliance": "Tároló készülék",
+    "storage_appliance": "TÁROLÓ KÉSZÜLÉK"
 }

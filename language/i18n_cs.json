@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "kapuce",
     "CL_DV_RF_food_inventory": "Inventář potravin",
     "p_check_email": "Zkontrolujte prosím svůj e-mail",
-    "CL_DV_RF_storage_appliance": "Skladovací zařízení"
+    "CL_DV_RF_storage_appliance": "Skladovací zařízení",
+    "storage_appliance": "SKLADOVACÍ SPOTŘEBIČ"
 }

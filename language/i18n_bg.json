@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "качулка",
     "CL_DV_RF_food_inventory": "Инвентаризация на храните",
     "p_check_email": "Моля, проверете имейла си",
-    "CL_DV_RF_storage_appliance": "Уред за съхранение"
+    "CL_DV_RF_storage_appliance": "Уред за съхранение",
+    "storage_appliance": "УРЕД ЗА СЪХРАНЕНИЕ"
 }

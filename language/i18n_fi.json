@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "huppu",
     "CL_DV_RF_food_inventory": "Elintarvikeluettelo",
     "p_check_email": "Tarkista sähköpostisi",
-    "CL_DV_RF_storage_appliance": "Säilytyslaite"
+    "CL_DV_RF_storage_appliance": "Säilytyslaite",
+    "storage_appliance": "SÄILYTYSLAITE"
 }

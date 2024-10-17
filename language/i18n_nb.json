@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "hette",
     "CL_DV_RF_food_inventory": "Matvarelager",
     "p_check_email": "Vennligst sjekk e-posten din",
-    "CL_DV_RF_storage_appliance": "Oppbevaringsapparat"
+    "CL_DV_RF_storage_appliance": "Oppbevaringsapparat",
+    "storage_appliance": "OPPBEVARINGSAPPARAT"
 }

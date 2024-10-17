@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "후드",
     "CL_DV_RF_food_inventory": "식품 재고",
     "p_check_email": "이메일을 확인해 주세요",
-    "CL_DV_RF_storage_appliance": "저장 장치"
+    "CL_DV_RF_storage_appliance": "저장 장치",
+    "storage_appliance": "저장 기기"
 }

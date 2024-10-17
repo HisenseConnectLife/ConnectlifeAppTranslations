@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "兜帽",
     "CL_DV_RF_food_inventory": "食品库存",
     "p_check_email": "请查看你的电子邮件",
-    "CL_DV_RF_storage_appliance": "存储设备"
+    "CL_DV_RF_storage_appliance": "存储设备",
+    "storage_appliance": "存储设备"
 }

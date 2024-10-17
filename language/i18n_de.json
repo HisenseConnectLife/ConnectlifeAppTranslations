@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "Haube",
     "CL_DV_RF_food_inventory": "Lebensmittelinventar",
     "p_check_email": "Bitte überprüfen Sie Ihre E-Mail",
-    "CL_DV_RF_storage_appliance": "Speichergerät"
+    "CL_DV_RF_storage_appliance": "Speichergerät",
+    "storage_appliance": "SPEICHERGERÄT"
 }

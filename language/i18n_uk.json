@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "капот",
     "CL_DV_RF_food_inventory": "Інвентар харчування",
     "p_check_email": "Будь ласка, перевірте свою електронну пошту",
-    "CL_DV_RF_storage_appliance": "Прилад зберігання"
+    "CL_DV_RF_storage_appliance": "Прилад зберігання",
+    "storage_appliance": "ПРИЛАД ЗБЕРІГАННЯ"
 }

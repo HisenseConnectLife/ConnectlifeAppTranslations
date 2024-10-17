@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "glugă",
     "CL_DV_RF_food_inventory": "Inventarul Alimentelor",
     "p_check_email": "Vă rugăm să vă verificați e-mailul",
-    "CL_DV_RF_storage_appliance": "Aparat de depozitare"
+    "CL_DV_RF_storage_appliance": "Aparat de depozitare",
+    "storage_appliance": "APARATUL DE DEPOZITARE"
 }

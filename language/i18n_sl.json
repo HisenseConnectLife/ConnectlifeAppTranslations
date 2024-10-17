@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "napa",
     "CL_DV_RF_food_inventory": "Popis hrane",
     "p_check_email": "Preverite svojo e-pošto",
-    "CL_DV_RF_storage_appliance": "Naprava za shranjevanje"
+    "CL_DV_RF_storage_appliance": "Naprava za shranjevanje",
+    "storage_appliance": "NAPRAVA ZA SHRANJEVANJE"
 }

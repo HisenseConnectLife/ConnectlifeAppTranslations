@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "कनटोप",
     "CL_DV_RF_food_inventory": "खाद्य सूची",
     "p_check_email": "कृपया अपनी ईमेल देखें",
-    "CL_DV_RF_storage_appliance": "भंडारण उपकरण"
+    "CL_DV_RF_storage_appliance": "भंडारण उपकरण",
+    "storage_appliance": "भंडारण उपकरण"
 }

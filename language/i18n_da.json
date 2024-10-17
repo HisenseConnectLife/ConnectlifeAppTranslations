@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "hætte",
     "CL_DV_RF_food_inventory": "Fødevareopgørelse",
     "p_check_email": "Tjek venligst din e-mail",
-    "CL_DV_RF_storage_appliance": "Opbevaringsapparat"
+    "CL_DV_RF_storage_appliance": "Opbevaringsapparat",
+    "storage_appliance": "OPBEVARINGSAPPARAT"
 }

@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "хауба",
     "CL_DV_RF_food_inventory": "Инвентар на храна",
     "p_check_email": "Ве молиме проверете ја вашата е-пошта",
-    "CL_DV_RF_storage_appliance": "Апарат за складирање"
+    "CL_DV_RF_storage_appliance": "Апарат за складирање",
+    "storage_appliance": "АПАРАТ ЗА СКЛАДИРАЊЕ"
 }

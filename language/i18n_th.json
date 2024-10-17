@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "หมวกคลุมศีรษะ",
     "CL_DV_RF_food_inventory": "บัญชีรายการอาหาร",
     "p_check_email": "กรุณาตรวจสอบอีเมล์ของคุณ",
-    "CL_DV_RF_storage_appliance": "อุปกรณ์จัดเก็บ"
+    "CL_DV_RF_storage_appliance": "อุปกรณ์จัดเก็บ",
+    "storage_appliance": "อุปกรณ์จัดเก็บ"
 }

@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "капюшон",
     "CL_DV_RF_food_inventory": "Инвентаризация продуктов питания",
     "p_check_email": "Пожалуйста, проверьте свою электронную почту.",
-    "CL_DV_RF_storage_appliance": "Устройство для хранения"
+    "CL_DV_RF_storage_appliance": "Устройство для хранения",
+    "storage_appliance": "УСТРОЙСТВО ДЛЯ ХРАНЕНИЯ"
 }

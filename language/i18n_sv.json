@@ -4228,5 +4228,6 @@
     "CL_DV_HOB_hood_title": "huva",
     "CL_DV_RF_food_inventory": "Matinventering",
     "p_check_email": "Kontrollera din e-post",
-    "CL_DV_RF_storage_appliance": "Förvaringsapparat"
+    "CL_DV_RF_storage_appliance": "Förvaringsapparat",
+    "storage_appliance": "FÖRVARINGSAPPARAT"
 }
