@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Sonidos de notificación",
     "CL_DV_OV_24_navigation_sounds": "Sonidos de navegación",
-    "CL_DV_OV_24_on_during_use": "Encendido durante el uso"
+    "CL_DV_OV_24_on_during_use": "Encendido durante el uso",
+    "tips_key": "Consejos",
+    "CL_DV_OV_stage_cooking_desc": "La cocción en varias etapas le permite combinar varios sistemas de calentamiento en un solo proceso de cocción. Seleccione diferentes funciones y configuraciones para crear el proceso de cocción que prefiera.",
+    "CL_DV_OV_remote_start_tips": "Si activa el Inicio remoto, no solo podrá enviar sino también iniciar el programa a distancia.",
+    "CL_DV_OV_how_to_do_this": "¿Cómo hacer esto?",
+    "CL_DV_OV_add_stage": "Añadir etapa",
+    "CL_DV_OV_stage": "Escenario",
+    "CL_DV_HOB_sensitivity_level": "Nivel de sensibilidad del capó automático",
+    "CL_DV_HOB_hood_title": "capucha",
+    "CL_DV_RF_food_inventory": "Inventario de alimentos",
+    "p_check_email": "Por favor revise su correo electrónico"
 }

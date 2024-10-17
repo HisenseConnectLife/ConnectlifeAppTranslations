@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Sunete de notificare",
     "CL_DV_OV_24_navigation_sounds": "Sunete de navigare",
-    "CL_DV_OV_24_on_during_use": "Pornit în timpul utilizării"
+    "CL_DV_OV_24_on_during_use": "Pornit în timpul utilizării",
+    "tips_key": "Sfaturi",
+    "CL_DV_OV_stage_cooking_desc": "Gătitul în mai multe etape vă permite să combinați mai multe sisteme de încălzire într-un singur proces de gătit. Selectați diferite funcții și setări pentru a compune procesul de gătit după preferințele dvs.",
+    "CL_DV_OV_remote_start_tips": "Dacă activați Remote Start, puteți nu numai să trimiteți, ci și să porniți programul de la distanță.",
+    "CL_DV_OV_how_to_do_this": "Cum să faci asta?",
+    "CL_DV_OV_add_stage": "Adaugă etapa",
+    "CL_DV_OV_stage": "Etapă",
+    "CL_DV_HOB_sensitivity_level": "Nivel de sensibilitate automat al capotei",
+    "CL_DV_HOB_hood_title": "glugă",
+    "CL_DV_RF_food_inventory": "Inventarul Alimentelor",
+    "p_check_email": "Vă rugăm să vă verificați e-mailul"
 }
