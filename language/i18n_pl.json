@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Scena",
     "CL_DV_HOB_sensitivity_level": "Poziom czułości automatycznego otwierania maski",
     "CL_DV_HOB_hood_title": "kaptur",
-    "CL_DV_RF_food_inventory": "Zapasy żywności",
+    "CL_CF_FM_food_inventory": "Zapasy żywności",
     "p_check_email": "Proszę sprawdzić swoją pocztę e-mail",
-    "CL_DV_RF_storage_appliance": "Urządzenie pamięci masowej"
+    "CL_CF_FM_storage_appliance": "Urządzenie pamięci masowej",
+    "storage_appliance": "URZĄDZENIE DO PRZECHOWYWANIA",
+    "CL_DV_RF_quickly_select_food": "Szybki wybór istniejącej żywności w lodówce"
 }

@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Vaihe",
     "CL_DV_HOB_sensitivity_level": "Automaattinen liesituulettimen herkkyystaso",
     "CL_DV_HOB_hood_title": "huppu",
-    "CL_DV_RF_food_inventory": "Elintarvikeluettelo",
+    "CL_CF_FM_food_inventory": "Elintarvikeluettelo",
     "p_check_email": "Tarkista sähköpostisi",
-    "CL_DV_RF_storage_appliance": "Säilytyslaite"
+    "CL_CF_FM_storage_appliance": "Säilytyslaite",
+    "storage_appliance": "SÄILYTYSLAITE",
+    "CL_DV_RF_quickly_select_food": "Valitse jääkaapissa oleva ruoka nopeasti"
 }

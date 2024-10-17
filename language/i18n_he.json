@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "שָׁלָב",
     "CL_DV_HOB_sensitivity_level": "רמת רגישות מכסה המנוע אוטומטי",
     "CL_DV_HOB_hood_title": "בַּרדָס",
-    "CL_DV_RF_food_inventory": "מלאי מזון",
+    "CL_CF_FM_food_inventory": "מלאי מזון",
     "p_check_email": "אנא בדוק את המייל שלך",
-    "CL_DV_RF_storage_appliance": "מכשיר אחסון"
+    "CL_CF_FM_storage_appliance": "מכשיר אחסון",
+    "storage_appliance": "מכשיר אחסון",
+    "CL_DV_RF_quickly_select_food": "בחר במהירות מזון קיים במקרר"
 }

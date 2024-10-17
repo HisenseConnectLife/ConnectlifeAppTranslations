@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Fase",
     "CL_DV_HOB_sensitivity_level": "Automatische gevoeligheidsgraad van de motorkap",
     "CL_DV_HOB_hood_title": "kap",
-    "CL_DV_RF_food_inventory": "Voedselinventaris",
+    "CL_CF_FM_food_inventory": "Voedselinventaris",
     "p_check_email": "Controleer uw e-mail",
-    "CL_DV_RF_storage_appliance": "Opslagapparaat"
+    "CL_CF_FM_storage_appliance": "Opslagapparaat",
+    "storage_appliance": "OPSLAGAPPARAAT",
+    "CL_DV_RF_quickly_select_food": "Selecteer snel bestaand voedsel in de koelkast"
 }

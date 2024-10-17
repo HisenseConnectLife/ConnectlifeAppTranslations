@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Етап",
     "CL_DV_HOB_sensitivity_level": "Ниво на чувствителност на автоматичния капак",
     "CL_DV_HOB_hood_title": "качулка",
-    "CL_DV_RF_food_inventory": "Инвентаризация на храните",
+    "CL_CF_FM_food_inventory": "Инвентаризация на храните",
     "p_check_email": "Моля, проверете имейла си",
-    "CL_DV_RF_storage_appliance": "Уред за съхранение"
+    "CL_CF_FM_storage_appliance": "Уред за съхранение",
+    "storage_appliance": "УРЕД ЗА СЪХРАНЕНИЕ",
+    "CL_DV_RF_quickly_select_food": "Бързо изберете съществуваща храна в хладилника"
 }

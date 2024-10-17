@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Etapă",
     "CL_DV_HOB_sensitivity_level": "Nivel de sensibilitate automat al capotei",
     "CL_DV_HOB_hood_title": "glugă",
-    "CL_DV_RF_food_inventory": "Inventarul Alimentelor",
+    "CL_CF_FM_food_inventory": "Inventarul Alimentelor",
     "p_check_email": "Vă rugăm să vă verificați e-mailul",
-    "CL_DV_RF_storage_appliance": "Aparat de depozitare"
+    "CL_CF_FM_storage_appliance": "Aparat de depozitare",
+    "storage_appliance": "APARATUL DE DEPOZITARE",
+    "CL_DV_RF_quickly_select_food": "Selectați rapid alimentele existente în frigider"
 }

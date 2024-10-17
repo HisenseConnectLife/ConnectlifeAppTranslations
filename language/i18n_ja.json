@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "ステージ",
     "CL_DV_HOB_sensitivity_level": "自動フード感度レベル",
     "CL_DV_HOB_hood_title": "フード",
-    "CL_DV_RF_food_inventory": "食品在庫",
+    "CL_CF_FM_food_inventory": "食品在庫",
     "p_check_email": "メールを確認してください",
-    "CL_DV_RF_storage_appliance": "ストレージアプライアンス"
+    "CL_CF_FM_storage_appliance": "ストレージアプライアンス",
+    "storage_appliance": "ストレージアプライアンス",
+    "CL_DV_RF_quickly_select_food": "冷蔵庫にある食品を素早く選択"
 }
