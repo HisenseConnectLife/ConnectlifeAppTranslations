@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Bildirim sesleri",
     "CL_DV_OV_24_navigation_sounds": "Navigasyon sesleri",
-    "CL_DV_OV_24_on_during_use": "Kullanım sırasında açık"
+    "CL_DV_OV_24_on_during_use": "Kullanım sırasında açık",
+    "tips_key": "İpuçları",
+    "CL_DV_OV_stage_cooking_desc": "Çok fazlı aşamalı pişirme, birden fazla ısıtıcı sistemini tek bir pişirme sürecinde birleştirmenize olanak tanır. Tercihinize göre pişirme sürecini oluşturmak için farklı işlevler ve ayarlar seçin.",
+    "CL_DV_OV_remote_start_tips": "Uzaktan Başlatma özelliğini açarsanız, programı uzaktan göndermekle kalmayıp aynı zamanda başlatabilirsiniz.",
+    "CL_DV_OV_how_to_do_this": "Peki bunu nasıl yapacağız?",
+    "CL_DV_OV_add_stage": "Sahne ekle",
+    "CL_DV_OV_stage": "Sahne",
+    "CL_DV_HOB_sensitivity_level": "Otomatik kaput hassasiyet seviyesi",
+    "CL_DV_HOB_hood_title": "kapüşon",
+    "CL_DV_RF_food_inventory": "Gıda Envanteri",
+    "p_check_email": "Lütfen e-postanızı kontrol edin"
 }

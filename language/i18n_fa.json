@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "صداهای اعلان",
     "CL_DV_OV_24_navigation_sounds": "صداهای ناوبری",
-    "CL_DV_OV_24_on_during_use": "در حین استفاده روشن است"
+    "CL_DV_OV_24_on_during_use": "در حین استفاده روشن است",
+    "tips_key": "نکات",
+    "CL_DV_OV_stage_cooking_desc": "پخت چند مرحله ای به شما این امکان را می دهد که چندین سیستم بخاری را در یک فرآیند پخت ترکیب کنید. عملکردها و تنظیمات مختلف را برای تنظیم فرآیند پخت و پز مورد علاقه خود انتخاب کنید.",
+    "CL_DV_OV_remote_start_tips": "اگر Remote Start را روشن کنید، نه تنها می توانید برنامه را ارسال کنید بلکه می توانید از راه دور نیز شروع کنید.",
+    "CL_DV_OV_how_to_do_this": "چگونه این کار را انجام دهیم؟",
+    "CL_DV_OV_add_stage": "مرحله اضافه کنید",
+    "CL_DV_OV_stage": "مرحله",
+    "CL_DV_HOB_sensitivity_level": "سطح حساسیت هود خودکار",
+    "CL_DV_HOB_hood_title": "کاپوت",
+    "CL_DV_RF_food_inventory": "موجودی مواد غذایی",
+    "p_check_email": "لطفا ایمیل خود را بررسی کنید"
 }

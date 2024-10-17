@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "أسكو برو",
     "CL_DV_OV_24_notification_sounds": "أصوات الإشعارات",
     "CL_DV_OV_24_navigation_sounds": "أصوات الملاحة",
-    "CL_DV_OV_24_on_during_use": "أثناء الاستخدام"
+    "CL_DV_OV_24_on_during_use": "أثناء الاستخدام",
+    "tips_key": "نصائح",
+    "CL_DV_OV_stage_cooking_desc": "تتيح لك عملية الطهي متعددة المراحل الجمع بين أنظمة تسخين متعددة في عملية طهي واحدة. حدد وظائف وإعدادات مختلفة لتكوين عملية الطهي التي تفضلها.",
+    "CL_DV_OV_remote_start_tips": "إذا قمت بتشغيل ميزة \"البدء عن بعد\"، فلن تتمكن من إرسال البرنامج فحسب، بل ستتمكن أيضًا من تشغيله عن بعد.",
+    "CL_DV_OV_how_to_do_this": "كيف أفعل هذا؟",
+    "CL_DV_OV_add_stage": "إضافة مرحلة",
+    "CL_DV_OV_stage": "منصة",
+    "CL_DV_HOB_sensitivity_level": "مستوى حساسية غطاء المحرك التلقائي",
+    "CL_DV_HOB_hood_title": "كَبُّوت",
+    "CL_DV_RF_food_inventory": "جرد المواد الغذائية",
+    "p_check_email": "يرجى التحقق من بريدك الإلكتروني"
 }

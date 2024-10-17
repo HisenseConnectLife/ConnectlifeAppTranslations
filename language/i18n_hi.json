@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "ASKO प्रो",
     "CL_DV_OV_24_notification_sounds": "अधिसूचना ध्वनियाँ",
     "CL_DV_OV_24_navigation_sounds": "नेविगेशन ध्वनियाँ",
-    "CL_DV_OV_24_on_during_use": "उपयोग के दौरान चालू"
+    "CL_DV_OV_24_on_during_use": "उपयोग के दौरान चालू",
+    "tips_key": "सुझावों",
+    "CL_DV_OV_stage_cooking_desc": "मल्टीफ़ेज़ स्टेज कुकिंग आपको एक कुकिंग प्रक्रिया में कई हीटर सिस्टम को संयोजित करने की अनुमति देता है। अपनी पसंद की कुकिंग प्रक्रिया को बनाने के लिए अलग-अलग फ़ंक्शन और सेटिंग्स चुनें।",
+    "CL_DV_OV_remote_start_tips": "यदि आप रिमोट स्टार्ट चालू करते हैं, तो आप न केवल प्रोग्राम भेज सकते हैं, बल्कि उसे दूर से शुरू भी कर सकते हैं।",
+    "CL_DV_OV_how_to_do_this": "यह कैसे करें?",
+    "CL_DV_OV_add_stage": "स्टेज जोड़ें",
+    "CL_DV_OV_stage": "अवस्था",
+    "CL_DV_HOB_sensitivity_level": "ऑटो हुड संवेदनशीलता स्तर",
+    "CL_DV_HOB_hood_title": "कनटोप",
+    "CL_DV_RF_food_inventory": "खाद्य सूची",
+    "p_check_email": "कृपया अपनी ईमेल देखें"
 }

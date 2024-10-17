@@ -4217,5 +4217,15 @@
     "CL_CF_RM_asko_pro_floor": "ASKOプロ",
     "CL_DV_OV_24_notification_sounds": "通知音",
     "CL_DV_OV_24_navigation_sounds": "ナビゲーションサウンド",
-    "CL_DV_OV_24_on_during_use": "使用中にオン"
+    "CL_DV_OV_24_on_during_use": "使用中にオン",
+    "tips_key": "ヒント",
+    "CL_DV_OV_stage_cooking_desc": "マルチフェーズ ステージ クッキングでは、複数のヒーター システムを 1 つの調理プロセスに組み合わせることができます。さまざまな機能と設定を選択して、お好みの調理プロセスを構成します。",
+    "CL_DV_OV_remote_start_tips": "リモートスタートをオンにすると、送信だけでなく遠隔からプログラムを起動することもできます。",
+    "CL_DV_OV_how_to_do_this": "これをどうやって行うのでしょうか?",
+    "CL_DV_OV_add_stage": "ステージを追加",
+    "CL_DV_OV_stage": "ステージ",
+    "CL_DV_HOB_sensitivity_level": "自動フード感度レベル",
+    "CL_DV_HOB_hood_title": "フード",
+    "CL_DV_RF_food_inventory": "食品在庫",
+    "p_check_email": "メールを確認してください"
 }
