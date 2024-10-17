@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "pentas",
     "CL_DV_HOB_sensitivity_level": "Tahap sensitiviti hud auto",
     "CL_DV_HOB_hood_title": "tudung",
-    "CL_DV_RF_food_inventory": "Inventori Makanan",
+    "CL_CF_FM_food_inventory": "Inventori Makanan",
     "p_check_email": "Sila semak e-mel anda",
-    "CL_DV_RF_storage_appliance": "Perkakas Penyimpanan"
+    "CL_CF_FM_storage_appliance": "Perkakas Penyimpanan",
+    "storage_appliance": "PERKAKAS PENYIMPANAN",
+    "CL_DV_RF_quickly_select_food": "Cepat pilih makanan sedia ada di dalam peti sejuk"
 }

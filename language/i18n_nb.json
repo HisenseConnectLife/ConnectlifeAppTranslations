@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Scene",
     "CL_DV_HOB_sensitivity_level": "Automatisk panserfølsomhetsnivå",
     "CL_DV_HOB_hood_title": "hette",
-    "CL_DV_RF_food_inventory": "Matvarelager",
+    "CL_CF_FM_food_inventory": "Matvarelager",
     "p_check_email": "Vennligst sjekk e-posten din",
-    "CL_DV_RF_storage_appliance": "Oppbevaringsapparat"
+    "CL_CF_FM_storage_appliance": "Oppbevaringsapparat",
+    "storage_appliance": "OPPBEVARINGSAPPARAT",
+    "CL_DV_RF_quickly_select_food": "Velg raskt eksisterende mat i kjøleskapet"
 }

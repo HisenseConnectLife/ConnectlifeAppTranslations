@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Etapp",
     "CL_DV_HOB_sensitivity_level": "Automatisk huvkänslighetsnivå",
     "CL_DV_HOB_hood_title": "huva",
-    "CL_DV_RF_food_inventory": "Matinventering",
+    "CL_CF_FM_food_inventory": "Matinventering",
     "p_check_email": "Kontrollera din e-post",
-    "CL_DV_RF_storage_appliance": "Förvaringsapparat"
+    "CL_CF_FM_storage_appliance": "Förvaringsapparat",
+    "storage_appliance": "FÖRVARINGSAPPARAT",
+    "CL_DV_RF_quickly_select_food": "Välj snabbt ut befintlig mat i kylskåpet"
 }

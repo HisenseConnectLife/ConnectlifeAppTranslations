@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Этап",
     "CL_DV_HOB_sensitivity_level": "Уровень чувствительности автоматического капота",
     "CL_DV_HOB_hood_title": "капюшон",
-    "CL_DV_RF_food_inventory": "Инвентаризация продуктов питания",
+    "CL_CF_FM_food_inventory": "Инвентаризация продуктов питания",
     "p_check_email": "Пожалуйста, проверьте свою электронную почту.",
-    "CL_DV_RF_storage_appliance": "Устройство для хранения"
+    "CL_CF_FM_storage_appliance": "Устройство для хранения",
+    "storage_appliance": "УСТРОЙСТВО ДЛЯ ХРАНЕНИЯ",
+    "CL_DV_RF_quickly_select_food": "Быстро выберите имеющуюся еду в холодильнике"
 }

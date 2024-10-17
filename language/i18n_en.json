@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Stage",
     "CL_DV_HOB_sensitivity_level": "Auto hood sensitivity level",
     "CL_DV_HOB_hood_title": "hood",
-    "CL_DV_RF_food_inventory": "Food Inventory",
+    "CL_CF_FM_food_inventory": "Food Inventory",
     "p_check_email": "Please check your email",
-    "CL_DV_RF_storage_appliance": "Storage Appliance"
+    "CL_CF_FM_storage_appliance": "Storage Appliance",
+    "storage_appliance": "STORAGE APPLIANCE",
+    "CL_DV_RF_quickly_select_food": "Quickly select existing food in the refrigerator"
 }

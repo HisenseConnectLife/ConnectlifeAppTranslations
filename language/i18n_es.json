@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Escenario",
     "CL_DV_HOB_sensitivity_level": "Nivel de sensibilidad del capó automático",
     "CL_DV_HOB_hood_title": "capucha",
-    "CL_DV_RF_food_inventory": "Inventario de alimentos",
+    "CL_CF_FM_food_inventory": "Inventario de alimentos",
     "p_check_email": "Por favor revise su correo electrónico",
-    "CL_DV_RF_storage_appliance": "Dispositivo de almacenamiento"
+    "CL_CF_FM_storage_appliance": "Dispositivo de almacenamiento",
+    "storage_appliance": "APARATO DE ALMACENAMIENTO",
+    "CL_DV_RF_quickly_select_food": "Seleccione rápidamente los alimentos existentes en el refrigerador"
 }
