@@ -706,13 +706,13 @@
     "add_appliance_connect_wifi_regex_p": "Conecte o Wi-Fi do celular ao \"ConnectLife\" e retorne ao aplicativo.",
     "hisrf_buy_filter": "COMPRAR FILTRO",
     "shopping_list_add_undo": "DESFAZER",
-    "shopping_list_delete_all": "EXCLUIR TUDO",
+    "shopping_list_delete_all": "ELIMINAR TODOS",
     "shopping_list_add_items_num": "ADICIONAR ITEM",
     "shopping_list_check_items": "ITENS VERIFICADOS",
     "shopping_list_add_from_library": "ADICIONAR ITENS DA BIBLIOTECA",
     "hisrf_reset_filter": "Redefinir filtro",
     "hisrf_water_filter": "Filtro de água",
-    "all": "Tudo",
+    "all": "Todos",
     "hisrf_smart_diagnostic_error": "Se o equipamento estiver com defeito, corrija-o a tempo.",
     "login_scan_error": "Algo deu errado.\n Tente digitalizar o código QR novamente.",
     "ble_found_appliance": "Um dispositivo foi encontrado. Selecione\n o dispositivo a ser adicionado.",
@@ -726,8 +726,8 @@
     "bake_baking_stopped": "O cozimento parou",
     "hisrf_view_inside": "Veja por dentro",
     "hisrf_shopping_list": "Lista de compras",
-    "hisrf_food_management": "gestão de alimentos",
-    "hisrf_electricity_statistics_menu": "monitoramento de energia",
+    "hisrf_food_management": "Inventário",
+    "hisrf_electricity_statistics_menu": "monitorização de energia",
     "hisrf_fresh_choice": "My Fresh Choice",
     "hisrf_service_hint": "Entre em contacto com o serviço pós-venda.",
     "hisrf_service_phone": "TELEFONE:",
@@ -4230,5 +4230,5 @@
     "p_check_email": "Por favor, verifique seu e-mail",
     "CL_CF_FM_storage_appliance": "Dispositivo de armazenamento",
     "storage_appliance": "APARELHO DE ARMAZENAMENTO",
-    "CL_DV_RF_quickly_select_food": "Selecione rapidamente os alimentos existentes na geladeira"
+    "CL_CF_FM_quickly_select_food": "Selecione rapidamente os alimentos existentes na geladeira"
 }
