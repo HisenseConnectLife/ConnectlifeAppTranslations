@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Fáze",
     "CL_DV_HOB_sensitivity_level": "Úroveň citlivosti automatické kapoty",
     "CL_DV_HOB_hood_title": "kapuce",
-    "CL_DV_RF_food_inventory": "Inventář potravin",
+    "CL_CF_FM_food_inventory": "Inventář potravin",
     "p_check_email": "Zkontrolujte prosím svůj e-mail",
-    "CL_DV_RF_storage_appliance": "Skladovací zařízení"
+    "CL_CF_FM_storage_appliance": "Skladovací zařízení",
+    "storage_appliance": "SKLADOVACÍ SPOTŘEBIČ",
+    "CL_CF_FM_quickly_select_food": "Rychle vyberte stávající potraviny v chladničce"
 }

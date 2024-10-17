@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Bühne",
     "CL_DV_HOB_sensitivity_level": "Empfindlichkeitsstufe der automatischen Haube",
     "CL_DV_HOB_hood_title": "Haube",
-    "CL_DV_RF_food_inventory": "Lebensmittelinventar",
+    "CL_CF_FM_food_inventory": "Lebensmittelinventar",
     "p_check_email": "Bitte überprüfen Sie Ihre E-Mail",
-    "CL_DV_RF_storage_appliance": "Speichergerät"
+    "CL_CF_FM_storage_appliance": "Speichergerät",
+    "storage_appliance": "SPEICHERGERÄT",
+    "CL_CF_FM_quickly_select_food": "Schnelle Auswahl vorhandener Lebensmittel im Kühlschrank"
 }

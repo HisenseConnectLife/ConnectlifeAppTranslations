@@ -2183,11 +2183,11 @@
     "ac_continue_new": "Neprekinjeno",
     "share_device_f_d": "Skupna raba naprave",
     "ac_checking_new": "Preverjanje",
-    "last_exam": "Zadnji izpit",
+    "last_exam": "Zadnji pregled",
     "ac_result": "Rezultat",
     "add_a_favorite": "Dodajte priljubljeno",
     "add_a_schedule": "Dodajte urnik",
-    "exam_again": "Ponovni izpit",
+    "exam_again": "Ponovni pregled",
     "ac_new_temperature_unit": "Enota za temperaturo",
     "ac_manual_examination_new": "Samodiagnostika",
     "contact_service_new": "Če imate vprašanja o vašem izdelku ali če potrebujete dele ali storitve, se obrnite na našo skupino za podporo strankam v vaši regiji.\n\nČe ste v ZDA, lahko pokličete našo skupino za podporo strankam na 1-877-465-3566\n\nZa druge države preverite informacije v uporabniškem priročniku vašega izdelka.",
@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Oder",
     "CL_DV_HOB_sensitivity_level": "Stopnja občutljivosti samodejne nape",
     "CL_DV_HOB_hood_title": "napa",
-    "CL_DV_RF_food_inventory": "Popis hrane",
+    "CL_CF_FM_food_inventory": "Popis hrane",
     "p_check_email": "Preverite svojo e-pošto",
-    "CL_DV_RF_storage_appliance": "Naprava za shranjevanje"
+    "CL_CF_FM_storage_appliance": "Naprava za shranjevanje",
+    "storage_appliance": "NAPRAVA ZA SHRANJEVANJE",
+    "CL_CF_FM_quickly_select_food": "Hitro izberite obstoječo hrano v hladilniku"
 }

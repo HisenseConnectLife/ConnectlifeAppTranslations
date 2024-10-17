@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Panggung",
     "CL_DV_HOB_sensitivity_level": "Tingkat sensitivitas kap otomatis",
     "CL_DV_HOB_hood_title": "tudung",
-    "CL_DV_RF_food_inventory": "Inventaris Makanan",
+    "CL_CF_FM_food_inventory": "Inventaris Makanan",
     "p_check_email": "Silakan periksa email Anda",
-    "CL_DV_RF_storage_appliance": "Peralatan Penyimpanan"
+    "CL_CF_FM_storage_appliance": "Peralatan Penyimpanan",
+    "storage_appliance": "PERALATAN PENYIMPANAN",
+    "CL_CF_FM_quickly_select_food": "Pilih makanan yang ada di lemari es dengan cepat"
 }

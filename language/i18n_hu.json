@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Színpad",
     "CL_DV_HOB_sensitivity_level": "Automatikus páraelszívó érzékenységi szint",
     "CL_DV_HOB_hood_title": "motorháztető",
-    "CL_DV_RF_food_inventory": "Élelmiszer-leltár",
+    "CL_CF_FM_food_inventory": "Élelmiszer-leltár",
     "p_check_email": "Kérjük, ellenőrizze e-mailjét",
-    "CL_DV_RF_storage_appliance": "Tároló készülék"
+    "CL_CF_FM_storage_appliance": "Tároló készülék",
+    "storage_appliance": "TÁROLÓ KÉSZÜLÉK",
+    "CL_CF_FM_quickly_select_food": "Gyorsan válassza ki a meglévő élelmiszereket a hűtőszekrényben"
 }

@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "เวที",
     "CL_DV_HOB_sensitivity_level": "ระดับความไวของฮูดอัตโนมัติ",
     "CL_DV_HOB_hood_title": "หมวกคลุมศีรษะ",
-    "CL_DV_RF_food_inventory": "บัญชีรายการอาหาร",
+    "CL_CF_FM_food_inventory": "บัญชีรายการอาหาร",
     "p_check_email": "กรุณาตรวจสอบอีเมล์ของคุณ",
-    "CL_DV_RF_storage_appliance": "อุปกรณ์จัดเก็บ"
+    "CL_CF_FM_storage_appliance": "อุปกรณ์จัดเก็บ",
+    "storage_appliance": "อุปกรณ์จัดเก็บ",
+    "CL_CF_FM_quickly_select_food": "เลือกอาหารที่มีอยู่ในตู้เย็นได้อย่างรวดเร็ว"
 }

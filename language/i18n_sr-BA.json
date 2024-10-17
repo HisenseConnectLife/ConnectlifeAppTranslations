@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Стаге",
     "CL_DV_HOB_sensitivity_level": "Ниво осетљивости ауто хаубе",
     "CL_DV_HOB_hood_title": "хоод",
-    "CL_DV_RF_food_inventory": "Инвентар хране",
+    "CL_CF_FM_food_inventory": "Инвентар хране",
     "p_check_email": "Проверите своју е-пошту",
-    "CL_DV_RF_storage_appliance": "Уређај за складиштење"
+    "CL_CF_FM_storage_appliance": "Уређај за складиштење",
+    "storage_appliance": "УРЕЂАЈ ЗА СКЛАДИШТЕЊЕ",
+    "CL_CF_FM_quickly_select_food": "Брзо изаберите постојећу храну у фрижидеру"
 }

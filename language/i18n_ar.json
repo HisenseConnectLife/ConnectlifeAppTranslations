@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "منصة",
     "CL_DV_HOB_sensitivity_level": "مستوى حساسية غطاء المحرك التلقائي",
     "CL_DV_HOB_hood_title": "كَبُّوت",
-    "CL_DV_RF_food_inventory": "جرد المواد الغذائية",
+    "CL_CF_FM_food_inventory": "جرد المواد الغذائية",
     "p_check_email": "يرجى التحقق من بريدك الإلكتروني",
-    "CL_DV_RF_storage_appliance": "أجهزة تخزين"
+    "CL_CF_FM_storage_appliance": "أجهزة تخزين",
+    "storage_appliance": "أجهزة التخزين",
+    "CL_CF_FM_quickly_select_food": "حدد بسرعة الأطعمة الموجودة في الثلاجة"
 }

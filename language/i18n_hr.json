@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Pozornica",
     "CL_DV_HOB_sensitivity_level": "Razina osjetljivosti automatske nape",
     "CL_DV_HOB_hood_title": "napa",
-    "CL_DV_RF_food_inventory": "Popis hrane",
+    "CL_CF_FM_food_inventory": "Popis hrane",
     "p_check_email": "Provjerite svoju e-poštu",
-    "CL_DV_RF_storage_appliance": "Uređaj za pohranu"
+    "CL_CF_FM_storage_appliance": "Uređaj za pohranu",
+    "storage_appliance": "UREĐAJ ZA SKLADIŠTENJE",
+    "CL_CF_FM_quickly_select_food": "Brzo odaberite postojeću hranu u hladnjaku"
 }

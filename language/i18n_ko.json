@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "단계",
     "CL_DV_HOB_sensitivity_level": "자동 후드 감도 레벨",
     "CL_DV_HOB_hood_title": "후드",
-    "CL_DV_RF_food_inventory": "식품 재고",
+    "CL_CF_FM_food_inventory": "식품 재고",
     "p_check_email": "이메일을 확인해 주세요",
-    "CL_DV_RF_storage_appliance": "저장 장치"
+    "CL_CF_FM_storage_appliance": "저장 장치",
+    "storage_appliance": "저장 기기",
+    "CL_CF_FM_quickly_select_food": "냉장고에 있는 기존 식품을 빠르게 선택하세요"
 }

@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Sahne",
     "CL_DV_HOB_sensitivity_level": "Otomatik kaput hassasiyet seviyesi",
     "CL_DV_HOB_hood_title": "kapüşon",
-    "CL_DV_RF_food_inventory": "Gıda Envanteri",
+    "CL_CF_FM_food_inventory": "Gıda Envanteri",
     "p_check_email": "Lütfen e-postanızı kontrol edin",
-    "CL_DV_RF_storage_appliance": "Depolama Cihazı"
+    "CL_CF_FM_storage_appliance": "Depolama Cihazı",
+    "storage_appliance": "DEPOLAMA CİHAZI",
+    "CL_CF_FM_quickly_select_food": "Buzdolabında bulunan yiyecekleri hızlıca seçin"
 }

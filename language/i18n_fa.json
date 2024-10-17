@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "مرحله",
     "CL_DV_HOB_sensitivity_level": "سطح حساسیت هود خودکار",
     "CL_DV_HOB_hood_title": "کاپوت",
-    "CL_DV_RF_food_inventory": "موجودی مواد غذایی",
+    "CL_CF_FM_food_inventory": "موجودی مواد غذایی",
     "p_check_email": "لطفا ایمیل خود را بررسی کنید",
-    "CL_DV_RF_storage_appliance": "لوازم ذخیره سازی"
+    "CL_CF_FM_storage_appliance": "لوازم ذخیره سازی",
+    "storage_appliance": "دستگاه ذخیره سازی",
+    "CL_CF_FM_quickly_select_food": "به سرعت مواد غذایی موجود در یخچال را انتخاب کنید"
 }

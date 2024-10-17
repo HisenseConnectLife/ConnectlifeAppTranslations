@@ -4226,7 +4226,9 @@
     "CL_DV_OV_stage": "Scène",
     "CL_DV_HOB_sensitivity_level": "Niveau de sensibilité du capot automatique",
     "CL_DV_HOB_hood_title": "capot",
-    "CL_DV_RF_food_inventory": "Inventaire des aliments",
+    "CL_CF_FM_food_inventory": "Inventaire des aliments",
     "p_check_email": "Veuillez vérifier votre email",
-    "CL_DV_RF_storage_appliance": "Appareil de stockage"
+    "CL_CF_FM_storage_appliance": "Appareil de stockage",
+    "storage_appliance": "APPAREIL DE STOCKAGE",
+    "CL_CF_FM_quickly_select_food": "Sélectionnez rapidement les aliments existants dans le réfrigérateur"
 }
