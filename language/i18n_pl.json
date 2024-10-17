@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Dźwięki powiadomień",
     "CL_DV_OV_24_navigation_sounds": "Dźwięki nawigacyjne",
-    "CL_DV_OV_24_on_during_use": "Włączone podczas użytkowania"
+    "CL_DV_OV_24_on_during_use": "Włączone podczas użytkowania",
+    "tips_key": "Porady",
+    "CL_DV_OV_stage_cooking_desc": "Gotowanie wieloetapowe pozwala na łączenie wielu systemów grzewczych w jednym procesie gotowania. Wybierz różne funkcje i ustawienia, aby skomponować proces gotowania według własnych preferencji.",
+    "CL_DV_OV_remote_start_tips": "Jeśli włączysz funkcję zdalnego uruchamiania, możesz nie tylko wysłać, ale i uruchomić program na odległość.",
+    "CL_DV_OV_how_to_do_this": "Jak to zrobić?",
+    "CL_DV_OV_add_stage": "Dodaj etap",
+    "CL_DV_OV_stage": "Scena",
+    "CL_DV_HOB_sensitivity_level": "Poziom czułości automatycznego otwierania maski",
+    "CL_DV_HOB_hood_title": "kaptur",
+    "CL_DV_RF_food_inventory": "Zapasy żywności",
+    "p_check_email": "Proszę sprawdzić swoją pocztę e-mail",
+    "CL_DV_RF_storage_appliance": "Urządzenie pamięci masowej"
 }

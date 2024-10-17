@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "נשמע הודעה",
     "CL_DV_OV_24_navigation_sounds": "צלילי ניווט",
-    "CL_DV_OV_24_on_during_use": "דולק במהלך השימוש"
+    "CL_DV_OV_24_on_during_use": "דולק במהלך השימוש",
+    "tips_key": "טיפים",
+    "CL_DV_OV_stage_cooking_desc": "בישול רב-פאזי מאפשר לשלב מספר מערכות חימום בתהליך בישול אחד. בחר פונקציות והגדרות שונות כדי להרכיב את תהליך הבישול לפי העדפתך.",
+    "CL_DV_OV_remote_start_tips": "אם תפעילו הפעלה מרחוק, תוכלו לא רק לשלוח אלא גם להפעיל את התוכנית מרחוק.",
+    "CL_DV_OV_how_to_do_this": "איך לעשות זאת?",
+    "CL_DV_OV_add_stage": "הוסף שלב",
+    "CL_DV_OV_stage": "שָׁלָב",
+    "CL_DV_HOB_sensitivity_level": "רמת רגישות מכסה המנוע אוטומטי",
+    "CL_DV_HOB_hood_title": "בַּרדָס",
+    "CL_DV_RF_food_inventory": "מלאי מזון",
+    "p_check_email": "אנא בדוק את המייל שלך",
+    "CL_DV_RF_storage_appliance": "מכשיר אחסון"
 }

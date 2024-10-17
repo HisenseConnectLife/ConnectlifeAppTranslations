@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO-Pro",
     "CL_DV_OV_24_notification_sounds": "Meldingsgeluiden",
     "CL_DV_OV_24_navigation_sounds": "Navigatiegeluiden",
-    "CL_DV_OV_24_on_during_use": "Aan tijdens gebruik"
+    "CL_DV_OV_24_on_during_use": "Aan tijdens gebruik",
+    "tips_key": "Tips",
+    "CL_DV_OV_stage_cooking_desc": "Met multifase koken kunt u meerdere verwarmingssystemen combineren in één kookproces. Selecteer verschillende functies en instellingen om het kookproces van uw voorkeur samen te stellen.",
+    "CL_DV_OV_remote_start_tips": "Als u Remote Start inschakelt, kunt u het programma niet alleen verzenden, maar ook op afstand starten.",
+    "CL_DV_OV_how_to_do_this": "Hoe doe je dat?",
+    "CL_DV_OV_add_stage": "Fase toevoegen",
+    "CL_DV_OV_stage": "Fase",
+    "CL_DV_HOB_sensitivity_level": "Automatische gevoeligheidsgraad van de motorkap",
+    "CL_DV_HOB_hood_title": "kap",
+    "CL_DV_RF_food_inventory": "Voedselinventaris",
+    "p_check_email": "Controleer uw e-mail",
+    "CL_DV_RF_storage_appliance": "Opslagapparaat"
 }

@@ -4217,5 +4217,16 @@
     "CL_CF_RM_asko_pro_floor": "ASKO Pro",
     "CL_DV_OV_24_notification_sounds": "Notification sounds",
     "CL_DV_OV_24_navigation_sounds": "Navigation sounds",
-    "CL_DV_OV_24_on_during_use": "On during use"
+    "CL_DV_OV_24_on_during_use": "On during use",
+    "tips_key": "Tips",
+    "CL_DV_OV_stage_cooking_desc": "Multiphase stage cooking allows you to combine multiple heater systems in one cooking process. Select different functions and settings to compose the cooking process of your preference.",
+    "CL_DV_OV_remote_start_tips": "If you turn on Remote Start, you can not only send but also start the program from a distance.",
+    "CL_DV_OV_how_to_do_this": "How to do this?",
+    "CL_DV_OV_add_stage": "Add stage",
+    "CL_DV_OV_stage": "Stage",
+    "CL_DV_HOB_sensitivity_level": "Auto hood sensitivity level",
+    "CL_DV_HOB_hood_title": "hood",
+    "CL_DV_RF_food_inventory": "Food Inventory",
+    "p_check_email": "Please check your email",
+    "CL_DV_RF_storage_appliance": "Storage Appliance"
 }
