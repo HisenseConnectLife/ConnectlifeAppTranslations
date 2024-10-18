@@ -4244,5 +4244,7 @@
     "CL_CF_CP_friday": "Sexta-feira",
     "CL_CF_CP_saturday": "Sábado",
     "CL_CF_CP_sunday": "Domingo",
-    "CL_DV_OV_delay_start_end_desc": "Você pode atrasar seu programa de cozimento definindo seu horário de início ou término preferido. Depois de escolher um, o outro será calculado automaticamente."
+    "CL_DV_OV_delay_start_end_desc": "Você pode atrasar seu programa de cozimento definindo seu horário de início ou término preferido. Depois de escolher um, o outro será calculado automaticamente.",
+    "drink_inventory": "Inventário de bebidas",
+    "ac_statistice_content": "Estes dados estatísticos são baseados em estatísticas de rede, e parte dos dados é baseada em condições de laboratório medidas, apenas para referência dos usuários."
 }

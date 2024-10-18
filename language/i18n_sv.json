@@ -4244,5 +4244,7 @@
     "CL_CF_CP_friday": "fredag",
     "CL_CF_CP_saturday": "lördag",
     "CL_CF_CP_sunday": "söndag",
-    "CL_DV_OV_delay_start_end_desc": "Du kan fördröja ditt tillagningsprogram genom att ställa in antingen önskad start- eller sluttid. När du väl har valt en kommer den andra att beräknas automatiskt."
+    "CL_DV_OV_delay_start_end_desc": "Du kan fördröja ditt tillagningsprogram genom att ställa in antingen önskad start- eller sluttid. När du väl har valt en kommer den andra att beräknas automatiskt.",
+    "drink_inventory": "Drycksinventering",
+    "ac_statistice_content": "Dessa statistiska data är baserade på nätverksstatistik, och en del av datan är baserad på laboratorieförhållanden som mätts, endast för användarnas referens."
 }

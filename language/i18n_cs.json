@@ -4244,5 +4244,7 @@
     "CL_CF_CP_friday": "pátek",
     "CL_CF_CP_saturday": "sobota",
     "CL_CF_CP_sunday": "neděle",
-    "CL_DV_OV_delay_start_end_desc": "Program vaření můžete odložit nastavením preferovaného času začátku nebo konce. Jakmile si vyberete jeden, druhý se automaticky vypočítá."
+    "CL_DV_OV_delay_start_end_desc": "Program vaření můžete odložit nastavením preferovaného času začátku nebo konce. Jakmile si vyberete jeden, druhý se automaticky vypočítá.",
+    "drink_inventory": "Nápojový inventář",
+    "ac_statistice_content": "Tyto statistické údaje jsou založeny na síťové statistice a část dat je založena na laboratorních podmínkách měření, pouze pro uživatele k referenci."
 }
