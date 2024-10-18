@@ -4230,5 +4230,19 @@
     "p_check_email": "Будь ласка, перевірте свою електронну пошту",
     "CL_CF_FM_storage_appliance": "Прилад зберігання",
     "storage_appliance": "ПРИЛАД ЗБЕРІГАННЯ",
-    "CL_CF_FM_quickly_select_food": "Швидко виберіть продукти, які є в холодильнику"
+    "CL_CF_FM_quickly_select_food": "Швидко виберіть продукти, які є в холодильнику",
+    "CL_CF_FM_add_selected_items_to_ref": "ДОДАТИ ВИБРАНІ ПОЗИЦІЇ ДО ПОЗ",
+    "CL_CF_FM_skip_to_library": "ПРОПУСТИТИ ДО БІБЛІОТЕКИ",
+    "sch_name": "ІМ'Я ПЛАНОВИКА",
+    "h_use_air_care": "Як використовувати догляд за повітрям",
+    "h_manage_room": "Як керувати своєю кімнатою",
+    "h_select_preset_mode": "Як вибрати попередньо встановлений режим",
+    "CL_CF_CP_monday": "понеділок",
+    "CL_CF_CP_tuesday": "вівторок",
+    "CL_CF_CP_wednesday": "Середа",
+    "CL_CF_CP_thursday": "четвер",
+    "CL_CF_CP_friday": "П'ятниця",
+    "CL_CF_CP_saturday": "Субота",
+    "CL_CF_CP_sunday": "неділя",
+    "CL_DV_OV_delay_start_end_desc": "Ви можете відкласти програму приготування, встановивши бажаний час початку або закінчення. Коли ви виберете один, інший буде розраховано автоматично."
 }

@@ -4230,5 +4230,19 @@
     "p_check_email": "Vă rugăm să vă verificați e-mailul",
     "CL_CF_FM_storage_appliance": "Aparat de depozitare",
     "storage_appliance": "APARATUL DE DEPOZITARE",
-    "CL_CF_FM_quickly_select_food": "Selectați rapid alimentele existente în frigider"
+    "CL_CF_FM_quickly_select_food": "Selectați rapid alimentele existente în frigider",
+    "CL_CF_FM_add_selected_items_to_ref": "ADAUGĂ ARTICOLE SELECTATE LA REF",
+    "CL_CF_FM_skip_to_library": "SARE LA BIBLIOTECĂ",
+    "sch_name": "Numele planificatorului",
+    "h_use_air_care": "Cum se utilizează îngrijirea aerului",
+    "h_manage_room": "Cum să vă gestionați camera",
+    "h_select_preset_mode": "Cum se selectează un mod presetat",
+    "CL_CF_CP_monday": "luni",
+    "CL_CF_CP_tuesday": "marţi",
+    "CL_CF_CP_wednesday": "miercuri",
+    "CL_CF_CP_thursday": "joi",
+    "CL_CF_CP_friday": "vineri",
+    "CL_CF_CP_saturday": "sâmbătă",
+    "CL_CF_CP_sunday": "duminică",
+    "CL_DV_OV_delay_start_end_desc": "Vă puteți întârzia programul de gătit setând fie ora de început, fie cea de sfârșit. După ce ați ales unul, celălalt va fi calculat automat."
 }

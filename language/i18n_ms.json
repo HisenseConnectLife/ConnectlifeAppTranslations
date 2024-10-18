@@ -4230,5 +4230,19 @@
     "p_check_email": "Sila semak e-mel anda",
     "CL_CF_FM_storage_appliance": "Perkakas Penyimpanan",
     "storage_appliance": "PERKAKAS PENYIMPANAN",
-    "CL_CF_FM_quickly_select_food": "Cepat pilih makanan sedia ada di dalam peti sejuk"
+    "CL_CF_FM_quickly_select_food": "Cepat pilih makanan sedia ada di dalam peti sejuk",
+    "CL_CF_FM_add_selected_items_to_ref": "TAMBAHKAN ITEM PILIHAN KE RUJUKAN",
+    "CL_CF_FM_skip_to_library": "LANGKAH KE PERPUSTAKAAN",
+    "sch_name": "NAMA PENJADUAL",
+    "h_use_air_care": "Bagaimana untuk menggunakan penjagaan udara?",
+    "h_manage_room": "Bagaimana untuk menguruskan bilik anda?",
+    "h_select_preset_mode": "Bagaimana untuk memilih mod pratetap?",
+    "CL_CF_CP_monday": "Isnin",
+    "CL_CF_CP_tuesday": "Selasa",
+    "CL_CF_CP_wednesday": "Rabu",
+    "CL_CF_CP_thursday": "Khamis",
+    "CL_CF_CP_friday": "Jumaat",
+    "CL_CF_CP_saturday": "Sabtu",
+    "CL_CF_CP_sunday": "Ahad",
+    "CL_DV_OV_delay_start_end_desc": "Anda boleh menangguhkan program memasak anda dengan menetapkan sama ada masa mula atau tamat pilihan anda. Sebaik sahaja anda telah memilih satu, yang lain akan dikira secara automatik."
 }

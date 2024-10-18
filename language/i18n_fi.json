@@ -4230,5 +4230,19 @@
     "p_check_email": "Tarkista sähköpostisi",
     "CL_CF_FM_storage_appliance": "Säilytyslaite",
     "storage_appliance": "SÄILYTYSLAITE",
-    "CL_CF_FM_quickly_select_food": "Valitse jääkaapissa oleva ruoka nopeasti"
+    "CL_CF_FM_quickly_select_food": "Valitse jääkaapissa oleva ruoka nopeasti",
+    "CL_CF_FM_add_selected_items_to_ref": "LISÄÄ VALITUT KOHTEET VIITEESEEN",
+    "CL_CF_FM_skip_to_library": "SIIRRY KIRJASTOON",
+    "sch_name": "AIKATAULUJA NIMI",
+    "h_use_air_care": "Kuinka käyttää ilmanhoitoa",
+    "h_manage_room": "Kuinka hallita huonettasi",
+    "h_select_preset_mode": "Kuinka valita esiasetettu tila",
+    "CL_CF_CP_monday": "maanantai",
+    "CL_CF_CP_tuesday": "tiistai",
+    "CL_CF_CP_wednesday": "keskiviikko",
+    "CL_CF_CP_thursday": "torstai",
+    "CL_CF_CP_friday": "perjantai",
+    "CL_CF_CP_saturday": "lauantai",
+    "CL_CF_CP_sunday": "sunnuntai",
+    "CL_DV_OV_delay_start_end_desc": "Voit viivyttää kypsennysohjelmaa asettamalla haluamasi aloitus- tai lopetusajan. Kun olet valinnut yhden, toinen lasketaan automaattisesti."
 }

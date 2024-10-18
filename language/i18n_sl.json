@@ -4230,5 +4230,19 @@
     "p_check_email": "Preverite svojo e-pošto",
     "CL_CF_FM_storage_appliance": "Naprava za shranjevanje",
     "storage_appliance": "NAPRAVA ZA SHRANJEVANJE",
-    "CL_CF_FM_quickly_select_food": "Hitro izberite obstoječo hrano v hladilniku"
+    "CL_CF_FM_quickly_select_food": "Hitro izberite obstoječo hrano v hladilniku",
+    "CL_CF_FM_add_selected_items_to_ref": "DODAJ IZBRANE PREDMETE REF",
+    "CL_CF_FM_skip_to_library": "PRESKOČITE V KNJIŽNICO",
+    "sch_name": "IME RAZPOREDNIKA",
+    "h_use_air_care": "Kako uporabljati nego zraka",
+    "h_manage_room": "Kako upravljati svojo sobo",
+    "h_select_preset_mode": "Kako izbrati prednastavljeni način",
+    "CL_CF_CP_monday": "ponedeljek",
+    "CL_CF_CP_tuesday": "torek",
+    "CL_CF_CP_wednesday": "sreda",
+    "CL_CF_CP_thursday": "četrtek",
+    "CL_CF_CP_friday": "petek",
+    "CL_CF_CP_saturday": "sobota",
+    "CL_CF_CP_sunday": "nedelja",
+    "CL_DV_OV_delay_start_end_desc": "Program kuhanja lahko zamaknete tako, da nastavite želeni začetni ali končni čas. Ko izberete enega, bo drugi samodejno izračunan."
 }

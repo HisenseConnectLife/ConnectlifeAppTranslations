@@ -4230,5 +4230,19 @@
     "p_check_email": "Please check your email",
     "CL_CF_FM_storage_appliance": "Storage Appliance",
     "storage_appliance": "STORAGE APPLIANCE",
-    "CL_CF_FM_quickly_select_food": "Quickly select existing food in the refrigerator"
+    "CL_CF_FM_quickly_select_food": "Quickly select existing food in the refrigerator",
+    "CL_CF_FM_add_selected_items_to_ref": "ADD SELECTED ITEMS TO REF",
+    "CL_CF_FM_skip_to_library": "SKIP  TO THE LIBRARY",
+    "sch_name": "SCHEDULER NAME",
+    "h_use_air_care": "How to use air care?",
+    "h_manage_room": "How to manage your room?",
+    "h_select_preset_mode": "How to select a preset mode?",
+    "CL_CF_CP_monday": "Monday",
+    "CL_CF_CP_tuesday": "Tuesday",
+    "CL_CF_CP_wednesday": "Wednesday",
+    "CL_CF_CP_thursday": "Thursday",
+    "CL_CF_CP_friday": "Friday",
+    "CL_CF_CP_saturday": "Saturday",
+    "CL_CF_CP_sunday": "Sunday",
+    "CL_DV_OV_delay_start_end_desc": "You can delay your cooking program by setting either your preferred start or end time. Once you've chosen one, the other will be automatically calculated."
 }

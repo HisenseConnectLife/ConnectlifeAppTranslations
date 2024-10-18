@@ -4230,5 +4230,19 @@
     "p_check_email": "Kontrollera din e-post",
     "CL_CF_FM_storage_appliance": "Förvaringsapparat",
     "storage_appliance": "FÖRVARINGSAPPARAT",
-    "CL_CF_FM_quickly_select_food": "Välj snabbt ut befintlig mat i kylskåpet"
+    "CL_CF_FM_quickly_select_food": "Välj snabbt ut befintlig mat i kylskåpet",
+    "CL_CF_FM_add_selected_items_to_ref": "LÄGG TILL VALDA ARTIKLAR TILL REF",
+    "CL_CF_FM_skip_to_library": "HOPPA TILL BIBLIOTEKET",
+    "sch_name": "Schemaläggarens NAMN",
+    "h_use_air_care": "Hur man använder luftvård",
+    "h_manage_room": "Hur du sköter ditt rum",
+    "h_select_preset_mode": "Hur man väljer ett förinställt läge",
+    "CL_CF_CP_monday": "måndag",
+    "CL_CF_CP_tuesday": "tisdag",
+    "CL_CF_CP_wednesday": "onsdag",
+    "CL_CF_CP_thursday": "torsdag",
+    "CL_CF_CP_friday": "fredag",
+    "CL_CF_CP_saturday": "lördag",
+    "CL_CF_CP_sunday": "söndag",
+    "CL_DV_OV_delay_start_end_desc": "Du kan fördröja ditt tillagningsprogram genom att ställa in antingen önskad start- eller sluttid. När du väl har valt en kommer den andra att beräknas automatiskt."
 }

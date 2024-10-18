@@ -4230,5 +4230,19 @@
     "p_check_email": "Provjerite svoju e-poštu",
     "CL_CF_FM_storage_appliance": "Uređaj za pohranu",
     "storage_appliance": "UREĐAJ ZA SKLADIŠTENJE",
-    "CL_CF_FM_quickly_select_food": "Brzo odaberite postojeću hranu u hladnjaku"
+    "CL_CF_FM_quickly_select_food": "Brzo odaberite postojeću hranu u hladnjaku",
+    "CL_CF_FM_add_selected_items_to_ref": "DODAJTE ODABRANE STAVKE REF",
+    "CL_CF_FM_skip_to_library": "PRESKOČITE DO KNJIŽNICE",
+    "sch_name": "NAZIV RASPOREDNIKA",
+    "h_use_air_care": "Kako koristiti njegu zraka",
+    "h_manage_room": "Kako upravljati sobom",
+    "h_select_preset_mode": "Kako odabrati unaprijed postavljeni način rada",
+    "CL_CF_CP_monday": "ponedjeljak",
+    "CL_CF_CP_tuesday": "utorak",
+    "CL_CF_CP_wednesday": "srijeda",
+    "CL_CF_CP_thursday": "četvrtak",
+    "CL_CF_CP_friday": "petak",
+    "CL_CF_CP_saturday": "subota",
+    "CL_CF_CP_sunday": "nedjelja",
+    "CL_DV_OV_delay_start_end_desc": "Program kuhanja možete odgoditi postavljanjem željenog vremena početka ili završetka. Nakon što odaberete jedan, drugi će se automatski izračunati."
 }

@@ -4230,5 +4230,19 @@
     "p_check_email": "請檢查您的電子郵件",
     "CL_CF_FM_storage_appliance": "儲存裝置",
     "storage_appliance": "儲存裝置",
-    "CL_CF_FM_quickly_select_food": "快速選擇冰箱中現有的食物"
+    "CL_CF_FM_quickly_select_food": "快速選擇冰箱中現有的食物",
+    "CL_CF_FM_add_selected_items_to_ref": "新增所選項目至參考",
+    "CL_CF_FM_skip_to_library": "跳至圖書館",
+    "sch_name": "調度者名稱",
+    "h_use_air_care": "如何使用智能空净",
+    "h_manage_room": "如何管理你的房间",
+    "h_select_preset_mode": "如何选择预设模式",
+    "CL_CF_CP_monday": "週一",
+    "CL_CF_CP_tuesday": "週二",
+    "CL_CF_CP_wednesday": "週三",
+    "CL_CF_CP_thursday": "週四",
+    "CL_CF_CP_friday": "星期五",
+    "CL_CF_CP_saturday": "週六",
+    "CL_CF_CP_sunday": "星期日",
+    "CL_DV_OV_delay_start_end_desc": "您可以透過設定您喜歡的開始或結束時間來延遲烹飪程序。選擇其中一項後，系統會自動計算另一項。"
 }

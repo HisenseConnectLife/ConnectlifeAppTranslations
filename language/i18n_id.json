@@ -4230,5 +4230,19 @@
     "p_check_email": "Silakan periksa email Anda",
     "CL_CF_FM_storage_appliance": "Peralatan Penyimpanan",
     "storage_appliance": "PERALATAN PENYIMPANAN",
-    "CL_CF_FM_quickly_select_food": "Pilih makanan yang ada di lemari es dengan cepat"
+    "CL_CF_FM_quickly_select_food": "Pilih makanan yang ada di lemari es dengan cepat",
+    "CL_CF_FM_add_selected_items_to_ref": "TAMBAHKAN ITEM YANG DIPILIH KE REF",
+    "CL_CF_FM_skip_to_library": "LANGSUNG KE PERPUSTAKAAN",
+    "sch_name": "NAMA PENJADWAL",
+    "h_use_air_care": "Bagaimana cara menggunakan perawatan udara?",
+    "h_manage_room": "Bagaimana cara mengelola kamar Anda?",
+    "h_select_preset_mode": "Bagaimana cara memilih mode preset?",
+    "CL_CF_CP_monday": "Senin",
+    "CL_CF_CP_tuesday": "Selasa",
+    "CL_CF_CP_wednesday": "Rabu",
+    "CL_CF_CP_thursday": "Kamis",
+    "CL_CF_CP_friday": "Jumat",
+    "CL_CF_CP_saturday": "Sabtu",
+    "CL_CF_CP_sunday": "Minggu",
+    "CL_DV_OV_delay_start_end_desc": "Anda dapat menunda program memasak dengan mengatur waktu mulai atau berakhir yang Anda inginkan. Setelah memilih salah satu, waktu lainnya akan dihitung secara otomatis."
 }
