@@ -4230,5 +4230,19 @@
     "p_check_email": "Моля, проверете имейла си",
     "CL_CF_FM_storage_appliance": "Уред за съхранение",
     "storage_appliance": "УРЕД ЗА СЪХРАНЕНИЕ",
-    "CL_CF_FM_quickly_select_food": "Бързо изберете съществуваща храна в хладилника"
+    "CL_CF_FM_quickly_select_food": "Бързо изберете съществуваща храна в хладилника",
+    "CL_CF_FM_add_selected_items_to_ref": "ДОБАВИ ИЗБРАНИ АРТИКУЛИ КЪМ РЕФ",
+    "CL_CF_FM_skip_to_library": "ПРЕМИНЕТЕ КЪМ БИБЛИОТЕКАТА",
+    "sch_name": "ИМЕ НА ГРАФИКА",
+    "h_use_air_care": "Как да използвате грижа за въздуха",
+    "h_manage_room": "Как да управлявате стаята си",
+    "h_select_preset_mode": "Как да изберете предварително зададен режим",
+    "CL_CF_CP_monday": "понеделник",
+    "CL_CF_CP_tuesday": "вторник",
+    "CL_CF_CP_wednesday": "сряда",
+    "CL_CF_CP_thursday": "четвъртък",
+    "CL_CF_CP_friday": "петък",
+    "CL_CF_CP_saturday": "Събота",
+    "CL_CF_CP_sunday": "неделя",
+    "CL_DV_OV_delay_start_end_desc": "Можете да забавите вашата програма за готвене, като зададете предпочитания начален или краен час. След като изберете единия, другият ще бъде изчислен автоматично."
 }

@@ -4230,5 +4230,19 @@
     "p_check_email": "Kérjük, ellenőrizze e-mailjét",
     "CL_CF_FM_storage_appliance": "Tároló készülék",
     "storage_appliance": "TÁROLÓ KÉSZÜLÉK",
-    "CL_CF_FM_quickly_select_food": "Gyorsan válassza ki a meglévő élelmiszereket a hűtőszekrényben"
+    "CL_CF_FM_quickly_select_food": "Gyorsan válassza ki a meglévő élelmiszereket a hűtőszekrényben",
+    "CL_CF_FM_add_selected_items_to_ref": "A KIVÁLASZTOTT ELEMEK HOZZÁADÁSA A REF",
+    "CL_CF_FM_skip_to_library": "UGRÁS A KÖNYVTÁRBA",
+    "sch_name": "ÜTEMEZŐ NEVE",
+    "h_use_air_care": "Hogyan kell használni a levegőápolást",
+    "h_manage_room": "Hogyan kezelje szobáját",
+    "h_select_preset_mode": "Előre beállított mód kiválasztása",
+    "CL_CF_CP_monday": "hétfő",
+    "CL_CF_CP_tuesday": "kedd",
+    "CL_CF_CP_wednesday": "szerda",
+    "CL_CF_CP_thursday": "csütörtök",
+    "CL_CF_CP_friday": "péntek",
+    "CL_CF_CP_saturday": "szombat",
+    "CL_CF_CP_sunday": "vasárnap",
+    "CL_DV_OV_delay_start_end_desc": "A kívánt kezdési vagy befejezési időpont beállításával késleltetheti a főzési programot. Miután kiválasztotta az egyiket, a másik automatikusan kiszámításra kerül."
 }

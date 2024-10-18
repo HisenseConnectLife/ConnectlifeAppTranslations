@@ -4230,5 +4230,19 @@
     "p_check_email": "Proszę sprawdzić swoją pocztę e-mail",
     "CL_CF_FM_storage_appliance": "Urządzenie pamięci masowej",
     "storage_appliance": "URZĄDZENIE DO PRZECHOWYWANIA",
-    "CL_CF_FM_quickly_select_food": "Szybki wybór istniejącej żywności w lodówce"
+    "CL_CF_FM_quickly_select_food": "Szybki wybór istniejącej żywności w lodówce",
+    "CL_CF_FM_add_selected_items_to_ref": "DODAJ WYBRANE ELEMENTY DO REF",
+    "CL_CF_FM_skip_to_library": "PRZEJDŹ DO BIBLIOTEKI",
+    "sch_name": "NAZWA HARMONOGRAMU",
+    "h_use_air_care": "Jak korzystać z oczyszczania powietrza",
+    "h_manage_room": "Jak zarządzać pokojem",
+    "h_select_preset_mode": "Jak wybrać tryb ustawień wstępnych",
+    "CL_CF_CP_monday": "Poniedziałek",
+    "CL_CF_CP_tuesday": "Wtorek",
+    "CL_CF_CP_wednesday": "Środa",
+    "CL_CF_CP_thursday": "Czwartek",
+    "CL_CF_CP_friday": "Piątek",
+    "CL_CF_CP_saturday": "Sobota",
+    "CL_CF_CP_sunday": "Niedziela",
+    "CL_DV_OV_delay_start_end_desc": "Możesz opóźnić program gotowania, ustawiając preferowany czas rozpoczęcia lub zakończenia. Po wybraniu jednego, drugi zostanie automatycznie obliczony."
 }

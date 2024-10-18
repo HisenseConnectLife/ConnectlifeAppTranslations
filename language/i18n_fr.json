@@ -4230,5 +4230,19 @@
     "p_check_email": "Veuillez vérifier votre email",
     "CL_CF_FM_storage_appliance": "Appareil de stockage",
     "storage_appliance": "APPAREIL DE STOCKAGE",
-    "CL_CF_FM_quickly_select_food": "Sélectionnez rapidement les aliments existants dans le réfrigérateur"
+    "CL_CF_FM_quickly_select_food": "Sélectionnez rapidement les aliments existants dans le réfrigérateur",
+    "CL_CF_FM_add_selected_items_to_ref": "AJOUTER LES ÉLÉMENTS SÉLECTIONNÉS À LA RÉFÉRENCE",
+    "CL_CF_FM_skip_to_library": "Passer à la bibliothèque",
+    "sch_name": "NOM DU PLANIFICATEUR",
+    "h_use_air_care": "Comment utiliser la protection de l'air",
+    "h_manage_room": "Comment gérer votre chambre",
+    "h_select_preset_mode": "Comment sélectionner un mode prédéfini",
+    "CL_CF_CP_monday": "Lundi",
+    "CL_CF_CP_tuesday": "Mardi",
+    "CL_CF_CP_wednesday": "Mercredi",
+    "CL_CF_CP_thursday": "Jeudi",
+    "CL_CF_CP_friday": "Vendredi",
+    "CL_CF_CP_saturday": "Samedi",
+    "CL_CF_CP_sunday": "Dimanche",
+    "CL_DV_OV_delay_start_end_desc": "Vous pouvez retarder votre programme de cuisson en définissant votre heure de début ou de fin préférée. Une fois que vous avez choisi l'une des deux, l'autre sera automatiquement calculée."
 }

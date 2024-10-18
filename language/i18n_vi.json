@@ -4230,5 +4230,19 @@
     "p_check_email": "Vui lòng kiểm tra email của bạn",
     "CL_CF_FM_storage_appliance": "Thiết bị lưu trữ",
     "storage_appliance": "THIẾT BỊ LƯU TRỮ",
-    "CL_CF_FM_quickly_select_food": "Nhanh chóng chọn thực phẩm hiện có trong tủ lạnh"
+    "CL_CF_FM_quickly_select_food": "Nhanh chóng chọn thực phẩm hiện có trong tủ lạnh",
+    "CL_CF_FM_add_selected_items_to_ref": "THÊM CÁC MẶT HÀNG ĐÃ CHỌN VÀO REF",
+    "CL_CF_FM_skip_to_library": "BỎ QUA ĐẾN THƯ VIỆN",
+    "sch_name": "TÊN NGƯỜI LỊCH TRÌNH",
+    "h_use_air_care": "Sử dụng sản phẩm chăm sóc không khí như thế nào?",
+    "h_manage_room": "Làm thế nào để quản lý phòng của bạn?",
+    "h_select_preset_mode": "Làm thế nào để chọn chế độ cài đặt sẵn?",
+    "CL_CF_CP_monday": "Thứ hai",
+    "CL_CF_CP_tuesday": "Thứ ba",
+    "CL_CF_CP_wednesday": "Thứ Tư",
+    "CL_CF_CP_thursday": "Thứ năm",
+    "CL_CF_CP_friday": "Thứ sáu",
+    "CL_CF_CP_saturday": "Thứ bảy",
+    "CL_CF_CP_sunday": "Chủ nhật",
+    "CL_DV_OV_delay_start_end_desc": "Bạn có thể trì hoãn chương trình nấu ăn của mình bằng cách thiết lập thời gian bắt đầu hoặc kết thúc mong muốn. Sau khi bạn chọn một, thời gian còn lại sẽ được tự động tính toán."
 }

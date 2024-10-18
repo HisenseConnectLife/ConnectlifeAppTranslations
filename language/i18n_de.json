@@ -4230,5 +4230,19 @@
     "p_check_email": "Bitte überprüfen Sie Ihre E-Mail",
     "CL_CF_FM_storage_appliance": "Speichergerät",
     "storage_appliance": "SPEICHERGERÄT",
-    "CL_CF_FM_quickly_select_food": "Schnelle Auswahl vorhandener Lebensmittel im Kühlschrank"
+    "CL_CF_FM_quickly_select_food": "Schnelle Auswahl vorhandener Lebensmittel im Kühlschrank",
+    "CL_CF_FM_add_selected_items_to_ref": "Ausgewählte Elemente zur Referenz hinzufügen",
+    "CL_CF_FM_skip_to_library": "ZUR BIBLIOTHEK SPRINGEN",
+    "sch_name": "PLANUNGSNAME",
+    "h_use_air_care": "Wie man air care anwendet",
+    "h_manage_room": "So verwalten Sie Ihr Zimmer",
+    "h_select_preset_mode": "So wählen Sie einen voreingestellten Modus aus",
+    "CL_CF_CP_monday": "Montag",
+    "CL_CF_CP_tuesday": "Dienstag",
+    "CL_CF_CP_wednesday": "Mittwoch",
+    "CL_CF_CP_thursday": "Donnerstag",
+    "CL_CF_CP_friday": "Freitag",
+    "CL_CF_CP_saturday": "Samstag",
+    "CL_CF_CP_sunday": "Sonntag",
+    "CL_DV_OV_delay_start_end_desc": "Sie können Ihr Kochprogramm verzögern, indem Sie entweder Ihre bevorzugte Start- oder Endzeit festlegen. Sobald Sie eine ausgewählt haben, wird die andere automatisch berechnet."
 }

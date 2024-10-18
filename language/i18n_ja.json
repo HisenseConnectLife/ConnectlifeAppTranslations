@@ -4230,5 +4230,19 @@
     "p_check_email": "メールを確認してください",
     "CL_CF_FM_storage_appliance": "ストレージアプライアンス",
     "storage_appliance": "ストレージアプライアンス",
-    "CL_CF_FM_quickly_select_food": "冷蔵庫にある食品を素早く選択"
+    "CL_CF_FM_quickly_select_food": "冷蔵庫にある食品を素早く選択",
+    "CL_CF_FM_add_selected_items_to_ref": "選択したアイテムをREFに追加",
+    "CL_CF_FM_skip_to_library": "ライブラリへスキップ",
+    "sch_name": "スケジューラ名",
+    "h_use_air_care": "エアケアの使い方",
+    "h_manage_room": "部屋の管理方法",
+    "h_select_preset_mode": "プリセットモードの選び方",
+    "CL_CF_CP_monday": "月曜日",
+    "CL_CF_CP_tuesday": "火曜日",
+    "CL_CF_CP_wednesday": "水曜日",
+    "CL_CF_CP_thursday": "木曜日",
+    "CL_CF_CP_friday": "金曜日",
+    "CL_CF_CP_saturday": "土曜日",
+    "CL_CF_CP_sunday": "日曜日",
+    "CL_DV_OV_delay_start_end_desc": "開始時間または終了時間を設定することで、調理プログラムを遅らせることができます。どちらか一方を選択すると、もう一方は自動的に計算されます。"
 }

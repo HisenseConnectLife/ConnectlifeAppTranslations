@@ -4230,5 +4230,19 @@
     "p_check_email": "कृपया अपनी ईमेल देखें",
     "CL_CF_FM_storage_appliance": "भंडारण उपकरण",
     "storage_appliance": "भंडारण उपकरण",
-    "CL_CF_FM_quickly_select_food": "रेफ्रिजरेटर में मौजूद खाद्य पदार्थ को जल्दी से चुनें"
+    "CL_CF_FM_quickly_select_food": "रेफ्रिजरेटर में मौजूद खाद्य पदार्थ को जल्दी से चुनें",
+    "CL_CF_FM_add_selected_items_to_ref": "चयनित आइटम को संदर्भ में जोड़ें",
+    "CL_CF_FM_skip_to_library": "लाइब्रेरी पर जाएं",
+    "sch_name": "शेड्यूलर का नाम",
+    "h_use_air_care": "एयर केयर का उपयोग कैसे करें?",
+    "h_manage_room": "अपने कमरे का प्रबंधन कैसे करें?",
+    "h_select_preset_mode": "प्रीसेट मोड का चयन कैसे करें?",
+    "CL_CF_CP_monday": "सोमवार",
+    "CL_CF_CP_tuesday": "मंगलवार",
+    "CL_CF_CP_wednesday": "बुधवार",
+    "CL_CF_CP_thursday": "गुरुवार",
+    "CL_CF_CP_friday": "शुक्रवार",
+    "CL_CF_CP_saturday": "शनिवार",
+    "CL_CF_CP_sunday": "रविवार",
+    "CL_DV_OV_delay_start_end_desc": "आप अपने पसंदीदा प्रारंभ या समाप्ति समय को सेट करके अपने खाना पकाने के कार्यक्रम में देरी कर सकते हैं। एक बार जब आप एक चुन लेते हैं, तो दूसरे की गणना स्वचालित रूप से की जाएगी।"
 }

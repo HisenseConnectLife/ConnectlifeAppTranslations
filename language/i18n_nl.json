@@ -4230,5 +4230,19 @@
     "p_check_email": "Controleer uw e-mail",
     "CL_CF_FM_storage_appliance": "Opslagapparaat",
     "storage_appliance": "OPSLAGAPPARAAT",
-    "CL_CF_FM_quickly_select_food": "Selecteer snel bestaand voedsel in de koelkast"
+    "CL_CF_FM_quickly_select_food": "Selecteer snel bestaand voedsel in de koelkast",
+    "CL_CF_FM_add_selected_items_to_ref": "GESELECTEERDE ITEMS TOEVOEGEN AAN REF",
+    "CL_CF_FM_skip_to_library": "GA NAAR DE BIBLIOTHEEK",
+    "sch_name": "NAAM VAN DE PLANNER",
+    "h_use_air_care": "Hoe gebruik je luchtverzorging?",
+    "h_manage_room": "Hoe u uw kamer kunt beheren",
+    "h_select_preset_mode": "Een vooraf ingestelde modus selecteren",
+    "CL_CF_CP_monday": "Maandag",
+    "CL_CF_CP_tuesday": "Dinsdag",
+    "CL_CF_CP_wednesday": "Woensdag",
+    "CL_CF_CP_thursday": "Donderdag",
+    "CL_CF_CP_friday": "Vrijdag",
+    "CL_CF_CP_saturday": "Zaterdag",
+    "CL_CF_CP_sunday": "Zondag",
+    "CL_DV_OV_delay_start_end_desc": "U kunt uw kookprogramma uitstellen door uw gewenste begin- of eindtijd in te stellen. Zodra u er een hebt gekozen, wordt de andere automatisch berekend."
 }
