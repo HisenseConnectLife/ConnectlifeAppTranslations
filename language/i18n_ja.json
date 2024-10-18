@@ -4230,5 +4230,11 @@
     "p_check_email": "メールを確認してください",
     "CL_CF_FM_storage_appliance": "ストレージアプライアンス",
     "storage_appliance": "ストレージアプライアンス",
-    "CL_CF_FM_quickly_select_food": "冷蔵庫にある食品を素早く選択"
+    "CL_CF_FM_quickly_select_food": "冷蔵庫にある食品を素早く選択",
+    "CL_CF_FM_add_selected_items_to_ref": "選択したアイテムをREFに追加",
+    "CL_CF_FM_skip_to_library": "ライブラリへスキップ",
+    "sch_name": "スケジューラ名",
+    "h_use_air_care": "エアケアの使い方",
+    "h_manage_room": "部屋の管理方法",
+    "h_select_preset_mode": "プリセットモードの選び方"
 }

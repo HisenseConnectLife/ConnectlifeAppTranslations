@@ -4230,5 +4230,11 @@
     "p_check_email": "Ελέγξτε το email σας",
     "CL_CF_FM_storage_appliance": "Συσκευή αποθήκευσης",
     "storage_appliance": "ΣΥΣΚΕΥΗ ΑΠΟΘΗΚΕΥΣΗΣ",
-    "CL_CF_FM_quickly_select_food": "Επιλέξτε γρήγορα υπάρχοντα τρόφιμα στο ψυγείο"
+    "CL_CF_FM_quickly_select_food": "Επιλέξτε γρήγορα υπάρχοντα τρόφιμα στο ψυγείο",
+    "CL_CF_FM_add_selected_items_to_ref": "ΠΡΟΣΘΗΚΗ ΕΠΙΛΕΓΜΕΝΩΝ ΣΤΟΙΧΕΙΩΝ ΣΤΗΝ ΑΝΑΦ",
+    "CL_CF_FM_skip_to_library": "ΜΕΤΑΒΑΣΗ ΣΤΗ ΒΙΒΛΙΟΘΗΚΗ",
+    "sch_name": "ΟΝΟΜΑ ΠΡΟΓΡΑΜΜΑΤΙΣΤΗ",
+    "h_use_air_care": "Πώς να χρησιμοποιήσετε τη φροντίδα του αέρα",
+    "h_manage_room": "Πώς να διαχειριστείτε το δωμάτιό σας",
+    "h_select_preset_mode": "Πώς να επιλέξετε μια προκαθορισμένη λειτουργία"
 }

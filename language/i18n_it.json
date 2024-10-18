@@ -972,7 +972,7 @@
     "washer_atag_step_wash_way_quiet": "Tranquillo",
     "washer_atag_step_wash_way_powerful": "Potente",
     "finish": "FINE",
-    "setting_auto_child_lock": "Blocco per bambini",
+    "setting_auto_child_lock": "Blocco per Bambini",
     "setting_key_sound_level": "Livello sonoro chiave",
     "setting_key_sensitivity_level": "Livello di sensibilità chiave",
     "setting_demo_mode": "Modalità demo",
@@ -4230,5 +4230,11 @@
     "p_check_email": "Per favore controlla la tua email",
     "CL_CF_FM_storage_appliance": "Dispositivo di archiviazione",
     "storage_appliance": "APPARECCHIO DI CONSERVAZIONE",
-    "CL_CF_FM_quickly_select_food": "Seleziona rapidamente gli alimenti presenti nel frigorifero"
+    "CL_CF_FM_quickly_select_food": "Seleziona rapidamente gli alimenti presenti nel frigorifero",
+    "CL_CF_FM_add_selected_items_to_ref": "AGGIUNGI ARTICOLI SELEZIONATI AL RIFERIMENTO",
+    "CL_CF_FM_skip_to_library": "VAI ALLA BIBLIOTECA",
+    "sch_name": "NOME DEL PROGRAMMATORE",
+    "h_use_air_care": "Come usare la cura dell'aria",
+    "h_manage_room": "Come gestire la tua camera",
+    "h_select_preset_mode": "Come selezionare una modalità preimpostata"
 }

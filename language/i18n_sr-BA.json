@@ -4230,5 +4230,11 @@
     "p_check_email": "Проверите своју е-пошту",
     "CL_CF_FM_storage_appliance": "Уређај за складиштење",
     "storage_appliance": "УРЕЂАЈ ЗА СКЛАДИШТЕЊЕ",
-    "CL_CF_FM_quickly_select_food": "Брзо изаберите постојећу храну у фрижидеру"
+    "CL_CF_FM_quickly_select_food": "Брзо изаберите постојећу храну у фрижидеру",
+    "CL_CF_FM_add_selected_items_to_ref": "ДОДАЈТЕ ОДАБРАНЕ СТАВКЕ НА РЕФ",
+    "CL_CF_FM_skip_to_library": "ПРЕСКОЧИТЕ ДО БИБЛИОТЕКЕ",
+    "sch_name": "ИМЕ РЕДОВНИКА",
+    "h_use_air_care": "Како користити негу ваздуха",
+    "h_manage_room": "Како управљати својом собом?",
+    "h_select_preset_mode": "Како одабрати унапред подешени режим"
 }

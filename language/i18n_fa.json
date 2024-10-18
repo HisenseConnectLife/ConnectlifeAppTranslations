@@ -4230,5 +4230,11 @@
     "p_check_email": "لطفا ایمیل خود را بررسی کنید",
     "CL_CF_FM_storage_appliance": "لوازم ذخیره سازی",
     "storage_appliance": "دستگاه ذخیره سازی",
-    "CL_CF_FM_quickly_select_food": "به سرعت مواد غذایی موجود در یخچال را انتخاب کنید"
+    "CL_CF_FM_quickly_select_food": "به سرعت مواد غذایی موجود در یخچال را انتخاب کنید",
+    "CL_CF_FM_add_selected_items_to_ref": "افزودن موارد انتخابی به مرجع",
+    "CL_CF_FM_skip_to_library": "پرش به کتابخانه",
+    "sch_name": "نام برنامه‌ریز",
+    "h_use_air_care": "نحوه استفاده از مراقبت های هوایی",
+    "h_manage_room": "چگونه اتاق خود را مدیریت کنید",
+    "h_select_preset_mode": "نحوه انتخاب حالت از پیش تعیین شده"
 }

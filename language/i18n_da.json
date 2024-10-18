@@ -792,7 +792,7 @@
     "device_status_open": "Åben",
     "device_status_not_available": "Ikke tilgængelig",
     "device_status_weight": "Vejning",
-    "device_status_prewashing": "Forvasker",
+    "device_status_prewashing": "Forvask",
     "device_status_washing": "Vasker",
     "device_status_rinsing": "Skylning",
     "device_status_soften": "Blødgørende",
@@ -4230,5 +4230,11 @@
     "p_check_email": "Tjek venligst din e-mail",
     "CL_CF_FM_storage_appliance": "Opbevaringsapparat",
     "storage_appliance": "OPBEVARINGSAPPARAT",
-    "CL_CF_FM_quickly_select_food": "Vælg hurtigt eksisterende mad i køleskabet"
+    "CL_CF_FM_quickly_select_food": "Vælg hurtigt eksisterende mad i køleskabet",
+    "CL_CF_FM_add_selected_items_to_ref": "TILFØJ UDVALGTE VARER TIL REF",
+    "CL_CF_FM_skip_to_library": "SKIP TIL BIBLIOTEKET",
+    "sch_name": "PLANLAGER NAVN",
+    "h_use_air_care": "Sådan bruges luftpleje",
+    "h_manage_room": "Sådan administrerer du dit værelse",
+    "h_select_preset_mode": "Sådan vælges en forudindstillet tilstand"
 }

@@ -4230,5 +4230,11 @@
     "p_check_email": "אנא בדוק את המייל שלך",
     "CL_CF_FM_storage_appliance": "מכשיר אחסון",
     "storage_appliance": "מכשיר אחסון",
-    "CL_CF_FM_quickly_select_food": "בחר במהירות מזון קיים במקרר"
+    "CL_CF_FM_quickly_select_food": "בחר במהירות מזון קיים במקרר",
+    "CL_CF_FM_add_selected_items_to_ref": "הוסף פריטים נבחרים ל-Ref",
+    "CL_CF_FM_skip_to_library": "דלג לספרייה",
+    "sch_name": "שם מתזמן",
+    "h_use_air_care": "כיצד להשתמש בטיפול באוויר",
+    "h_manage_room": "כיצד לנהל את החדר שלך",
+    "h_select_preset_mode": "כיצד לבחור מצב מוגדר מראש"
 }

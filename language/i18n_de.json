@@ -4230,5 +4230,11 @@
     "p_check_email": "Bitte überprüfen Sie Ihre E-Mail",
     "CL_CF_FM_storage_appliance": "Speichergerät",
     "storage_appliance": "SPEICHERGERÄT",
-    "CL_CF_FM_quickly_select_food": "Schnelle Auswahl vorhandener Lebensmittel im Kühlschrank"
+    "CL_CF_FM_quickly_select_food": "Schnelle Auswahl vorhandener Lebensmittel im Kühlschrank",
+    "CL_CF_FM_add_selected_items_to_ref": "Ausgewählte Elemente zur Referenz hinzufügen",
+    "CL_CF_FM_skip_to_library": "ZUR BIBLIOTHEK SPRINGEN",
+    "sch_name": "PLANUNGSNAME",
+    "h_use_air_care": "Wie man air care anwendet",
+    "h_manage_room": "So verwalten Sie Ihr Zimmer",
+    "h_select_preset_mode": "So wählen Sie einen voreingestellten Modus aus"
 }
