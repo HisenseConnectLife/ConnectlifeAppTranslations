@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "petek",
     "CL_CF_CP_saturday": "sobota",
     "CL_CF_CP_sunday": "nedelja",
-    "CL_DV_OV_delay_start_end_desc": "Program kuhanja lahko zamaknete tako, da nastavite želeni začetni ali končni čas. Ko izberete enega, bo drugi samodejno izračunan."
+    "CL_DV_OV_delay_start_end_desc": "Program kuhanja lahko zamaknete tako, da nastavite želeni začetni ali končni čas. Ko izberete enega, bo drugi samodejno izračunan.",
+    "drink_inventory": "Inventar pijače"
 }

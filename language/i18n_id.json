@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Jumat",
     "CL_CF_CP_saturday": "Sabtu",
     "CL_CF_CP_sunday": "Minggu",
-    "CL_DV_OV_delay_start_end_desc": "Anda dapat menunda program memasak dengan mengatur waktu mulai atau berakhir yang Anda inginkan. Setelah memilih salah satu, waktu lainnya akan dihitung secara otomatis."
+    "CL_DV_OV_delay_start_end_desc": "Anda dapat menunda program memasak dengan mengatur waktu mulai atau berakhir yang Anda inginkan. Setelah memilih salah satu, waktu lainnya akan dihitung secara otomatis.",
+    "drink_inventory": "Inventaris Minuman"
 }

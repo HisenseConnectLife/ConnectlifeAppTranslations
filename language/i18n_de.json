@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Freitag",
     "CL_CF_CP_saturday": "Samstag",
     "CL_CF_CP_sunday": "Sonntag",
-    "CL_DV_OV_delay_start_end_desc": "Sie können Ihr Kochprogramm verzögern, indem Sie entweder Ihre bevorzugte Start- oder Endzeit festlegen. Sobald Sie eine ausgewählt haben, wird die andere automatisch berechnet."
+    "CL_DV_OV_delay_start_end_desc": "Sie können Ihr Kochprogramm verzögern, indem Sie entweder Ihre bevorzugte Start- oder Endzeit festlegen. Sobald Sie eine ausgewählt haben, wird die andere automatisch berechnet.",
+    "drink_inventory": "Getränkeinventar"
 }
