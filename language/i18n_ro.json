@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "vineri",
     "CL_CF_CP_saturday": "sâmbătă",
     "CL_CF_CP_sunday": "duminică",
-    "CL_DV_OV_delay_start_end_desc": "Vă puteți întârzia programul de gătit setând fie ora de început, fie cea de sfârșit. După ce ați ales unul, celălalt va fi calculat automat."
+    "CL_DV_OV_delay_start_end_desc": "Vă puteți întârzia programul de gătit setând fie ora de început, fie cea de sfârșit. După ce ați ales unul, celălalt va fi calculat automat.",
+    "drink_inventory": "Inventarul băuturilor"
 }

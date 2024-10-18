@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Thứ sáu",
     "CL_CF_CP_saturday": "Thứ bảy",
     "CL_CF_CP_sunday": "Chủ nhật",
-    "CL_DV_OV_delay_start_end_desc": "Bạn có thể trì hoãn chương trình nấu ăn của mình bằng cách thiết lập thời gian bắt đầu hoặc kết thúc mong muốn. Sau khi bạn chọn một, thời gian còn lại sẽ được tự động tính toán."
+    "CL_DV_OV_delay_start_end_desc": "Bạn có thể trì hoãn chương trình nấu ăn của mình bằng cách thiết lập thời gian bắt đầu hoặc kết thúc mong muốn. Sau khi bạn chọn một, thời gian còn lại sẽ được tự động tính toán.",
+    "drink_inventory": "Đồ uống tồn kho"
 }

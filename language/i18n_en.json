@@ -148,7 +148,7 @@
     "ac_wind_direction": "Fan Direction",
     "ac_ai": "AI",
     "ac_has_close": "Closed",
-    "ac_people_feel_wind": "AI wind",
+    "ac_people_feel_wind": "AI Wind",
     "ac_sleep": "Sleep",
     "ac_mute": "Quiet mode",
     "ac_save_energy": "Energy-saving",
@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Friday",
     "CL_CF_CP_saturday": "Saturday",
     "CL_CF_CP_sunday": "Sunday",
-    "CL_DV_OV_delay_start_end_desc": "You can delay your cooking program by setting either your preferred start or end time. Once you've chosen one, the other will be automatically calculated."
+    "CL_DV_OV_delay_start_end_desc": "You can delay your cooking program by setting either your preferred start or end time. Once you've chosen one, the other will be automatically calculated.",
+    "drink_inventory": "Drink Inventory"
 }

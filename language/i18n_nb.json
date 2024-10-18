@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "fredag",
     "CL_CF_CP_saturday": "lørdag",
     "CL_CF_CP_sunday": "søndag",
-    "CL_DV_OV_delay_start_end_desc": "Du kan forsinke tilberedningsprogrammet ved å angi enten ønsket start- eller sluttid. Når du har valgt en, vil den andre automatisk beregnes."
+    "CL_DV_OV_delay_start_end_desc": "Du kan forsinke tilberedningsprogrammet ved å angi enten ønsket start- eller sluttid. Når du har valgt en, vil den andre automatisk beregnes.",
+    "drink_inventory": "Drikkelager"
 }

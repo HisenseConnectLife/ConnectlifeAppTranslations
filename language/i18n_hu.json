@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "péntek",
     "CL_CF_CP_saturday": "szombat",
     "CL_CF_CP_sunday": "vasárnap",
-    "CL_DV_OV_delay_start_end_desc": "A kívánt kezdési vagy befejezési időpont beállításával késleltetheti a főzési programot. Miután kiválasztotta az egyiket, a másik automatikusan kiszámításra kerül."
+    "CL_DV_OV_delay_start_end_desc": "A kívánt kezdési vagy befejezési időpont beállításával késleltetheti a főzési programot. Miután kiválasztotta az egyiket, a másik automatikusan kiszámításra kerül.",
+    "drink_inventory": "Italkészlet"
 }

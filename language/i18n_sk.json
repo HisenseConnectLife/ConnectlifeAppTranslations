@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "piatok",
     "CL_CF_CP_saturday": "sobota",
     "CL_CF_CP_sunday": "nedeľu",
-    "CL_DV_OV_delay_start_end_desc": "Program varenia môžete odložiť nastavením preferovaného času začiatku alebo konca. Po výbere jedného sa automaticky vypočíta druhý."
+    "CL_DV_OV_delay_start_end_desc": "Program varenia môžete odložiť nastavením preferovaného času začiatku alebo konca. Po výbere jedného sa automaticky vypočíta druhý.",
+    "drink_inventory": "Nápojový inventár"
 }

@@ -148,7 +148,7 @@
     "ac_wind_direction": "Ventilatorrichting",
     "ac_ai": "AI",
     "ac_has_close": "Gesloten",
-    "ac_people_feel_wind": "AI wind",
+    "ac_people_feel_wind": "AI Wind",
     "ac_sleep": "Slaap",
     "ac_mute": "Stille modus",
     "ac_save_energy": "Energiebesparend",
@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Vrijdag",
     "CL_CF_CP_saturday": "Zaterdag",
     "CL_CF_CP_sunday": "Zondag",
-    "CL_DV_OV_delay_start_end_desc": "U kunt uw kookprogramma uitstellen door uw gewenste begin- of eindtijd in te stellen. Zodra u er een hebt gekozen, wordt de andere automatisch berekend."
+    "CL_DV_OV_delay_start_end_desc": "U kunt uw kookprogramma uitstellen door uw gewenste begin- of eindtijd in te stellen. Zodra u er een hebt gekozen, wordt de andere automatisch berekend.",
+    "drink_inventory": "Drankinventaris"
 }

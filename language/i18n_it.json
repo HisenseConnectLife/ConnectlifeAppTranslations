@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Venerdì",
     "CL_CF_CP_saturday": "Sabato",
     "CL_CF_CP_sunday": "Domenica",
-    "CL_DV_OV_delay_start_end_desc": "Puoi ritardare il tuo programma di cottura impostando l'orario di inizio o di fine che preferisci. Una volta scelto uno, l'altro verrà calcolato automaticamente."
+    "CL_DV_OV_delay_start_end_desc": "Puoi ritardare il tuo programma di cottura impostando l'orario di inizio o di fine che preferisci. Una volta scelto uno, l'altro verrà calcolato automaticamente.",
+    "drink_inventory": "Inventario delle bevande"
 }

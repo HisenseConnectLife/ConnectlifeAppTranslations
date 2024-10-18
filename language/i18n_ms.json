@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Jumaat",
     "CL_CF_CP_saturday": "Sabtu",
     "CL_CF_CP_sunday": "Ahad",
-    "CL_DV_OV_delay_start_end_desc": "Anda boleh menangguhkan program memasak anda dengan menetapkan sama ada masa mula atau tamat pilihan anda. Sebaik sahaja anda telah memilih satu, yang lain akan dikira secara automatik."
+    "CL_DV_OV_delay_start_end_desc": "Anda boleh menangguhkan program memasak anda dengan menetapkan sama ada masa mula atau tamat pilihan anda. Sebaik sahaja anda telah memilih satu, yang lain akan dikira secara automatik.",
+    "drink_inventory": "Inventori Minuman"
 }

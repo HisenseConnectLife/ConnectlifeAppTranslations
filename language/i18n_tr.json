@@ -4244,5 +4244,6 @@
     "CL_CF_CP_friday": "Cuma",
     "CL_CF_CP_saturday": "Cumartesi",
     "CL_CF_CP_sunday": "Pazar",
-    "CL_DV_OV_delay_start_end_desc": "Tercih ettiğiniz başlangıç veya bitiş saatini ayarlayarak pişirme programınızı geciktirebilirsiniz. Birini seçtiğinizde, diğeri otomatik olarak hesaplanacaktır."
+    "CL_DV_OV_delay_start_end_desc": "Tercih ettiğiniz başlangıç veya bitiş saatini ayarlayarak pişirme programınızı geciktirebilirsiniz. Birini seçtiğinizde, diğeri otomatik olarak hesaplanacaktır.",
+    "drink_inventory": "İçecek Envanteri"
 }
