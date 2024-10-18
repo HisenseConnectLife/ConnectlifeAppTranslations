@@ -4244,5 +4244,7 @@
     "CL_CF_CP_friday": "星期五",
     "CL_CF_CP_saturday": "週六",
     "CL_CF_CP_sunday": "星期日",
-    "CL_DV_OV_delay_start_end_desc": "您可以透過設定您喜歡的開始或結束時間來延遲烹飪程序。選擇其中一項後，系統會自動計算另一項。"
+    "CL_DV_OV_delay_start_end_desc": "您可以透過設定您喜歡的開始或結束時間來延遲烹飪程序。選擇其中一項後，系統會自動計算另一項。",
+    "drink_inventory": "飲料庫存",
+    "ac_statistice_content": "本统计数据基于网络统计，部分数据基于实验室条件实测，仅供用户参考。"
 }

@@ -4244,5 +4244,7 @@
     "CL_CF_CP_friday": "星期五",
     "CL_CF_CP_saturday": "周六",
     "CL_CF_CP_sunday": "星期日",
-    "CL_DV_OV_delay_start_end_desc": "您可以通过设置首选的开始或结束时间来延迟烹饪程序。选择其中一个时间后，另一个时间将自动计算。"
+    "CL_DV_OV_delay_start_end_desc": "您可以通过设置首选的开始或结束时间来延迟烹饪程序。选择其中一个时间后，另一个时间将自动计算。",
+    "drink_inventory": "饮品库存",
+    "ac_statistice_content": "本统计数据基于网络统计，部分数据基于实验室条件实测，仅供用户参考。"
 }
