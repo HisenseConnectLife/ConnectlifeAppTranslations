@@ -4244,5 +4244,12 @@
     "CL_CF_CP_friday": "péntek",
     "CL_CF_CP_saturday": "szombat",
     "CL_CF_CP_sunday": "vasárnap",
-    "CL_DV_OV_delay_start_end_desc": "A kívánt kezdési vagy befejezési időpont beállításával késleltetheti a főzési programot. Miután kiválasztotta az egyiket, a másik automatikusan kiszámításra kerül."
+    "CL_DV_OV_delay_start_end_desc": "A kívánt kezdési vagy befejezési időpont beállításával késleltetheti a főzési programot. Miután kiválasztotta az egyiket, a másik automatikusan kiszámításra kerül.",
+    "drink_inventory": "Italkészlet",
+    "ac_statistice_content": "Ez a statisztikai adatok a hálózati statisztikákra épülnek, és az adatok egy része laboratóriumi körülmények között mértek, csak a felhasználók számára.",
+    "CL_CF_FM_x_items_selected": "*** elemek kiválasztva",
+    "CL_CF_FM_remove_items": "Elemek eltávolítása",
+    "p_try_again": "próbáld újra",
+    "exit_report_i": "KILÉPÉS A JELENTÉSI PROBLÉMÁBÓL",
+    "AW": "Aruba"
 }
