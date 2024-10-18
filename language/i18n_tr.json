@@ -4244,5 +4244,12 @@
     "CL_CF_CP_friday": "Cuma",
     "CL_CF_CP_saturday": "Cumartesi",
     "CL_CF_CP_sunday": "Pazar",
-    "CL_DV_OV_delay_start_end_desc": "Tercih ettiğiniz başlangıç veya bitiş saatini ayarlayarak pişirme programınızı geciktirebilirsiniz. Birini seçtiğinizde, diğeri otomatik olarak hesaplanacaktır."
+    "CL_DV_OV_delay_start_end_desc": "Tercih ettiğiniz başlangıç veya bitiş saatini ayarlayarak pişirme programınızı geciktirebilirsiniz. Birini seçtiğinizde, diğeri otomatik olarak hesaplanacaktır.",
+    "drink_inventory": "İçecek Envanteri",
+    "ac_statistice_content": "Bu istatistiksel veriler ağ istatistiklerine dayanmaktadır ve verilerin bir kısmı yalnızca kullanıcının referansı için ölçülen laboratuvar koşullarına dayanmaktadır. ",
+    "CL_CF_FM_x_items_selected": "*** öğeler seçildi",
+    "CL_CF_FM_remove_items": "Öğeleri Kaldır",
+    "p_try_again": "lütfen tekrar deneyin",
+    "exit_report_i": "ÇIKIŞ RAPORLAMA SORUNU",
+    "AW": "aruba"
 }

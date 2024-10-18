@@ -4244,5 +4244,12 @@
     "CL_CF_CP_friday": "Viernes",
     "CL_CF_CP_saturday": "Sábado",
     "CL_CF_CP_sunday": "Domingo",
-    "CL_DV_OV_delay_start_end_desc": "Puedes retrasar el programa de cocción configurando la hora de inicio o de finalización que prefieras. Una vez que hayas elegido una, la otra se calculará automáticamente."
+    "CL_DV_OV_delay_start_end_desc": "Puedes retrasar el programa de cocción configurando la hora de inicio o de finalización que prefieras. Una vez que hayas elegido una, la otra se calculará automáticamente.",
+    "drink_inventory": "Inventario de bebidas",
+    "ac_statistice_content": "Estos datos estadísticos se basan en estadísticas de red, y parte de los datos se basan en las condiciones de laboratorio medidas, solo para referencia del usuario.",
+    "CL_CF_FM_x_items_selected": "*** artículos seleccionados",
+    "CL_CF_FM_remove_items": "Eliminar elementos",
+    "p_try_again": "Por favor, inténtalo de nuevo",
+    "exit_report_i": "PROBLEMA CON EL INFORME DE SALIDA",
+    "AW": "Aruba"
 }

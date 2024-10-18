@@ -4244,5 +4244,12 @@
     "CL_CF_CP_friday": "perjantai",
     "CL_CF_CP_saturday": "lauantai",
     "CL_CF_CP_sunday": "sunnuntai",
-    "CL_DV_OV_delay_start_end_desc": "Voit viivyttää kypsennysohjelmaa asettamalla haluamasi aloitus- tai lopetusajan. Kun olet valinnut yhden, toinen lasketaan automaattisesti."
+    "CL_DV_OV_delay_start_end_desc": "Voit viivyttää kypsennysohjelmaa asettamalla haluamasi aloitus- tai lopetusajan. Kun olet valinnut yhden, toinen lasketaan automaattisesti.",
+    "drink_inventory": "Juomavarasto",
+    "ac_statistice_content": "Tämä tilastotieto perustuu verkkotilastoihin, ja osa tiedoista perustuu laboratorio-olosuhteisiin mitattuina, vain käyttäjien viitteeksi.",
+    "CL_CF_FM_x_items_selected": "*** kohteita valittu",
+    "CL_CF_FM_remove_items": "Poista kohteita",
+    "p_try_again": "yritä uudelleen",
+    "exit_report_i": "POISTU RAPORTOINTIANGESTISTA",
+    "AW": "Aruba"
 }

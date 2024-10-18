@@ -4244,5 +4244,12 @@
     "CL_CF_CP_friday": "petek",
     "CL_CF_CP_saturday": "sobota",
     "CL_CF_CP_sunday": "nedelja",
-    "CL_DV_OV_delay_start_end_desc": "Program kuhanja lahko zamaknete tako, da nastavite želeni začetni ali končni čas. Ko izberete enega, bo drugi samodejno izračunan."
+    "CL_DV_OV_delay_start_end_desc": "Program kuhanja lahko zamaknete tako, da nastavite želeni začetni ali končni čas. Ko izberete enega, bo drugi samodejno izračunan.",
+    "drink_inventory": "Inventar pijače",
+    "ac_statistice_content": "Ti statistični podatki temeljijo na statistiki omrežja, del podatkov pa na izmerjenih laboratorijskih pogojih, ki so uporabniku na voljo le za referenco.",
+    "CL_CF_FM_x_items_selected": "*** izbrani predmeti",
+    "CL_CF_FM_remove_items": "Odstrani elemente",
+    "p_try_again": "poskusite znova",
+    "exit_report_i": "TEŽAVA S POROČANJEM O IZHODU",
+    "AW": "Aruba"
 }

@@ -4244,5 +4244,12 @@
     "CL_CF_CP_friday": "Piątek",
     "CL_CF_CP_saturday": "Sobota",
     "CL_CF_CP_sunday": "Niedziela",
-    "CL_DV_OV_delay_start_end_desc": "Możesz opóźnić program gotowania, ustawiając preferowany czas rozpoczęcia lub zakończenia. Po wybraniu jednego, drugi zostanie automatycznie obliczony."
+    "CL_DV_OV_delay_start_end_desc": "Możesz opóźnić program gotowania, ustawiając preferowany czas rozpoczęcia lub zakończenia. Po wybraniu jednego, drugi zostanie automatycznie obliczony.",
+    "drink_inventory": "Inwentarz napojów",
+    "ac_statistice_content": "Te dane statystyczne są oparte na statystykach sieciowych, a część danych jest oparta na warunkach laboratoryjnych, tylko dla informacji użytkowników.",
+    "CL_CF_FM_x_items_selected": "*** wybrane pozycje",
+    "CL_CF_FM_remove_items": "Usuń elementy",
+    "p_try_again": "Proszę spróbować ponownie",
+    "exit_report_i": "PROBLEM RAPORTOWANIA WYJŚCIA",
+    "AW": "Aruba"
 }
