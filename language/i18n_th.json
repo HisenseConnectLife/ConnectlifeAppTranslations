@@ -4230,5 +4230,11 @@
     "p_check_email": "กรุณาตรวจสอบอีเมล์ของคุณ",
     "CL_CF_FM_storage_appliance": "อุปกรณ์จัดเก็บ",
     "storage_appliance": "อุปกรณ์จัดเก็บ",
-    "CL_CF_FM_quickly_select_food": "เลือกอาหารที่มีอยู่ในตู้เย็นได้อย่างรวดเร็ว"
+    "CL_CF_FM_quickly_select_food": "เลือกอาหารที่มีอยู่ในตู้เย็นได้อย่างรวดเร็ว",
+    "CL_CF_FM_add_selected_items_to_ref": "เพิ่มรายการที่เลือกไปยังการอ้างอิง",
+    "CL_CF_FM_skip_to_library": "ข้ามไปที่ห้องสมุด",
+    "sch_name": "ชื่อผู้จัดตารางงาน",
+    "h_use_air_care": "วิธีใช้แอร์แคร์?",
+    "h_manage_room": "จะจัดการห้องของคุณอย่างไร?",
+    "h_select_preset_mode": "จะเลือกโหมดที่ตั้งไว้ล่วงหน้าได้อย่างไร?"
 }

@@ -4230,5 +4230,11 @@
     "p_check_email": "Kérjük, ellenőrizze e-mailjét",
     "CL_CF_FM_storage_appliance": "Tároló készülék",
     "storage_appliance": "TÁROLÓ KÉSZÜLÉK",
-    "CL_CF_FM_quickly_select_food": "Gyorsan válassza ki a meglévő élelmiszereket a hűtőszekrényben"
+    "CL_CF_FM_quickly_select_food": "Gyorsan válassza ki a meglévő élelmiszereket a hűtőszekrényben",
+    "CL_CF_FM_add_selected_items_to_ref": "A KIVÁLASZTOTT ELEMEK HOZZÁADÁSA A REF",
+    "CL_CF_FM_skip_to_library": "UGRÁS A KÖNYVTÁRBA",
+    "sch_name": "ÜTEMEZŐ NEVE",
+    "h_use_air_care": "Hogyan kell használni a levegőápolást",
+    "h_manage_room": "Hogyan kezelje szobáját",
+    "h_select_preset_mode": "Előre beállított mód kiválasztása"
 }

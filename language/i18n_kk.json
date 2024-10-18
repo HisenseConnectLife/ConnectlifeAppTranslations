@@ -4230,5 +4230,11 @@
     "p_check_email": "Электрондық поштаңызды тексеріңіз",
     "CL_CF_FM_storage_appliance": "Сақтау құрылғысы",
     "storage_appliance": "САҚТАУ ҚҰРЫЛЫ",
-    "CL_CF_FM_quickly_select_food": "Тоңазытқышта бар тағамды жылдам таңдаңыз"
+    "CL_CF_FM_quickly_select_food": "Тоңазытқышта бар тағамды жылдам таңдаңыз",
+    "CL_CF_FM_add_selected_items_to_ref": "ТАҢДАлған элементтерді REF",
+    "CL_CF_FM_skip_to_library": "КІТАПХАНАҒА ӨТУ",
+    "sch_name": "ЖОСПАРЛАУШЫ АТЫ",
+    "h_use_air_care": "Ауа күтімін қалай қолдануға болады?",
+    "h_manage_room": "Бөлмені қалай басқаруға болады?",
+    "h_select_preset_mode": "Алдын ала орнатылған режимді қалай таңдауға болады?"
 }

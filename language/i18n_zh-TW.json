@@ -4230,5 +4230,11 @@
     "p_check_email": "請檢查您的電子郵件",
     "CL_CF_FM_storage_appliance": "儲存裝置",
     "storage_appliance": "儲存裝置",
-    "CL_CF_FM_quickly_select_food": "快速選擇冰箱中現有的食物"
+    "CL_CF_FM_quickly_select_food": "快速選擇冰箱中現有的食物",
+    "CL_CF_FM_add_selected_items_to_ref": "新增所選項目至參考",
+    "CL_CF_FM_skip_to_library": "跳至圖書館",
+    "sch_name": "調度者名稱",
+    "h_use_air_care": "如何使用智能空净",
+    "h_manage_room": "如何管理你的房间",
+    "h_select_preset_mode": "如何选择预设模式"
 }

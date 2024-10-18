@@ -47,7 +47,7 @@
     "setting_brief_summary": "Kort sammendrag av problemet",
     "setting_user_profile": "Brukerprofil",
     "setting_notifications_title": "Varsler",
-    "off": "På",
+    "off": "Av",
     "setting_about_connect": "Om ConnectLife",
     "setting_language": "SPRÅK",
     "setting_date_format": "DATOFORMAT",
@@ -4230,5 +4230,11 @@
     "p_check_email": "Vennligst sjekk e-posten din",
     "CL_CF_FM_storage_appliance": "Oppbevaringsapparat",
     "storage_appliance": "OPPBEVARINGSAPPARAT",
-    "CL_CF_FM_quickly_select_food": "Velg raskt eksisterende mat i kjøleskapet"
+    "CL_CF_FM_quickly_select_food": "Velg raskt eksisterende mat i kjøleskapet",
+    "CL_CF_FM_add_selected_items_to_ref": "LEGG TIL UTVALGTE ELEMENTER TIL REF",
+    "CL_CF_FM_skip_to_library": "HOPPE TIL BIBLIOTEKET",
+    "sch_name": "PLANLEGGERS NAVN",
+    "h_use_air_care": "Hvordan bruke luftpleie?",
+    "h_manage_room": "Hvordan administrere rommet ditt?",
+    "h_select_preset_mode": "Hvordan velge en forhåndsinnstilt modus?"
 }
