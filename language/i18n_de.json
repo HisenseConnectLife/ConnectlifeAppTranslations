@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Freitag",
     "CL_CF_CP_saturday": "Samstag",
     "CL_CF_CP_sunday": "Sonntag",
-    "CL_DV_OV_delay_start_end_desc": "Sie können Ihr Kochprogramm verzögern, indem Sie entweder Ihre bevorzugte Start- oder Endzeit festlegen. Sobald Sie eine ausgewählt haben, wird die andere automatisch berechnet."
+    "CL_DV_OV_delay_start_end_desc": "Sie können Ihr Kochprogramm verzögern, indem Sie entweder Ihre bevorzugte Start- oder Endzeit festlegen. Sobald Sie eine ausgewählt haben, wird die andere automatisch berechnet.",
+    "drink_inventory": "Getränkeinventar",
+    "ac_statistice_content": "Diese statistischen Daten basieren auf Netzwerkstatistiken, und ein Teil der Daten basiert auf im Labor gemessenen Bedingungen, nur zur Referenz der Benutzer.",
+    "CL_CF_FM_x_items_selected": "*** Elemente ausgewählt",
+    "CL_CF_FM_remove_items": "Elemente entfernen",
+    "p_try_again": "Bitte versuchen Sie es erneut",
+    "exit_report_i": "PROBLEM BEIM BEENDEN DER BERICHTERSTATTUNG",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Verringern Sie die Temperatur im Backofen schnell, nachdem der Garvorgang abgeschlossen ist oder zwischen der Zubereitung verschiedener Gerichte.",
+    "CL_CF_CS_ble_scan_not_list_2": "Wenn Ihr Gerät nicht aufgeführt ist, können Sie auf „ERNEUT VERSUCHEN“ klicken, um die Erkennung per Bluetooth erneut durchzuführen.",
+    "CL_CF_CS_ble_scan_another_way": "Anders konfigurieren",
+    "CL_CF_CS_ble_scan_have_found": "Wir haben Geräte über Bluetooth gefunden. Wählen Sie zur Konfiguration Ihr Gerät aus.",
+    "pump_holiday_start_time_greater_one_day": "Der Abwesenheitsmodus muss für einen Termin festgelegt werden, der weiter als 1 Tag in der Zukunft liegt!",
+    "CL_CF_FM_food_type": "Essensart",
+    "CL_CF_FM_add_food_from_lib": "Lebensmittel aus der Bibliothek hinzufügen"
 }

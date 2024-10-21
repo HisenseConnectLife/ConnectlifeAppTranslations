@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Cuma",
     "CL_CF_CP_saturday": "Cumartesi",
     "CL_CF_CP_sunday": "Pazar",
-    "CL_DV_OV_delay_start_end_desc": "Tercih ettiğiniz başlangıç veya bitiş saatini ayarlayarak pişirme programınızı geciktirebilirsiniz. Birini seçtiğinizde, diğeri otomatik olarak hesaplanacaktır."
+    "CL_DV_OV_delay_start_end_desc": "Tercih ettiğiniz başlangıç veya bitiş saatini ayarlayarak pişirme programınızı geciktirebilirsiniz. Birini seçtiğinizde, diğeri otomatik olarak hesaplanacaktır.",
+    "drink_inventory": "İçecek Envanteri",
+    "ac_statistice_content": "Bu istatistiksel veriler ağ istatistiklerine dayanmaktadır ve verilerin bir kısmı yalnızca kullanıcının referansı için ölçülen laboratuvar koşullarına dayanmaktadır. ",
+    "CL_CF_FM_x_items_selected": "*** öğeler seçildi",
+    "CL_CF_FM_remove_items": "Öğeleri Kaldır",
+    "p_try_again": "lütfen tekrar deneyin",
+    "exit_report_i": "ÇIKIŞ RAPORLAMA SORUNU",
+    "AW": "aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Pişirme işlemi tamamlandıktan sonra veya farklı yemekler pişirirken fırının içindeki sıcaklığı hızla düşürün.",
+    "CL_CF_CS_ble_scan_not_list_2": "Cihazınız listede yoksa bluetooth üzerinden tekrar algılamak için 'TEKRAR DENE' butonuna tıklayabilirsiniz.",
+    "CL_CF_CS_ble_scan_another_way": "Başka bir şekilde yapılandırın",
+    "CL_CF_CS_ble_scan_have_found": "Bluetooth üzerinden cihazları bulduk. Yapılandırmak için cihazınızı seçin.",
+    "pump_holiday_start_time_greater_one_day": "Tatil modu ayarı 1 günden büyük olmalıdır",
+    "CL_CF_FM_food_type": "Gıda Türü",
+    "CL_CF_FM_add_food_from_lib": "Kütüphaneden Yiyecek Ekle"
 }
