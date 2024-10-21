@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Piątek",
     "CL_CF_CP_saturday": "Sobota",
     "CL_CF_CP_sunday": "Niedziela",
-    "CL_DV_OV_delay_start_end_desc": "Możesz opóźnić program gotowania, ustawiając preferowany czas rozpoczęcia lub zakończenia. Po wybraniu jednego, drugi zostanie automatycznie obliczony."
+    "CL_DV_OV_delay_start_end_desc": "Możesz opóźnić program gotowania, ustawiając preferowany czas rozpoczęcia lub zakończenia. Po wybraniu jednego, drugi zostanie automatycznie obliczony.",
+    "drink_inventory": "Inwentarz napojów",
+    "ac_statistice_content": "Te dane statystyczne są oparte na statystykach sieciowych, a część danych jest oparta na warunkach laboratoryjnych, tylko dla informacji użytkowników.",
+    "CL_CF_FM_x_items_selected": "*** wybrane pozycje",
+    "CL_CF_FM_remove_items": "Usuń elementy",
+    "p_try_again": "Proszę spróbować ponownie",
+    "exit_report_i": "PROBLEM RAPORTOWANIA WYJŚCIA",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Szybko obniż temperaturę wewnątrz piekarnika po zakończeniu pieczenia lub między pieczeniami różnych potraw.",
+    "CL_CF_CS_ble_scan_not_list_2": "Jeśli Twojego urządzenia nie ma na liście, możesz kliknąć „SPRÓBUJ PONOWNIE”, aby ponownie wykryć je przez Bluetooth.",
+    "CL_CF_CS_ble_scan_another_way": "Skonfiguruj w inny sposób",
+    "CL_CF_CS_ble_scan_have_found": "Znaleźliśmy urządzenia przez Bluetooth. Wybierz urządzenie do skonfigurowania.",
+    "pump_holiday_start_time_greater_one_day": "Ustawienie trybu wakacyjnego musi być dłuższe niż 1 dzień!",
+    "CL_CF_FM_food_type": "Rodzaj żywności",
+    "CL_CF_FM_add_food_from_lib": "Dodaj jedzenie z biblioteki"
 }

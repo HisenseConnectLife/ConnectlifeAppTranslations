@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Jumat",
     "CL_CF_CP_saturday": "Sabtu",
     "CL_CF_CP_sunday": "Minggu",
-    "CL_DV_OV_delay_start_end_desc": "Anda dapat menunda program memasak dengan mengatur waktu mulai atau berakhir yang Anda inginkan. Setelah memilih salah satu, waktu lainnya akan dihitung secara otomatis."
+    "CL_DV_OV_delay_start_end_desc": "Anda dapat menunda program memasak dengan mengatur waktu mulai atau berakhir yang Anda inginkan. Setelah memilih salah satu, waktu lainnya akan dihitung secara otomatis.",
+    "drink_inventory": "Inventaris Minuman",
+    "ac_statistice_content": "Data statistik ini didasarkan pada statistik jaringan, dan sebagian data didasarkan pada kondisi laboratorium yang diukur, hanya untuk referensi pengguna.",
+    "CL_CF_FM_x_items_selected": "*** item dipilih",
+    "CL_CF_FM_remove_items": "Hapus Item",
+    "p_try_again": "silahkan coba lagi",
+    "exit_report_i": "MASALAH PELAPORAN KELUAR",
+    "AW": "aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Turunkan suhu di dalam oven dengan cepat setelah memasak selesai atau saat sedang memasak hidangan yang berbeda.",
+    "CL_CF_CS_ble_scan_not_list_2": "Jika perangkat Anda tidak tercantum, Anda dapat mengeklik 'COBA LAGI' untuk mendeteksi melalui blutooth lagi.",
+    "CL_CF_CS_ble_scan_another_way": "Konfigurasi dengan cara lain",
+    "CL_CF_CS_ble_scan_have_found": "Kami menemukan perangkat melalui bluetooth. Pilih perangkat Anda untuk dikonfigurasi.",
+    "pump_holiday_start_time_greater_one_day": "Pengaturan mode liburan harus lebih besar dari 1 hari",
+    "CL_CF_FM_food_type": "Jenis Makanan",
+    "CL_CF_FM_add_food_from_lib": "Tambahkan Makanan Dari Perpustakaan"
 }

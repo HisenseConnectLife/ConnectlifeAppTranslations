@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "vineri",
     "CL_CF_CP_saturday": "sâmbătă",
     "CL_CF_CP_sunday": "duminică",
-    "CL_DV_OV_delay_start_end_desc": "Vă puteți întârzia programul de gătit setând fie ora de început, fie cea de sfârșit. După ce ați ales unul, celălalt va fi calculat automat."
+    "CL_DV_OV_delay_start_end_desc": "Vă puteți întârzia programul de gătit setând fie ora de început, fie cea de sfârșit. După ce ați ales unul, celălalt va fi calculat automat.",
+    "drink_inventory": "Inventarul băuturilor",
+    "ac_statistice_content": "Aceste date statistice se bazează pe statisticile rețelei, iar o parte din date se bazează pe condițiile de laborator măsurate, doar pentru referință de către utilizator.",
+    "CL_CF_FM_x_items_selected": "*** articole selectate",
+    "CL_CF_FM_remove_items": "Eliminați articole",
+    "p_try_again": "vă rugăm să încercați din nou",
+    "exit_report_i": "PROBLEMA DE RAPORTARE LA IEȘI",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Reduceți rapid temperatura din interiorul cuptorului după terminarea gătirii sau între gătirea diferitelor feluri de mâncare.",
+    "CL_CF_CS_ble_scan_not_list_2": "Dacă dispozitivul dvs. nu este listat, puteți face clic pe „Încercați din nou” pentru a detecta din nou prin Bluetooth.",
+    "CL_CF_CS_ble_scan_another_way": "Configurați în alt mod",
+    "CL_CF_CS_ble_scan_have_found": "Am găsit dispozitive prin bluetooth. Selectați dispozitivul de configurat.",
+    "pump_holiday_start_time_greater_one_day": "Setarea modului Vacanță trebuie să fie mai mare de o zi!",
+    "CL_CF_FM_food_type": "Tip alimentar",
+    "CL_CF_FM_add_food_from_lib": "Adăugați alimente din bibliotecă"
 }

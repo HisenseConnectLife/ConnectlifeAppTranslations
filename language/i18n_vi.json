@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Thứ sáu",
     "CL_CF_CP_saturday": "Thứ bảy",
     "CL_CF_CP_sunday": "Chủ nhật",
-    "CL_DV_OV_delay_start_end_desc": "Bạn có thể trì hoãn chương trình nấu ăn của mình bằng cách thiết lập thời gian bắt đầu hoặc kết thúc mong muốn. Sau khi bạn chọn một, thời gian còn lại sẽ được tự động tính toán."
+    "CL_DV_OV_delay_start_end_desc": "Bạn có thể trì hoãn chương trình nấu ăn của mình bằng cách thiết lập thời gian bắt đầu hoặc kết thúc mong muốn. Sau khi bạn chọn một, thời gian còn lại sẽ được tự động tính toán.",
+    "drink_inventory": "Đồ uống tồn kho",
+    "ac_statistice_content": "Dữ liệu thống kê này dựa trên số liệu thống kê mạng và một phần dữ liệu dựa trên các điều kiện phòng thí nghiệm được đo, chỉ phục vụ cho mục đích tham khảo của người dùng.",
+    "CL_CF_FM_x_items_selected": "*** mục đã chọn",
+    "CL_CF_FM_remove_items": "Xóa mục",
+    "p_try_again": "vui lòng thử lại",
+    "exit_report_i": "VẤN ĐỀ BÁO CÁO THOÁT",
+    "AW": "aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Nhanh chóng giảm nhiệt độ bên trong lò sau khi nấu xong hoặc khi đang nấu các món khác.",
+    "CL_CF_CS_ble_scan_not_list_2": "Nếu thiết bị của bạn không có trong danh sách, bạn có thể nhấp vào 'THỬ LẠI' để phát hiện lại qua blutooth.",
+    "CL_CF_CS_ble_scan_another_way": "Cấu hình theo cách khác",
+    "CL_CF_CS_ble_scan_have_found": "Chúng tôi đã tìm thấy thiết bị qua Bluetooth. Chọn thiết bị của bạn để cấu hình.",
+    "pump_holiday_start_time_greater_one_day": "Cài đặt chế độ nghỉ ngơi phải dài hơn 1 ngày!",
+    "CL_CF_FM_food_type": "Loại thực phẩm",
+    "CL_CF_FM_add_food_from_lib": "Thêm Thực phẩm Từ Thư viện"
 }

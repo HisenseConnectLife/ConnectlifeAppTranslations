@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "pátek",
     "CL_CF_CP_saturday": "sobota",
     "CL_CF_CP_sunday": "neděle",
-    "CL_DV_OV_delay_start_end_desc": "Program vaření můžete odložit nastavením preferovaného času začátku nebo konce. Jakmile si vyberete jeden, druhý se automaticky vypočítá."
+    "CL_DV_OV_delay_start_end_desc": "Program vaření můžete odložit nastavením preferovaného času začátku nebo konce. Jakmile si vyberete jeden, druhý se automaticky vypočítá.",
+    "drink_inventory": "Nápojový inventář",
+    "ac_statistice_content": "Tyto statistické údaje jsou založeny na síťové statistice a část dat je založena na laboratorních podmínkách měření, pouze pro uživatele k referenci.",
+    "CL_CF_FM_x_items_selected": "*** vybrané položky",
+    "CL_CF_FM_remove_items": "Odebrat položky",
+    "p_try_again": "zkuste to prosím znovu",
+    "exit_report_i": "UKONČIT HLÁŠENÍ PROBLÉMU",
+    "AW": "aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Po dokončení vaření nebo mezi vařením různých pokrmů rychle snižte teplotu uvnitř trouby.",
+    "CL_CF_CS_ble_scan_not_list_2": "Pokud vaše zařízení není v seznamu, můžete kliknout na „ZKUSTE ZNOVU“ a znovu detekovat přes blutooth.",
+    "CL_CF_CS_ble_scan_another_way": "Nakonfigurujte jiným způsobem",
+    "CL_CF_CS_ble_scan_have_found": "Našli jsme zařízení přes bluetooth. Vyberte zařízení, které chcete nakonfigurovat.",
+    "pump_holiday_start_time_greater_one_day": "Nastavení prázdninového režimu musí být delší než 1 den!",
+    "CL_CF_FM_food_type": "Typ jídla",
+    "CL_CF_FM_add_food_from_lib": "Přidat jídlo z knihovny"
 }

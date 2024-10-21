@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "petak",
     "CL_CF_CP_saturday": "subota",
     "CL_CF_CP_sunday": "nedjelja",
-    "CL_DV_OV_delay_start_end_desc": "Program kuhanja možete odgoditi postavljanjem željenog vremena početka ili završetka. Nakon što odaberete jedan, drugi će se automatski izračunati."
+    "CL_DV_OV_delay_start_end_desc": "Program kuhanja možete odgoditi postavljanjem željenog vremena početka ili završetka. Nakon što odaberete jedan, drugi će se automatski izračunati.",
+    "drink_inventory": "Inventar pića",
+    "ac_statistice_content": "Ovi statistički podaci temelje se na statistici mreže, a dio podataka temelji se na laboratorijskim uvjetima mjerenja, samo za korisnike.",
+    "CL_CF_FM_x_items_selected": "*** odabrane stavke",
+    "CL_CF_FM_remove_items": "Ukloni stavke",
+    "p_try_again": "pokušaj ponovno",
+    "exit_report_i": "IZLAZNO IZVJEŠĆIVANJE",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Brzo snizite temperaturu u pećnici nakon završetka kuhanja ili između kuhanja različitih jela.",
+    "CL_CF_CS_ble_scan_not_list_2": "Ako vaš uređaj nije na popisu, možete kliknuti 'POKUŠAJ PONOVO' za ponovno otkrivanje putem blutootha.",
+    "CL_CF_CS_ble_scan_another_way": "Konfigurirajte na drugi način",
+    "CL_CF_CS_ble_scan_have_found": "Pronašli smo uređaje putem bluetootha. Odaberite svoj uređaj za konfiguraciju.",
+    "pump_holiday_start_time_greater_one_day": "Postavka načina rada za praznike mora biti veća od 1 dana!",
+    "CL_CF_FM_food_type": "Vrsta hrane",
+    "CL_CF_FM_add_food_from_lib": "Dodajte hranu iz knjižnice"
 }

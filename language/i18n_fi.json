@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "perjantai",
     "CL_CF_CP_saturday": "lauantai",
     "CL_CF_CP_sunday": "sunnuntai",
-    "CL_DV_OV_delay_start_end_desc": "Voit viivyttää kypsennysohjelmaa asettamalla haluamasi aloitus- tai lopetusajan. Kun olet valinnut yhden, toinen lasketaan automaattisesti."
+    "CL_DV_OV_delay_start_end_desc": "Voit viivyttää kypsennysohjelmaa asettamalla haluamasi aloitus- tai lopetusajan. Kun olet valinnut yhden, toinen lasketaan automaattisesti.",
+    "drink_inventory": "Juomavarasto",
+    "ac_statistice_content": "Tämä tilastotieto perustuu verkkotilastoihin, ja osa tiedoista perustuu laboratorio-olosuhteisiin mitattuina, vain käyttäjien viitteeksi.",
+    "CL_CF_FM_x_items_selected": "*** kohteita valittu",
+    "CL_CF_FM_remove_items": "Poista kohteita",
+    "p_try_again": "yritä uudelleen",
+    "exit_report_i": "POISTU RAPORTOINTIANGESTISTA",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Laske uunin sisälämpötilaa nopeasti kypsennyksen päätyttyä tai eri ruokien valmistuksen välillä.",
+    "CL_CF_CS_ble_scan_not_list_2": "Jos laitettasi ei ole luettelossa, voit napsauttaa YRITÄ UUDELLEEN tunnistaaksesi sen uudelleen blutoothilla.",
+    "CL_CF_CS_ble_scan_another_way": "Määritä toisella tavalla",
+    "CL_CF_CS_ble_scan_have_found": "Löysimme laitteita bluetoothin kautta. Valitse määritettävä laite.",
+    "pump_holiday_start_time_greater_one_day": "Lomatila on asetettava useammaksi kuin 1 päiväksi!",
+    "CL_CF_FM_food_type": "Ruoan tyyppi",
+    "CL_CF_FM_add_food_from_lib": "Lisää ruokaa kirjastosta"
 }
