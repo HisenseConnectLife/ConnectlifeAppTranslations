@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "金曜日",
     "CL_CF_CP_saturday": "土曜日",
     "CL_CF_CP_sunday": "日曜日",
-    "CL_DV_OV_delay_start_end_desc": "開始時間または終了時間を設定することで、調理プログラムを遅らせることができます。どちらか一方を選択すると、もう一方は自動的に計算されます。"
+    "CL_DV_OV_delay_start_end_desc": "開始時間または終了時間を設定することで、調理プログラムを遅らせることができます。どちらか一方を選択すると、もう一方は自動的に計算されます。",
+    "drink_inventory": "ドリンク在庫",
+    "ac_statistice_content": "この統計データはネットワーク統計に基づいており、一部のデータは実験室で測定された条件に基づいています。ユーザーの参考のためにのみです。",
+    "CL_CF_FM_x_items_selected": "*** 項目が選択されました",
+    "CL_CF_FM_remove_items": "アイテムを削除",
+    "p_try_again": "もう一度お試しください",
+    "exit_report_i": "終了報告の問題",
+    "AW": "アルバ",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "調理が完了した後、または別の料理を調理している間は、オーブン内の温度を急速に下げます。",
+    "CL_CF_CS_ble_scan_not_list_2": "デバイスがリストにない場合は、「再試行」をクリックして Bluetooth 経由で再度検出することができます。",
+    "CL_CF_CS_ble_scan_another_way": "別の方法で設定する",
+    "CL_CF_CS_ble_scan_have_found": "Bluetooth経由でデバイスが見つかりました。設定するデバイスを選択してください。",
+    "pump_holiday_start_time_greater_one_day": "休日モード設定は1日以上である必要があります",
+    "CL_CF_FM_food_type": "食品の種類",
+    "CL_CF_FM_add_food_from_lib": "ライブラリから食べ物を追加"
 }
