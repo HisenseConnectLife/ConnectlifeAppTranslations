@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Jumaat",
     "CL_CF_CP_saturday": "Sabtu",
     "CL_CF_CP_sunday": "Ahad",
-    "CL_DV_OV_delay_start_end_desc": "Anda boleh menangguhkan program memasak anda dengan menetapkan sama ada masa mula atau tamat pilihan anda. Sebaik sahaja anda telah memilih satu, yang lain akan dikira secara automatik."
+    "CL_DV_OV_delay_start_end_desc": "Anda boleh menangguhkan program memasak anda dengan menetapkan sama ada masa mula atau tamat pilihan anda. Sebaik sahaja anda telah memilih satu, yang lain akan dikira secara automatik.",
+    "drink_inventory": "Inventori Minuman",
+    "ac_statistice_content": "Data statistik ini adalah berdasarkan statistik rangkaian, dan sebahagian data adalah berdasarkan keadaan makmal yang diukur, hanya untuk rujukan pengguna.",
+    "CL_CF_FM_x_items_selected": "*** item dipilih",
+    "CL_CF_FM_remove_items": "Keluarkan Item",
+    "p_try_again": "sila cuba lagi",
+    "exit_report_i": "KELUAR ISU PELAPORAN",
+    "AW": "aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Turunkan suhu di dalam ketuhar dengan cepat selepas memasak selesai atau ketika antara memasak hidangan yang berbeza.",
+    "CL_CF_CS_ble_scan_not_list_2": "Jika peranti anda tidak disenaraikan, anda boleh klik 'CUBA LAGI' untuk mengesan melalui blutooth sekali lagi.",
+    "CL_CF_CS_ble_scan_another_way": "Konfigurasikan dengan cara lain",
+    "CL_CF_CS_ble_scan_have_found": "Kami menemui peranti melalui bluetooth. Pilih peranti anda untuk dikonfigurasikan.",
+    "pump_holiday_start_time_greater_one_day": "Tetapan mod cuti mestilah lebih daripada 1 hari",
+    "CL_CF_FM_food_type": "Jenis Makanan",
+    "CL_CF_FM_add_food_from_lib": "Tambah Makanan Dari Perpustakaan"
 }

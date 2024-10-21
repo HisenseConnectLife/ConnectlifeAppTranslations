@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "fredag",
     "CL_CF_CP_saturday": "lørdag",
     "CL_CF_CP_sunday": "søndag",
-    "CL_DV_OV_delay_start_end_desc": "Du kan forsinke tilberedningsprogrammet ved å angi enten ønsket start- eller sluttid. Når du har valgt en, vil den andre automatisk beregnes."
+    "CL_DV_OV_delay_start_end_desc": "Du kan forsinke tilberedningsprogrammet ved å angi enten ønsket start- eller sluttid. Når du har valgt en, vil den andre automatisk beregnes.",
+    "drink_inventory": "Drikkelager",
+    "ac_statistice_content": "Disse statistiske dataene er basert på nettverksstatistikk, og en del av dataene er basert på laboratorieforhold som er målt, kun for brukernes referanse.",
+    "CL_CF_FM_x_items_selected": "*** elementer valgt",
+    "CL_CF_FM_remove_items": "Fjern elementer",
+    "p_try_again": "vennligst prøv igjen",
+    "exit_report_i": "AVSLUTT RAPPORTERINGSPROBLEM",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Senk raskt temperaturen inne i ovnen etter at tilberedningen er fullført eller mellom ulike retter.",
+    "CL_CF_CS_ble_scan_not_list_2": "Hvis enheten din ikke er oppført, kan du klikke \"PRØV IGJEN\" for å oppdage via Bluetooth igjen.",
+    "CL_CF_CS_ble_scan_another_way": "Konfigurer på en annen måte",
+    "CL_CF_CS_ble_scan_have_found": "Vi fant enheter via bluetooth. Velg enheten du vil konfigurere.",
+    "pump_holiday_start_time_greater_one_day": "Feriemodus må være lenger enn 1 dag!",
+    "CL_CF_FM_food_type": "Type mat",
+    "CL_CF_FM_add_food_from_lib": "Legg til mat fra biblioteket"
 }

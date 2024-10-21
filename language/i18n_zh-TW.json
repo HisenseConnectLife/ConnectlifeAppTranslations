@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "星期五",
     "CL_CF_CP_saturday": "週六",
     "CL_CF_CP_sunday": "星期日",
-    "CL_DV_OV_delay_start_end_desc": "您可以透過設定您喜歡的開始或結束時間來延遲烹飪程序。選擇其中一項後，系統會自動計算另一項。"
+    "CL_DV_OV_delay_start_end_desc": "您可以透過設定您喜歡的開始或結束時間來延遲烹飪程序。選擇其中一項後，系統會自動計算另一項。",
+    "drink_inventory": "飲料庫存",
+    "ac_statistice_content": "本统计数据基于网络统计，部分数据基于实验室条件实测，仅供用户参考。",
+    "CL_CF_FM_x_items_selected": "*** 已選擇項目",
+    "CL_CF_FM_remove_items": "刪除項目",
+    "p_try_again": "請重試",
+    "exit_report_i": "退出報告問題",
+    "AW": "阿魯巴島",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "烹飪完成後或在烹飪不同菜餚之間快速降低烤箱內的溫度。",
+    "CL_CF_CS_ble_scan_not_list_2": "如果您的裝置未列出，您可以按一下「重試」再次透過藍牙進行偵測。",
+    "CL_CF_CS_ble_scan_another_way": "以另一種方式配置",
+    "CL_CF_CS_ble_scan_have_found": "我們透過藍牙找到設備。選擇要配置的設備。",
+    "pump_holiday_start_time_greater_one_day": "假日模式設置必須大於 1 天！",
+    "CL_CF_FM_food_type": "食物類型",
+    "CL_CF_FM_add_food_from_lib": "從圖書館添加食物"
 }

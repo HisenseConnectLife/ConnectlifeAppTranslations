@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "금요일",
     "CL_CF_CP_saturday": "토요일",
     "CL_CF_CP_sunday": "일요일",
-    "CL_DV_OV_delay_start_end_desc": "선호하는 시작 시간이나 종료 시간을 설정하여 요리 프로그램을 지연할 수 있습니다. 하나를 선택하면 다른 하나가 자동으로 계산됩니다."
+    "CL_DV_OV_delay_start_end_desc": "선호하는 시작 시간이나 종료 시간을 설정하여 요리 프로그램을 지연할 수 있습니다. 하나를 선택하면 다른 하나가 자동으로 계산됩니다.",
+    "drink_inventory": "음료 재고",
+    "ac_statistice_content": "이 통계 데이터는 네트워크 통계를 기반으로 하며, 일부 데이터는 실험실 조건에서 측정된 것으로 사용자 참고용입니다.",
+    "CL_CF_FM_x_items_selected": "*** 선택된 항목",
+    "CL_CF_FM_remove_items": "항목 제거",
+    "p_try_again": "다시 시도해주세요",
+    "exit_report_i": "종료 보고 문제",
+    "AW": "아루바",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "요리가 완료된 후나 다른 요리를 하는 사이에 오븐 내부 온도를 빠르게 낮추세요.",
+    "CL_CF_CS_ble_scan_not_list_2": "귀하의 기기가 목록에 없으면 '다시 시도'를 클릭하여 블루투스를 통해 다시 감지할 수 있습니다.",
+    "CL_CF_CS_ble_scan_another_way": "다른 방법으로 구성",
+    "CL_CF_CS_ble_scan_have_found": "블루투스를 통해 장치를 찾았습니다. 구성할 장치를 선택하세요.",
+    "pump_holiday_start_time_greater_one_day": "휴일 모드 설정은 1일보다 커야 합니다.",
+    "CL_CF_FM_food_type": "음식 종류",
+    "CL_CF_FM_add_food_from_lib": "도서관에서 음식 추가"
 }

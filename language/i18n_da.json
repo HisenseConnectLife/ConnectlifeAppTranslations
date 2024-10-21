@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "fredag",
     "CL_CF_CP_saturday": "lørdag",
     "CL_CF_CP_sunday": "søndag",
-    "CL_DV_OV_delay_start_end_desc": "Du kan forsinke dit madlavningsprogram ved at indstille enten dit foretrukne start- eller sluttidspunkt. Når du har valgt en, vil den anden automatisk blive beregnet."
+    "CL_DV_OV_delay_start_end_desc": "Du kan forsinke dit madlavningsprogram ved at indstille enten dit foretrukne start- eller sluttidspunkt. Når du har valgt en, vil den anden automatisk blive beregnet.",
+    "drink_inventory": "Drikkevareopgørelse",
+    "ac_statistice_content": "Disse statistiske data er baseret på netværksstatistikker, og en del af dataene er baseret på laboratorieforhold, der er målt, kun til brugernes reference.",
+    "CL_CF_FM_x_items_selected": "*** elementer valgt",
+    "CL_CF_FM_remove_items": "Fjern elementer",
+    "p_try_again": "prøv venligst igen",
+    "exit_report_i": "AFSLUT RAPPORTERINGSPROBLEM",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Sænk hurtigt temperaturen inde i ovnen, efter at tilberedningen er færdig, eller mellem tilberedning af forskellige retter.",
+    "CL_CF_CS_ble_scan_not_list_2": "Hvis din enhed ikke er på listen, kan du klikke på 'PRØV IGEN' for at registrere via bluetooth igen.",
+    "CL_CF_CS_ble_scan_another_way": "Konfigurer på en anden måde",
+    "CL_CF_CS_ble_scan_have_found": "Vi fandt enheder via bluetooth. Vælg din enhed for at konfigurere.",
+    "pump_holiday_start_time_greater_one_day": "Den indstillede ferietilstand skal være større end 1 dag!",
+    "CL_CF_FM_food_type": "Fødevaretype",
+    "CL_CF_FM_add_food_from_lib": "Tilføj mad fra biblioteket"
 }

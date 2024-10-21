@@ -4244,5 +4244,19 @@
     "CL_CF_CP_friday": "Viernes",
     "CL_CF_CP_saturday": "Sábado",
     "CL_CF_CP_sunday": "Domingo",
-    "CL_DV_OV_delay_start_end_desc": "Puedes retrasar el programa de cocción configurando la hora de inicio o de finalización que prefieras. Una vez que hayas elegido una, la otra se calculará automáticamente."
+    "CL_DV_OV_delay_start_end_desc": "Puedes retrasar el programa de cocción configurando la hora de inicio o de finalización que prefieras. Una vez que hayas elegido una, la otra se calculará automáticamente.",
+    "drink_inventory": "Inventario de bebidas",
+    "ac_statistice_content": "Estos datos estadísticos se basan en estadísticas de red, y parte de los datos se basan en las condiciones de laboratorio medidas, solo para referencia del usuario.",
+    "CL_CF_FM_x_items_selected": "*** artículos seleccionados",
+    "CL_CF_FM_remove_items": "Eliminar elementos",
+    "p_try_again": "Por favor, inténtalo de nuevo",
+    "exit_report_i": "PROBLEMA CON EL INFORME DE SALIDA",
+    "AW": "Aruba",
+    "CL_DV_OV_extra_fast_cool_detail_desc": "Baje rápidamente la temperatura dentro del horno después de terminar la cocción o entre la cocción de diferentes platos.",
+    "CL_CF_CS_ble_scan_not_list_2": "Si su dispositivo no está en la lista, puede hacer clic en “INTENTO OTRA VEZ” para detectarlo nuevamente a través de Bluetooth.",
+    "CL_CF_CS_ble_scan_another_way": "Configurar de otra manera",
+    "CL_CF_CS_ble_scan_have_found": "Encontramos dispositivos vía bluetooth. Seleccione su dispositivo para configurarlo.",
+    "pump_holiday_start_time_greater_one_day": "El ajuste del modo Vacaciones debe ser de más de 1 día.",
+    "CL_CF_FM_food_type": "Tipo de comida",
+    "CL_CF_FM_add_food_from_lib": "Agregar comida de la biblioteca"
 }
