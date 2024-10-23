@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Не може да се сокрие",
     "program_management_unable_to_hide_desc": "Ова е последната видлива програма и барем една програма мора да биде видлива.",
     "CL_CF_FM_set_deadline": "Поставете краен рок",
-    "CL_CF_FM_expiry_date_must_be_selected": "Мора да се избере датумот на истекување"
+    "CL_CF_FM_expiry_date_must_be_selected": "Мора да се избере датумот на истекување",
+    "CL_CF_FM_add_custom_food_desc": "Додадете нова приспособена ставка",
+    "CL_CF_FM_delete_selected_items": "Избришете ги избраните ставки",
+    "CL_CF_FM_delete_selected": "Избриши го избраното"
 }
