@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "ไม่สามารถซ่อนได้",
     "program_management_unable_to_hide_desc": "นี่เป็นโปรแกรมสุดท้ายที่มองเห็นได้และจะต้องมองเห็นอย่างน้อยหนึ่งโปรแกรม",
     "CL_CF_FM_set_deadline": "กำหนดเส้นตาย",
-    "CL_CF_FM_expiry_date_must_be_selected": "ต้องเลือกวันหมดอายุ"
+    "CL_CF_FM_expiry_date_must_be_selected": "ต้องเลือกวันหมดอายุ",
+    "CL_CF_FM_add_custom_food_desc": "เพิ่มรายการที่กำหนดเองใหม่",
+    "CL_CF_FM_delete_selected_items": "ลบรายการที่เลือก",
+    "CL_CF_FM_delete_selected": "ลบรายการที่เลือก"
 }

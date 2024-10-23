@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Невозможно скрыть",
     "program_management_unable_to_hide_desc": "Это последняя видимая программа, и по крайней мере одна программа должна быть видна.",
     "CL_CF_FM_set_deadline": "Установите крайний срок",
-    "CL_CF_FM_expiry_date_must_be_selected": "Необходимо выбрать дату истечения срока действия."
+    "CL_CF_FM_expiry_date_must_be_selected": "Необходимо выбрать дату истечения срока действия.",
+    "CL_CF_FM_add_custom_food_desc": "Добавить новый индивидуальный элемент",
+    "CL_CF_FM_delete_selected_items": "Удалить выбранные элементы",
+    "CL_CF_FM_delete_selected": "Удалить выбранное"
 }

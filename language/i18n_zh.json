@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "无法隐藏",
     "program_management_unable_to_hide_desc": "这是最后一个可见的程序，并且必须保持至少一个程序可见。",
     "CL_CF_FM_set_deadline": "设定截止日期",
-    "CL_CF_FM_expiry_date_must_be_selected": "必须选择到期日期"
+    "CL_CF_FM_expiry_date_must_be_selected": "必须选择到期日期",
+    "CL_CF_FM_add_custom_food_desc": "添加新的定制商品",
+    "CL_CF_FM_delete_selected_items": "删除选定项目",
+    "CL_CF_FM_delete_selected": "删除选定项"
 }

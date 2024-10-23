@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Није могуће сакрити",
     "program_management_unable_to_hide_desc": "Ово је последњи видљиви програм и најмање један програм мора остати видљив.",
     "CL_CF_FM_set_deadline": "Одредите рок",
-    "CL_CF_FM_expiry_date_must_be_selected": "Датум истека мора бити изабран"
+    "CL_CF_FM_expiry_date_must_be_selected": "Датум истека мора бити изабран",
+    "CL_CF_FM_add_custom_food_desc": "Додајте нову прилагођену ставку",
+    "CL_CF_FM_delete_selected_items": "Избришите изабране ставке",
+    "CL_CF_FM_delete_selected": "Избриши изабрано"
 }
