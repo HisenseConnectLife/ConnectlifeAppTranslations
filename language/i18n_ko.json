@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "숨길 수 없습니다",
     "program_management_unable_to_hide_desc": "이것은 마지막으로 볼 수 있는 프로그램이며 적어도 하나의 프로그램은 계속 보여야 합니다.",
     "CL_CF_FM_set_deadline": "마감일을 정하다",
-    "CL_CF_FM_expiry_date_must_be_selected": "유효기간을 선택해야 합니다."
+    "CL_CF_FM_expiry_date_must_be_selected": "유효기간을 선택해야 합니다.",
+    "CL_CF_FM_add_custom_food_desc": "새로운 사용자 정의 항목 추가",
+    "CL_CF_FM_delete_selected_items": "선택한 항목 삭제",
+    "CL_CF_FM_delete_selected": "선택 항목 삭제"
 }

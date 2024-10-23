@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Det går inte att gömma sig",
     "program_management_unable_to_hide_desc": "Detta är det sista synliga programmet och minst ett program måste hållas synligt.",
     "CL_CF_FM_set_deadline": "Sätt en deadline",
-    "CL_CF_FM_expiry_date_must_be_selected": "Utgångsdatum måste väljas"
+    "CL_CF_FM_expiry_date_must_be_selected": "Utgångsdatum måste väljas",
+    "CL_CF_FM_add_custom_food_desc": "Lägg till ett nytt anpassat objekt",
+    "CL_CF_FM_delete_selected_items": "Ta bort markerade objekt",
+    "CL_CF_FM_delete_selected": "Ta bort markerade"
 }
