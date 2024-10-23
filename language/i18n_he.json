@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "מצאנו מכשירים באמצעות Bluetooth. בחר את המכשיר שלך להגדרה.",
     "pump_holiday_start_time_greater_one_day": "הגדרת מצב חג חייבת להיות יותר מיום אחד",
     "CL_CF_FM_food_type": "סוג מזון",
-    "CL_CF_FM_add_food_from_lib": "הוסף אוכל מהספרייה"
+    "CL_CF_FM_add_food_from_lib": "הוסף אוכל מהספרייה",
+    "CL_CF_FM_items_check": "בדיקת פריטים",
+    "CL_CF_FM_items_check_desc": "אנא בדוק אם יש צורך לשנות את פרטי המזון",
+    "CL_CF_FM_add_to_ref": "הוסף למקרר",
+    "CL_CF_FM_food_name": "שם אוכל",
+    "CL_CF_FM_store_date": "תאריך החנות",
+    "program_management_unable_to_hide": "לא מצליח להסתיר",
+    "program_management_unable_to_hide_desc": "זוהי התוכנית הגלויה האחרונה ולפחות תוכנית אחת חייבת להיות גלויה.",
+    "CL_CF_FM_set_deadline": "קבע תאריך יעד",
+    "CL_CF_FM_expiry_date_must_be_selected": "יש לבחור תאריך תפוגה"
 }

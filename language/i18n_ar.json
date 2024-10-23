@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "لقد وجدنا أجهزة عبر البلوتوث. حدد جهازك لتكوينه.",
     "pump_holiday_start_time_greater_one_day": "يجب أن يكون إعداد وضع عطلة أكبر من 1 يوم!",
     "CL_CF_FM_food_type": "نوع الطعام",
-    "CL_CF_FM_add_food_from_lib": "أضف طعامًا من المكتبة"
+    "CL_CF_FM_add_food_from_lib": "أضف طعامًا من المكتبة",
+    "CL_CF_FM_items_check": "التحقق من العناصر",
+    "CL_CF_FM_items_check_desc": "يرجى التحقق مما إذا كان من الضروري تعديل معلومات الطعام",
+    "CL_CF_FM_add_to_ref": "أضف إلى الثلاجة",
+    "CL_CF_FM_food_name": "اسم الطعام",
+    "CL_CF_FM_store_date": "تاريخ المتجر",
+    "program_management_unable_to_hide": "غير قادر على الاختباء",
+    "program_management_unable_to_hide_desc": "هذا هو البرنامج المرئي الأخير ويجب أن يظل برنامج واحد على الأقل مرئيًا.",
+    "CL_CF_FM_set_deadline": "حدد موعدًا نهائيًا",
+    "CL_CF_FM_expiry_date_must_be_selected": "يجب تحديد تاريخ انتهاء الصلاحية"
 }

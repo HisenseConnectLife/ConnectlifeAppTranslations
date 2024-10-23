@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Пронашли смо уређаје преко блуетоотх-а. Изаберите уређај који желите да конфигуришете.",
     "pump_holiday_start_time_greater_one_day": "Podešavanje režima za odmor mora da bude veće od 1 dana!",
     "CL_CF_FM_food_type": "Врста хране",
-    "CL_CF_FM_add_food_from_lib": "Додајте храну из библиотеке"
+    "CL_CF_FM_add_food_from_lib": "Додајте храну из библиотеке",
+    "CL_CF_FM_items_check": "Провера ставки",
+    "CL_CF_FM_items_check_desc": "Проверите да ли је потребно изменити информације о храни",
+    "CL_CF_FM_add_to_ref": "Додати у фрижидер",
+    "CL_CF_FM_food_name": "Име хране",
+    "CL_CF_FM_store_date": "Сторе Дате",
+    "program_management_unable_to_hide": "Није могуће сакрити",
+    "program_management_unable_to_hide_desc": "Ово је последњи видљиви програм и најмање један програм мора остати видљив.",
+    "CL_CF_FM_set_deadline": "Одредите рок",
+    "CL_CF_FM_expiry_date_must_be_selected": "Датум истека мора бити изабран"
 }

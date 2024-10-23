@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Bluetooth üzerinden cihazları bulduk. Yapılandırmak için cihazınızı seçin.",
     "pump_holiday_start_time_greater_one_day": "Tatil modu ayarı 1 günden büyük olmalıdır",
     "CL_CF_FM_food_type": "Gıda Türü",
-    "CL_CF_FM_add_food_from_lib": "Kütüphaneden Yiyecek Ekle"
+    "CL_CF_FM_add_food_from_lib": "Kütüphaneden Yiyecek Ekle",
+    "CL_CF_FM_items_check": "Öğeler Kontrol Edildi",
+    "CL_CF_FM_items_check_desc": "Lütfen gıda bilgilerinin değiştirilmesinin gerekli olup olmadığını kontrol edin",
+    "CL_CF_FM_add_to_ref": "Buzdolabına Ekle",
+    "CL_CF_FM_food_name": "Yemek Adı",
+    "CL_CF_FM_store_date": "Mağaza Tarihi",
+    "program_management_unable_to_hide": "Gizlenemiyorum",
+    "program_management_unable_to_hide_desc": "Bu son görünen programdır ve en az bir programın görünür tutulması gerekir.",
+    "CL_CF_FM_set_deadline": "Bir son tarih belirleyin",
+    "CL_CF_FM_expiry_date_must_be_selected": "Son kullanma tarihi seçilmelidir"
 }

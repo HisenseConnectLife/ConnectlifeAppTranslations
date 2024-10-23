@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Vi hittade enheter via bluetooth. Välj din enhet att konfigurera.",
     "pump_holiday_start_time_greater_one_day": "Semesterläget måste ställas in med mer än en dag!",
     "CL_CF_FM_food_type": "Typ av mat",
-    "CL_CF_FM_add_food_from_lib": "Lägg till mat från biblioteket"
+    "CL_CF_FM_add_food_from_lib": "Lägg till mat från biblioteket",
+    "CL_CF_FM_items_check": "Artiklar Kontrollera",
+    "CL_CF_FM_items_check_desc": "Kontrollera om det är nödvändigt att ändra matinformationen",
+    "CL_CF_FM_add_to_ref": "Lägg till i kylskåp",
+    "CL_CF_FM_food_name": "Matnamn",
+    "CL_CF_FM_store_date": "Butiksdatum",
+    "program_management_unable_to_hide": "Det går inte att gömma sig",
+    "program_management_unable_to_hide_desc": "Detta är det sista synliga programmet och minst ett program måste hållas synligt.",
+    "CL_CF_FM_set_deadline": "Sätt en deadline",
+    "CL_CF_FM_expiry_date_must_be_selected": "Utgångsdatum måste väljas"
 }

@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Nous avons trouvé des appareils via Bluetooth. Sélectionnez votre appareil à configurer.",
     "pump_holiday_start_time_greater_one_day": "Le réglage du mode Vacances doit être supérieur à 1 jour !",
     "CL_CF_FM_food_type": "Type d'aliment",
-    "CL_CF_FM_add_food_from_lib": "Ajouter de la nourriture à partir de la bibliothèque"
+    "CL_CF_FM_add_food_from_lib": "Ajouter de la nourriture à partir de la bibliothèque",
+    "CL_CF_FM_items_check": "Vérification des éléments",
+    "CL_CF_FM_items_check_desc": "Veuillez vérifier s'il est nécessaire de modifier les informations alimentaires",
+    "CL_CF_FM_add_to_ref": "Ajouter au réfrigérateur",
+    "CL_CF_FM_food_name": "Nom de l'aliment",
+    "CL_CF_FM_store_date": "Date de stockage",
+    "program_management_unable_to_hide": "Impossible de se cacher",
+    "program_management_unable_to_hide_desc": "Il s'agit du dernier programme visible et au moins un programme doit rester visible.",
+    "CL_CF_FM_set_deadline": "Fixer une date limite",
+    "CL_CF_FM_expiry_date_must_be_selected": "La date d'expiration doit être sélectionnée"
 }

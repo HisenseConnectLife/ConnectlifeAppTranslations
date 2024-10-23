@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Ми знайшли пристрої через bluetooth. Виберіть свій пристрій для налаштування.",
     "pump_holiday_start_time_greater_one_day": "Налаштування режиму «Відпустка» має бути більшим за 1 день!",
     "CL_CF_FM_food_type": "Тип їжі",
-    "CL_CF_FM_add_food_from_lib": "Додати їжу з бібліотеки"
+    "CL_CF_FM_add_food_from_lib": "Додати їжу з бібліотеки",
+    "CL_CF_FM_items_check": "Перевірка предметів",
+    "CL_CF_FM_items_check_desc": "Перевірте, чи потрібно змінювати інформацію про їжу",
+    "CL_CF_FM_add_to_ref": "Додати в холодильник",
+    "CL_CF_FM_food_name": "Назва їжі",
+    "CL_CF_FM_store_date": "Дата зберігання",
+    "program_management_unable_to_hide": "Неможливо сховатися",
+    "program_management_unable_to_hide_desc": "Це остання видима програма, і принаймні одна програма має бути видимою.",
+    "CL_CF_FM_set_deadline": "Встановіть крайній термін",
+    "CL_CF_FM_expiry_date_must_be_selected": "Потрібно вибрати термін придатності"
 }

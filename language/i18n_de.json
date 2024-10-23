@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Wir haben Geräte über Bluetooth gefunden. Wählen Sie zur Konfiguration Ihr Gerät aus.",
     "pump_holiday_start_time_greater_one_day": "Der Abwesenheitsmodus muss für einen Termin festgelegt werden, der weiter als 1 Tag in der Zukunft liegt!",
     "CL_CF_FM_food_type": "Essensart",
-    "CL_CF_FM_add_food_from_lib": "Lebensmittel aus der Bibliothek hinzufügen"
+    "CL_CF_FM_add_food_from_lib": "Lebensmittel aus der Bibliothek hinzufügen",
+    "CL_CF_FM_items_check": "Artikelprüfung",
+    "CL_CF_FM_items_check_desc": "Bitte prüfen Sie, ob eine Änderung der Lebensmittelinformationen erforderlich ist",
+    "CL_CF_FM_add_to_ref": "Zum Kühlschrank hinzufügen",
+    "CL_CF_FM_food_name": "Lebensmittelname",
+    "CL_CF_FM_store_date": "Datum speichern",
+    "program_management_unable_to_hide": "Kann mich nicht verstecken",
+    "program_management_unable_to_hide_desc": "Dies ist das letzte sichtbare Programm und mindestens ein Programm muss sichtbar bleiben.",
+    "CL_CF_FM_set_deadline": "Setzen Sie eine Frist",
+    "CL_CF_FM_expiry_date_must_be_selected": "Ablaufdatum muss ausgewählt werden"
 }

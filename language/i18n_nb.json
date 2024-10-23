@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Vi fant enheter via bluetooth. Velg enheten du vil konfigurere.",
     "pump_holiday_start_time_greater_one_day": "Feriemodus må være lenger enn 1 dag!",
     "CL_CF_FM_food_type": "Type mat",
-    "CL_CF_FM_add_food_from_lib": "Legg til mat fra biblioteket"
+    "CL_CF_FM_add_food_from_lib": "Legg til mat fra biblioteket",
+    "CL_CF_FM_items_check": "Varer Sjekk",
+    "CL_CF_FM_items_check_desc": "Vennligst sjekk om det er nødvendig å endre matinformasjon",
+    "CL_CF_FM_add_to_ref": "Legg til kjøleskap",
+    "CL_CF_FM_food_name": "Matnavn",
+    "CL_CF_FM_store_date": "Butikkdato",
+    "program_management_unable_to_hide": "Kan ikke skjule",
+    "program_management_unable_to_hide_desc": "Dette er det siste synlige programmet og minst ett program må holdes synlig.",
+    "CL_CF_FM_set_deadline": "Sett en frist",
+    "CL_CF_FM_expiry_date_must_be_selected": "Utløpsdato må velges"
 }

@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Біз құрылғыларды bluetooth арқылы таптық. Конфигурациялау үшін құрылғыны таңдаңыз.",
     "pump_holiday_start_time_greater_one_day": "Демалыс режимінің параметрі 1 күннен көп болуы керек!",
     "CL_CF_FM_food_type": "Тамақ түрі",
-    "CL_CF_FM_add_food_from_lib": "Кітапханадан тағам қосыңыз"
+    "CL_CF_FM_add_food_from_lib": "Кітапханадан тағам қосыңыз",
+    "CL_CF_FM_items_check": "Элементтерді тексеру",
+    "CL_CF_FM_items_check_desc": "Азық-түлік туралы ақпаратты өзгерту қажет пе екенін тексеріңіз",
+    "CL_CF_FM_add_to_ref": "Тоңазытқышқа қосыңыз",
+    "CL_CF_FM_food_name": "Тағам атауы",
+    "CL_CF_FM_store_date": "Сақтау күні",
+    "program_management_unable_to_hide": "Жасыру мүмкін емес",
+    "program_management_unable_to_hide_desc": "Бұл соңғы көрінетін бағдарлама және кем дегенде бір бағдарлама көрінетін болуы керек.",
+    "CL_CF_FM_set_deadline": "Мерзімді белгілеңіз",
+    "CL_CF_FM_expiry_date_must_be_selected": "Жарамдылық мерзімін таңдау керек"
 }

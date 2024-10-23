@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Löysimme laitteita bluetoothin kautta. Valitse määritettävä laite.",
     "pump_holiday_start_time_greater_one_day": "Lomatila on asetettava useammaksi kuin 1 päiväksi!",
     "CL_CF_FM_food_type": "Ruoan tyyppi",
-    "CL_CF_FM_add_food_from_lib": "Lisää ruokaa kirjastosta"
+    "CL_CF_FM_add_food_from_lib": "Lisää ruokaa kirjastosta",
+    "CL_CF_FM_items_check": "Kohteet Tarkista",
+    "CL_CF_FM_items_check_desc": "Tarkista, onko elintarviketietoja tarpeen muuttaa",
+    "CL_CF_FM_add_to_ref": "Lisää jääkaappiin",
+    "CL_CF_FM_food_name": "Ruoan nimi",
+    "CL_CF_FM_store_date": "Tallennuspäivämäärä",
+    "program_management_unable_to_hide": "Ei voi piiloutua",
+    "program_management_unable_to_hide_desc": "Tämä on viimeinen näkyvä ohjelma ja vähintään yksi ohjelma on pidettävä näkyvissä.",
+    "CL_CF_FM_set_deadline": "Aseta määräaika",
+    "CL_CF_FM_expiry_date_must_be_selected": "Viimeinen voimassaolopäivä on valittava"
 }

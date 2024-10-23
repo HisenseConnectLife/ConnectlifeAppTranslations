@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Kami menemui peranti melalui bluetooth. Pilih peranti anda untuk dikonfigurasikan.",
     "pump_holiday_start_time_greater_one_day": "Tetapan mod cuti mestilah lebih daripada 1 hari",
     "CL_CF_FM_food_type": "Jenis Makanan",
-    "CL_CF_FM_add_food_from_lib": "Tambah Makanan Dari Perpustakaan"
+    "CL_CF_FM_add_food_from_lib": "Tambah Makanan Dari Perpustakaan",
+    "CL_CF_FM_items_check": "Semakan Barangan",
+    "CL_CF_FM_items_check_desc": "Sila semak jika perlu untuk mengubah suai maklumat makanan",
+    "CL_CF_FM_add_to_ref": "Tambah Ke Peti Sejuk",
+    "CL_CF_FM_food_name": "Nama Makanan",
+    "CL_CF_FM_store_date": "Tarikh Kedai",
+    "program_management_unable_to_hide": "Tidak dapat bersembunyi",
+    "program_management_unable_to_hide_desc": "Ini adalah program terakhir yang boleh dilihat dan sekurang-kurangnya satu program mesti kekal kelihatan.",
+    "CL_CF_FM_set_deadline": "Tetapkan tarikh akhir",
+    "CL_CF_FM_expiry_date_must_be_selected": "Tarikh luput mesti dipilih"
 }

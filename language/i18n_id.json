@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Kami menemukan perangkat melalui bluetooth. Pilih perangkat Anda untuk dikonfigurasi.",
     "pump_holiday_start_time_greater_one_day": "Pengaturan mode liburan harus lebih besar dari 1 hari",
     "CL_CF_FM_food_type": "Jenis Makanan",
-    "CL_CF_FM_add_food_from_lib": "Tambahkan Makanan Dari Perpustakaan"
+    "CL_CF_FM_add_food_from_lib": "Tambahkan Makanan Dari Perpustakaan",
+    "CL_CF_FM_items_check": "Pemeriksaan Barang",
+    "CL_CF_FM_items_check_desc": "Harap periksa apakah perlu mengubah informasi makanan",
+    "CL_CF_FM_add_to_ref": "Tambahkan ke Kulkas",
+    "CL_CF_FM_food_name": "Nama Makanan",
+    "CL_CF_FM_store_date": "Tanggal Penyimpanan",
+    "program_management_unable_to_hide": "Tidak bisa disembunyikan",
+    "program_management_unable_to_hide_desc": "Ini adalah program terakhir yang terlihat dan setidaknya satu program harus tetap terlihat.",
+    "CL_CF_FM_set_deadline": "Tetapkan batas waktu",
+    "CL_CF_FM_expiry_date_must_be_selected": "Tanggal kedaluwarsa harus dipilih"
 }

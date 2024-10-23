@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Našli jsme zařízení přes bluetooth. Vyberte zařízení, které chcete nakonfigurovat.",
     "pump_holiday_start_time_greater_one_day": "Nastavení prázdninového režimu musí být delší než 1 den!",
     "CL_CF_FM_food_type": "Typ jídla",
-    "CL_CF_FM_add_food_from_lib": "Přidat jídlo z knihovny"
+    "CL_CF_FM_add_food_from_lib": "Přidat jídlo z knihovny",
+    "CL_CF_FM_items_check": "Kontrola položek",
+    "CL_CF_FM_items_check_desc": "Zkontrolujte, zda není nutné upravit informace o potravinách",
+    "CL_CF_FM_add_to_ref": "Přidat do chladničky",
+    "CL_CF_FM_food_name": "Název jídla",
+    "CL_CF_FM_store_date": "Datum uložení",
+    "program_management_unable_to_hide": "Nelze se skrýt",
+    "program_management_unable_to_hide_desc": "Toto je poslední viditelný program a alespoň jeden program musí zůstat viditelný.",
+    "CL_CF_FM_set_deadline": "Stanovte si termín",
+    "CL_CF_FM_expiry_date_must_be_selected": "Musí být vybráno datum vypršení platnosti"
 }
