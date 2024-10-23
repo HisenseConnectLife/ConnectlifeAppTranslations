@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "छिपाने में असमर्थ",
     "program_management_unable_to_hide_desc": "यह अंतिम दृश्यमान कार्यक्रम है और कम से कम एक कार्यक्रम दृश्यमान रखा जाना चाहिए।",
     "CL_CF_FM_set_deadline": "समय सीमा निर्धारित करें",
-    "CL_CF_FM_expiry_date_must_be_selected": "समाप्ति तिथि का चयन करना आवश्यक है"
+    "CL_CF_FM_expiry_date_must_be_selected": "समाप्ति तिथि का चयन करना आवश्यक है",
+    "CL_CF_FM_add_custom_food_desc": "नया अनुकूलित आइटम जोड़ें",
+    "CL_CF_FM_delete_selected_items": "चयनित आइटम हटाएं",
+    "CL_CF_FM_delete_selected": "चयनित को हटाओ"
 }

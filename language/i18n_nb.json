@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Kan ikke skjule",
     "program_management_unable_to_hide_desc": "Dette er det siste synlige programmet og minst ett program må holdes synlig.",
     "CL_CF_FM_set_deadline": "Sett en frist",
-    "CL_CF_FM_expiry_date_must_be_selected": "Utløpsdato må velges"
+    "CL_CF_FM_expiry_date_must_be_selected": "Utløpsdato må velges",
+    "CL_CF_FM_add_custom_food_desc": "Legg til et nytt tilpasset element",
+    "CL_CF_FM_delete_selected_items": "Slett valgte elementer",
+    "CL_CF_FM_delete_selected": "Slett valgte"
 }

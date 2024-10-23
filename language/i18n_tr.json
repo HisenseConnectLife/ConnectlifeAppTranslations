@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Gizlenemiyorum",
     "program_management_unable_to_hide_desc": "Bu son görünen programdır ve en az bir programın görünür tutulması gerekir.",
     "CL_CF_FM_set_deadline": "Bir son tarih belirleyin",
-    "CL_CF_FM_expiry_date_must_be_selected": "Son kullanma tarihi seçilmelidir"
+    "CL_CF_FM_expiry_date_must_be_selected": "Son kullanma tarihi seçilmelidir",
+    "CL_CF_FM_add_custom_food_desc": "Yeni bir özelleştirilmiş öğe ekle",
+    "CL_CF_FM_delete_selected_items": "Seçili Öğeleri Sil",
+    "CL_CF_FM_delete_selected": "Seçilenleri Sil"
 }

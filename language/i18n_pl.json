@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Nie można ukryć",
     "program_management_unable_to_hide_desc": "Jest to ostatni widoczny program i co najmniej jeden program musi pozostać widoczny.",
     "CL_CF_FM_set_deadline": "Ustaw termin",
-    "CL_CF_FM_expiry_date_must_be_selected": "Należy wybrać datę ważności"
+    "CL_CF_FM_expiry_date_must_be_selected": "Należy wybrać datę ważności",
+    "CL_CF_FM_add_custom_food_desc": "Dodaj nowy niestandardowy element",
+    "CL_CF_FM_delete_selected_items": "Usuń wybrane elementy",
+    "CL_CF_FM_delete_selected": "Usuń wybrane"
 }

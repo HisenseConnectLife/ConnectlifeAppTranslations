@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Kan niet verbergen",
     "program_management_unable_to_hide_desc": "Dit is het laatste zichtbare programma. Er moet minimaal één programma zichtbaar blijven.",
     "CL_CF_FM_set_deadline": "Stel een deadline in",
-    "CL_CF_FM_expiry_date_must_be_selected": "Vervaldatum moet worden geselecteerd"
+    "CL_CF_FM_expiry_date_must_be_selected": "Vervaldatum moet worden geselecteerd",
+    "CL_CF_FM_add_custom_food_desc": "Voeg een nieuw aangepast item toe",
+    "CL_CF_FM_delete_selected_items": "Geselecteerde items verwijderen",
+    "CL_CF_FM_delete_selected": "Geselecteerde verwijderen"
 }

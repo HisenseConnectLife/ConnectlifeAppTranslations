@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Képtelen elrejteni",
     "program_management_unable_to_hide_desc": "Ez az utolsó látható program, és legalább egy programnak láthatónak kell lennie.",
     "CL_CF_FM_set_deadline": "Állítson be határidőt",
-    "CL_CF_FM_expiry_date_must_be_selected": "A lejárati dátumot ki kell választani"
+    "CL_CF_FM_expiry_date_must_be_selected": "A lejárati dátumot ki kell választani",
+    "CL_CF_FM_add_custom_food_desc": "Új testreszabott elem hozzáadása",
+    "CL_CF_FM_delete_selected_items": "Kijelölt elemek törlése",
+    "CL_CF_FM_delete_selected": "Kijelölt törlése"
 }
