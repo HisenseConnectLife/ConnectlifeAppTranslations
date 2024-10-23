@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Не може да се скрие",
     "program_management_unable_to_hide_desc": "Това е последната видима програма и поне една програма трябва да остане видима.",
     "CL_CF_FM_set_deadline": "Поставете краен срок",
-    "CL_CF_FM_expiry_date_must_be_selected": "Трябва да се избере срок на годност"
+    "CL_CF_FM_expiry_date_must_be_selected": "Трябва да се избере срок на годност",
+    "CL_CF_FM_add_custom_food_desc": "Добавете нов персонализиран артикул",
+    "CL_CF_FM_delete_selected_items": "Изтриване на избраните елементи",
+    "CL_CF_FM_delete_selected": "Изтриване на избраното"
 }

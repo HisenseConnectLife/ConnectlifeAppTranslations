@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Ei voi piiloutua",
     "program_management_unable_to_hide_desc": "Tämä on viimeinen näkyvä ohjelma ja vähintään yksi ohjelma on pidettävä näkyvissä.",
     "CL_CF_FM_set_deadline": "Aseta määräaika",
-    "CL_CF_FM_expiry_date_must_be_selected": "Viimeinen voimassaolopäivä on valittava"
+    "CL_CF_FM_expiry_date_must_be_selected": "Viimeinen voimassaolopäivä on valittava",
+    "CL_CF_FM_add_custom_food_desc": "Lisää uusi mukautettu kohde",
+    "CL_CF_FM_delete_selected_items": "Poista valitut kohteet",
+    "CL_CF_FM_delete_selected": "Poista valitut"
 }

@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "غير قادر على الاختباء",
     "program_management_unable_to_hide_desc": "هذا هو البرنامج المرئي الأخير ويجب أن يظل برنامج واحد على الأقل مرئيًا.",
     "CL_CF_FM_set_deadline": "حدد موعدًا نهائيًا",
-    "CL_CF_FM_expiry_date_must_be_selected": "يجب تحديد تاريخ انتهاء الصلاحية"
+    "CL_CF_FM_expiry_date_must_be_selected": "يجب تحديد تاريخ انتهاء الصلاحية",
+    "CL_CF_FM_add_custom_food_desc": "إضافة عنصر مخصص جديد",
+    "CL_CF_FM_delete_selected_items": "حذف العناصر المحددة",
+    "CL_CF_FM_delete_selected": "حذف المحدد"
 }
