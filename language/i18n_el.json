@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Βρήκαμε συσκευές μέσω bluetooth. Επιλέξτε τη συσκευή σας για διαμόρφωση.",
     "pump_holiday_start_time_greater_one_day": "Η ρύθμιση της λειτουργίας διακοπών πρέπει να είναι μεγαλύτερη από 1 ημέρα!",
     "CL_CF_FM_food_type": "Τύπος Τροφίμων",
-    "CL_CF_FM_add_food_from_lib": "Προσθήκη τροφής από τη βιβλιοθήκη"
+    "CL_CF_FM_add_food_from_lib": "Προσθήκη τροφής από τη βιβλιοθήκη",
+    "CL_CF_FM_items_check": "Έλεγχος αντικειμένων",
+    "CL_CF_FM_items_check_desc": "Ελέγξτε εάν είναι απαραίτητο να τροποποιήσετε τις πληροφορίες των τροφίμων",
+    "CL_CF_FM_add_to_ref": "Προσθήκη στο ψυγείο",
+    "CL_CF_FM_food_name": "Όνομα φαγητού",
+    "CL_CF_FM_store_date": "Ημερομηνία αποθήκευσης",
+    "program_management_unable_to_hide": "Δεν είναι δυνατή η απόκρυψη",
+    "program_management_unable_to_hide_desc": "Αυτό είναι το τελευταίο ορατό πρόγραμμα και τουλάχιστον ένα πρόγραμμα πρέπει να παραμένει ορατό.",
+    "CL_CF_FM_set_deadline": "Ορίστε μια προθεσμία",
+    "CL_CF_FM_expiry_date_must_be_selected": "Πρέπει να επιλεγεί η ημερομηνία λήξης"
 }

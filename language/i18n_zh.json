@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "我们通过蓝牙找到了设备。选择要配置的设备。",
     "pump_holiday_start_time_greater_one_day": "假日模式设置必须大于 1 天！",
     "CL_CF_FM_food_type": "食物类型",
-    "CL_CF_FM_add_food_from_lib": "从库中添加食物"
+    "CL_CF_FM_add_food_from_lib": "从库中添加食物",
+    "CL_CF_FM_items_check": "物品检查",
+    "CL_CF_FM_items_check_desc": "请检查是否需要修改食品信息",
+    "CL_CF_FM_add_to_ref": "加入冰箱",
+    "CL_CF_FM_food_name": "食物名称",
+    "CL_CF_FM_store_date": "存放日期",
+    "program_management_unable_to_hide": "无法隐藏",
+    "program_management_unable_to_hide_desc": "这是最后一个可见的程序，并且必须保持至少一个程序可见。",
+    "CL_CF_FM_set_deadline": "设定截止日期",
+    "CL_CF_FM_expiry_date_must_be_selected": "必须选择到期日期"
 }

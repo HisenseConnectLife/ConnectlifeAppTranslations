@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "เราพบอุปกรณ์ผ่านบลูทูธ เลือกอุปกรณ์ของคุณเพื่อกำหนดค่า",
     "pump_holiday_start_time_greater_one_day": "การตั้งค่าโหมดวันหยุดต้องมากกว่า 1 วัน",
     "CL_CF_FM_food_type": "ประเภทอาหาร",
-    "CL_CF_FM_add_food_from_lib": "เพิ่มอาหารจากห้องสมุด"
+    "CL_CF_FM_add_food_from_lib": "เพิ่มอาหารจากห้องสมุด",
+    "CL_CF_FM_items_check": "ตรวจสอบรายการ",
+    "CL_CF_FM_items_check_desc": "กรุณาตรวจสอบว่าจำเป็นต้องแก้ไขข้อมูลอาหารหรือไม่",
+    "CL_CF_FM_add_to_ref": "เพิ่มลงในตู้เย็น",
+    "CL_CF_FM_food_name": "ชื่ออาหาร",
+    "CL_CF_FM_store_date": "วันที่จัดเก็บ",
+    "program_management_unable_to_hide": "ไม่สามารถซ่อนได้",
+    "program_management_unable_to_hide_desc": "นี่เป็นโปรแกรมสุดท้ายที่มองเห็นได้และจะต้องมองเห็นอย่างน้อยหนึ่งโปรแกรม",
+    "CL_CF_FM_set_deadline": "กำหนดเส้นตาย",
+    "CL_CF_FM_expiry_date_must_be_selected": "ต้องเลือกวันหมดอายุ"
 }

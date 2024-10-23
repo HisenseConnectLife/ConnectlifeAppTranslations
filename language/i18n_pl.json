@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Znaleźliśmy urządzenia przez Bluetooth. Wybierz urządzenie do skonfigurowania.",
     "pump_holiday_start_time_greater_one_day": "Ustawienie trybu wakacyjnego musi być dłuższe niż 1 dzień!",
     "CL_CF_FM_food_type": "Rodzaj żywności",
-    "CL_CF_FM_add_food_from_lib": "Dodaj jedzenie z biblioteki"
+    "CL_CF_FM_add_food_from_lib": "Dodaj jedzenie z biblioteki",
+    "CL_CF_FM_items_check": "Sprawdź elementy",
+    "CL_CF_FM_items_check_desc": "Proszę sprawdzić, czy konieczna jest modyfikacja informacji o żywności",
+    "CL_CF_FM_add_to_ref": "Dodaj do lodówki",
+    "CL_CF_FM_food_name": "Nazwa jedzenia",
+    "CL_CF_FM_store_date": "Data przechowywania",
+    "program_management_unable_to_hide": "Nie można ukryć",
+    "program_management_unable_to_hide_desc": "Jest to ostatni widoczny program i co najmniej jeden program musi pozostać widoczny.",
+    "CL_CF_FM_set_deadline": "Ustaw termin",
+    "CL_CF_FM_expiry_date_must_be_selected": "Należy wybrać datę ważności"
 }

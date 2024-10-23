@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "हमें ब्लूटूथ के ज़रिए डिवाइस मिले हैं। कॉन्फ़िगर करने के लिए अपना डिवाइस चुनें।",
     "pump_holiday_start_time_greater_one_day": "हॉलिडे मोड सेटिंग 1 दिन से ज़्यादा होनी चाहिए",
     "CL_CF_FM_food_type": "भोजन का प्रकार",
-    "CL_CF_FM_add_food_from_lib": "लाइब्रेरी से खाना जोड़ें"
+    "CL_CF_FM_add_food_from_lib": "लाइब्रेरी से खाना जोड़ें",
+    "CL_CF_FM_items_check": "आइटम की जाँच करें",
+    "CL_CF_FM_items_check_desc": "कृपया जाँच लें कि क्या खाद्य जानकारी को संशोधित करना आवश्यक है",
+    "CL_CF_FM_add_to_ref": "रेफ्रिजरेटर में जोड़ें",
+    "CL_CF_FM_food_name": "भोजन का नाम",
+    "CL_CF_FM_store_date": "स्टोर तिथि",
+    "program_management_unable_to_hide": "छिपाने में असमर्थ",
+    "program_management_unable_to_hide_desc": "यह अंतिम दृश्यमान कार्यक्रम है और कम से कम एक कार्यक्रम दृश्यमान रखा जाना चाहिए।",
+    "CL_CF_FM_set_deadline": "समय सीमा निर्धारित करें",
+    "CL_CF_FM_expiry_date_must_be_selected": "समाप्ति तिथि का चयन करना आवश्यक है"
 }

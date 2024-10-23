@@ -4258,5 +4258,14 @@
     "CL_CF_CS_ble_scan_have_found": "Chúng tôi đã tìm thấy thiết bị qua Bluetooth. Chọn thiết bị của bạn để cấu hình.",
     "pump_holiday_start_time_greater_one_day": "Cài đặt chế độ nghỉ ngơi phải dài hơn 1 ngày!",
     "CL_CF_FM_food_type": "Loại thực phẩm",
-    "CL_CF_FM_add_food_from_lib": "Thêm Thực phẩm Từ Thư viện"
+    "CL_CF_FM_add_food_from_lib": "Thêm Thực phẩm Từ Thư viện",
+    "CL_CF_FM_items_check": "Kiểm tra các mục",
+    "CL_CF_FM_items_check_desc": "Vui lòng kiểm tra xem có cần phải sửa đổi thông tin thực phẩm không",
+    "CL_CF_FM_add_to_ref": "Thêm vào tủ lạnh",
+    "CL_CF_FM_food_name": "Tên món ăn",
+    "CL_CF_FM_store_date": "Ngày lưu trữ",
+    "program_management_unable_to_hide": "Không thể ẩn",
+    "program_management_unable_to_hide_desc": "Đây là chương trình cuối cùng có thể nhìn thấy và ít nhất một chương trình phải được giữ ở chế độ hiển thị.",
+    "CL_CF_FM_set_deadline": "Đặt thời hạn",
+    "CL_CF_FM_expiry_date_must_be_selected": "Ngày hết hạn phải được chọn"
 }
