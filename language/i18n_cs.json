@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Nelze se skrýt",
     "program_management_unable_to_hide_desc": "Toto je poslední viditelný program a alespoň jeden program musí zůstat viditelný.",
     "CL_CF_FM_set_deadline": "Stanovte si termín",
-    "CL_CF_FM_expiry_date_must_be_selected": "Musí být vybráno datum vypršení platnosti"
+    "CL_CF_FM_expiry_date_must_be_selected": "Musí být vybráno datum vypršení platnosti",
+    "CL_CF_FM_add_custom_food_desc": "Přidejte novou přizpůsobenou položku",
+    "CL_CF_FM_delete_selected_items": "Smazat vybrané položky",
+    "CL_CF_FM_delete_selected": "Smazat vybrané"
 }

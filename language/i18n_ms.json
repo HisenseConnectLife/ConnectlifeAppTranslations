@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Tidak dapat bersembunyi",
     "program_management_unable_to_hide_desc": "Ini adalah program terakhir yang boleh dilihat dan sekurang-kurangnya satu program mesti kekal kelihatan.",
     "CL_CF_FM_set_deadline": "Tetapkan tarikh akhir",
-    "CL_CF_FM_expiry_date_must_be_selected": "Tarikh luput mesti dipilih"
+    "CL_CF_FM_expiry_date_must_be_selected": "Tarikh luput mesti dipilih",
+    "CL_CF_FM_add_custom_food_desc": "Tambah item tersuai baharu",
+    "CL_CF_FM_delete_selected_items": "Padamkan Item Terpilih",
+    "CL_CF_FM_delete_selected": "Padam Dipilih"
 }

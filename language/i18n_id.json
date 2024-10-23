@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Tidak bisa disembunyikan",
     "program_management_unable_to_hide_desc": "Ini adalah program terakhir yang terlihat dan setidaknya satu program harus tetap terlihat.",
     "CL_CF_FM_set_deadline": "Tetapkan batas waktu",
-    "CL_CF_FM_expiry_date_must_be_selected": "Tanggal kedaluwarsa harus dipilih"
+    "CL_CF_FM_expiry_date_must_be_selected": "Tanggal kedaluwarsa harus dipilih",
+    "CL_CF_FM_add_custom_food_desc": "Tambahkan item baru yang disesuaikan",
+    "CL_CF_FM_delete_selected_items": "Hapus Item yang Dipilih",
+    "CL_CF_FM_delete_selected": "Hapus yang Dipilih"
 }

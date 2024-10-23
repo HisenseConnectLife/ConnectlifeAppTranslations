@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "無法隱藏",
     "program_management_unable_to_hide_desc": "這是最後一個可見程序，並且至少有一個程序必須保持可見。",
     "CL_CF_FM_set_deadline": "設定截止日期",
-    "CL_CF_FM_expiry_date_must_be_selected": "必須選擇到期日"
+    "CL_CF_FM_expiry_date_must_be_selected": "必須選擇到期日",
+    "CL_CF_FM_add_custom_food_desc": "新增的客製化項目",
+    "CL_CF_FM_delete_selected_items": "刪除所選項目",
+    "CL_CF_FM_delete_selected": "刪除所選內容"
 }
