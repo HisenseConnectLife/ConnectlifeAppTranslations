@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Kann mich nicht verstecken",
     "program_management_unable_to_hide_desc": "Dies ist das letzte sichtbare Programm und mindestens ein Programm muss sichtbar bleiben.",
     "CL_CF_FM_set_deadline": "Setzen Sie eine Frist",
-    "CL_CF_FM_expiry_date_must_be_selected": "Ablaufdatum muss ausgewählt werden"
+    "CL_CF_FM_expiry_date_must_be_selected": "Ablaufdatum muss ausgewählt werden",
+    "CL_CF_FM_add_custom_food_desc": "Einen neuen benutzerdefinierten Artikel hinzufügen",
+    "CL_CF_FM_delete_selected_items": "Ausgewählte Elemente löschen",
+    "CL_CF_FM_delete_selected": "Auswahl löschen"
 }

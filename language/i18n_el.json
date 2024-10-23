@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Δεν είναι δυνατή η απόκρυψη",
     "program_management_unable_to_hide_desc": "Αυτό είναι το τελευταίο ορατό πρόγραμμα και τουλάχιστον ένα πρόγραμμα πρέπει να παραμένει ορατό.",
     "CL_CF_FM_set_deadline": "Ορίστε μια προθεσμία",
-    "CL_CF_FM_expiry_date_must_be_selected": "Πρέπει να επιλεγεί η ημερομηνία λήξης"
+    "CL_CF_FM_expiry_date_must_be_selected": "Πρέπει να επιλεγεί η ημερομηνία λήξης",
+    "CL_CF_FM_add_custom_food_desc": "Προσθέστε ένα νέο προσαρμοσμένο στοιχείο",
+    "CL_CF_FM_delete_selected_items": "Διαγραφή επιλεγμένων αντικειμένων",
+    "CL_CF_FM_delete_selected": "Διαγραφή επιλεγμένων"
 }

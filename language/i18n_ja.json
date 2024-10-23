@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "隠すことができない",
     "program_management_unable_to_hide_desc": "これは最後に表示されるプログラムであり、少なくとも 1 つのプログラムを表示したままにする必要があります。",
     "CL_CF_FM_set_deadline": "期限を設定する",
-    "CL_CF_FM_expiry_date_must_be_selected": "有効期限を選択する必要があります"
+    "CL_CF_FM_expiry_date_must_be_selected": "有効期限を選択する必要があります",
+    "CL_CF_FM_add_custom_food_desc": "新しいカスタマイズアイテムを追加する",
+    "CL_CF_FM_delete_selected_items": "選択したアイテムを削除",
+    "CL_CF_FM_delete_selected": "選択項目を削除"
 }
