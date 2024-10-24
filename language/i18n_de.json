@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Stellen Sie sicher, dass Ihr Bluetooth eingeschaltet ist.",
     "CL_DV_PIND_accessory_firmware_update": "Zubehör-Firmware-Update",
     "CL_CF_CS_ble_scan_not_list": "Wenn Ihr Gerät nicht aufgeführt ist, können Sie auf „ERNEUT VERSUCHEN“ klicken, um erneut zu suchen, oder auf „WEITER“, um das Netzwerk auf andere Weise zu konfigurieren.",
-    "CL_CF_CS_ble_scan_have_not_found": "Wir haben kein Bluetooth-Gerät gefunden. Sie können auf „ERNEUT VERSUCHEN“ klicken, um erneut zu suchen, oder auf „WEITER“, um das Netzwerk auf andere Weise zu konfigurieren.",
+    "CL_CF_CS_ble_scan_have_not_found": "Wir haben kein Gerät über Bluetooth gefunden. Sie können auf „ERNEUT VERSUCHEN“ klicken, um erneut zu suchen, oder das Netzwerk auf andere Weise konfigurieren.",
     "CL_DV_WM_pump_cleaning": "Pumpe reinigen...",
     "CL_DV_WM_autodoes_tip": "Aktivieren Sie diese Funktion und Ihr Gerät gibt während des Wäschewaschens automatisch Waschmittel und Weichspüler ab.",
     "CL_DV_WM_detergent_department_key": "WASCHMITTELFACH",
@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Kann mich nicht verstecken",
     "program_management_unable_to_hide_desc": "Dies ist das letzte sichtbare Programm und mindestens ein Programm muss sichtbar bleiben.",
     "CL_CF_FM_set_deadline": "Setzen Sie eine Frist",
-    "CL_CF_FM_expiry_date_must_be_selected": "Ablaufdatum muss ausgewählt werden"
+    "CL_CF_FM_expiry_date_must_be_selected": "Ablaufdatum muss ausgewählt werden",
+    "CL_CF_FM_add_custom_food_desc": "Einen neuen benutzerdefinierten Artikel hinzufügen",
+    "CL_CF_FM_delete_selected_items": "Ausgewählte Elemente löschen",
+    "CL_CF_FM_delete_selected": "Auswahl löschen"
 }

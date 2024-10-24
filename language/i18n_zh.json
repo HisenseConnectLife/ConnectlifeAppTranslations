@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "确保您的蓝牙已打开。",
     "CL_DV_PIND_accessory_firmware_update": "配件固件更新",
     "CL_CF_CS_ble_scan_not_list": "如果您的设备不在列表中，您可以点击“重试”重新搜索，或点击“下一步”以其他方式配置网络。",
-    "CL_CF_CS_ble_scan_have_not_found": "我们没有在蓝牙上找到任何设备。您可以点击“重试”重新搜索，或点击“下一步”以其他方式配置网络。",
+    "CL_CF_CS_ble_scan_have_not_found": "我们未在蓝牙上找到任何设备。您可以点击“重试”重新搜索，或以其他方式配置网络。",
     "CL_DV_WM_pump_cleaning": "清洗泵...",
     "CL_DV_WM_autodoes_tip": "启用此功能，您的设备将在您洗衣服时智能地分配洗涤剂和织物柔软剂。",
     "CL_DV_WM_detergent_department_key": "洗涤剂隔间",
@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "无法隐藏",
     "program_management_unable_to_hide_desc": "这是最后一个可见的程序，并且必须保持至少一个程序可见。",
     "CL_CF_FM_set_deadline": "设定截止日期",
-    "CL_CF_FM_expiry_date_must_be_selected": "必须选择到期日期"
+    "CL_CF_FM_expiry_date_must_be_selected": "必须选择到期日期",
+    "CL_CF_FM_add_custom_food_desc": "添加新的定制商品",
+    "CL_CF_FM_delete_selected_items": "删除选定项目",
+    "CL_CF_FM_delete_selected": "删除选定项"
 }
