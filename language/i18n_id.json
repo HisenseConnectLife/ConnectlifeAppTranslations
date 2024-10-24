@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Pastikan bluetooth Anda dihidupkan.",
     "CL_DV_PIND_accessory_firmware_update": "Pembaruan firmware aksesori",
     "CL_CF_CS_ble_scan_not_list": "Jika perangkat Anda tidak tercantum, Anda dapat mengeklik 'COBA LAGI' untuk mencari lagi, atau klik 'LANJUTKAN' untuk mengonfigurasi jaringan dengan cara lain.",
-    "CL_CF_CS_ble_scan_have_not_found": "Kami tidak menemukan perangkat apa pun di bluetooth. Anda dapat mengeklik 'COBA LAGI' untuk mencari lagi, atau klik 'LANJUTKAN' untuk mengonfigurasi jaringan dengan cara lain.",
+    "CL_CF_CS_ble_scan_have_not_found": "Kami tidak menemukan perangkat apa pun di bluetooth. Anda dapat mengklik 'TRY AGAIN' untuk mencari lagi, atau mengkonfigurasi jaringan dengan cara lain.",
     "CL_DV_WM_pump_cleaning": "Pompa pembersih...",
     "CL_DV_WM_autodoes_tip": "Aktifkan fitur ini dan perangkat Anda akan secara pintar mengeluarkan deterjen dan pelembut kain saat Anda mencuci.",
     "CL_DV_WM_detergent_department_key": "RUANG DETERJEN",
@@ -4267,5 +4267,10 @@
     "program_management_unable_to_hide": "Tidak bisa disembunyikan",
     "program_management_unable_to_hide_desc": "Ini adalah program terakhir yang terlihat dan setidaknya satu program harus tetap terlihat.",
     "CL_CF_FM_set_deadline": "Tetapkan batas waktu",
-    "CL_CF_FM_expiry_date_must_be_selected": "Tanggal kedaluwarsa harus dipilih"
+    "CL_CF_FM_expiry_date_must_be_selected": "Tanggal kedaluwarsa harus dipilih",
+    "CL_CF_FM_add_custom_food_desc": "Tambahkan item baru yang disesuaikan",
+    "CL_CF_FM_delete_selected_items": "Hapus Item yang Dipilih",
+    "CL_CF_FM_delete_selected": "Hapus yang Dipilih",
+    "CL_DV_HOB_residual_heat_content": "Zona memasak masih panas. Berhati-hatilah untuk tidak menyentuhnya.",
+    "CL_CF_FM_add_custom_food": "Tambahkan Makanan yang Tidak Termasuk dalam Perpustakaan"
 }
