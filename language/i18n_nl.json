@@ -4267,5 +4267,12 @@
     "program_management_unable_to_hide": "Kan niet verbergen",
     "program_management_unable_to_hide_desc": "Dit is het laatste zichtbare programma. Er moet minimaal één programma zichtbaar blijven.",
     "CL_CF_FM_set_deadline": "Stel een deadline in",
-    "CL_CF_FM_expiry_date_must_be_selected": "Vervaldatum moet worden geselecteerd"
+    "CL_CF_FM_expiry_date_must_be_selected": "Vervaldatum moet worden geselecteerd",
+    "CL_CF_FM_add_custom_food_desc": "Voeg een nieuw aangepast item toe",
+    "CL_CF_FM_delete_selected_items": "Geselecteerde items verwijderen",
+    "CL_CF_FM_delete_selected": "Geselecteerde verwijderen",
+    "CL_DV_HOB_residual_heat_content": "De kookzone is nog steeds heet. Wees voorzichtig en raak hem niet aan.",
+    "CL_CF_FM_add_custom_food": "Voeg voedsel toe dat niet in de bibliotheek is opgenomen",
+    "air_care_temp_title": "Temperatuurevaluatienorm:",
+    "air_care_temp_c": "Goed: 17 < T < 27℃ \\n Normaal: 10≤T≤17°C, 27≤T≤30°C \\n Niet goed: T < 10°CT > 30°C"
 }
