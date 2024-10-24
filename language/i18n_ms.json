@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Pastikan bluetooth anda dihidupkan.",
     "CL_DV_PIND_accessory_firmware_update": "Kemas kini perisian tegar aksesori",
     "CL_CF_CS_ble_scan_not_list": "Jika peranti anda tidak disenaraikan, anda boleh mengklik 'CUBA LAGI' untuk mencari semula atau klik 'SETERUSNYA' untuk mengkonfigurasi rangkaian dengan cara lain.",
-    "CL_CF_CS_ble_scan_have_not_found": "Kami tidak menemui sebarang peranti pada bluetooth. Anda boleh mengklik 'CUBA LAGI' untuk mencari semula, atau klik 'SETERUSNYA' untuk mengkonfigurasi rangkaian dengan cara lain.",
+    "CL_CF_CS_ble_scan_have_not_found": "Kami tidak menemui sebarang peranti pada bluetooth. Anda boleh mengklik 'CUBA LAGI' untuk mencari semula, atau mengkonfigurasi rangkaian dengan cara lain.",
     "CL_DV_WM_pump_cleaning": "Pam pembersihan...",
     "CL_DV_WM_autodoes_tip": "Dayakan ciri ini dan peranti anda akan mengeluarkan detergen dan pelembut fabrik dengan bijak semasa anda mencuci pakaian anda.",
     "CL_DV_WM_detergent_department_key": "KOMPARTMEN DETERGEN",
@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Tidak dapat bersembunyi",
     "program_management_unable_to_hide_desc": "Ini adalah program terakhir yang boleh dilihat dan sekurang-kurangnya satu program mesti kekal kelihatan.",
     "CL_CF_FM_set_deadline": "Tetapkan tarikh akhir",
-    "CL_CF_FM_expiry_date_must_be_selected": "Tarikh luput mesti dipilih"
+    "CL_CF_FM_expiry_date_must_be_selected": "Tarikh luput mesti dipilih",
+    "CL_CF_FM_add_custom_food_desc": "Tambah item tersuai baharu",
+    "CL_CF_FM_delete_selected_items": "Padamkan Item Terpilih",
+    "CL_CF_FM_delete_selected": "Padam Dipilih"
 }
