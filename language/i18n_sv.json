@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Se till att din bluetooth är påslagen.",
     "CL_DV_PIND_accessory_firmware_update": "Uppdatering av tillbehörsfirmware",
     "CL_CF_CS_ble_scan_not_list": "Om din enhet inte finns med i listan kan du klicka på 'FÖRSÖKA IGEN' för att söka igen, eller klicka på 'NÄSTA' för att konfigurera nätverket på annat sätt.",
-    "CL_CF_CS_ble_scan_have_not_found": "Vi har inte hittat någon enhet på bluetooth. Du kan klicka på \"FÖRSÖKA IGEN\" för att söka igen, eller klicka på \"NÄSTA\" för att konfigurera nätverket på annat sätt.",
+    "CL_CF_CS_ble_scan_have_not_found": "Vi har inte hittat någon enhet på bluetooth. Du kan klicka på \"FÖRSÖK IGEN\" för att söka igen, eller konfigurera nätverket på ett annat sätt.",
     "CL_DV_WM_pump_cleaning": "Rengör pumpen...",
     "CL_DV_WM_autodoes_tip": "Aktivera den här funktionen så kommer din enhet smart att dosera tvättmedel och sköljmedel medan du tvättar.",
     "CL_DV_WM_detergent_department_key": "Tvättmedelsfack",
@@ -4267,5 +4267,12 @@
     "program_management_unable_to_hide": "Det går inte att gömma sig",
     "program_management_unable_to_hide_desc": "Detta är det sista synliga programmet och minst ett program måste hållas synligt.",
     "CL_CF_FM_set_deadline": "Sätt en deadline",
-    "CL_CF_FM_expiry_date_must_be_selected": "Utgångsdatum måste väljas"
+    "CL_CF_FM_expiry_date_must_be_selected": "Utgångsdatum måste väljas",
+    "CL_CF_FM_add_custom_food_desc": "Lägg till ett nytt anpassat objekt",
+    "CL_CF_FM_delete_selected_items": "Ta bort markerade objekt",
+    "CL_CF_FM_delete_selected": "Ta bort markerade",
+    "CL_DV_HOB_residual_heat_content": "Kokzonen är fortfarande varm. Var försiktig så att du inte rör vid den.",
+    "CL_CF_FM_add_custom_food": "Lägg till mat som inte ingår i biblioteket",
+    "air_care_temp_title": "Temperaturutvärderingsstandard:",
+    "air_care_temp_c": "Bra: 17 < T < 27℃ \\n Normal: 10≤T≤17°C, 27≤T≤30°C \\n Inte bra: T < 10°CT > 30°C"
 }

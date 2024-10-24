@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Bluetooth'unuzun açık olduğundan emin olun.",
     "CL_DV_PIND_accessory_firmware_update": "Aksesuar aygıt yazılımı güncellemesi",
     "CL_CF_CS_ble_scan_not_list": "Cihazınız listede yoksa, tekrar arama yapmak için 'TEKRAR DENE'ye tıklayabilir veya ağı başka bir şekilde yapılandırmak için 'İLERİ'ye tıklayabilirsiniz.",
-    "CL_CF_CS_ble_scan_have_not_found": "Bluetooth'ta herhangi bir cihaz bulamadık. Tekrar aramak için 'TEKRAR DENE'ye tıklayabilir veya ağı başka bir şekilde yapılandırmak için 'İLERİ'ye tıklayabilirsiniz.",
+    "CL_CF_CS_ble_scan_have_not_found": "Bluetooth üzerinde herhangi bir cihaz bulamadık. Tekrar aramak için 'TEKRAR DENE' seçeneğine tıklayabilir veya ağı başka bir şekilde yapılandırabilirsiniz.",
     "CL_DV_WM_pump_cleaning": "Pompa temizleniyor...",
     "CL_DV_WM_autodoes_tip": "Bu özelliği etkinleştirin ve çamaşırlarınızı yıkarken cihazınız akıllı bir şekilde deterjanı ve yumuşatıcıyı dağıtacaktır.",
     "CL_DV_WM_detergent_department_key": "DETERJAN BÖLMESİ",
@@ -4267,5 +4267,12 @@
     "program_management_unable_to_hide": "Gizlenemiyorum",
     "program_management_unable_to_hide_desc": "Bu son görünen programdır ve en az bir programın görünür tutulması gerekir.",
     "CL_CF_FM_set_deadline": "Bir son tarih belirleyin",
-    "CL_CF_FM_expiry_date_must_be_selected": "Son kullanma tarihi seçilmelidir"
+    "CL_CF_FM_expiry_date_must_be_selected": "Son kullanma tarihi seçilmelidir",
+    "CL_CF_FM_add_custom_food_desc": "Yeni bir özelleştirilmiş öğe ekle",
+    "CL_CF_FM_delete_selected_items": "Seçili Öğeleri Sil",
+    "CL_CF_FM_delete_selected": "Seçilenleri Sil",
+    "CL_DV_HOB_residual_heat_content": "Pişirme alanı hala sıcak. Dokunmamaya dikkat edin.",
+    "CL_CF_FM_add_custom_food": "Kütüphanede Olmayan Yiyecekleri Ekle",
+    "air_care_temp_title": "Sıcaklık değerlendirme standardı:",
+    "air_care_temp_c": "İyi: 17 < T < 27℃ \\n Normal: 10≤T≤17°C, 27≤T≤30°C \\n İyi değil: T < 10°CT > 30°C"
 }

@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Bluetoothがオンになっていることを確認してください。",
     "CL_DV_PIND_accessory_firmware_update": "アクセサリファームウェアアップデート",
     "CL_CF_CS_ble_scan_not_list": "デバイスがリストにない場合は、「再試行」をクリックして再度検索するか、「次へ」をクリックして別の方法でネットワークを構成してください。",
-    "CL_CF_CS_ble_scan_have_not_found": "Bluetooth 上のデバイスが見つかりません。「再試行」をクリックして再度検索するか、「次へ」をクリックして別の方法でネットワークを構成してください。",
+    "CL_CF_CS_ble_scan_have_not_found": "ブルートゥースのデバイスが見つかりません。TRY AGAIN」をクリックして再度検索するか、別の方法でネットワークを設定してください。",
     "CL_DV_WM_pump_cleaning": "洗浄ポンプ...",
     "CL_DV_WM_autodoes_tip": "この機能を有効にすると、洗濯中にデバイスが洗剤と柔軟剤をスマートに分配します。",
     "CL_DV_WM_detergent_department_key": "洗剤入れ",
@@ -4267,5 +4267,12 @@
     "program_management_unable_to_hide": "隠すことができない",
     "program_management_unable_to_hide_desc": "これは最後に表示されるプログラムであり、少なくとも 1 つのプログラムを表示したままにする必要があります。",
     "CL_CF_FM_set_deadline": "期限を設定する",
-    "CL_CF_FM_expiry_date_must_be_selected": "有効期限を選択する必要があります"
+    "CL_CF_FM_expiry_date_must_be_selected": "有効期限を選択する必要があります",
+    "CL_CF_FM_add_custom_food_desc": "新しいカスタマイズアイテムを追加する",
+    "CL_CF_FM_delete_selected_items": "選択したアイテムを削除",
+    "CL_CF_FM_delete_selected": "選択項目を削除",
+    "CL_DV_HOB_residual_heat_content": "調理ゾーンはまだ熱いので、触らないように注意してください。",
+    "CL_CF_FM_add_custom_food": "ライブラリに含まれていない食品を追加する",
+    "air_care_temp_title": "温度評価基準：",
+    "air_care_temp_c": "良好: 17 < T < 27℃ \\n正常: 10≤T≤17°C、27≤T≤30°C \\n不良: T < 10°CT > 30°C"
 }

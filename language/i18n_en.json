@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Make sure your bluetooth is turned on.",
     "CL_DV_PIND_accessory_firmware_update": "Accessory firmware update",
     "CL_CF_CS_ble_scan_not_list": "If your device is not listed, you can click ‘TRY AGAIN’ to search again, or click ‘NEXT’ to configure network in another way.",
-    "CL_CF_CS_ble_scan_have_not_found": "We haven’t found any device on bluetooth.You can click ‘TRY AGAIN’ to search again,or click ‘NEXT’ to configure network in another way.",
+    "CL_CF_CS_ble_scan_have_not_found": "We haven’t found any device on bluetooth. You can click ‘TRY AGAIN’ to search again, or configure network in another way.",
     "CL_DV_WM_pump_cleaning": "Cleaning pump...",
     "CL_DV_WM_autodoes_tip": "Enable this feature and your device will smartly dispense detergent and fabric softener while you do your laundry.",
     "CL_DV_WM_detergent_department_key": "DETERGENT COMPARTMENT",
@@ -4267,5 +4267,12 @@
     "program_management_unable_to_hide": "Unable to hide",
     "program_management_unable_to_hide_desc": "This is the last visible program and at least one program must be kept visible.",
     "CL_CF_FM_set_deadline": "Set a deadline",
-    "CL_CF_FM_expiry_date_must_be_selected": "Expiry date must be selected"
+    "CL_CF_FM_expiry_date_must_be_selected": "Expiry date must be selected",
+    "CL_CF_FM_add_custom_food_desc": "Add a new customized item",
+    "CL_CF_FM_delete_selected_items": "Delete Selected Items",
+    "CL_CF_FM_delete_selected": "Delete Selected",
+    "CL_DV_HOB_residual_heat_content": "The cooking zone is still hot. Be careful not to touch it.",
+    "CL_CF_FM_add_custom_food": "Add Food Not Included in The Library",
+    "air_care_temp_title": "Temperature evaluation standard:",
+    "air_care_temp_c": "Good: 17<T<27℃\\nNormal: 10≤T≤17°C, 27≤T≤30°C\\nNot good: T<10°C  T>30°C"
 }
