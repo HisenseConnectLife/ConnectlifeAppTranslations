@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Asigurați-vă că bluetooth-ul este pornit.",
     "CL_DV_PIND_accessory_firmware_update": "Actualizare firmware pentru accesorii",
     "CL_CF_CS_ble_scan_not_list": "Dacă dispozitivul dvs. nu este listat, puteți face clic pe „ÎNCERCAȚI DIN NOU” pentru a căuta din nou sau puteți face clic pe „URMĂTOR” pentru a configura rețeaua într-un alt mod.",
-    "CL_CF_CS_ble_scan_have_not_found": "Nu am găsit niciun dispozitiv pe bluetooth. Puteți face clic pe „ÎNCERCAȚI DIN NOU” pentru a căuta din nou sau puteți face clic pe „URMĂTOR” pentru a configura rețeaua într-un alt mod.",
+    "CL_CF_CS_ble_scan_have_not_found": "Nu am găsit niciun dispozitiv pe bluetooth. Puteți face clic pe \"TRY AGAIN\" pentru a căuta din nou sau puteți configura rețeaua în alt mod.",
     "CL_DV_WM_pump_cleaning": "Pompa de curatare...",
     "CL_DV_WM_autodoes_tip": "Activați această funcție și dispozitivul dvs. va distribui în mod inteligent detergent și balsam de rufe în timp ce vă spălați rufele.",
     "CL_DV_WM_detergent_department_key": "COMPARTIMENT DE DETERGENT",
@@ -4267,5 +4267,10 @@
     "program_management_unable_to_hide": "Nu se poate ascunde",
     "program_management_unable_to_hide_desc": "Acesta este ultimul program vizibil și cel puțin un program trebuie menținut vizibil.",
     "CL_CF_FM_set_deadline": "Stabiliți un termen limită",
-    "CL_CF_FM_expiry_date_must_be_selected": "Trebuie selectată data de expirare"
+    "CL_CF_FM_expiry_date_must_be_selected": "Trebuie selectată data de expirare",
+    "CL_CF_FM_add_custom_food_desc": "Adăugați un nou articol personalizat",
+    "CL_CF_FM_delete_selected_items": "Ștergeți elementele selectate",
+    "CL_CF_FM_delete_selected": "Ștergeți selectat",
+    "CL_DV_HOB_residual_heat_content": "Zona de gătit este încă fierbinte. Ai grijă să nu-l atingi.",
+    "CL_CF_FM_add_custom_food": "Adăugați alimente care nu sunt incluse în bibliotecă"
 }
