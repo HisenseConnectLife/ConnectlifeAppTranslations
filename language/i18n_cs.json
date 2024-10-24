@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Ujistěte se, že máte zapnuté bluetooth.",
     "CL_DV_PIND_accessory_firmware_update": "Aktualizace firmwaru příslušenství",
     "CL_CF_CS_ble_scan_not_list": "Pokud vaše zařízení není v seznamu, můžete kliknout na 'ZKUSIT ZNOVU' a hledat znovu, nebo klepnout na 'DALŠÍ' pro konfiguraci sítě jiným způsobem.",
-    "CL_CF_CS_ble_scan_have_not_found": "Na bluetooth jsme nenašli žádné zařízení. Můžete kliknout na „ZKUSIT ZNOVU“ a hledat znovu, nebo kliknout na „DALŠÍ“ pro konfiguraci sítě jiným způsobem.",
+    "CL_CF_CS_ble_scan_have_not_found": "Nenašli jsme žádné zařízení Bluetooth. Můžete kliknout na tlačítko \"TRY AGAIN\" a hledat znovu nebo síť nakonfigurovat jiným způsobem.",
     "CL_DV_WM_pump_cleaning": "Čisticí čerpadlo...",
     "CL_DV_WM_autodoes_tip": "Povolte tuto funkci a vaše zařízení bude během praní chytře dávkovat prací prostředek a aviváž.",
     "CL_DV_WM_detergent_department_key": "PŘIHRÁDKA NA PRACÍ PROSTŘEDEK",
@@ -4267,5 +4267,14 @@
     "program_management_unable_to_hide": "Nelze se skrýt",
     "program_management_unable_to_hide_desc": "Toto je poslední viditelný program a alespoň jeden program musí zůstat viditelný.",
     "CL_CF_FM_set_deadline": "Stanovte si termín",
-    "CL_CF_FM_expiry_date_must_be_selected": "Musí být vybráno datum vypršení platnosti"
+    "CL_CF_FM_expiry_date_must_be_selected": "Musí být vybráno datum vypršení platnosti",
+    "CL_CF_FM_add_custom_food_desc": "Přidejte novou přizpůsobenou položku",
+    "CL_CF_FM_delete_selected_items": "Smazat vybrané položky",
+    "CL_CF_FM_delete_selected": "Smazat vybrané",
+    "CL_DV_HOB_residual_heat_content": "Varná zóna je stále horká. Dávejte pozor, abyste se ho nedotkli.",
+    "CL_CF_FM_add_custom_food": "Přidejte jídlo, které není součástí knihovny",
+    "air_care_temp_title": "Standard vyhodnocení teploty:",
+    "air_care_temp_c": "Dobrá: 17 < T < 27℃ \\n Normální: 10≤T≤17 °C, 27≤T≤30 °C \\n Nevhodná: T < 10 °CT > 30 °C",
+    "air_care_hum_title": "Standard hodnocení vlhkosti:",
+    "air_care_hum_tips": "Dobrý: H < 70 % \\n Normální: 70≤H≤80 % \\n Ne dobrý: H＞80 %"
 }
