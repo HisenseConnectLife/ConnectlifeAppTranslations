@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Upewnij się, że Bluetooth jest włączony.",
     "CL_DV_PIND_accessory_firmware_update": "Aktualizacja oprogramowania sprzętowego akcesoriów",
     "CL_CF_CS_ble_scan_not_list": "Jeśli Twoje urządzenie nie znajduje się na liście, możesz kliknąć przycisk „SPRÓBUJ PONOWNIE”, aby wyszukać ponownie, lub kliknąć przycisk „DALEJ”, aby skonfigurować sieć w inny sposób.",
-    "CL_CF_CS_ble_scan_have_not_found": "Nie znaleźliśmy żadnego urządzenia z Bluetooth. Możesz kliknąć „SPRÓBUJ PONOWNIE”, aby wyszukać ponownie, lub kliknąć „DALEJ”, aby skonfigurować sieć w inny sposób.",
+    "CL_CF_CS_ble_scan_have_not_found": "Nie znaleźliśmy żadnego urządzenia na bluetooth. Możesz kliknąć \"TRY AGAIN\", aby wyszukać ponownie lub skonfigurować sieć w inny sposób.",
     "CL_DV_WM_pump_cleaning": "Czyszczenie pompy...",
     "CL_DV_WM_autodoes_tip": "Włącz tę funkcję, a Twoje urządzenie będzie inteligentnie dozować detergent i płyn zmiękczający podczas prania.",
     "CL_DV_WM_detergent_department_key": "KOMORA NA DETERGENT",
@@ -4267,5 +4267,15 @@
     "program_management_unable_to_hide": "Nie można ukryć",
     "program_management_unable_to_hide_desc": "Jest to ostatni widoczny program i co najmniej jeden program musi pozostać widoczny.",
     "CL_CF_FM_set_deadline": "Ustaw termin",
-    "CL_CF_FM_expiry_date_must_be_selected": "Należy wybrać datę ważności"
+    "CL_CF_FM_expiry_date_must_be_selected": "Należy wybrać datę ważności",
+    "CL_CF_FM_add_custom_food_desc": "Dodaj nowy niestandardowy element",
+    "CL_CF_FM_delete_selected_items": "Usuń wybrane elementy",
+    "CL_CF_FM_delete_selected": "Usuń wybrane",
+    "CL_DV_HOB_residual_heat_content": "Strefa gotowania jest nadal gorąca. Uważaj, żeby jej nie dotykać.",
+    "CL_CF_FM_add_custom_food": "Dodaj jedzenie, którego nie ma w bibliotece",
+    "air_care_temp_title": "Norma oceny temperatury:",
+    "air_care_temp_c": "Dobrze: 17 < T < 27℃ \\n Normalnie: 10≤T≤17°C, 27≤T≤30°C \\n Niedobrze: T < 10°CT > 30°C",
+    "air_care_hum_title": "Norma oceny wilgotności:",
+    "air_care_hum_tips": "Dobrze: H < 70% \\n Normalnie: 70≤H≤80% \\n Niedobrze: H＞80%",
+    "air_care_temp_f": "Dobrze: 62,6 < T < 80,6℉ \\n Normalnie: 50≤T≤62,6℉,80,6≤T≤86℉ \\n Niedobrze: T＜50℉ T＞86℉"
 }
