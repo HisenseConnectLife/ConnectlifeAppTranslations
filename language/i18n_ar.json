@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "تأكد من تشغيل البلوتوث لديك.",
     "CL_DV_PIND_accessory_firmware_update": "تحديث البرامج الثابتة للملحقات",
     "CL_CF_CS_ble_scan_not_list": "إذا لم يكن جهازك مدرجًا في القائمة، فيمكنك النقر فوق \"محاولة مرة أخرى\" للبحث مرة أخرى، أو النقر فوق \"التالي\" لتكوين الشبكة بطريقة أخرى.",
-    "CL_CF_CS_ble_scan_have_not_found": "لم نعثر على أي جهاز على البلوتوث. يمكنك النقر فوق \"حاول مرة أخرى\" للبحث مرة أخرى، أو النقر فوق \"التالي\" لتكوين الشبكة بطريقة أخرى.",
+    "CL_CF_CS_ble_scan_have_not_found": "لم نعثر على أي جهاز متصل بالبلوتوث. يمكنك النقر فوق \"محاولة مرة أخرى\" للبحث مرة أخرى، أو تكوين الشبكة بطريقة أخرى.",
     "CL_DV_WM_pump_cleaning": "مضخة التنظيف...",
     "CL_DV_WM_autodoes_tip": "قم بتمكين هذه الميزة وسيقوم جهازك بتوزيع المنظفات ومنعم الأقمشة بذكاء أثناء غسل ملابسك.",
     "CL_DV_WM_detergent_department_key": "حجرة المنظفات",
@@ -4267,5 +4267,14 @@
     "program_management_unable_to_hide": "غير قادر على الاختباء",
     "program_management_unable_to_hide_desc": "هذا هو البرنامج المرئي الأخير ويجب أن يظل برنامج واحد على الأقل مرئيًا.",
     "CL_CF_FM_set_deadline": "حدد موعدًا نهائيًا",
-    "CL_CF_FM_expiry_date_must_be_selected": "يجب تحديد تاريخ انتهاء الصلاحية"
+    "CL_CF_FM_expiry_date_must_be_selected": "يجب تحديد تاريخ انتهاء الصلاحية",
+    "CL_CF_FM_add_custom_food_desc": "إضافة عنصر مخصص جديد",
+    "CL_CF_FM_delete_selected_items": "حذف العناصر المحددة",
+    "CL_CF_FM_delete_selected": "حذف المحدد",
+    "CL_DV_HOB_residual_heat_content": "لا تزال منطقة الطهي ساخنة. احرص على عدم لمسها.",
+    "CL_CF_FM_add_custom_food": "أضف الأطعمة غير المضمنة في المكتبة",
+    "air_care_temp_title": "معيار تقييم درجة الحرارة:",
+    "air_care_temp_c": "جيد: 17 < T < 27℃ \\n عادي: 10≤T≤17°C، 27≤T≤30°C \\n غير جيد: T < 10°CT > 30°C",
+    "air_care_hum_title": "معيار تقييم الرطوبة:",
+    "air_care_hum_tips": "جيد: H < 70% \\n عادي: 70≤H≤80% \\n غير جيد: H＞80%"
 }
