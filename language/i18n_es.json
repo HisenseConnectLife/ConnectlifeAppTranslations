@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Asegúrese de que su bluetooth esté encendido.",
     "CL_DV_PIND_accessory_firmware_update": "Actualización del firmware de los accesorios",
     "CL_CF_CS_ble_scan_not_list": "Si su dispositivo no está en la lista, puede hacer clic en “INTENTAR OTRA VEZ” para buscar nuevamente o hacer clic en “SIGUIENTE” para configurar la red de otra manera.",
-    "CL_CF_CS_ble_scan_have_not_found": "No hemos encontrado ningún dispositivo en bluetooth. Puede hacer clic en \"INTENTAR OTRA VEZ\" para buscar nuevamente o hacer clic en \"SIGUIENTE\" para configurar la red de otra manera.",
+    "CL_CF_CS_ble_scan_have_not_found": "No hemos encontrado ningún dispositivo con bluetooth. Puedes hacer clic en 'INTENTAR DE NUEVO' para volver a buscar, o configurar la red de otra manera.",
     "CL_DV_WM_pump_cleaning": "Bomba de limpieza...",
     "CL_DV_WM_autodoes_tip": "Habilite esta función y su dispositivo dispensará de manera inteligente detergente y suavizante de telas mientras lava su ropa.",
     "CL_DV_WM_detergent_department_key": "COMPARTIMENTO DE DETERGENTE",
@@ -4267,5 +4267,14 @@
     "program_management_unable_to_hide": "Incapaz de ocultarse",
     "program_management_unable_to_hide_desc": "Este es el último programa visible y al menos un programa debe mantenerse visible.",
     "CL_CF_FM_set_deadline": "Establezca una fecha límite",
-    "CL_CF_FM_expiry_date_must_be_selected": "Se debe seleccionar la fecha de caducidad"
+    "CL_CF_FM_expiry_date_must_be_selected": "Se debe seleccionar la fecha de caducidad",
+    "CL_CF_FM_add_custom_food_desc": "Añadir un nuevo elemento personalizado",
+    "CL_CF_FM_delete_selected_items": "Eliminar elementos seleccionados",
+    "CL_CF_FM_delete_selected": "Eliminar seleccionados",
+    "CL_DV_HOB_residual_heat_content": "La zona de cocción aún está caliente. Tenga cuidado de no tocarla.",
+    "CL_CF_FM_add_custom_food": "Añadir alimentos no incluidos en la biblioteca",
+    "air_care_temp_title": "Estándar de evaluación de temperatura:",
+    "air_care_temp_c": "Bueno: 17 < T < 27℃ \\n Normal: 10≤T≤17°C, 27≤T≤30°C \\n No bueno: T < 10°CT > 30°C",
+    "air_care_hum_title": "Norma de evaluación de humedad:",
+    "air_care_hum_tips": "Bueno: H < 70% \\n Normal: 70≤H≤80% \\n No bueno: H＞80%"
 }
