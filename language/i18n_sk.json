@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Uistite sa, že máte zapnuté bluetooth.",
     "CL_DV_PIND_accessory_firmware_update": "Aktualizácia firmvéru príslušenstva",
     "CL_CF_CS_ble_scan_not_list": "Ak vaše zariadenie nie je uvedené v zozname, môžete kliknúť na „SKÚŠAŤ ZNOVU“ a hľadať znova, alebo kliknúť na „ĎALEJ“ a nakonfigurovať sieť iným spôsobom.",
-    "CL_CF_CS_ble_scan_have_not_found": "Na bluetooth sme nenašli žiadne zariadenie. Môžete kliknúť na „SKÚŠAŤ ZNOVU“ a hľadať znova, alebo kliknúť na „ĎALEJ“ a nakonfigurovať sieť iným spôsobom.",
+    "CL_CF_CS_ble_scan_have_not_found": "Na bluetooth sme nenašli žiadne zariadenie. Môžete kliknúť na „SKÚŠAŤ ZNOVU“ pre opätovné vyhľadávanie alebo nakonfigurovať sieť iným spôsobom.",
     "CL_DV_WM_pump_cleaning": "Čistiace čerpadlo...",
     "CL_DV_WM_autodoes_tip": "Povoľte túto funkciu a vaše zariadenie bude inteligentne dávkovať prací prostriedok a aviváž počas prania.",
     "CL_DV_WM_detergent_department_key": "PRIESTOR NA PRACÍ PROSTRIEDOK",
@@ -4267,5 +4267,14 @@
     "program_management_unable_to_hide": "Nedá sa skryť",
     "program_management_unable_to_hide_desc": "Toto je posledný viditeľný program a aspoň jeden program musí zostať viditeľný.",
     "CL_CF_FM_set_deadline": "Stanovte si termín",
-    "CL_CF_FM_expiry_date_must_be_selected": "Je potrebné vybrať dátum vypršania platnosti"
+    "CL_CF_FM_expiry_date_must_be_selected": "Je potrebné vybrať dátum vypršania platnosti",
+    "CL_CF_FM_add_custom_food_desc": "Pridajte novú prispôsobenú položku",
+    "CL_CF_FM_delete_selected_items": "Odstrániť vybraté položky",
+    "CL_CF_FM_delete_selected": "Odstrániť vybraté",
+    "CL_DV_HOB_residual_heat_content": "Varná zóna je stále horúca. Dávajte pozor, aby ste sa ho nedotkli.",
+    "CL_CF_FM_add_custom_food": "Pridajte jedlo, ktoré nie je súčasťou knižnice",
+    "air_care_temp_title": "Štandard vyhodnocovania teploty:",
+    "air_care_temp_c": "Dobré: 17 < T < 27℃ \\n Normálne: 10≤T≤17 °C, 27≤T≤30 °C \\n Nie dobré: T < 10 °CT > 30 °C",
+    "air_care_hum_title": "Štandard hodnotenia vlhkosti:",
+    "air_care_hum_tips": "Dobré: H < 70 % \\n Normálne: 70≤H≤80 % \\n Nie dobré: H＞80 %"
 }
