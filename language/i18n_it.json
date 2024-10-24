@@ -488,7 +488,7 @@
     "foa_instructions": "ISTRUZIONI FOA",
     "help": "Istruzioni",
     "check_afota_hint": "Verifica la disponibilità di aggiornamenti del firmware dell'applicazione.",
-    "rename_failed": "Cambiamento nome del dispositivo non riuscito.",
+    "rename_failed": "Rinomina del dispositivo non riuscito.",
     "pair_appliance": "ASSOCIA APPARECCHIO",
     "pair_content_title": "Associa semplicemente un altro utente al tuo dispositivo. È necessario che il dispositivo sia configurato e connesso alla rete domestica. In caso contrario, selezionare prima \"Configurazione della connessione\".",
     "add_appliance_pair_failed": "Associazione non riuscita",
@@ -513,7 +513,7 @@
     "bake_baking_title": "Cottura al forno",
     "bake_bake_title": "Cuoci al forno",
     "bake_baking_finish": "Cottura terminata",
-    "bake_baking_finish_add_time": "AGGIUNGI ORARIO",
+    "bake_baking_finish_add_time": "AGGIUNGI TEMPO",
     "heat_mode_hot_air": "Aria calda",
     "heat_mode_eco_hot_air": "Aria calda Eco",
     "heat_mode_top_bottom": "Sopra e sotto",
@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Assicurati che il Bluetooth sia attivato.",
     "CL_DV_PIND_accessory_firmware_update": "Aggiornamento firmware accessorio",
     "CL_CF_CS_ble_scan_not_list": "Se il tuo dispositivo non è presente nell'elenco, puoi cliccare su \"RIPROVA\" per effettuare una nuova ricerca oppure cliccare su \"AVANTI\" per configurare la rete in un altro modo.",
-    "CL_CF_CS_ble_scan_have_not_found": "Non abbiamo trovato alcun dispositivo tramite Bluetooth. Puoi cliccare su \"RIPROVA\" per effettuare una nuova ricerca oppure cliccare su \"AVANTI\" per configurare la rete in un altro modo.",
+    "CL_CF_CS_ble_scan_have_not_found": "Non è stato trovato alcun dispositivo su bluetooth. È possibile fare clic su 'TRY AGAIN' per effettuare una nuova ricerca o configurare la rete in un altro modo.",
     "CL_DV_WM_pump_cleaning": "Pompa di pulizia...",
     "CL_DV_WM_autodoes_tip": "Abilitando questa funzione, il tuo dispositivo erogherà in modo intelligente detersivo e ammorbidente mentre fai il bucato.",
     "CL_DV_WM_detergent_department_key": "VANO DETERSIVO",
@@ -4267,5 +4267,10 @@
     "program_management_unable_to_hide": "Impossibile nascondersi",
     "program_management_unable_to_hide_desc": "Questo è l'ultimo programma visibile e almeno un programma deve essere mantenuto visibile.",
     "CL_CF_FM_set_deadline": "Imposta una scadenza",
-    "CL_CF_FM_expiry_date_must_be_selected": "La data di scadenza deve essere selezionata"
+    "CL_CF_FM_expiry_date_must_be_selected": "La data di scadenza deve essere selezionata",
+    "CL_CF_FM_add_custom_food_desc": "Aggiungi un nuovo articolo personalizzato",
+    "CL_CF_FM_delete_selected_items": "Elimina gli elementi selezionati",
+    "CL_CF_FM_delete_selected": "Elimina selezionato",
+    "CL_DV_HOB_residual_heat_content": "La zona di cottura è ancora calda. Fai attenzione a non toccarla.",
+    "CL_CF_FM_add_custom_food": "Aggiungi cibo non incluso nella biblioteca"
 }

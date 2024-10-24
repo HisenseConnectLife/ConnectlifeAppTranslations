@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "블루투스가 켜져 있는지 확인하세요.",
     "CL_DV_PIND_accessory_firmware_update": "액세서리 펌웨어 업데이트",
     "CL_CF_CS_ble_scan_not_list": "귀하의 기기가 목록에 없으면 '다시 시도'를 클릭하여 다시 검색하거나 '다음'을 클릭하여 다른 방식으로 네트워크를 구성할 수 있습니다.",
-    "CL_CF_CS_ble_scan_have_not_found": "블루투스에서 어떤 장치도 발견되지 않았습니다. '다시 시도'를 클릭하여 다시 검색하거나, '다음'을 클릭하여 다른 방식으로 네트워크를 구성하세요.",
+    "CL_CF_CS_ble_scan_have_not_found": "블루투스에서 장치를 찾지 못했습니다. '다시 시도'를 클릭하여 다시 검색하거나 다른 방법으로 네트워크를 구성할 수 있습니다.",
     "CL_DV_WM_pump_cleaning": "펌프 세척...",
     "CL_DV_WM_autodoes_tip": "이 기능을 활성화하면 세탁하는 동안 기기에서 세제와 섬유유연제가 스마트하게 분사됩니다.",
     "CL_DV_WM_detergent_department_key": "세제 칸",
@@ -4267,5 +4267,10 @@
     "program_management_unable_to_hide": "숨길 수 없습니다",
     "program_management_unable_to_hide_desc": "이것은 마지막으로 볼 수 있는 프로그램이며 적어도 하나의 프로그램은 계속 보여야 합니다.",
     "CL_CF_FM_set_deadline": "마감일을 정하다",
-    "CL_CF_FM_expiry_date_must_be_selected": "유효기간을 선택해야 합니다."
+    "CL_CF_FM_expiry_date_must_be_selected": "유효기간을 선택해야 합니다.",
+    "CL_CF_FM_add_custom_food_desc": "새로운 사용자 정의 항목 추가",
+    "CL_CF_FM_delete_selected_items": "선택한 항목 삭제",
+    "CL_CF_FM_delete_selected": "선택 항목 삭제",
+    "CL_DV_HOB_residual_heat_content": "쿠킹존은 아직 뜨겁습니다. 만지지 않도록 주의하세요.",
+    "CL_CF_FM_add_custom_food": "도서관에 포함되지 않은 음식 추가"
 }
