@@ -4153,7 +4153,7 @@
     "CL_DV_PIND_update_blue_tooth": "Đảm bảo Bluetooth của bạn đã được bật.",
     "CL_DV_PIND_accessory_firmware_update": "Cập nhật phần mềm phụ kiện",
     "CL_CF_CS_ble_scan_not_list": "Nếu thiết bị của bạn không có trong danh sách, bạn có thể nhấp vào 'THỬ LẠI' để tìm kiếm lại hoặc nhấp vào 'TIẾP THEO' để cấu hình mạng theo cách khác.",
-    "CL_CF_CS_ble_scan_have_not_found": "Chúng tôi không tìm thấy bất kỳ thiết bị nào trên Bluetooth. Bạn có thể nhấp vào 'THỬ LẠI' để tìm kiếm lại hoặc nhấp vào 'TIẾP THEO' để cấu hình mạng theo cách khác.",
+    "CL_CF_CS_ble_scan_have_not_found": "Chúng tôi chưa tìm thấy bất kỳ thiết bị nào trên bluetooth. Bạn có thể nhấp vào 'THỬ LẠI' để tìm kiếm lại hoặc định cấu hình mạng theo cách khác.",
     "CL_DV_WM_pump_cleaning": "Vệ sinh máy bơm...",
     "CL_DV_WM_autodoes_tip": "Bật tính năng này và thiết bị của bạn sẽ thông minh phân phối chất tẩy rửa và nước xả vải trong khi bạn giặt quần áo.",
     "CL_DV_WM_detergent_department_key": "NGĂN CHẤT TẨY RỬA",
@@ -4267,5 +4267,8 @@
     "program_management_unable_to_hide": "Không thể ẩn",
     "program_management_unable_to_hide_desc": "Đây là chương trình cuối cùng có thể nhìn thấy và ít nhất một chương trình phải được giữ ở chế độ hiển thị.",
     "CL_CF_FM_set_deadline": "Đặt thời hạn",
-    "CL_CF_FM_expiry_date_must_be_selected": "Ngày hết hạn phải được chọn"
+    "CL_CF_FM_expiry_date_must_be_selected": "Ngày hết hạn phải được chọn",
+    "CL_CF_FM_add_custom_food_desc": "Thêm một mục tùy chỉnh mới",
+    "CL_CF_FM_delete_selected_items": "Xóa các mục đã chọn",
+    "CL_CF_FM_delete_selected": "Xóa mục đã chọn"
 }
