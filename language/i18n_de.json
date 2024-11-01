@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Fühlertemperaturdiagramm",
     "CL_DV_OV_internal": "Intern",
     "CL_DV_OV_probe_desc": "Mithilfe der Sonde können Sie die Temperatur Ihrer Lebensmittel messen. Sie können die unterschiedlichen Temperaturen im Zeitverlauf sehen.",
-    "CL_DV_RF_no_cleaning_history": "Kein Reinigungsverlauf"
+    "CL_DV_RF_no_cleaning_history": "Kein Reinigungsverlauf",
+    "CL_DV_RF_add_new_reminder": "Neue Erinnerung hinzufügen",
+    "CL_DV_RF_edit_details": "Details bearbeiten",
+    "CL_DV_RF_garbage_category": "Kategorie Müll",
+    "CL_DV_RF_combustible_waste": "Brennbare Abfälle",
+    "CL_DV_RF_non_combustible_waste": "Nicht brennbare Abfälle",
+    "CL_DV_RF_disposal_reminder": "Entsorgungserinnerung",
+    "CL_DV_RF_reminders": "Erinnerung",
+    "CL_DV_RF_x_hour_before_the_plan": "** Stunde vor dem Plan"
 }

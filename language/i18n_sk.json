@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Graf teploty sondy",
     "CL_DV_OV_internal": "Interné",
     "CL_DV_OV_probe_desc": "Sonda vám pomôže merať teplotu vášho jedla. Môžete vidieť rôzne teploty v priebehu času.",
-    "CL_DV_RF_no_cleaning_history": "Žiadna história čistenia"
+    "CL_DV_RF_no_cleaning_history": "Žiadna história čistenia",
+    "CL_DV_RF_add_new_reminder": "Pridať nové pripomenutie",
+    "CL_DV_RF_edit_details": "Upraviť podrobnosti",
+    "CL_DV_RF_garbage_category": "Kategória odpadu",
+    "CL_DV_RF_combustible_waste": "Horľavý odpad",
+    "CL_DV_RF_non_combustible_waste": "Nehorľavý odpad",
+    "CL_DV_RF_disposal_reminder": "Pripomienka likvidácie",
+    "CL_DV_RF_reminders": "Pripomienky",
+    "CL_DV_RF_x_hour_before_the_plan": "** hodinu pred plánom"
 }

@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "프로브 온도 그래프",
     "CL_DV_OV_internal": "내부",
     "CL_DV_OV_probe_desc": "프로브는 음식의 온도를 측정하는 데 도움이 됩니다. 시간이 지남에 따라 다른 온도를 볼 수 있습니다.",
-    "CL_DV_RF_no_cleaning_history": "청소 내역 없음"
+    "CL_DV_RF_no_cleaning_history": "청소 내역 없음",
+    "CL_DV_RF_add_new_reminder": "새로운 알림 추가",
+    "CL_DV_RF_edit_details": "세부 정보 편집",
+    "CL_DV_RF_garbage_category": "쓰레기 카테고리",
+    "CL_DV_RF_combustible_waste": "가연성 폐기물",
+    "CL_DV_RF_non_combustible_waste": "불연성 폐기물",
+    "CL_DV_RF_disposal_reminder": "폐기 알림",
+    "CL_DV_RF_reminders": "알림",
+    "CL_DV_RF_x_hour_before_the_plan": "** 계획 시간 전 1시간"
 }

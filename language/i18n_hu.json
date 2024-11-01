@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Szonda hőmérsékleti grafikonja",
     "CL_DV_OV_internal": "Belső",
     "CL_DV_OV_probe_desc": "A szonda segít mérni az étel hőmérsékletét. Láthatja a különböző hőmérsékleteket az idő múlásával.",
-    "CL_DV_RF_no_cleaning_history": "Nincs tisztítási előzmény"
+    "CL_DV_RF_no_cleaning_history": "Nincs tisztítási előzmény",
+    "CL_DV_RF_add_new_reminder": "Új emlékeztető hozzáadása",
+    "CL_DV_RF_edit_details": "Részletek szerkesztése",
+    "CL_DV_RF_garbage_category": "Szemét kategória",
+    "CL_DV_RF_combustible_waste": "Éghető hulladék",
+    "CL_DV_RF_non_combustible_waste": "Nem éghető hulladék",
+    "CL_DV_RF_disposal_reminder": "Ártalmatlanítási emlékeztető",
+    "CL_DV_RF_reminders": "Emlékeztetők",
+    "CL_DV_RF_x_hour_before_the_plan": "** órával a terv előtt"
 }

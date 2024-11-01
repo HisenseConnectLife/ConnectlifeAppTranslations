@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Probe temperatur graf",
     "CL_DV_OV_internal": "Innvendig",
     "CL_DV_OV_probe_desc": "Sonden hjelper deg med å måle temperaturen på maten. Du kan se de forskjellige temperaturene over tid.",
-    "CL_DV_RF_no_cleaning_history": "Ingen rengjøringshistorikk"
+    "CL_DV_RF_no_cleaning_history": "Ingen rengjøringshistorikk",
+    "CL_DV_RF_add_new_reminder": "Legg til en ny påminnelse",
+    "CL_DV_RF_edit_details": "Rediger detaljer",
+    "CL_DV_RF_garbage_category": "Søppelkategori",
+    "CL_DV_RF_combustible_waste": "Brennbart avfall",
+    "CL_DV_RF_non_combustible_waste": "Ikke-brennbart avfall",
+    "CL_DV_RF_disposal_reminder": "Påminnelse om avhending",
+    "CL_DV_RF_reminders": "Påminnelser",
+    "CL_DV_RF_x_hour_before_the_plan": "** time før planen"
 }

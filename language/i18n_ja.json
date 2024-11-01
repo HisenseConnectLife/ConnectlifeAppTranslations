@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "プローブ温度グラフ",
     "CL_DV_OV_internal": "内部",
     "CL_DV_OV_probe_desc": "プローブは食品の温度を測定するのに役立ちます。時間の経過とともに変化する温度を見ることができます。",
-    "CL_DV_RF_no_cleaning_history": "清掃履歴なし"
+    "CL_DV_RF_no_cleaning_history": "清掃履歴なし",
+    "CL_DV_RF_add_new_reminder": "新しいリマインダーを追加する",
+    "CL_DV_RF_edit_details": "詳細を編集",
+    "CL_DV_RF_garbage_category": "ゴミカテゴリー",
+    "CL_DV_RF_combustible_waste": "可燃性廃棄物",
+    "CL_DV_RF_non_combustible_waste": "不燃廃棄物",
+    "CL_DV_RF_disposal_reminder": "廃棄リマインダー",
+    "CL_DV_RF_reminders": "リマインダー",
+    "CL_DV_RF_x_hour_before_the_plan": "予定の**時間前"
 }

@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Gráfico de temperatura da sonda",
     "CL_DV_OV_internal": "Interno",
     "CL_DV_OV_probe_desc": "A sonda ajuda você a medir a temperatura da sua comida. Você pode ver as diferentes temperaturas ao longo do tempo.",
-    "CL_DV_RF_no_cleaning_history": "Nenhum histórico de limpeza"
+    "CL_DV_RF_no_cleaning_history": "Nenhum histórico de limpeza",
+    "CL_DV_RF_add_new_reminder": "Adicionar um novo lembrete",
+    "CL_DV_RF_edit_details": "Editar detalhes",
+    "CL_DV_RF_garbage_category": "Categoria Lixo",
+    "CL_DV_RF_combustible_waste": "Resíduos combustíveis",
+    "CL_DV_RF_non_combustible_waste": "Resíduos não combustíveis",
+    "CL_DV_RF_disposal_reminder": "Lembrete de descarte",
+    "CL_DV_RF_reminders": "Lembretes",
+    "CL_DV_RF_x_hour_before_the_plan": "** hora antes do plano"
 }

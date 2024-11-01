@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Grafiek van de sondetemperatuur",
     "CL_DV_OV_internal": "Intern",
     "CL_DV_OV_probe_desc": "De sonde helpt u de temperatuur van uw eten te meten. U kunt de verschillende temperaturen in de loop van de tijd zien.",
-    "CL_DV_RF_no_cleaning_history": "Geen schoonmaakgeschiedenis"
+    "CL_DV_RF_no_cleaning_history": "Geen schoonmaakgeschiedenis",
+    "CL_DV_RF_add_new_reminder": "Voeg een nieuwe herinnering toe",
+    "CL_DV_RF_edit_details": "Bewerk details",
+    "CL_DV_RF_garbage_category": "Afvalcategorie",
+    "CL_DV_RF_combustible_waste": "Brandbaar afval",
+    "CL_DV_RF_non_combustible_waste": "Niet-brandbaar afval",
+    "CL_DV_RF_disposal_reminder": "Herinnering voor verwijdering",
+    "CL_DV_RF_reminders": "Herinneringen",
+    "CL_DV_RF_x_hour_before_the_plan": "** uur voor het plan"
 }

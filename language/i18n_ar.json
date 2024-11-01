@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "رسم بياني لدرجة حرارة المسبار",
     "CL_DV_OV_internal": "داخلي",
     "CL_DV_OV_probe_desc": "يساعدك المجس على قياس درجة حرارة طعامك. يمكنك رؤية درجات الحرارة المختلفة بمرور الوقت.",
-    "CL_DV_RF_no_cleaning_history": "لا يوجد تاريخ تنظيف"
+    "CL_DV_RF_no_cleaning_history": "لا يوجد تاريخ تنظيف",
+    "CL_DV_RF_add_new_reminder": "إضافة تذكير جديد",
+    "CL_DV_RF_edit_details": "تعديل التفاصيل",
+    "CL_DV_RF_garbage_category": "فئة القمامة",
+    "CL_DV_RF_combustible_waste": "النفايات القابلة للاشتعال",
+    "CL_DV_RF_non_combustible_waste": "النفايات غير القابلة للاشتعال",
+    "CL_DV_RF_disposal_reminder": "تذكير بالتخلص من النفايات",
+    "CL_DV_RF_reminders": "تذكيرات",
+    "CL_DV_RF_x_hour_before_the_plan": "** قبل ساعة من الخطة"
 }
