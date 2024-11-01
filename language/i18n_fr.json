@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Graphique de température de la sonde",
     "CL_DV_OV_internal": "Interne",
     "CL_DV_OV_probe_desc": "La sonde vous aide à mesurer la température de vos aliments. Vous pouvez voir les différentes températures au fil du temps.",
-    "CL_DV_RF_no_cleaning_history": "Aucun historique de nettoyage"
+    "CL_DV_RF_no_cleaning_history": "Aucun historique de nettoyage",
+    "CL_DV_RF_add_new_reminder": "Ajouter un nouveau rappel",
+    "CL_DV_RF_edit_details": "Modifier les détails",
+    "CL_DV_RF_garbage_category": "Catégorie de déchets",
+    "CL_DV_RF_combustible_waste": "Déchets combustibles",
+    "CL_DV_RF_non_combustible_waste": "Déchets non combustibles",
+    "CL_DV_RF_disposal_reminder": "Rappel d'élimination",
+    "CL_DV_RF_reminders": "Rappels",
+    "CL_DV_RF_x_hour_before_the_plan": "** heure avant le plan"
 }

@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Wykres temperatury sondy",
     "CL_DV_OV_internal": "Wewnętrzny",
     "CL_DV_OV_probe_desc": "Sonda pomaga zmierzyć temperaturę jedzenia. Możesz zobaczyć różne temperatury w czasie.",
-    "CL_DV_RF_no_cleaning_history": "Brak historii czyszczenia"
+    "CL_DV_RF_no_cleaning_history": "Brak historii czyszczenia",
+    "CL_DV_RF_add_new_reminder": "Dodaj nowe przypomnienie",
+    "CL_DV_RF_edit_details": "Edytuj szczegóły",
+    "CL_DV_RF_garbage_category": "Kategoria śmieci",
+    "CL_DV_RF_combustible_waste": "Odpad palny",
+    "CL_DV_RF_non_combustible_waste": "Odpad niepalny",
+    "CL_DV_RF_disposal_reminder": "Przypomnienie o utylizacji",
+    "CL_DV_RF_reminders": "Przypomnienia",
+    "CL_DV_RF_x_hour_before_the_plan": "** godzinę przed planem"
 }

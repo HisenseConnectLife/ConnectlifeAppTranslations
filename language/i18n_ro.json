@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Graficul temperaturii sondei",
     "CL_DV_OV_internal": "Intern",
     "CL_DV_OV_probe_desc": "Sonda vă ajută să măsurați temperatura alimentelor. Puteți vedea diferitele temperaturi de-a lungul timpului.",
-    "CL_DV_RF_no_cleaning_history": "Fără istoric de curățare"
+    "CL_DV_RF_no_cleaning_history": "Fără istoric de curățare",
+    "CL_DV_RF_add_new_reminder": "Adăugați un memento nou",
+    "CL_DV_RF_edit_details": "Editați detalii",
+    "CL_DV_RF_garbage_category": "Categoria gunoiului",
+    "CL_DV_RF_combustible_waste": "Deșeuri combustibile",
+    "CL_DV_RF_non_combustible_waste": "Deșeuri incombustibile",
+    "CL_DV_RF_disposal_reminder": "Memento de eliminare",
+    "CL_DV_RF_reminders": "Mementouri",
+    "CL_DV_RF_x_hour_before_the_plan": "** oră înainte de plan"
 }

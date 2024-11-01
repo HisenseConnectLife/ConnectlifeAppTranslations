@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "जांच तापमान ग्राफ",
     "CL_DV_OV_internal": "आंतरिक",
     "CL_DV_OV_probe_desc": "जांच आपको अपने भोजन का तापमान मापने में मदद करती है। आप समय के साथ अलग-अलग तापमान देख सकते हैं।",
-    "CL_DV_RF_no_cleaning_history": "सफ़ाई का कोई इतिहास नहीं"
+    "CL_DV_RF_no_cleaning_history": "सफ़ाई का कोई इतिहास नहीं",
+    "CL_DV_RF_add_new_reminder": "नया अनुस्मारक जोड़ें",
+    "CL_DV_RF_edit_details": "विवरण संपादित करें",
+    "CL_DV_RF_garbage_category": "कचरा श्रेणी",
+    "CL_DV_RF_combustible_waste": "दहनीय अपशिष्ट",
+    "CL_DV_RF_non_combustible_waste": "गैर-दहनशील अपशिष्ट",
+    "CL_DV_RF_disposal_reminder": "निपटान अनुस्मारक",
+    "CL_DV_RF_reminders": "अनुस्मारक",
+    "CL_DV_RF_x_hour_before_the_plan": "** योजना से एक घंटा पहले"
 }

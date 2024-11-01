@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Graf Suhu Probe",
     "CL_DV_OV_internal": "Dalaman",
     "CL_DV_OV_probe_desc": "Probe membantu anda mengukur suhu makanan anda. Anda boleh melihat suhu yang berbeza dari semasa ke semasa.",
-    "CL_DV_RF_no_cleaning_history": "Tiada sejarah pembersihan"
+    "CL_DV_RF_no_cleaning_history": "Tiada sejarah pembersihan",
+    "CL_DV_RF_add_new_reminder": "Tambahkan Peringatan Baharu",
+    "CL_DV_RF_edit_details": "Edit Butiran",
+    "CL_DV_RF_garbage_category": "Kategori Sampah",
+    "CL_DV_RF_combustible_waste": "Sisa mudah terbakar",
+    "CL_DV_RF_non_combustible_waste": "Bahan buangan tidak mudah terbakar",
+    "CL_DV_RF_disposal_reminder": "Peringatan pelupusan",
+    "CL_DV_RF_reminders": "Peringatan",
+    "CL_DV_RF_x_hour_before_the_plan": "** jam sebelum rancangan"
 }

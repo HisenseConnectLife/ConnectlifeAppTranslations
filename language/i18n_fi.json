@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Anturin lämpötilakaavio",
     "CL_DV_OV_internal": "Sisäinen",
     "CL_DV_OV_probe_desc": "Anturin avulla voit mitata ruoan lämpötilan. Voit nähdä eri lämpötilat ajan mittaan.",
-    "CL_DV_RF_no_cleaning_history": "Ei puhdistushistoriaa"
+    "CL_DV_RF_no_cleaning_history": "Ei puhdistushistoriaa",
+    "CL_DV_RF_add_new_reminder": "Lisää uusi muistutus",
+    "CL_DV_RF_edit_details": "Muokkaa tietoja",
+    "CL_DV_RF_garbage_category": "Roskaluokka",
+    "CL_DV_RF_combustible_waste": "Palava jäte",
+    "CL_DV_RF_non_combustible_waste": "Palamaton jäte",
+    "CL_DV_RF_disposal_reminder": "Hävitysmuistutus",
+    "CL_DV_RF_reminders": "Muistutukset",
+    "CL_DV_RF_x_hour_before_the_plan": "** tuntia ennen suunnitelmaa"
 }

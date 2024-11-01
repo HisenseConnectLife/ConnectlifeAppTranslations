@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Biểu đồ nhiệt độ đầu dò",
     "CL_DV_OV_internal": "Nội bộ",
     "CL_DV_OV_probe_desc": "Đầu dò giúp bạn đo nhiệt độ của thực phẩm. Bạn có thể thấy nhiệt độ khác nhau theo thời gian.",
-    "CL_DV_RF_no_cleaning_history": "Không có lịch sử vệ sinh"
+    "CL_DV_RF_no_cleaning_history": "Không có lịch sử vệ sinh",
+    "CL_DV_RF_add_new_reminder": "Thêm lời nhắc mới",
+    "CL_DV_RF_edit_details": "Chỉnh sửa chi tiết",
+    "CL_DV_RF_garbage_category": "Loại rác",
+    "CL_DV_RF_combustible_waste": "Chất thải dễ cháy",
+    "CL_DV_RF_non_combustible_waste": "Chất thải không cháy được",
+    "CL_DV_RF_disposal_reminder": "Nhắc nhở thải bỏ",
+    "CL_DV_RF_reminders": "Lời nhắc nhở",
+    "CL_DV_RF_x_hour_before_the_plan": "** giờ trước khi lên kế hoạch"
 }

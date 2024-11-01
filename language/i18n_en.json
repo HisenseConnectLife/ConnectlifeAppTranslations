@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Probe Temperature Graph",
     "CL_DV_OV_internal": "Internal",
     "CL_DV_OV_probe_desc": "The probe helps you measure the temperature of your food. You can see the different temperatures over time.",
-    "CL_DV_RF_no_cleaning_history": "No cleaning history"
+    "CL_DV_RF_no_cleaning_history": "No cleaning history",
+    "CL_DV_RF_add_new_reminder": "Add a New Reminder",
+    "CL_DV_RF_edit_details": "Edit Details",
+    "CL_DV_RF_garbage_category": "Garbage Category",
+    "CL_DV_RF_combustible_waste": "Combustible waste",
+    "CL_DV_RF_non_combustible_waste": "Non-combustible waste",
+    "CL_DV_RF_disposal_reminder": "Disposal reminder",
+    "CL_DV_RF_reminders": "Reminders",
+    "CL_DV_RF_x_hour_before_the_plan": "** hour before the plan"
 }

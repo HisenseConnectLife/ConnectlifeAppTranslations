@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "กราฟอุณหภูมิของโพรบ",
     "CL_DV_OV_internal": "ภายใน",
     "CL_DV_OV_probe_desc": "หัววัดช่วยให้คุณวัดอุณหภูมิของอาหารได้ คุณสามารถดูอุณหภูมิที่แตกต่างกันในแต่ละช่วงเวลาได้",
-    "CL_DV_RF_no_cleaning_history": "ไม่มีประวัติการทำความสะอาด"
+    "CL_DV_RF_no_cleaning_history": "ไม่มีประวัติการทำความสะอาด",
+    "CL_DV_RF_add_new_reminder": "เพิ่มคำเตือนใหม่",
+    "CL_DV_RF_edit_details": "แก้ไขรายละเอียด",
+    "CL_DV_RF_garbage_category": "หมวดขยะ",
+    "CL_DV_RF_combustible_waste": "ขยะที่ติดไฟได้",
+    "CL_DV_RF_non_combustible_waste": "ขยะที่ไม่ติดไฟ",
+    "CL_DV_RF_disposal_reminder": "คำเตือนการกำจัด",
+    "CL_DV_RF_reminders": "คำเตือน",
+    "CL_DV_RF_x_hour_before_the_plan": "** ชั่วโมงก่อนเริ่มแผน"
 }

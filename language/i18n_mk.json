@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "График на температурата на сондата",
     "CL_DV_OV_internal": "Внатрешна",
     "CL_DV_OV_probe_desc": "Сондата ви помага да ја измерите температурата на вашата храна. Можете да ги видите различните температури со текот на времето.",
-    "CL_DV_RF_no_cleaning_history": "Нема историја на чистење"
+    "CL_DV_RF_no_cleaning_history": "Нема историја на чистење",
+    "CL_DV_RF_add_new_reminder": "Додадете нов потсетник",
+    "CL_DV_RF_edit_details": "Уреди детали",
+    "CL_DV_RF_garbage_category": "Категорија ѓубре",
+    "CL_DV_RF_combustible_waste": "Запалив отпад",
+    "CL_DV_RF_non_combustible_waste": "Незапалив отпад",
+    "CL_DV_RF_disposal_reminder": "Потсетник за фрлање",
+    "CL_DV_RF_reminders": "Потсетници",
+    "CL_DV_RF_x_hour_before_the_plan": "** час пред планот"
 }

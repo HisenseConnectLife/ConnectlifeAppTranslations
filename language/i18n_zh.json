@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "探针温度图",
     "CL_DV_OV_internal": "内部的",
     "CL_DV_OV_probe_desc": "探头可帮助您测量食物的温度。您可以看到随时间变化的温度。",
-    "CL_DV_RF_no_cleaning_history": "无清洁记录"
+    "CL_DV_RF_no_cleaning_history": "无清洁记录",
+    "CL_DV_RF_add_new_reminder": "添加新提醒",
+    "CL_DV_RF_edit_details": "編輯詳細信息",
+    "CL_DV_RF_garbage_category": "垃圾分类",
+    "CL_DV_RF_combustible_waste": "可燃垃圾",
+    "CL_DV_RF_non_combustible_waste": "不可燃垃圾",
+    "CL_DV_RF_disposal_reminder": "处置提醒",
+    "CL_DV_RF_reminders": "提醒",
+    "CL_DV_RF_x_hour_before_the_plan": "计划开始前**小时"
 }

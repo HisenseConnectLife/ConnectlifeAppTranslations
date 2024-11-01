@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Prob Sıcaklık Grafiği",
     "CL_DV_OV_internal": "Dahili",
     "CL_DV_OV_probe_desc": "Prob, yemeğinizin sıcaklığını ölçmenize yardımcı olur. Zaman içindeki farklı sıcaklıkları görebilirsiniz.",
-    "CL_DV_RF_no_cleaning_history": "Temizlik geçmişi yok"
+    "CL_DV_RF_no_cleaning_history": "Temizlik geçmişi yok",
+    "CL_DV_RF_add_new_reminder": "Yeni Bir Hatırlatıcı Ekle",
+    "CL_DV_RF_edit_details": "Ayrıntıları Düzenle",
+    "CL_DV_RF_garbage_category": "Çöp Kategorisi",
+    "CL_DV_RF_combustible_waste": "Yanıcı atık",
+    "CL_DV_RF_non_combustible_waste": "Yanmayan atık",
+    "CL_DV_RF_disposal_reminder": "Bertaraf hatırlatıcısı",
+    "CL_DV_RF_reminders": "Hatırlatmalar",
+    "CL_DV_RF_x_hour_before_the_plan": "** Plandan bir saat önce"
 }

@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "גרף טמפרטורת בדיקה",
     "CL_DV_OV_internal": "פְּנִימִי",
     "CL_DV_OV_probe_desc": "הגשושית עוזרת לך למדוד את הטמפרטורה של האוכל שלך. ניתן לראות את הטמפרטורות השונות לאורך זמן.",
-    "CL_DV_RF_no_cleaning_history": "אין היסטוריית ניקוי"
+    "CL_DV_RF_no_cleaning_history": "אין היסטוריית ניקוי",
+    "CL_DV_RF_add_new_reminder": "הוסף תזכורת חדשה",
+    "CL_DV_RF_edit_details": "ערוך פרטים",
+    "CL_DV_RF_garbage_category": "קטגוריית אשפה",
+    "CL_DV_RF_combustible_waste": "פסולת בעירה",
+    "CL_DV_RF_non_combustible_waste": "פסולת בלתי דליקה",
+    "CL_DV_RF_disposal_reminder": "תזכורת לסילוק",
+    "CL_DV_RF_reminders": "תזכורות",
+    "CL_DV_RF_x_hour_before_the_plan": "** שעה לפני התוכנית"
 }

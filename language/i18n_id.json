@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Grafik Suhu Probe",
     "CL_DV_OV_internal": "Intern",
     "CL_DV_OV_probe_desc": "Alat ukur ini membantu Anda mengukur suhu makanan. Anda dapat melihat perbedaan suhu dari waktu ke waktu.",
-    "CL_DV_RF_no_cleaning_history": "Tidak ada riwayat pembersihan"
+    "CL_DV_RF_no_cleaning_history": "Tidak ada riwayat pembersihan",
+    "CL_DV_RF_add_new_reminder": "Tambahkan Pengingat Baru",
+    "CL_DV_RF_edit_details": "Edit Detail",
+    "CL_DV_RF_garbage_category": "Kategori Sampah",
+    "CL_DV_RF_combustible_waste": "Sampah yang mudah terbakar",
+    "CL_DV_RF_non_combustible_waste": "Sampah yang tidak mudah terbakar",
+    "CL_DV_RF_disposal_reminder": "Pengingat pembuangan",
+    "CL_DV_RF_reminders": "Pengingat",
+    "CL_DV_RF_x_hour_before_the_plan": "** jam sebelum rencana"
 }

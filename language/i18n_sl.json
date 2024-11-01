@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Graf temperature sonde",
     "CL_DV_OV_internal": "Notranji",
     "CL_DV_OV_probe_desc": "Sonda vam pomaga izmeriti temperaturo hrane. Vidite lahko različne temperature skozi čas.",
-    "CL_DV_RF_no_cleaning_history": "Ni zgodovine čiščenja"
+    "CL_DV_RF_no_cleaning_history": "Ni zgodovine čiščenja",
+    "CL_DV_RF_add_new_reminder": "Dodajte nov opomnik",
+    "CL_DV_RF_edit_details": "Uredi podrobnosti",
+    "CL_DV_RF_garbage_category": "Kategorija smeti",
+    "CL_DV_RF_combustible_waste": "Gorljivi odpadki",
+    "CL_DV_RF_non_combustible_waste": "Negorljivi odpadki",
+    "CL_DV_RF_disposal_reminder": "Opomnik za odlaganje",
+    "CL_DV_RF_reminders": "Opomniki",
+    "CL_DV_RF_x_hour_before_the_plan": "** uro pred planom"
 }

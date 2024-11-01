@@ -4371,5 +4371,13 @@
     "CL_DV_OV_probe_temperature_graph": "Графік температури зонда",
     "CL_DV_OV_internal": "внутрішній",
     "CL_DV_OV_probe_desc": "Зонд допомагає вимірювати температуру їжі. Ви можете побачити різні температури з часом.",
-    "CL_DV_RF_no_cleaning_history": "Немає історії очищення"
+    "CL_DV_RF_no_cleaning_history": "Немає історії очищення",
+    "CL_DV_RF_add_new_reminder": "Додати нове нагадування",
+    "CL_DV_RF_edit_details": "Редагувати деталі",
+    "CL_DV_RF_garbage_category": "Категорія сміття",
+    "CL_DV_RF_combustible_waste": "Горючі відходи",
+    "CL_DV_RF_non_combustible_waste": "Негорючі відходи",
+    "CL_DV_RF_disposal_reminder": "Нагадування про утилізацію",
+    "CL_DV_RF_reminders": "Нагадування",
+    "CL_DV_RF_x_hour_before_the_plan": "** за годину до плану"
 }
