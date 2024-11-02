@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Niet-brandbaar afval",
     "CL_DV_RF_disposal_reminder": "Herinnering voor verwijdering",
     "CL_DV_RF_reminders": "Herinneringen",
-    "CL_DV_RF_x_hour_before_the_plan": "** uur voor het plan"
+    "CL_DV_RF_x_hour_before_the_plan": "** uur voor het plan",
+    "CL_DV_RF_delete_this_reminder": "Verwijder deze herinnering"
 }

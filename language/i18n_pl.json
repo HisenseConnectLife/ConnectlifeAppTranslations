@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Odpad niepalny",
     "CL_DV_RF_disposal_reminder": "Przypomnienie o utylizacji",
     "CL_DV_RF_reminders": "Przypomnienia",
-    "CL_DV_RF_x_hour_before_the_plan": "** godzinę przed planem"
+    "CL_DV_RF_x_hour_before_the_plan": "** godzinę przed planem",
+    "CL_DV_RF_delete_this_reminder": "Usuń to przypomnienie"
 }

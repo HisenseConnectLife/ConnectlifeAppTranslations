@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Deșeuri incombustibile",
     "CL_DV_RF_disposal_reminder": "Memento de eliminare",
     "CL_DV_RF_reminders": "Mementouri",
-    "CL_DV_RF_x_hour_before_the_plan": "** oră înainte de plan"
+    "CL_DV_RF_x_hour_before_the_plan": "** oră înainte de plan",
+    "CL_DV_RF_delete_this_reminder": "Ștergeți acest memento"
 }

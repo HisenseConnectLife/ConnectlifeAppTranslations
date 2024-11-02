@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "ขยะที่ไม่ติดไฟ",
     "CL_DV_RF_disposal_reminder": "คำเตือนการกำจัด",
     "CL_DV_RF_reminders": "คำเตือน",
-    "CL_DV_RF_x_hour_before_the_plan": "** ชั่วโมงก่อนเริ่มแผน"
+    "CL_DV_RF_x_hour_before_the_plan": "** ชั่วโมงก่อนเริ่มแผน",
+    "CL_DV_RF_delete_this_reminder": "ลบการแจ้งเตือนนี้"
 }

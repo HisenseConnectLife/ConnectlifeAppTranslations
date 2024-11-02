@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "النفايات غير القابلة للاشتعال",
     "CL_DV_RF_disposal_reminder": "تذكير بالتخلص من النفايات",
     "CL_DV_RF_reminders": "تذكيرات",
-    "CL_DV_RF_x_hour_before_the_plan": "** قبل ساعة من الخطة"
+    "CL_DV_RF_x_hour_before_the_plan": "** قبل ساعة من الخطة",
+    "CL_DV_RF_delete_this_reminder": "حذف هذا التذكير"
 }

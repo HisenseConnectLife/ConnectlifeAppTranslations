@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Obrännbart avfall",
     "CL_DV_RF_disposal_reminder": "Påminnelse om bortskaffande",
     "CL_DV_RF_reminders": "Påminnelser",
-    "CL_DV_RF_x_hour_before_the_plan": "** timme innan planen"
+    "CL_DV_RF_x_hour_before_the_plan": "** timme innan planen",
+    "CL_DV_RF_delete_this_reminder": "Ta bort den här påminnelsen"
 }

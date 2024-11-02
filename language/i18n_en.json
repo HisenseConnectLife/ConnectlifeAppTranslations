@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Non-combustible waste",
     "CL_DV_RF_disposal_reminder": "Disposal reminder",
     "CL_DV_RF_reminders": "Reminders",
-    "CL_DV_RF_x_hour_before_the_plan": "** hour before the plan"
+    "CL_DV_RF_x_hour_before_the_plan": "** hour before the plan",
+    "CL_DV_RF_delete_this_reminder": "Delete this reminder"
 }

@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Ikke-brændbart affald",
     "CL_DV_RF_disposal_reminder": "Påmindelse om bortskaffelse",
     "CL_DV_RF_reminders": "Påmindelser",
-    "CL_DV_RF_x_hour_before_the_plan": "** time før planen"
+    "CL_DV_RF_x_hour_before_the_plan": "** time før planen",
+    "CL_DV_RF_delete_this_reminder": "Slet denne påmindelse"
 }

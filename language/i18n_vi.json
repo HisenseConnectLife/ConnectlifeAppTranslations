@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Chất thải không cháy được",
     "CL_DV_RF_disposal_reminder": "Nhắc nhở thải bỏ",
     "CL_DV_RF_reminders": "Lời nhắc nhở",
-    "CL_DV_RF_x_hour_before_the_plan": "** giờ trước khi lên kế hoạch"
+    "CL_DV_RF_x_hour_before_the_plan": "** giờ trước khi lên kế hoạch",
+    "CL_DV_RF_delete_this_reminder": "Xóa lời nhắc này"
 }

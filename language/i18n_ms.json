@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Bahan buangan tidak mudah terbakar",
     "CL_DV_RF_disposal_reminder": "Peringatan pelupusan",
     "CL_DV_RF_reminders": "Peringatan",
-    "CL_DV_RF_x_hour_before_the_plan": "** jam sebelum rancangan"
+    "CL_DV_RF_x_hour_before_the_plan": "** jam sebelum rancangan",
+    "CL_DV_RF_delete_this_reminder": "Padamkan peringatan ini"
 }

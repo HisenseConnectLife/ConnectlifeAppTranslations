@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Μη εύφλεκτα απόβλητα",
     "CL_DV_RF_disposal_reminder": "Υπενθύμιση απόρριψης",
     "CL_DV_RF_reminders": "Υπενθυμίσεις",
-    "CL_DV_RF_x_hour_before_the_plan": "** ώρα πριν το σχέδιο"
+    "CL_DV_RF_x_hour_before_the_plan": "** ώρα πριν το σχέδιο",
+    "CL_DV_RF_delete_this_reminder": "Διαγράψτε αυτήν την υπενθύμιση"
 }

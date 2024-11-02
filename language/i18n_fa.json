@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "زباله های غیر قابل احتراق",
     "CL_DV_RF_disposal_reminder": "یادآوری دفع",
     "CL_DV_RF_reminders": "یادآوری ها",
-    "CL_DV_RF_x_hour_before_the_plan": "** ساعت قبل از طرح"
+    "CL_DV_RF_x_hour_before_the_plan": "** ساعت قبل از طرح",
+    "CL_DV_RF_delete_this_reminder": "این یادآوری را حذف کنید"
 }

@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "불연성 폐기물",
     "CL_DV_RF_disposal_reminder": "폐기 알림",
     "CL_DV_RF_reminders": "알림",
-    "CL_DV_RF_x_hour_before_the_plan": "** 계획 시간 전 1시간"
+    "CL_DV_RF_x_hour_before_the_plan": "** 계획 시간 전 1시간",
+    "CL_DV_RF_delete_this_reminder": "이 알림을 삭제하세요"
 }
