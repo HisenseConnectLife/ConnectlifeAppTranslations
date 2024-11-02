@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Nezapaljivi otpad",
     "CL_DV_RF_disposal_reminder": "Podsjetnik na odlaganje",
     "CL_DV_RF_reminders": "Podsjetnici",
-    "CL_DV_RF_x_hour_before_the_plan": "** sat prije plana"
+    "CL_DV_RF_x_hour_before_the_plan": "** sat prije plana",
+    "CL_DV_RF_delete_this_reminder": "Izbriši ovaj podsjetnik"
 }

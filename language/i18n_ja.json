@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "不燃廃棄物",
     "CL_DV_RF_disposal_reminder": "廃棄リマインダー",
     "CL_DV_RF_reminders": "リマインダー",
-    "CL_DV_RF_x_hour_before_the_plan": "予定の**時間前"
+    "CL_DV_RF_x_hour_before_the_plan": "予定の**時間前",
+    "CL_DV_RF_delete_this_reminder": "このリマインダーを削除する"
 }

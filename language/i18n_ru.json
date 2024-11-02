@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Негорючие отходы",
     "CL_DV_RF_disposal_reminder": "Напоминание об утилизации",
     "CL_DV_RF_reminders": "Напоминания",
-    "CL_DV_RF_x_hour_before_the_plan": "** за час до плана"
+    "CL_DV_RF_x_hour_before_the_plan": "** за час до плана",
+    "CL_DV_RF_delete_this_reminder": "Удалить это напоминание"
 }

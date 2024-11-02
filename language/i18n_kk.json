@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Жанбайтын қалдықтар",
     "CL_DV_RF_disposal_reminder": "Жою туралы еске салғыш",
     "CL_DV_RF_reminders": "Еске салғыштар",
-    "CL_DV_RF_x_hour_before_the_plan": "** жоспардан сағат бұрын"
+    "CL_DV_RF_x_hour_before_the_plan": "** жоспардан сағат бұрын",
+    "CL_DV_RF_delete_this_reminder": "Бұл еске салғышты жойыңыз"
 }

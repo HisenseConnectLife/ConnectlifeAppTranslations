@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Незапалив отпад",
     "CL_DV_RF_disposal_reminder": "Потсетник за фрлање",
     "CL_DV_RF_reminders": "Потсетници",
-    "CL_DV_RF_x_hour_before_the_plan": "** час пред планот"
+    "CL_DV_RF_x_hour_before_the_plan": "** час пред планот",
+    "CL_DV_RF_delete_this_reminder": "Избришете го овој потсетник"
 }

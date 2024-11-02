@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Nehorľavý odpad",
     "CL_DV_RF_disposal_reminder": "Pripomienka likvidácie",
     "CL_DV_RF_reminders": "Pripomienky",
-    "CL_DV_RF_x_hour_before_the_plan": "** hodinu pred plánom"
+    "CL_DV_RF_x_hour_before_the_plan": "** hodinu pred plánom",
+    "CL_DV_RF_delete_this_reminder": "Odstrániť túto pripomienku"
 }

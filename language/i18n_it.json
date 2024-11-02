@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Rifiuti non combustibili",
     "CL_DV_RF_disposal_reminder": "Promemoria smaltimento",
     "CL_DV_RF_reminders": "Promemoria",
-    "CL_DV_RF_x_hour_before_the_plan": "** un'ora prima del piano"
+    "CL_DV_RF_x_hour_before_the_plan": "** un'ora prima del piano",
+    "CL_DV_RF_delete_this_reminder": "Elimina questo promemoria"
 }

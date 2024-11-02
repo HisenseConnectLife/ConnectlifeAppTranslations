@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "गैर-दहनशील अपशिष्ट",
     "CL_DV_RF_disposal_reminder": "निपटान अनुस्मारक",
     "CL_DV_RF_reminders": "अनुस्मारक",
-    "CL_DV_RF_x_hour_before_the_plan": "** योजना से एक घंटा पहले"
+    "CL_DV_RF_x_hour_before_the_plan": "** योजना से एक घंटा पहले",
+    "CL_DV_RF_delete_this_reminder": "यह अनुस्मारक हटाएं"
 }

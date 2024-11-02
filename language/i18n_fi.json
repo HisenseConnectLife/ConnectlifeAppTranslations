@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Palamaton jäte",
     "CL_DV_RF_disposal_reminder": "Hävitysmuistutus",
     "CL_DV_RF_reminders": "Muistutukset",
-    "CL_DV_RF_x_hour_before_the_plan": "** tuntia ennen suunnitelmaa"
+    "CL_DV_RF_x_hour_before_the_plan": "** tuntia ennen suunnitelmaa",
+    "CL_DV_RF_delete_this_reminder": "Poista tämä muistutus"
 }

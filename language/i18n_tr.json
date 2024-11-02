@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "Yanmayan atık",
     "CL_DV_RF_disposal_reminder": "Bertaraf hatırlatıcısı",
     "CL_DV_RF_reminders": "Hatırlatmalar",
-    "CL_DV_RF_x_hour_before_the_plan": "** Plandan bir saat önce"
+    "CL_DV_RF_x_hour_before_the_plan": "** Plandan bir saat önce",
+    "CL_DV_RF_delete_this_reminder": "Bu hatırlatıcıyı sil"
 }

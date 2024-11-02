@@ -4379,5 +4379,6 @@
     "CL_DV_RF_non_combustible_waste": "不可燃垃圾",
     "CL_DV_RF_disposal_reminder": "廢棄提醒",
     "CL_DV_RF_reminders": "提醒事項",
-    "CL_DV_RF_x_hour_before_the_plan": "** 計劃前一小時"
+    "CL_DV_RF_x_hour_before_the_plan": "** 計劃前一小時",
+    "CL_DV_RF_delete_this_reminder": "刪除此提醒"
 }
