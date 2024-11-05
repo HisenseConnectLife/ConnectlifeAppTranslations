@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Hävitysmuistutus",
     "CL_DV_RF_reminders": "Muistutukset",
     "CL_DV_RF_x_hour_before_the_plan": "** tuntia ennen suunnitelmaa",
-    "CL_DV_RF_delete_this_reminder": "Poista tämä muistutus"
+    "CL_DV_RF_delete_this_reminder": "Poista tämä muistutus",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimoi jääkaapin toimintatila energiaa säästävien vaikutusten saavuttamiseksi. AI Energy Saving voi säästää jääkaapin energiankulutusta, mutta se myös vähentää jäähdytysnopeutta.",
+    "CL_DV_RF_self_adaption_desc": "Jääkaappihuoneen lämpötila säätyy käyttötottumustesi mukaan automaattisesti, jotta lämpötila on vakaampi ja säilyvyysvaikutus parempi.",
+    "CL_DV_RF_hi_nano_desc": "Voit kytkeä jääkaapin päälle/pois päältä Ionisterilointi- ja hajunpoistotoiminnot.",
+    "CL_CF_CM_Paired_users": "paritetut käyttäjät",
+    "CL_CF_CS_atw_cs_2": "Siirry valikkoluetteloon painamalla Menu-painiketta.",
+    "CL_CF_CS_atw_cs_3": "Valitse WIFI ja paina sitten keskipainiketta aloittaaksesi WIFI-määritys. WLAN-symboli alkaa nyt vilkkua.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW lämpöpumppu"
 }

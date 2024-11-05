@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Rappel d'élimination",
     "CL_DV_RF_reminders": "Rappels",
     "CL_DV_RF_x_hour_before_the_plan": "** heure avant le plan",
-    "CL_DV_RF_delete_this_reminder": "Supprimer ce rappel"
+    "CL_DV_RF_delete_this_reminder": "Supprimer ce rappel",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimisez l'état de fonctionnement du réfrigérateur pour obtenir des effets d'économie d'énergie. AI Energy Saving peut économiser la consommation d'énergie du réfrigérateur, mais il réduira également la vitesse de refroidissement.",
+    "CL_DV_RF_self_adaption_desc": "Selon vos habitudes d'utilisation, la température de la pièce réfrigérée sera automatiquement ajustée, de sorte que la température soit plus stable et que l'effet de conservation soit meilleur.",
+    "CL_DV_RF_hi_nano_desc": "Permet d'activer/désactiver la fonction de stérilisation et de désodorisation ionique de votre réfrigérateur.",
+    "CL_CF_CM_Paired_users": "utilisateurs appariés",
+    "CL_CF_CS_atw_cs_2": "Appuyez sur le bouton Menu pour accéder à la liste des menus.",
+    "CL_CF_CS_atw_cs_3": "Sélectionnez WIFI, puis appuyez sur le bouton central pour démarrer la configuration du WIFI. Le symbole WLAN commence alors à clignoter.",
+    "CL_CF_CM_sun_rain_atw_name": "Pompe à chaleur ATW"
 }

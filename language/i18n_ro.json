@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Memento de eliminare",
     "CL_DV_RF_reminders": "Mementouri",
     "CL_DV_RF_x_hour_before_the_plan": "** oră înainte de plan",
-    "CL_DV_RF_delete_this_reminder": "Ștergeți acest memento"
+    "CL_DV_RF_delete_this_reminder": "Ștergeți acest memento",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimizați starea de funcționare a frigiderului pentru a obține efecte de economisire a energiei. AI Energy Saving poate economisi consumul de energie al frigiderului, dar va reduce și viteza de răcire.",
+    "CL_DV_RF_self_adaption_desc": "În funcție de obiceiurile dvs. de utilizare, temperatura camerei frigiderului va fi ajustată automat, astfel încât temperatura să fie mai stabilă și efectul de conservare să fie mai bun.",
+    "CL_DV_RF_hi_nano_desc": "Vă permite să porniți/opriți funcția de sterilizare și dezodorizare ionică a frigiderului.",
+    "CL_CF_CM_Paired_users": "utilizatori perechi",
+    "CL_CF_CS_atw_cs_2": "Apăsați butonul Meniu pentru a intra în lista de meniuri.",
+    "CL_CF_CS_atw_cs_3": "Selectați WIFI, apoi apăsați butonul din mijloc pentru a începe configurarea WIFI. Simbolul WLAN va începe să clipească acum.",
+    "CL_CF_CM_sun_rain_atw_name": "Pompa de caldura ATW"
 }

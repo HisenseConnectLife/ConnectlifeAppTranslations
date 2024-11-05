@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Przypomnienie o utylizacji",
     "CL_DV_RF_reminders": "Przypomnienia",
     "CL_DV_RF_x_hour_before_the_plan": "** godzinę przed planem",
-    "CL_DV_RF_delete_this_reminder": "Usuń to przypomnienie"
+    "CL_DV_RF_delete_this_reminder": "Usuń to przypomnienie",
+    "CL_DV_RF_ai_energy_saving_desc": "Zoptymalizuj stan działania lodówki, aby uzyskać efekty oszczędzania energii. Oszczędzanie energii AI może zaoszczędzić zużycie energii przez lodówkę, ale zmniejszy również prędkość chłodzenia.",
+    "CL_DV_RF_self_adaption_desc": "Temperatura w lodówce będzie automatycznie dostosowywana do Twoich nawyków użytkowania, dzięki czemu będzie ona bardziej stabilna i skuteczniejsza.",
+    "CL_DV_RF_hi_nano_desc": "Umożliwia włączanie/wyłączanie funkcji sterylizacji jonowej i dezodoryzacji w lodówce.",
+    "CL_CF_CM_Paired_users": "sparowani użytkownicy",
+    "CL_CF_CS_atw_cs_2": "Naciśnij przycisk Menu, aby wejść do listy menu.",
+    "CL_CF_CS_atw_cs_3": "Wybierz WIFI, a następnie naciśnij środkowy przycisk, aby rozpocząć konfigurację WIFI. Symbol WLAN zacznie teraz migać.",
+    "CL_CF_CM_sun_rain_atw_name": "Pompa ciepła ATW"
 }

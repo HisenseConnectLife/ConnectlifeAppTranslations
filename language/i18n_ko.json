@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "폐기 알림",
     "CL_DV_RF_reminders": "알림",
     "CL_DV_RF_x_hour_before_the_plan": "** 계획 시간 전 1시간",
-    "CL_DV_RF_delete_this_reminder": "이 알림을 삭제하세요"
+    "CL_DV_RF_delete_this_reminder": "이 알림을 삭제하세요",
+    "CL_DV_RF_ai_energy_saving_desc": "냉장고 작동 상태를 최적화하여 에너지 절약 효과를 얻습니다. AI 에너지 절약은 냉장고의 에너지 소비를 절약할 수 있지만 냉각 속도도 줄어듭니다.",
+    "CL_DV_RF_self_adaption_desc": "고객님의 사용 습관에 따라 냉장실 온도가 자동으로 조절되어 온도가 더욱 안정되고 보존 효과가 더욱 좋아집니다.",
+    "CL_DV_RF_hi_nano_desc": "냉장고의 이온 살균 및 탈취 기능을 켜거나 끌 수 있습니다.",
+    "CL_CF_CM_Paired_users": "페어링된 사용자",
+    "CL_CF_CS_atw_cs_2": "메뉴 버튼을 눌러 메뉴 목록으로 들어가세요.",
+    "CL_CF_CS_atw_cs_3": "WIFI를 선택한 다음 가운데 버튼을 눌러 WIFI 구성을 시작합니다. 이제 WLAN 심볼이 깜박이기 시작합니다.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW 히트 펌프"
 }

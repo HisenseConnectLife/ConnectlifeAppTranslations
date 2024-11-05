@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Entsorgungserinnerung",
     "CL_DV_RF_reminders": "Erinnerung",
     "CL_DV_RF_x_hour_before_the_plan": "** Stunde vor dem Plan",
-    "CL_DV_RF_delete_this_reminder": "Diese Erinnerung löschen"
+    "CL_DV_RF_delete_this_reminder": "Diese Erinnerung löschen",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimieren Sie den Betriebszustand des Kühlschranks, um Energiespareffekte zu erzielen. AI Energy Saving kann den Energieverbrauch des Kühlschranks senken, verringert aber auch die Kühlgeschwindigkeit.",
+    "CL_DV_RF_self_adaption_desc": "Die Temperatur im Kühlraum wird automatisch an Ihre Nutzungsgewohnheiten angepasst, sodass die Temperatur stabiler bleibt und die Konservierungswirkung besser ist.",
+    "CL_DV_RF_hi_nano_desc": "Ermöglicht Ihnen, die Ionensterilisations- und Desodorierungsfunktion Ihres Kühlschranks ein-/auszuschalten.",
+    "CL_CF_CM_Paired_users": "gepaarte Benutzer",
+    "CL_CF_CS_atw_cs_2": "Drücken Sie die Menütaste, um die Menüliste aufzurufen.",
+    "CL_CF_CS_atw_cs_3": "Wähle WLAN aus und drücke dann die mittlere Taste, um die WLAN-Konfiguration zu starten. Das WLAN-Symbol beginnt nun zu blinken.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW Wärmepumpe"
 }

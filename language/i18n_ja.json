@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "廃棄リマインダー",
     "CL_DV_RF_reminders": "リマインダー",
     "CL_DV_RF_x_hour_before_the_plan": "予定の**時間前",
-    "CL_DV_RF_delete_this_reminder": "このリマインダーを削除する"
+    "CL_DV_RF_delete_this_reminder": "このリマインダーを削除する",
+    "CL_DV_RF_ai_energy_saving_desc": "冷蔵庫の運転状態を最適化して省エネ効果を実現します。AI省エネは冷蔵庫のエネルギー消費を節約できますが、冷却速度も低下します。",
+    "CL_DV_RF_self_adaption_desc": "使用習慣に応じて冷蔵室の温度が自動的に調整されるため、温度がより安定し、保存効果が向上します。",
+    "CL_DV_RF_hi_nano_desc": "冷蔵庫のイオン除菌・脱臭機能をオン/オフできます。",
+    "CL_CF_CM_Paired_users": "ペアユーザー",
+    "CL_CF_CS_atw_cs_2": "メニューボタンを押してメニューリストに入ります。",
+    "CL_CF_CS_atw_cs_3": "WIFI を選択し、中央のボタンを押して WIFI 設定を開始します。WLAN シンボルが点滅し始めます。",
+    "CL_CF_CM_sun_rain_atw_name": "ATWヒートポンプ"
 }

@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Promemoria smaltimento",
     "CL_DV_RF_reminders": "Promemoria",
     "CL_DV_RF_x_hour_before_the_plan": "** un'ora prima del piano",
-    "CL_DV_RF_delete_this_reminder": "Elimina questo promemoria"
+    "CL_DV_RF_delete_this_reminder": "Elimina questo promemoria",
+    "CL_DV_RF_ai_energy_saving_desc": "Ottimizza lo stato operativo del frigorifero per ottenere effetti di risparmio energetico. AI Energy Saving può far risparmiare il consumo energetico del frigorifero, ma ridurrà anche la velocità di raffreddamento.",
+    "CL_DV_RF_self_adaption_desc": "In base alle tue abitudini di utilizzo, la temperatura della stanza del frigorifero verrà regolata automaticamente, in modo che sia più stabile e l'effetto di conservazione sia migliore.",
+    "CL_DV_RF_hi_nano_desc": "Permette di accendere/spegnere la funzione di sterilizzazione a ioni e deodorizzazione del frigorifero.",
+    "CL_CF_CM_Paired_users": "utenti accoppiati",
+    "CL_CF_CS_atw_cs_2": "Premere il pulsante Menu per accedere all'elenco dei menu.",
+    "CL_CF_CS_atw_cs_3": "Selezionare WIFI, quindi premere il pulsante centrale per avviare la configurazione WIFI. Il simbolo WLAN inizierà ora a lampeggiare.",
+    "CL_CF_CM_sun_rain_atw_name": "Pompa di calore ATW"
 }

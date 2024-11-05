@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Nhắc nhở thải bỏ",
     "CL_DV_RF_reminders": "Lời nhắc nhở",
     "CL_DV_RF_x_hour_before_the_plan": "** giờ trước khi lên kế hoạch",
-    "CL_DV_RF_delete_this_reminder": "Xóa lời nhắc này"
+    "CL_DV_RF_delete_this_reminder": "Xóa lời nhắc này",
+    "CL_DV_RF_ai_energy_saving_desc": "Tối ưu hóa trạng thái hoạt động của tủ lạnh để đạt được hiệu quả tiết kiệm năng lượng. AI Energy Saving có thể tiết kiệm điện năng tiêu thụ của tủ lạnh, nhưng cũng sẽ làm giảm tốc độ làm lạnh.",
+    "CL_DV_RF_self_adaption_desc": "Theo thói quen sử dụng của bạn, nhiệt độ trong tủ lạnh sẽ tự động được điều chỉnh, giúp nhiệt độ ổn định hơn, hiệu quả bảo quản tốt hơn.",
+    "CL_DV_RF_hi_nano_desc": "Cho phép bạn bật/tắt chức năng khử trùng ion và khử mùi của tủ lạnh.",
+    "CL_CF_CM_Paired_users": "người dùng được ghép nối",
+    "CL_CF_CS_atw_cs_2": "Nhấn nút Menu để vào danh sách menu.",
+    "CL_CF_CS_atw_cs_3": "Chọn WIFI, sau đó nhấn nút giữa để bắt đầu cấu hình WIFI. Biểu tượng WLAN sẽ bắt đầu nhấp nháy.",
+    "CL_CF_CM_sun_rain_atw_name": "Máy bơm nhiệt ATW"
 }

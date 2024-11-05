@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Upomínka na likvidaci",
     "CL_DV_RF_reminders": "Připomenutí",
     "CL_DV_RF_x_hour_before_the_plan": "** hodinu před plánem",
-    "CL_DV_RF_delete_this_reminder": "Smazat toto připomenutí"
+    "CL_DV_RF_delete_this_reminder": "Smazat toto připomenutí",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimalizujte provozní stav chladničky, abyste dosáhli efektů úspory energie. AI Energy Saving může ušetřit spotřebu energie chladničky, ale také sníží rychlost chlazení.",
+    "CL_DV_RF_self_adaption_desc": "Podle vašich zvyklostí při používání se teplota v chladničce automaticky upraví, takže teplota je stabilnější a konzervační účinek je lepší.",
+    "CL_DV_RF_hi_nano_desc": "Umožňuje zapnout/vypnout funkci iontové sterilizace a deodorizace chladničky.",
+    "CL_CF_CM_Paired_users": "spárovaní uživatelé",
+    "CL_CF_CS_atw_cs_2": "Stisknutím tlačítka Nabídka vstupte do seznamu nabídek.",
+    "CL_CF_CS_atw_cs_3": "Vyberte WIFI a poté stisknutím prostředního tlačítka spusťte konfiguraci WIFI. Symbol WLAN nyní začne blikat.",
+    "CL_CF_CM_sun_rain_atw_name": "Tepelné čerpadlo ATW"
 }

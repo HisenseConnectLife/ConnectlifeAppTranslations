@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Podsjetnik na odlaganje",
     "CL_DV_RF_reminders": "Podsjetnici",
     "CL_DV_RF_x_hour_before_the_plan": "** sat prije plana",
-    "CL_DV_RF_delete_this_reminder": "Izbriši ovaj podsjetnik"
+    "CL_DV_RF_delete_this_reminder": "Izbriši ovaj podsjetnik",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimizirajte radni status hladnjaka kako biste postigli učinke uštede energije. AI Energy Saving može uštedjeti potrošnju energije hladnjaka, ali će također smanjiti brzinu hlađenja.",
+    "CL_DV_RF_self_adaption_desc": "U skladu s vašim navikama korištenja, temperatura u hladnjaku će se automatski prilagoditi, tako da je temperatura stabilnija i učinak očuvanja bolji.",
+    "CL_DV_RF_hi_nano_desc": "Omogućuje vam da uključite/isključite funkciju ionske sterilizacije i dezodoracije hladnjaka.",
+    "CL_CF_CM_Paired_users": "uparenih korisnika",
+    "CL_CF_CS_atw_cs_2": "Pritisnite gumb Izbornik za ulazak u popis izbornika.",
+    "CL_CF_CS_atw_cs_3": "Odaberite WIFI, zatim pritisnite srednju tipku za početak WIFI konfiguracije. Simbol WLAN-a sada će početi treperiti.",
+    "CL_CF_CM_sun_rain_atw_name": "Toplinska pumpa ATW"
 }

@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Peringatan pelupusan",
     "CL_DV_RF_reminders": "Peringatan",
     "CL_DV_RF_x_hour_before_the_plan": "** jam sebelum rancangan",
-    "CL_DV_RF_delete_this_reminder": "Padamkan peringatan ini"
+    "CL_DV_RF_delete_this_reminder": "Padamkan peringatan ini",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimumkan status pengendalian peti sejuk untuk mencapai kesan penjimatan tenaga. Penjimatan Tenaga AI boleh menjimatkan penggunaan tenaga peti sejuk, tetapi ia juga akan mengurangkan kelajuan penyejukan.",
+    "CL_DV_RF_self_adaption_desc": "Mengikut tabiat penggunaan anda, suhu bilik peti sejuk akan dilaraskan secara automatik, supaya suhu lebih stabil dan kesan pemeliharaan lebih baik.",
+    "CL_DV_RF_hi_nano_desc": "Membolehkan anda menghidupkan/mematikan peti sejuk anda fungsi pensterilan dan penyahbauan.",
+    "CL_CF_CM_Paired_users": "pengguna berpasangan",
+    "CL_CF_CS_atw_cs_2": "Tekan butang Menu untuk memasuki senarai menu.",
+    "CL_CF_CS_atw_cs_3": "Pilih WIFI, kemudian tekan butang tengah untuk memulakan konfigurasi WIFI. Simbol WLAN kini akan mula berkelip.",
+    "CL_CF_CM_sun_rain_atw_name": "Pam Haba ATW"
 }

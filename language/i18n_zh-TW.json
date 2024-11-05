@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "廢棄提醒",
     "CL_DV_RF_reminders": "提醒事項",
     "CL_DV_RF_x_hour_before_the_plan": "** 計劃前一小時",
-    "CL_DV_RF_delete_this_reminder": "刪除此提醒"
+    "CL_DV_RF_delete_this_reminder": "刪除此提醒",
+    "CL_DV_RF_ai_energy_saving_desc": "優化冰箱運作狀態，達到節能效果。 AI節能可以節省冰箱的能耗，但也會降低冷氣速度。",
+    "CL_DV_RF_self_adaption_desc": "根據您的使用習慣，冷藏室的溫度會自動調節，使溫度更穩定，保鮮效果更好。",
+    "CL_DV_RF_hi_nano_desc": "讓您打開/關閉冰箱的離子殺菌和除臭功能。",
+    "CL_CF_CM_Paired_users": "配對用戶",
+    "CL_CF_CS_atw_cs_2": "按下選單按鈕進入選單列表。",
+    "CL_CF_CS_atw_cs_3": "選擇WIFI，然後按中間按鈕開始WIFI配置。 WLAN 符號現在將開始閃爍。",
+    "CL_CF_CM_sun_rain_atw_name": "ATW熱泵"
 }
