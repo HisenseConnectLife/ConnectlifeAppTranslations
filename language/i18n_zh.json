@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "处置提醒",
     "CL_DV_RF_reminders": "提醒",
     "CL_DV_RF_x_hour_before_the_plan": "计划开始前**小时",
-    "CL_DV_RF_delete_this_reminder": "删除此提醒"
+    "CL_DV_RF_delete_this_reminder": "删除此提醒",
+    "CL_DV_RF_ai_energy_saving_desc": "通过智能算法优化冰箱运行状态，实现节能效果。开启AI节能可以更好地节约冰箱能耗，但也会降低冷却速度。",
+    "CL_DV_RF_self_adaption_desc": "开启自适应调温后，会根据您的使用习惯自动调整保鲜算法，使冷藏室温度更稳定，保鲜效果更好。",
+    "CL_DV_RF_hi_nano_desc": "开启/关闭离子杀菌除臭功能。",
+    "CL_CF_CM_Paired_users": "配对用户",
+    "CL_CF_CS_atw_cs_2": "按菜单按钮进入菜单列表。",
+    "CL_CF_CS_atw_cs_3": "选择 WIFI，然后按中间按钮开始 WIFI 配置。WLAN 符号现在将开始闪烁。",
+    "CL_CF_CM_sun_rain_atw_name": "ATW 热泵"
 }

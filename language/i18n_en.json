@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Disposal reminder",
     "CL_DV_RF_reminders": "Reminders",
     "CL_DV_RF_x_hour_before_the_plan": "** hour before the plan",
-    "CL_DV_RF_delete_this_reminder": "Delete this reminder"
+    "CL_DV_RF_delete_this_reminder": "Delete this reminder",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimize the refrigerator operating status to achieve energy-saving effects.  AI Energy Saving can  save energy consumption of the refrigerator, but it will also reduce the cooling speed.",
+    "CL_DV_RF_self_adaption_desc": "According to your usage habits, the temperature of the fridge room will be automatically adjusted, so that the temperature  is more stable and the preservation effect is better.",
+    "CL_DV_RF_hi_nano_desc": "Allows you to turn on/off your refrigerator Ion sterilization and deodorization function.",
+    "CL_CF_CM_Paired_users": "paired users",
+    "CL_CF_CS_atw_cs_2": "Press the Menu button to enter the menu list.",
+    "CL_CF_CS_atw_cs_3": "Select WIFI, then press the middle button to start WIFI configuration. The WLAN symbol will now start to flash.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW Heat Pump"
 }

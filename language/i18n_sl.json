@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Opomnik za odlaganje",
     "CL_DV_RF_reminders": "Opomniki",
     "CL_DV_RF_x_hour_before_the_plan": "** uro pred planom",
-    "CL_DV_RF_delete_this_reminder": "Izbriši ta opomnik"
+    "CL_DV_RF_delete_this_reminder": "Izbriši ta opomnik",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimizirajte stanje delovanja hladilnika, da dosežete učinke varčevanja z energijo. AI Energy Saving lahko prihrani porabo energije hladilnika, zmanjša pa tudi hitrost hlajenja.",
+    "CL_DV_RF_self_adaption_desc": "Glede na vaše navade uporabe se bo temperatura v hladilnem prostoru samodejno prilagodila, tako da je temperatura stabilnejša in učinek ohranjanja boljši.",
+    "CL_DV_RF_hi_nano_desc": "Omogoča vam vklop/izklop funkcije ionske sterilizacije in dezodoracije vašega hladilnika.",
+    "CL_CF_CM_Paired_users": "seznanjeni uporabniki",
+    "CL_CF_CS_atw_cs_2": "Pritisnite gumb Meni, da odprete seznam menijev.",
+    "CL_CF_CS_atw_cs_3": "Izberite WIFI, nato pritisnite srednji gumb, da začnete konfiguracijo WIFI. Simbol WLAN bo zdaj začel utripati.",
+    "CL_CF_CM_sun_rain_atw_name": "Toplotna črpalka ATW"
 }

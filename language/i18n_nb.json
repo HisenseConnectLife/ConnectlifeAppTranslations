@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Påminnelse om avhending",
     "CL_DV_RF_reminders": "Påminnelser",
     "CL_DV_RF_x_hour_before_the_plan": "** time før planen",
-    "CL_DV_RF_delete_this_reminder": "Slett denne påminnelsen"
+    "CL_DV_RF_delete_this_reminder": "Slett denne påminnelsen",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimaliser kjøleskapets driftsstatus for å oppnå energibesparende effekter. AI Energy Saving kan spare energiforbruket til kjøleskapet, men det vil også redusere kjølehastigheten.",
+    "CL_DV_RF_self_adaption_desc": "I henhold til dine bruksvaner vil temperaturen i kjøleskapet automatisk justeres, slik at temperaturen blir mer stabil og konserveringseffekten bedre.",
+    "CL_DV_RF_hi_nano_desc": "Lar deg slå på/av kjøleskapet Ionesteriliserings- og deodoriseringsfunksjon.",
+    "CL_CF_CM_Paired_users": "sammenkoblede brukere",
+    "CL_CF_CS_atw_cs_2": "Trykk på Meny-knappen for å gå inn i menylisten.",
+    "CL_CF_CS_atw_cs_3": "Velg WIFI, og trykk deretter på midtknappen for å starte WIFI-konfigurasjonen. WLAN-symbolet vil nå begynne å blinke.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW varmepumpe"
 }

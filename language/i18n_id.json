@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Pengingat pembuangan",
     "CL_DV_RF_reminders": "Pengingat",
     "CL_DV_RF_x_hour_before_the_plan": "** jam sebelum rencana",
-    "CL_DV_RF_delete_this_reminder": "Hapus pengingat ini"
+    "CL_DV_RF_delete_this_reminder": "Hapus pengingat ini",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimalkan status pengoperasian lemari es untuk mencapai efek penghematan energi. AI Energy Saving dapat menghemat konsumsi energi lemari es, tetapi juga akan mengurangi kecepatan pendinginan.",
+    "CL_DV_RF_self_adaption_desc": "Sesuai dengan kebiasaan penggunaan Anda, suhu ruang lemari es akan secara otomatis disesuaikan, sehingga suhu lebih stabil dan efek pengawetan lebih baik.",
+    "CL_DV_RF_hi_nano_desc": "Memungkinkan Anda menghidupkan/mematikan fungsi sterilisasi ion dan penghilang bau kulkas Anda.",
+    "CL_CF_CM_Paired_users": "pengguna berpasangan",
+    "CL_CF_CS_atw_cs_2": "Tekan tombol Menu untuk masuk ke daftar menu.",
+    "CL_CF_CS_atw_cs_3": "Pilih WIFI, lalu tekan tombol tengah untuk memulai konfigurasi WIFI. Simbol WLAN sekarang akan mulai berkedip.",
+    "CL_CF_CM_sun_rain_atw_name": "Pompa Panas ATW"
 }

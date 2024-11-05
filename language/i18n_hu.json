@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Ártalmatlanítási emlékeztető",
     "CL_DV_RF_reminders": "Emlékeztetők",
     "CL_DV_RF_x_hour_before_the_plan": "** órával a terv előtt",
-    "CL_DV_RF_delete_this_reminder": "Az emlékeztető törlése"
+    "CL_DV_RF_delete_this_reminder": "Az emlékeztető törlése",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimalizálja a hűtőszekrény működési állapotát az energiatakarékos hatás elérése érdekében. Az AI Energy Saving megtakaríthatja a hűtőszekrény energiafogyasztását, de csökkenti a hűtési sebességet is.",
+    "CL_DV_RF_self_adaption_desc": "Az Ön használati szokásainak megfelelően a hűtőtér hőmérséklete automatikusan beáll, így a hőmérséklet stabilabb és a tartósító hatás is jobb lesz.",
+    "CL_DV_RF_hi_nano_desc": "Lehetővé teszi a hűtőszekrény be- és kikapcsolását Az ionos sterilizálás és szagtalanítás funkció.",
+    "CL_CF_CM_Paired_users": "párosított felhasználók",
+    "CL_CF_CS_atw_cs_2": "Nyomja meg a Menü gombot, hogy belépjen a menülistába.",
+    "CL_CF_CS_atw_cs_3": "Válassza ki a WIFI lehetőséget, majd nyomja meg a középső gombot a WIFI konfiguráció elindításához. A WLAN szimbólum villogni kezd.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW hőszivattyú"
 }

@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Bertaraf hatırlatıcısı",
     "CL_DV_RF_reminders": "Hatırlatmalar",
     "CL_DV_RF_x_hour_before_the_plan": "** Plandan bir saat önce",
-    "CL_DV_RF_delete_this_reminder": "Bu hatırlatıcıyı sil"
+    "CL_DV_RF_delete_this_reminder": "Bu hatırlatıcıyı sil",
+    "CL_DV_RF_ai_energy_saving_desc": "Enerji tasarrufu etkilerine ulaşmak için buzdolabının çalışma durumunu optimize edin. AI Enerji Tasarrufu buzdolabının enerji tüketiminden tasarruf sağlayabilir, ancak aynı zamanda soğutma hızını da düşürecektir.",
+    "CL_DV_RF_self_adaption_desc": "Kullanım alışkanlıklarınıza göre buzdolabınızın oda sıcaklığı otomatik olarak ayarlanacak, böylece sıcaklık daha stabil olacak ve koruma etkisi daha iyi olacaktır.",
+    "CL_DV_RF_hi_nano_desc": "Buzdolabınızın İyon sterilizasyon ve koku giderme fonksiyonunu açıp kapatmanızı sağlar.",
+    "CL_CF_CM_Paired_users": "eşleştirilmiş kullanıcılar",
+    "CL_CF_CS_atw_cs_2": "Menü listesine girmek için Menü tuşuna basın.",
+    "CL_CF_CS_atw_cs_3": "WIFI'yi seçin, ardından WIFI yapılandırmasını başlatmak için orta düğmeye basın. WLAN sembolü şimdi yanıp sönmeye başlayacaktır.",
+    "CL_CF_CM_sun_rain_atw_name": "ATW Isı Pompası"
 }

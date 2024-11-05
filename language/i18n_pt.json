@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Lembrete de descarte",
     "CL_DV_RF_reminders": "Lembretes",
     "CL_DV_RF_x_hour_before_the_plan": "** hora antes do plano",
-    "CL_DV_RF_delete_this_reminder": "Apagar este lembrete"
+    "CL_DV_RF_delete_this_reminder": "Apagar este lembrete",
+    "CL_DV_RF_ai_energy_saving_desc": "Otimize o status operacional do refrigerador para obter efeitos de economia de energia. O AI Energy Saving pode economizar o consumo de energia do refrigerador, mas também reduzirá a velocidade de resfriamento.",
+    "CL_DV_RF_self_adaption_desc": "De acordo com seus hábitos de uso, a temperatura do ambiente da geladeira será ajustada automaticamente, para que a temperatura fique mais estável e o efeito de preservação seja melhor.",
+    "CL_DV_RF_hi_nano_desc": "Permite ligar/desligar a função de esterilização e desodorização por íons do seu refrigerador.",
+    "CL_CF_CM_Paired_users": "usuários pareados",
+    "CL_CF_CS_atw_cs_2": "Pressione o botão Menu para entrar na lista de menus.",
+    "CL_CF_CS_atw_cs_3": "Selecione WIFI, então pressione o botão do meio para iniciar a configuração WIFI. O símbolo WLAN começará a piscar.",
+    "CL_CF_CM_sun_rain_atw_name": "Bomba de calor ATW"
 }

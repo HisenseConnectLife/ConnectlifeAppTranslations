@@ -4380,5 +4380,12 @@
     "CL_DV_RF_disposal_reminder": "Recordatorio de eliminación",
     "CL_DV_RF_reminders": "Recordatorios",
     "CL_DV_RF_x_hour_before_the_plan": "** hora antes del plan",
-    "CL_DV_RF_delete_this_reminder": "Eliminar este recordatorio"
+    "CL_DV_RF_delete_this_reminder": "Eliminar este recordatorio",
+    "CL_DV_RF_ai_energy_saving_desc": "Optimice el estado de funcionamiento del refrigerador para lograr efectos de ahorro de energía. AI Energy Saving puede ahorrar el consumo de energía del refrigerador, pero también reducirá la velocidad de enfriamiento.",
+    "CL_DV_RF_self_adaption_desc": "Según sus hábitos de uso, la temperatura del refrigerador se ajustará automáticamente, de modo que la temperatura sea más estable y el efecto de conservación sea mejor.",
+    "CL_DV_RF_hi_nano_desc": "Le permite encender/apagar la función de esterilización y desodorización de iones de su refrigerador.",
+    "CL_CF_CM_Paired_users": "usuarios emparejados",
+    "CL_CF_CS_atw_cs_2": "Pulse el botón Menú para entrar en la lista del menú.",
+    "CL_CF_CS_atw_cs_3": "Seleccione WIFI y luego presione el botón central para iniciar la configuración de WIFI. El símbolo de WLAN comenzará a parpadear.",
+    "CL_CF_CM_sun_rain_atw_name": "Bomba de calor ATW"
 }
