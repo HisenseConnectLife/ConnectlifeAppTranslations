@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Turație minimă",
     "CL_DV_WM_medium_rpm": "Turație medie",
     "CL_DV_WM_maximum_rpm": "Rpm maxim",
-    "CL_CF_CS_connect_to_wifi": "Urmați acești pași pentru a conecta dispozitivul la Wi-Fi. Vă recomandăm să dezactivați datele de rețea de pe smartphone-ul dvs."
+    "CL_CF_CS_connect_to_wifi": "Urmați acești pași pentru a conecta dispozitivul la Wi-Fi. Vă recomandăm să dezactivați datele de rețea de pe smartphone-ul dvs.",
+    "CL_DV_RF_family_care": "Îngrijirea familiei",
+    "CL_DV_RF_family_care_tips": "În următoarele perioade, cineva poate fi activ în fața frigiderului."
 }

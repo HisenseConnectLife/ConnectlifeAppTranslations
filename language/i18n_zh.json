@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "最低转速",
     "CL_DV_WM_medium_rpm": "中等转速",
     "CL_DV_WM_maximum_rpm": "最大转速",
-    "CL_CF_CS_connect_to_wifi": "请按照以下步骤对设备进行联网，建议关闭掉智能手机上的移动数据。"
+    "CL_CF_CS_connect_to_wifi": "请按照以下步骤对设备进行联网，建议关闭掉智能手机上的移动数据。",
+    "CL_DV_RF_family_care": "家庭护理",
+    "CL_DV_RF_family_care_tips": "以下时间段，可能会有人出现在冰箱前活动。"
 }

@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "最小回転数",
     "CL_DV_WM_medium_rpm": "中回転数",
     "CL_DV_WM_maximum_rpm": "最大回転数",
-    "CL_CF_CS_connect_to_wifi": "次の手順で機器がWi-Fi との接続を行ってください。スマホ側のモバイルのデータ通信をオフにすることをお勧めします。"
+    "CL_CF_CS_connect_to_wifi": "次の手順で機器がWi-Fi との接続を行ってください。スマホ側のモバイルのデータ通信をオフにすることをお勧めします。",
+    "CL_DV_RF_family_care": "家族ケア",
+    "CL_DV_RF_family_care_tips": "以下の時間帯は冷蔵庫の前で誰かが活動している可能性があります。"
 }

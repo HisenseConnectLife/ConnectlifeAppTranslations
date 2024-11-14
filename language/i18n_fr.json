@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Régime minimum",
     "CL_DV_WM_medium_rpm": "Régime moyen",
     "CL_DV_WM_maximum_rpm": "Régime maximal",
-    "CL_CF_CS_connect_to_wifi": "Suivez ces étapes pour connecter l'appareil au Wi-Fi. Nous vous recommandons de désactiver les données réseau sur votre smartphone."
+    "CL_CF_CS_connect_to_wifi": "Suivez ces étapes pour connecter l'appareil au Wi-Fi. Nous vous recommandons de désactiver les données réseau sur votre smartphone.",
+    "CL_DV_RF_family_care": "Soins familiaux",
+    "CL_DV_RF_family_care_tips": "Aux périodes suivantes, quelqu'un peut être actif devant le réfrigérateur."
 }

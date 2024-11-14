@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Giri al minuto minimi",
     "CL_DV_WM_medium_rpm": "Giri medi",
     "CL_DV_WM_maximum_rpm": "Giri al minuto massimi",
-    "CL_CF_CS_connect_to_wifi": "Segui questi passaggi per connettere il dispositivo al Wi-Fi. Ti consigliamo di disabilitare i dati di rete sul tuo smartphone."
+    "CL_CF_CS_connect_to_wifi": "Segui questi passaggi per connettere il dispositivo al Wi-Fi. Ti consigliamo di disabilitare i dati di rete sul tuo smartphone.",
+    "CL_DV_RF_family_care": "Assistenza familiare",
+    "CL_DV_RF_family_care_tips": "Nei seguenti periodi, qualcuno potrebbe essere attivo davanti al frigorifero."
 }

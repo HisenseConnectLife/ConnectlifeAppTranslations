@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Putaran minimum",
     "CL_DV_WM_medium_rpm": "rpm sedang",
     "CL_DV_WM_maximum_rpm": "rpm maksimum",
-    "CL_CF_CS_connect_to_wifi": "Ikuti langkah-langkah ini untuk menghubungkan perangkat ke Wi-Fi. Kami merekomendasikan untuk menonaktifkan data jaringan pada ponsel cerdas Anda."
+    "CL_CF_CS_connect_to_wifi": "Ikuti langkah-langkah ini untuk menghubungkan perangkat ke Wi-Fi. Kami merekomendasikan untuk menonaktifkan data jaringan pada ponsel cerdas Anda.",
+    "CL_DV_RF_family_care": "Perawatan Keluarga",
+    "CL_DV_RF_family_care_tips": "Pada periode berikut, seseorang mungkin beraktivitas di depan kulkas."
 }

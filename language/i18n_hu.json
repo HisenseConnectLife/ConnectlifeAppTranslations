@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimális fordulatszám",
     "CL_DV_WM_medium_rpm": "Közepes fordulatszám",
     "CL_DV_WM_maximum_rpm": "Maximális fordulatszám",
-    "CL_CF_CS_connect_to_wifi": "Kövesse ezeket a lépéseket az eszköz Wi-Fi hálózathoz való csatlakoztatásához. Javasoljuk, hogy kapcsolja ki a hálózati adatokat az okostelefonon."
+    "CL_CF_CS_connect_to_wifi": "Kövesse ezeket a lépéseket az eszköz Wi-Fi hálózathoz való csatlakoztatásához. Javasoljuk, hogy kapcsolja ki a hálózati adatokat az okostelefonon.",
+    "CL_DV_RF_family_care": "Családgondozás",
+    "CL_DV_RF_family_care_tips": "A következő időszakokban előfordulhat, hogy valaki aktívan tartózkodik a hűtőszekrény előtt."
 }

@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimi kierrosluku",
     "CL_DV_WM_medium_rpm": "Keski rpm",
     "CL_DV_WM_maximum_rpm": "Suurin kierrosluku",
-    "CL_CF_CS_connect_to_wifi": "Liitä laite Wi-Fi-verkkoon noudattamalla näitä ohjeita. Suosittelemme poistamaan verkkotiedot käytöstä älypuhelimellasi."
+    "CL_CF_CS_connect_to_wifi": "Liitä laite Wi-Fi-verkkoon noudattamalla näitä ohjeita. Suosittelemme poistamaan verkkotiedot käytöstä älypuhelimellasi.",
+    "CL_DV_RF_family_care": "Perheenhoito",
+    "CL_DV_RF_family_care_tips": "Seuraavina aikoina joku voi olla aktiivinen jääkaapin edessä."
 }

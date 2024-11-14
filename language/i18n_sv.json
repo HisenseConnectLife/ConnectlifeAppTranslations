@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minsta varvtal",
     "CL_DV_WM_medium_rpm": "Medelvarv per minut",
     "CL_DV_WM_maximum_rpm": "Max varvtal",
-    "CL_CF_CS_connect_to_wifi": "Följ stegen för att ansluta din enhet till Wi-Fi."
+    "CL_CF_CS_connect_to_wifi": "Följ stegen för att ansluta din enhet till Wi-Fi.",
+    "CL_DV_RF_family_care": "Familjevård",
+    "CL_DV_RF_family_care_tips": "Under de följande perioderna kan någon vara aktiv framför kylskåpet."
 }

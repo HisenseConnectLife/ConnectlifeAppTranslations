@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimum rpm",
     "CL_DV_WM_medium_rpm": "Mellem omdrejningstal",
     "CL_DV_WM_maximum_rpm": "Maksimal rpm",
-    "CL_CF_CS_connect_to_wifi": "Følg disse trin for at forbinde enheden til Wi-Fi. Vi anbefaler at deaktivere netværksdata på din smartphone."
+    "CL_CF_CS_connect_to_wifi": "Følg disse trin for at forbinde enheden til Wi-Fi. Vi anbefaler at deaktivere netværksdata på din smartphone.",
+    "CL_DV_RF_family_care": "Familiepleje",
+    "CL_DV_RF_family_care_tips": "I de følgende perioder kan der være nogen aktiv foran køleskabet."
 }

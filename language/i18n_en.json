@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimum rpm",
     "CL_DV_WM_medium_rpm": "Medium rpm",
     "CL_DV_WM_maximum_rpm": "Maximum rpm",
-    "CL_CF_CS_connect_to_wifi": "Follow these steps to connect your device to the Wi-Fi. We recommend disabling network data on your smartphone."
+    "CL_CF_CS_connect_to_wifi": "Follow these steps to connect your device to the Wi-Fi. We recommend disabling network data on your smartphone.",
+    "CL_DV_RF_family_care": "Family Care",
+    "CL_DV_RF_family_care_tips": "At the following periods,someone may be active in front of the refrigerator."
 }

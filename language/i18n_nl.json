@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimaal toerental",
     "CL_DV_WM_medium_rpm": "Gemiddeld toerental",
     "CL_DV_WM_maximum_rpm": "Maximaal toerental",
-    "CL_CF_CS_connect_to_wifi": "Volg deze stappen om het apparaat met Wi-Fi te verbinden. We raden aan om netwerkgegevens op uw smartphone uit te schakelen."
+    "CL_CF_CS_connect_to_wifi": "Volg deze stappen om het apparaat met Wi-Fi te verbinden. We raden aan om netwerkgegevens op uw smartphone uit te schakelen.",
+    "CL_DV_RF_family_care": "Gezinszorg",
+    "CL_DV_RF_family_care_tips": "In de volgende perioden kan er iemand actief zijn voor de koelkast."
 }

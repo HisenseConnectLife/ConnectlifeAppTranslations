@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "최소 RPM",
     "CL_DV_WM_medium_rpm": "중간 rpm",
     "CL_DV_WM_maximum_rpm": "최대 RPM",
-    "CL_CF_CS_connect_to_wifi": "다음 단계에 따라 장치를 Wi-Fi에 연결하십시오. 스마트폰에서 네트워크 데이터를 비활성화하는 것이 좋습니다."
+    "CL_CF_CS_connect_to_wifi": "다음 단계에 따라 장치를 Wi-Fi에 연결하십시오. 스마트폰에서 네트워크 데이터를 비활성화하는 것이 좋습니다.",
+    "CL_DV_RF_family_care": "가족 케어",
+    "CL_DV_RF_family_care_tips": "다음 시간대에는 누군가가 냉장고 앞에서 활동할 수 있습니다."
 }

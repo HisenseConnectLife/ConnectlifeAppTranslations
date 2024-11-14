@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimalne obroty na minutę",
     "CL_DV_WM_medium_rpm": "Średnie obroty",
     "CL_DV_WM_maximum_rpm": "Maksymalne obroty na minutę",
-    "CL_CF_CS_connect_to_wifi": "Wykonaj poniższe czynności, aby podłączyć urządzenie do sieci Wi-Fi. Zalecamy wyłączenie danych sieciowych w smartfonie."
+    "CL_CF_CS_connect_to_wifi": "Wykonaj poniższe czynności, aby podłączyć urządzenie do sieci Wi-Fi. Zalecamy wyłączenie danych sieciowych w smartfonie.",
+    "CL_DV_RF_family_care": "Opieka rodzinna",
+    "CL_DV_RF_family_care_tips": "W poniższych okresach ktoś może być aktywny przed lodówką."
 }

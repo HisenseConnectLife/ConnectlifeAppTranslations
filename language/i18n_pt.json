@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "RPM mínimo",
     "CL_DV_WM_medium_rpm": "RPM médio",
     "CL_DV_WM_maximum_rpm": "RPM máximo",
-    "CL_CF_CS_connect_to_wifi": "Siga estes passos para ligar o dispositivo ao Wi-Fi. Recomendamos que desactive os dados de rede no seu smartphone."
+    "CL_CF_CS_connect_to_wifi": "Siga estes passos para ligar o dispositivo ao Wi-Fi. Recomendamos que desactive os dados de rede no seu smartphone.",
+    "CL_DV_RF_family_care": "Cuidados Familiares",
+    "CL_DV_RF_family_care_tips": "Nos períodos seguintes, alguém pode estar ativo em frente à geladeira."
 }
