@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Najmanjši vrtljaji",
     "CL_DV_WM_medium_rpm": "Srednji vrtljaji",
     "CL_DV_WM_maximum_rpm": "Največji vrtljaji",
-    "CL_CF_CS_connect_to_wifi": "Če želite napravo povezati z omrežjem Wi-Fi, sledite naslednjim korakom. Priporočamo, da v pametnem telefonu onemogočite omrežne podatke."
+    "CL_CF_CS_connect_to_wifi": "Če želite napravo povezati z omrežjem Wi-Fi, sledite naslednjim korakom. Priporočamo, da v pametnem telefonu onemogočite omrežne podatke.",
+    "CL_DV_RF_family_care": "Družinska nega",
+    "CL_DV_RF_family_care_tips": "V naslednjih obdobjih je lahko kdo aktiven pred hladilnikom."
 }

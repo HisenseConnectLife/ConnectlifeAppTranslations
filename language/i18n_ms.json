@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "rpm minimum",
     "CL_DV_WM_medium_rpm": "rpm sederhana",
     "CL_DV_WM_maximum_rpm": "rpm maksimum",
-    "CL_CF_CS_connect_to_wifi": "Ikuti langkah ini untuk menyambungkan peranti ke Wi-Fi. Kami mengesyorkan untuk melumpuhkan data rangkaian pada telefon pintar anda."
+    "CL_CF_CS_connect_to_wifi": "Ikuti langkah ini untuk menyambungkan peranti ke Wi-Fi. Kami mengesyorkan untuk melumpuhkan data rangkaian pada telefon pintar anda.",
+    "CL_DV_RF_family_care": "Penjagaan Keluarga",
+    "CL_DV_RF_family_care_tips": "Pada tempoh berikut, seseorang mungkin aktif di hadapan peti sejuk."
 }

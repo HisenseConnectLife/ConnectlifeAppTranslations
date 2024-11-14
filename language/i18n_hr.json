@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimalni broj okretaja",
     "CL_DV_WM_medium_rpm": "Srednji broj okretaja",
     "CL_DV_WM_maximum_rpm": "Maksimalni broj okretaja",
-    "CL_CF_CS_connect_to_wifi": "Slijedite ove korake za povezivanje uređaja na Wi-Fi. Preporučujemo da onemogućite mrežne podatke na svom pametnom telefonu."
+    "CL_CF_CS_connect_to_wifi": "Slijedite ove korake za povezivanje uređaja na Wi-Fi. Preporučujemo da onemogućite mrežne podatke na svom pametnom telefonu.",
+    "CL_DV_RF_family_care": "Obiteljska njega",
+    "CL_DV_RF_family_care_tips": "U sljedećim razdobljima netko može biti aktivan ispred hladnjaka."
 }

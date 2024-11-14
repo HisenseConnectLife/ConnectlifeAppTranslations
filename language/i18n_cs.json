@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimální otáčky",
     "CL_DV_WM_medium_rpm": "Střední otáčky",
     "CL_DV_WM_maximum_rpm": "Maximální otáčky",
-    "CL_CF_CS_connect_to_wifi": "Pro připojení zařízení k Wi-Fi postupujte podle následujících kroků. Doporučujeme deaktivovat síťová data na vašem smartphonu."
+    "CL_CF_CS_connect_to_wifi": "Pro připojení zařízení k Wi-Fi postupujte podle následujících kroků. Doporučujeme deaktivovat síťová data na vašem smartphonu.",
+    "CL_DV_RF_family_care": "Rodinná péče",
+    "CL_DV_RF_family_care_tips": "V následujících obdobích může být někdo aktivní před lednicí."
 }

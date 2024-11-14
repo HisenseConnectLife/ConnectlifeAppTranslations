@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimum rpm",
     "CL_DV_WM_medium_rpm": "Middels turtall",
     "CL_DV_WM_maximum_rpm": "Maks turtall",
-    "CL_CF_CS_connect_to_wifi": "Følg disse trinnene for å koble enheten til Wi-Fi. Vi anbefaler å deaktivere nettverksdata på smarttelefonen."
+    "CL_CF_CS_connect_to_wifi": "Følg disse trinnene for å koble enheten til Wi-Fi. Vi anbefaler å deaktivere nettverksdata på smarttelefonen.",
+    "CL_DV_RF_family_care": "Familieomsorg",
+    "CL_DV_RF_family_care_tips": "I de følgende periodene kan noen være aktive foran kjøleskapet."
 }

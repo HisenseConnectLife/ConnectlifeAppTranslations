@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Minimum devir sayısı",
     "CL_DV_WM_medium_rpm": "Orta devir",
     "CL_DV_WM_maximum_rpm": "Maksimum devir sayısı",
-    "CL_CF_CS_connect_to_wifi": "Cihazı Wi-Fi'ye bağlamak için aşağıdaki adımları izleyin. Akıllı telefonunuzdaki ağ verilerini devre dışı bırakmanızı öneririz."
+    "CL_CF_CS_connect_to_wifi": "Cihazı Wi-Fi'ye bağlamak için aşağıdaki adımları izleyin. Akıllı telefonunuzdaki ağ verilerini devre dışı bırakmanızı öneririz.",
+    "CL_DV_RF_family_care": "Aile Bakımı",
+    "CL_DV_RF_family_care_tips": "İlerleyen dönemlerde buzdolabının önünde birileri aktif olabilir."
 }

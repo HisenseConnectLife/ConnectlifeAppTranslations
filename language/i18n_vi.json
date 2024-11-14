@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "vòng quay tối thiểu",
     "CL_DV_WM_medium_rpm": "Vòng tua trung bình",
     "CL_DV_WM_maximum_rpm": "Vòng quay tối đa",
-    "CL_CF_CS_connect_to_wifi": "Làm theo các bước sau để kết nối thiết bị với Wi-Fi. Chúng tôi khuyên bạn nên tắt dữ liệu mạng trên điện thoại thông minh của mình."
+    "CL_CF_CS_connect_to_wifi": "Làm theo các bước sau để kết nối thiết bị với Wi-Fi. Chúng tôi khuyên bạn nên tắt dữ liệu mạng trên điện thoại thông minh của mình.",
+    "CL_DV_RF_family_care": "Chăm sóc gia đình",
+    "CL_DV_RF_family_care_tips": "Vào những thời điểm sau, có thể có người đang hoạt động trước tủ lạnh."
 }

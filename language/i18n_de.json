@@ -4527,5 +4527,7 @@
     "CL_DV_WM_minimum_rpm": "Mindestdrehzahl",
     "CL_DV_WM_medium_rpm": "Mittlere Drehzahl",
     "CL_DV_WM_maximum_rpm": "Maximale Drehzahl",
-    "CL_CF_CS_connect_to_wifi": "Befolgen Sie diese Schritte, um das Gerät mit dem WLAN zu verbinden. Wir empfehlen, die Netzwerkdaten auf Ihrem Smartphone zu deaktivieren."
+    "CL_CF_CS_connect_to_wifi": "Befolgen Sie diese Schritte, um das Gerät mit dem WLAN zu verbinden. Wir empfehlen, die Netzwerkdaten auf Ihrem Smartphone zu deaktivieren.",
+    "CL_DV_RF_family_care": "Familienpflege",
+    "CL_DV_RF_family_care_tips": "In den folgenden Zeiträumen kann es sein, dass jemand vor dem Kühlschrank aktiv ist."
 }
