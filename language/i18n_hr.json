@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Jelo zagrijavaju gornji i donji grijači u pećnici. Ova je funkcija idealna za jela kojima je potrebno više topline s gornje strane.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Jelo zagrijavaju gornji i donji grijači u pećnici. Ova je funkcija idealna za jela kojima je potrebno više topline s donje strane.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Jelo zagrijavaju gornji i donji grijači, a toplina se ravnomjerno raspoređuje pomoću ventilatora. Za ravnomjerno pečenje jela na jednoj razini i pripremu soufflea.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Jelo se zagrijava vrućim zrakom i donjom toplinom. Idealno za pečenje na jednoj razini kada želimo jela s hrskavom teksturom koja se brzo peku."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Jelo se zagrijava vrućim zrakom i donjom toplinom. Idealno za pečenje na jednoj razini kada želimo jela s hrskavom teksturom koja se brzo peku.",
+    "CL_DV_OV_bio24_air_fry_desc": "Jelo zagrijava gornji grijač, a toplina se ravnomjerno raspoređuje pomoću ventilatora. Prikladno za manje komade mesa, ribu, povrće i unaprijed pripremljene smrznute namirnice (pomfrit, pileći medaljoni).",
+    "CL_DV_OV_bio24_large_grill_desc": "Jelo se zagrijava pomoću velikog elementa za roštilj. Ova se funkcija koristi za jela i pečenu hranu koja treba postati smeđa.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Jelo se zagrijava uz pomoć velikog grill elementa u kombinaciji s ventilatorom. Ova funkcija se koristi za roštiljanje ribe, mesa i povrća.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Jelo zagrijava donji grijač. Uključite ovu postavku neposredno prije kraja pečenja. Ova se funkcija koristi za jela s donjom koricom ili koja trebaju postati smeđa.",
+    "CL_DV_OV_bio24_steam_desc": "Jelo se kuha na pari, čime se zadržavaju miris i okus. Ne prenose se okus i aroma, što omogućuje istovremenu pripremu različitih jela jednog pored drugoga. Ova je funkcija namijenjena za kuhanje na pari povrća, jaja, voća, tjestenine i riže.",
+    "CL_DV_OV_bio24_microwave_desc": "Ova funkcija koristi mikrovalove. Jela se odmrzavaju, zagrijavaju ili kuhaju brzo i učinkovito. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Jelo se zagrijava vrućim zrakom koji dolazi sa stražnje strane pećnice i ravnomjerno se raspoređuje pomoću ventilatora. Dodavanjem pare povećava se razina vlage. Hrana postaje hrskava izvana i mekana iznutra. Idealno za pečenje mesa i povrća.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Jelo zagrijavaju gornji i donji grijači, a toplina se ravnomjerno raspoređuje pomoću ventilatora. Dodavanjem pare povećava se razina vlage. Hrana postaje hrskava izvana i mekana iznutra. Idealno za pečenje kruha i peciva.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Jelo se kuha kombinacijom mikrovalova i vrućeg zraka, čime se skraćuje vrijeme kuhanja. Ova se funkcija koristi za pečenje mesnih štruca, krumpira, peciva i kolača.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Jelo se priprema kombinacijom mikrovalne pećnice, roštilja i ventilatora, čime se skraćuje vrijeme pripreme. Pogodno za pečenje gratiniranog krumpira, pilećeg pečenja i manjih komada mesa.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Jelo se priprema kombinacijom mikrovalova, gornje i donje topline te ventilatora, čime se skraćuje vrijeme pripreme. Prikladno za pečenje tartova, kruha i većih komada mesa.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Jelo se priprema kombinacijom mikrovalova, gornjeg grijača i ventilatora, čime se skraćuje vrijeme pripreme. Prikladno za pečenje povrća i zamrznute hrane poput lazanja."
 }

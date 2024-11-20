@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Đĩa được làm nóng bằng các bộ phận làm nóng ở phía trên và phía dưới của khoang lò. Chức năng này lý tưởng cho các món ăn cần nhiều nhiệt hơn từ phía trên.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Đĩa được làm nóng bằng các bộ phận làm nóng ở phía trên và phía dưới của khoang lò. Chức năng này lý tưởng cho các món ăn cần nhiều nhiệt hơn từ phía dưới.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Đĩa được làm nóng bằng các thanh gia nhiệt ở trên và dưới, với nhiệt được phân bổ đều bằng quạt. Dùng để nướng đều các món ăn trên một mặt phẳng và chế biến món soufflé.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Đĩa được làm nóng bằng không khí nóng và nhiệt dưới đáy. Lý tưởng cho việc nướng một tầng khi chúng ta muốn các món ăn được nấu chín nhanh và có kết cấu giòn."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Đĩa được làm nóng bằng không khí nóng và nhiệt dưới đáy. Lý tưởng cho việc nướng một tầng khi chúng ta muốn các món ăn được nấu chín nhanh và có kết cấu giòn.",
+    "CL_DV_OV_bio24_air_fry_desc": "Đĩa được làm nóng bằng thanh gia nhiệt phía trên, với nhiệt được phân phối đều bằng quạt. Thích hợp cho các loại thịt, cá, rau củ cắt nhỏ và các mặt hàng đông lạnh đã chế biến sẵn (khoai tây chiên, gà viên).",
+    "CL_DV_OV_bio24_large_grill_desc": "Đĩa được làm nóng bằng thanh nướng lớn. Chức năng này được sử dụng cho các món ăn và thực phẩm nướng cần làm nâu.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Đĩa được làm nóng bằng thanh nướng lớn kết hợp với quạt. Chức năng này được sử dụng để nướng cá, thịt và rau.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Đĩa được làm nóng bằng bộ phận gia nhiệt ở đáy. Bật chế độ này ngay trước khi kết thúc thời gian nướng hoặc rang. Chức năng này được sử dụng cho các món ăn cần lớp vỏ dưới hoặc làm nâu.",
+    "CL_DV_OV_bio24_steam_desc": "Món ăn được nấu bằng hơi nước, giữ nguyên hương vị và mùi thơm. Không có sự truyền hương vị/mùi thơm, cho phép nấu các món ăn khác nhau cạnh nhau. Sử dụng chức năng này để hấp rau, trứng, trái cây, mì ống và gạo.",
+    "CL_DV_OV_bio24_microwave_desc": "Chức năng này sử dụng lò vi sóng. Các món ăn được rã đông, hâm nóng hoặc nấu chín nhanh chóng và hiệu quả. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Đĩa được làm nóng bằng luồng khí nóng được cung cấp từ phía sau lò nướng và được phân phối đều bằng quạt. Việc bổ sung hơi nước giúp tăng cường độ ẩm. Thực phẩm giòn bên ngoài và mềm bên trong. Lý tưởng để nướng thịt và rau.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Đĩa được làm nóng bằng các thanh gia nhiệt ở trên và dưới, với nhiệt được phân phối đều bằng quạt. Thêm hơi nước giúp tăng cường độ ẩm. Thực phẩm giòn bên ngoài và mềm bên trong. Lý tưởng để nướng bánh mì và bánh ngọt.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Món ăn được nấu bằng sự kết hợp của vi sóng và không khí nóng. Điều này rút ngắn thời gian nấu. Chức năng này được sử dụng để nấu thịt viên, khoai tây, bánh ngọt và bánh nướng.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Món ăn được nấu bằng sự kết hợp của lò vi sóng, lò nướng và quạt. Điều này rút ngắn thời gian nấu. Thích hợp để nấu khoai tây nghiền, thịt gà nướng và các miếng thịt nhỏ hơn.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Món ăn được nấu bằng sự kết hợp của lò vi sóng, nhiệt trên và dưới và quạt. Điều này rút ngắn thời gian nấu. Thích hợp để nấu bánh tart, bánh mì và các miếng thịt lớn hơn.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Món ăn được nấu bằng sự kết hợp của lò vi sóng, nhiệt độ trên và quạt. Điều này rút ngắn thời gian nấu. Thích hợp để nấu rau và thực phẩm đông lạnh như lasagne. "
 }

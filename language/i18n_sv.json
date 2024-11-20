@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Rätten värms upp av värmeelementen uppe och nere i ugnsutrymmet. Denna funktion är idealisk för rätter som kräver mer värme från toppen.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Rätten värms upp av värmeelementen längst upp och nere i ugnsutrymmet. Denna funktion är idealisk för rätter som kräver mer värme från botten.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Rätten värms upp av de övre och undre värmeelementen, med värmen jämnt fördelad av fläkten. För jämn bakning av rätter på en nivå och tillagning av suffléer.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Rätten värms med varmluft och undervärme. Perfekt för enplansbakning när vi vill ha rätter som tillagas snabbt och har en krispig konsistens."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Rätten värms med varmluft och undervärme. Perfekt för enplansbakning när vi vill ha rätter som tillagas snabbt och har en krispig konsistens.",
+    "CL_DV_OV_bio24_air_fry_desc": "Rätten värms upp av det övre värmeelementet, med värmen jämnt fördelad av fläkten. Lämplig för mindre stycken kött, fisk, grönsaker och förberedda frysta livsmedel (frites, kycklingnuggets).",
+    "CL_DV_OV_bio24_large_grill_desc": "Rätten värms upp av det stora grillelementet. Denna funktion används för rätter och bakad mat som kräver bryning.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Skålen värms upp av det stora grillelementet i kombination med fläkten. Denna funktion används för att grilla fisk, kött och grönsaker.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Rätten värms upp av det undre värmeelementet. Slå på denna inställning strax före slutet av gräddnings- eller stektiden. Denna funktion används för rätter som kräver en bottenskorpa eller bryning.",
+    "CL_DV_OV_bio24_steam_desc": "Rätten tillagas med ånga, vilket bevarar aromen och smaken. Det finns ingen överföring av smak/arom, vilket gör att olika rätter kan tillagas bredvid varandra. Använd denna funktion för att ånga grönsaker, ägg, frukt, pasta och ris.",
+    "CL_DV_OV_bio24_microwave_desc": "Denna funktion använder mikrovågor. Rätter tinas, värms eller tillagas snabbt och effektivt. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Rätten värms upp av den varma luften som tillförs från baksidan av ugnen och fördelas jämnt med fläkten. Tillsats av ånga ökar fuktnivåerna. Maten blir krispig utanpå och mör inuti. Perfekt för att baka kött och grönsaker.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Rätten värms upp av de övre och undre värmeelementen, med värmen jämnt fördelad av fläkten. Tillsats av ånga ökar fuktnivåerna. Maten blir krispig utanpå och mör inuti. Perfekt för att baka bröd och bakverk.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Rätten tillagas med en kombination av mikrovågor och varmluft. Detta förkortar tillagningstiden. Denna funktion används för att tillaga köttfärslimpa, potatis, bakverk och kakor.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Rätten tillagas med en kombination av mikrovågsugn, grill och fläkt. Detta förkortar tillagningstiden. Lämplig för tillagning av potatisgratäng, kycklingstek och mindre köttbitar.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Rätten tillagas med en kombination av mikrovågsugn, över- och undervärme samt fläkt. Detta förkortar tillagningstiden. Lämplig för tillagning av tårtor, bröd och större köttbitar.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Rätten tillagas med en kombination av mikrovågsugn, övervärme och fläkt. Detta förkortar tillagningstiden. Lämplig för tillagning av grönsaker och fryst mat som lasagne."
 }

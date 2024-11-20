@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Miska sa ohrieva pomocou vykurovacích telies v hornej a dolnej časti priestoru rúry. Táto funkcia je ideálna pre pokrmy, ktoré vyžadujú viac tepla zhora.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Miska sa ohrieva pomocou vykurovacích telies v hornej a dolnej časti priestoru rúry. Táto funkcia je ideálna pre riad, ktorý vyžaduje viac tepla zospodu.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Miska sa ohrieva horným a spodným ohrevným telesom, pričom teplo rovnomerne rozdeľuje ventilátor. Na rovnomerné pečenie jedál na jednej úrovni a prípravu suflé.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Miska sa ohrieva horúcim vzduchom a spodným ohrevom. Ideálne na pečenie na jednej úrovni, keď chceme jedlá, ktoré sú rýchlo uvarené a majú chrumkavú štruktúru."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Miska sa ohrieva horúcim vzduchom a spodným ohrevom. Ideálne na pečenie na jednej úrovni, keď chceme jedlá, ktoré sú rýchlo uvarené a majú chrumkavú štruktúru.",
+    "CL_DV_OV_bio24_air_fry_desc": "Miska sa ohrieva horným výhrevným telesom, pričom teplo rovnomerne rozdeľuje ventilátor. Vhodné na menšie kusy mäsa, rýb, zeleniny a vopred pripravené mrazené jedlá (hranolky, kuracie nugetky).",
+    "CL_DV_OV_bio24_large_grill_desc": "Miska sa ohrieva pomocou veľkého grilovacieho telesa. Táto funkcia sa používa pre jedlá a pečené jedlá, ktoré vyžadujú zhnednutie.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Pokrm je ohrievaný veľkým grilovacím telesom v kombinácii s ventilátorom. Táto funkcia sa používa na grilovanie rýb, mäsa a zeleniny.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Miska sa ohrieva pomocou spodného vykurovacieho telesa. Toto nastavenie zapnite tesne pred koncom pečenia alebo pečenia. Táto funkcia sa používa pre jedlá, ktoré vyžadujú spodnú kôrku alebo zhnednutie.",
+    "CL_DV_OV_bio24_steam_desc": "Jedlo sa varí v pare, ktorá zachováva vôňu a chuť. Nedochádza k prenosu chuti/vône, čo umožňuje varenie rôznych jedál vedľa seba. Túto funkciu použite na varenie zeleniny, vajec, ovocia, cestovín a ryže v pare.",
+    "CL_DV_OV_bio24_microwave_desc": "Táto funkcia využíva mikrovlny. Jedlá sa rozmrazujú, ohrievajú alebo varia rýchlo a efektívne. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Miska je ohrievaná horúcim vzduchom privádzaným zo zadnej časti rúry a rovnomerne rozvádzaným ventilátorom. Pridanie pary zvyšuje úroveň vlhkosti. Jedlo je vonku chrumkavé a vnútri jemné. Ideálne na pečenie mäsa a zeleniny.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Miska sa ohrieva horným a spodným ohrevným telesom, pričom teplo rovnomerne rozdeľuje ventilátor. Pridanie pary zvyšuje úroveň vlhkosti. Jedlo je vonku chrumkavé a vnútri jemné. Ideálne na pečenie chleba a pečiva.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Jedlo sa varí kombináciou mikrovĺn a horúceho vzduchu. Tým sa skráti čas varenia. Táto funkcia sa používa na pečenie sekaného, ​​zemiakov, pečiva a koláčov.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Jedlo sa pripravuje kombináciou mikrovlnnej rúry, grilu a ventilátora. Tým sa skráti čas varenia. Vhodné na pečenie zemiakov, kuracích pečienok a menších kúskov mäsa.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Jedlo sa varí kombináciou mikrovlnnej rúry, horného a spodného ohrevu a ventilátora. Tým sa skráti čas varenia. Vhodné na varenie tort, chleba a väčších kusov mäsa.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Jedlo sa varí kombináciou mikrovlnnej rúry, horného ohrevu a ventilátora. Tým sa skráti čas varenia. Vhodné na varenie zeleniny a mrazených potravín, ako sú lasagne. "
 }
