@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Az edényt a sütőtér tetején és alján található fűtőelemek melegítik fel. Ez a funkció ideális azokhoz az ételekhez, amelyek felülről több hőt igényelnek.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Az edényt a sütőtér tetején és alján található fűtőelemek melegítik fel. Ez a funkció ideális olyan edényekhez, amelyek alulról több hőt igényelnek.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Az edényt a felső és az alsó fűtőelem melegíti fel, a hőt a ventilátor egyenletesen osztja el. Ételek egyenletes sütéséhez egy szinten és szuflék elkészítéséhez.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Az edényt forró levegővel és alsó hővel melegítjük. Ideális egyszintes sütéshez, amikor gyorsan elkészülő és ropogós állagú ételeket szeretnénk."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Az edényt forró levegővel és alsó hővel melegítjük. Ideális egyszintes sütéshez, amikor gyorsan elkészülő és ropogós állagú ételeket szeretnénk.",
+    "CL_DV_OV_bio24_air_fry_desc": "Az edényt a felső fűtőelem melegíti fel, a hőt a ventilátor egyenletesen osztja el. Alkalmas kisebb hús-, hal-, zöldség- és előre elkészített fagyasztott termékekhez (krumpli, csirke rögök).",
+    "CL_DV_OV_bio24_large_grill_desc": "Az edényt a nagyméretű grillelem melegíti fel. Ez a funkció barnítást igénylő ételekhez és sült ételekhez használható.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Az edényt a nagyméretű grillelem és a ventilátor melegíti. Ez a funkció hal, hús és zöldség grillezésére szolgál.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Az edényt az alsó fűtőelem melegíti fel. Kapcsolja be ezt a beállítást közvetlenül a sütési vagy pörkölési idő vége előtt. Ez a funkció olyan ételekhez használható, amelyek alsó kérgét vagy barnulást igényelnek.",
+    "CL_DV_OV_bio24_steam_desc": "Az étel gőzzel készül, ami megőrzi az aromát és az ízt. Nincs íz/illatátadás, lehetővé téve a különböző ételek egymás mellett elkészítését. Használja ezt a funkciót zöldségek, tojás, gyümölcs, tészta és rizs párolására.",
+    "CL_DV_OV_bio24_microwave_desc": "Ez a funkció mikrohullámú sütőt használ. Az ételeket gyorsan és hatékonyan kiolvasztják, felmelegítik vagy elkészítik. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Az edényt a sütő hátuljából táplált forró levegő melegíti fel, és egyenletesen oszlik el a ventilátorral. Gőz hozzáadása növeli a nedvességszintet. Az étel kívül ropogós lesz, belül pedig puha. Ideális hús és zöldség sütéséhez.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Az edényt a felső és az alsó fűtőelem melegíti fel, a hőt a ventilátor egyenletesen osztja el. Gőz hozzáadása növeli a nedvességszintet. Az étel kívül ropogós lesz, belül pedig puha. Ideális kenyér és péksütemény sütéséhez.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Az étel mikrohullámú sütő és forró levegő kombinációjával készül. Ez lerövidíti a főzési időt. Ez a funkció húscipők, burgonya, péksütemények és sütemények sütéséhez használható.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Az étel mikrohullámú sütő, grill és ventilátor kombinációjával készül. Ez lerövidíti a főzési időt. Alkalmas burgonya gratin, csirkesült és kisebb húsdarabok főzésére.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Az ételt mikrohullámú sütő, felső és alsó hő és ventilátor kombinációjával készítik. Ez lerövidíti a főzési időt. Alkalmas torták, kenyér és nagyobb húsdarabok sütésére.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Az étel mikrohullámú sütő, felső hő és ventilátor kombinációjával készül. Ez lerövidíti a főzési időt. Alkalmas zöldségek és fagyasztott ételek, például lasagne főzésére. "
 }

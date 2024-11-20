@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Retten opvarmes af det øverste og nederste varmelegeme. Denne funktion er ideel til retter, der kræver mere overvarme.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Retten opvarmes af det øverste og nederste varmelegeme. Denne funktion er ideel til retter, der kræver mere undervarme.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Retten opvarmes af det øverste og nederste varmelegeme, og varmen fordeles jævnt af blæseren. Til jævn bagning af retter på ét niveau og tilberedning af souffléer.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Retten opvarmes med varmluft og undervarme. Ideel til bagning på ét niveau af retter, der tilberedes hurtigt og har en sprød konsistens."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Retten opvarmes med varmluft og undervarme. Ideel til bagning på ét niveau af retter, der tilberedes hurtigt og har en sprød konsistens.",
+    "CL_DV_OV_bio24_air_fry_desc": "Retten opvarmes af det øverste varmelegeme, og varmen fordeles jævnt af blæseren. Velegnet til små udskæringer af kød, fisk, grøntsager og frostvarer (f.eks. pommes frites og kyllingenuggets).",
+    "CL_DV_OV_bio24_large_grill_desc": "Retten opvarmes af det store grillelement. Denne funktion bruges til retter og bagværk, der skal brunes.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Fadet varmes op af det store grillelement i kombination med blæseren. Denne funktion bruges til at grille fisk, kød og grøntsager.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Retten opvarmes af det nederste varmelegeme. Slå indstillingen til, lige før tilberedningstiden er gået. Denne funktion er ideel til retter, der skal bages sprøde i bunden eller brunes.",
+    "CL_DV_OV_bio24_steam_desc": "Retten tilberedes med damp, som bevarer duft og smag. Der sker ingen overførsel af smag/aroma, så forskellige retter kan tilberedes ved siden af hinanden. Brug denne funktion til at dampe grøntsager, æg, frugt, pasta og ris.",
+    "CL_DV_OV_bio24_microwave_desc": "Denne funktion bruger mikrobølger. Retter optøs, opvarmes eller tilberedes hurtigt og effektivt. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Retten opvarmes af den varme luft, som tilføres fra den bagerste del af ovnrummet, og varmen fordeles jævnt af blæseren. Der tilføres damp for at øge fugtniveauet. Maden bliver sprød udenpå og gennembagt indeni. Ideel til tilberedning af kød og grøntsager.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Retten opvarmes af det øverste og nederste varmelegeme, og varmen fordeles jævnt af blæseren. Der tilføres damp for at øge fugtniveauet. Maden bliver sprød udenpå og gennembagt indeni. Ideel til bagning af brød og wienerbrød.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Retten tilberedes med en kombination af mikrobølger og varmluft. Det forkorter tilberedningstiden. Denne funktion bruges til tilberedning af farsbrød, kartofler, wienerbrød og kager.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Retten tilberedes med en kombination af mikrobølger, grill og blæser. Det forkorter tilberedningstiden. Velegnet til tilberedning af kartoffelgratin, kyllingesteg og små kødudskæringer.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Retten tilberedes med en kombination af mikrobølger, overvarme og undervarme. Det forkorter tilberedningstiden. Velegnet til tilberedning af tærter, brød og store kødudskæringer.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Retten tilberedes med en kombination af mikrobølger, overvarme og blæser. Det forkorter tilberedningstiden. Velegnet til tilberedning af grøntsager og frosne retter som lasagne."
 }

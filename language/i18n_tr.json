@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Yemek, fırın boşluğunun üst ve alt kısmındaki ısıtma elemanları tarafından ısıtılır. Bu fonksiyon, üstten daha fazla ısı gerektiren yemekler için idealdir.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Yemek, fırın boşluğunun üst ve alt kısmındaki ısıtma elemanları tarafından ısıtılır. Bu fonksiyon, alttan daha fazla ısı gerektiren yemekler için idealdir.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Yemek, üst ve alt ısıtma elemanları tarafından ısıtılır ve ısı fan tarafından eşit şekilde dağıtılır. Yemeklerin tek bir seviyede eşit şekilde pişirilmesi ve sufle hazırlanması için.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Yemek sıcak hava ve alt ısı ile ısıtılır. Hızlı pişen ve çıtır çıtır bir dokuya sahip yemekler istediğimizde tek katlı pişirme için idealdir."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Yemek sıcak hava ve alt ısı ile ısıtılır. Hızlı pişen ve çıtır çıtır bir dokuya sahip yemekler istediğimizde tek katlı pişirme için idealdir.",
+    "CL_DV_OV_bio24_air_fry_desc": "Yemek, üst ısıtma elemanı tarafından ısıtılır ve ısı fan tarafından eşit şekilde dağıtılır. Daha küçük et, balık, sebze ve önceden hazırlanmış dondurulmuş ürünler (patates kızartması, tavuk nugget) için uygundur.",
+    "CL_DV_OV_bio24_large_grill_desc": "Yemek, büyük ızgara elemanı tarafından ısıtılır. Bu fonksiyon, kızarması gereken yemekler ve fırınlanmış yiyecekler için kullanılır.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Yemek, fanla birlikte büyük ızgara elemanı tarafından ısıtılır. Bu fonksiyon balık, et ve sebzeleri ızgara yapmak için kullanılır.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Yemek, alt ısıtma elemanı tarafından ısıtılır. Bu ayarı, pişirme veya kızartma süresinin bitiminden hemen önce açın. Bu fonksiyon, alt kabuk veya kızarma gerektiren yemekler için kullanılır.",
+    "CL_DV_OV_bio24_steam_desc": "Yemek, aroma ve lezzeti koruyan buhar kullanılarak pişirilir. Lezzet/aromanın aktarımı olmaz, bu da farklı yemeklerin yan yana pişirilmesine olanak tanır. Sebzeleri, yumurtaları, meyveleri, makarnaları ve pilavı buharlamak için bu işlevi kullanın.",
+    "CL_DV_OV_bio24_microwave_desc": "Bu fonksiyon mikrodalgaları kullanır. Yemekler hızlı ve etkili bir şekilde çözülür, ısıtılır veya pişirilir. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Yemek, fırının arkasından gelen sıcak hava ile ısıtılır ve fan ile eşit şekilde dağıtılır. Buhar eklenmesi nem seviyelerini artırır. Yiyecekler dışarıdan çıtır çıtır, içeriden ise yumuşak olur. Et ve sebzeleri pişirmek için idealdir.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Yemek, üst ve alt ısıtma elemanları tarafından ısıtılır ve ısı fan tarafından eşit şekilde dağıtılır. Buhar eklenmesi nem seviyelerini artırır. Yiyecekler dışarıdan çıtır çıtır, içeriden ise yumuşak olur. Ekmek ve hamur işi pişirmek için idealdir.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Yemek mikrodalga ve sıcak hava kombinasyonuyla pişirilir. Bu pişirme süresini kısaltır. Bu fonksiyon köfte, patates, börek ve kek pişirmek için kullanılır.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Yemek mikrodalga, ızgara ve fan kombinasyonuyla pişirilir. Bu pişirme süresini kısaltır. Patates graten, tavuk kızartması ve daha küçük et parçaları pişirmek için uygundur.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Yemek mikrodalga, üst ve alt ısı ve fan kombinasyonuyla pişirilir. Bu pişirme süresini kısaltır. Turta, ekmek ve büyük et parçaları pişirmek için uygundur.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Yemek mikrodalga, üstten ısıtma ve fan kombinasyonuyla pişirilir. Bu pişirme süresini kısaltır. Sebzeleri ve lazanya gibi dondurulmuş yiyecekleri pişirmek için uygundur. "
 }

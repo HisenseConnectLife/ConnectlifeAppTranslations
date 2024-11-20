@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "The dish is heated by the heating elements at the top and bottom of the oven space. This function is ideal for dishes that require more heat from the top.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "The dish is heated by the heating elements at the top and bottom of the oven space. This function is ideal for dishes that require more heat from the bottom.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "The dish is heated by the top and bottom heating elements, with the heat evenly distributed by the fan. For even baking of dishes on one level and preparation of soufflés.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "The dish is heated with hot air and bottom heat. Ideal for single-level baking when we want dishes that are cooked quickly and have a crispy texture."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "The dish is heated with hot air and bottom heat. Ideal for single-level baking when we want dishes that are cooked quickly and have a crispy texture.",
+    "CL_DV_OV_bio24_air_fry_desc": "The dish is heated by the top heating element, with the heat evenly distributed by the fan. Suitable for smaller cuts of meat, fish, vegetables, and pre-prepared frozen items (fries, chicken nuggets).",
+    "CL_DV_OV_bio24_large_grill_desc": "The dish is heated by the large grill element. This function is used for dishes and baked food that require browning.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "The dish is heated by the large grill element in combination with the fan. This function is used to grill fish, meat and vegetables.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "The dish is heated by the bottom heating element. Switch on this setting just before the end of the baking or roasting time. This function is used for dishes that require a bottom crust or browning.",
+    "CL_DV_OV_bio24_steam_desc": "The dish is cooked using steam, which preserves the aroma and flavour. There is no transfer of flavour/aroma, allowing different dishes to be cooked next to each other. Use this function to steam vegetables, eggs, fruit, pasta and rice.",
+    "CL_DV_OV_bio24_microwave_desc": "This function uses microwaves. Dishes are defrosted, heated or cooked quickly and efficiently. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "The dish is heated by the hot air supplied from the rear of the oven and evenly distributed with the fan. Addition of steam enhance moisture levels. Food gets crispy outside and tender inside. Ideal for baking meat and vegetables.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "The dish is heated by the top and bottom heating elements, with the heat evenly distributed by the fan. Addition of steam enhance moisture levels. Food gets crispy outside and tender inside. Ideal for baking bread and pastry.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "The dish is cooked with a combination of microwaves and hot air. This shortens the cooking time. This function is used to cook meat loaf, potatoes, pastry and cakes.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "The dish is cooked with a combination of microwave, grill and fan. This shortens the cooking time. Suitable for cooking potato gratin, chicken roast and smaller pieces of meat.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "The dish is cooked with a combination of microwave, upper and bottom heat and fan. This shortens the cooking time. Suitable for cooking tarts, bread and larger pieces of meat.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "The dish is cooked with a combination of microwave, top heat and fan. This shortens the cooking time. Suitable for cooking vegetables and frozen foods like lasagne. "
 }

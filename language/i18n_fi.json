@@ -4557,5 +4557,17 @@
     "CL_DV_OV_bio24_top70_bottom30_heat_desc": "Ruoka paistetaan uunin ylä- ja alaosassa olevilla lämmityselementeillä. Tämä toiminto on ihanteellinen ruoille, jotka vaativat enemmän lämpöä ylhäältä.",
     "CL_DV_OV_bio24_top30_bottom70_heat_desc": "Ruoka paistetaan uunin ylä- ja alaosassa olevilla lämmityselementeillä. Tämä toiminto on ihanteellinen ruoille, jotka vaativat enemmän lämpöä alhaalta.",
     "CL_DV_OV_bio24_top_bottom_fan_desc": "Ruoka paistetaan ylä- ja alalämmityselementeillä tuulettimen jakaessa lämmön tasaisesti. Ruokien tasaiseen kypsennykseen yhdellä tasolla ja kohokkaiden valmistukseen.",
-    "CL_DV_OV_hot_air_bottom_heat_desc": "Ruoka paistetaan kiertoilmalla ja alalämmöllä. Ihanteellinen nopeasti kypsyvien, rapeiden ruokien kypsennykseen yhdellä tasolla."
+    "CL_DV_OV_hot_air_bottom_heat_desc": "Ruoka paistetaan kiertoilmalla ja alalämmöllä. Ihanteellinen nopeasti kypsyvien, rapeiden ruokien kypsennykseen yhdellä tasolla.",
+    "CL_DV_OV_bio24_air_fry_desc": "Ruoka paistetaan ylälämpöelementillä tuulettimen jakaessa lämmön tasaisesti. Sopii pienille liha-, kala- ja vihannespaloille sekä esikypsennetyille pakasteille (ranskanperunat, kananuggetit).",
+    "CL_DV_OV_bio24_large_grill_desc": "Ruoka paistetaan suurella grillielementillä. Tätä toimintoa käytetään ruskistusta vaativiin ruokiin ja leivonnaisiin.",
+    "CL_DV_OV_bio24_large_grill_fan_desc": "Astia lämmitetään suurella grillielementillä yhdessä tuulettimen kanssa. Tätä toimintoa käytetään kalan, lihan ja vihannesten grillaamiseen.",
+    "CL_DV_OV_bio24_bottom_heat_desc": "Ruoka paistetaan alalämpöelementillä. Kytke tämä asetus päälle juuri ennen paisto- tai paahtoajan päättymistä. Tätä toimintoa käytetään ruoille, jotka vaativat rapean pohjan tai ruskistuksen.",
+    "CL_DV_OV_bio24_steam_desc": "Ruoka kypsennetään höyryllä, jolloin aromit ja maku säilyvät. Maut/aromit eivät siirry ruoasta toiseen, joten eri ruokia voidaan valmistaa vierekkäin. Käytä tätä toimintoa vihannesten, kananmunien, hedelmien, pastan ja riisin höyryttämiseen.",
+    "CL_DV_OV_bio24_microwave_desc": "Tämä toiminto käyttää mikroaaltoja. Astiat sulatetaan, lämmitetään tai kypsennetään nopeasti ja tehokkaasti. ",
+    "CL_DV_OV_bio24_hot_air_steam_desc": "Ruoka paistetaan uunin takaosasta tulevalla kuumalla ilmalla, jonka tuuletin jakaa tasaisesti. Höyryn käyttäminen lisää kosteutta. Ruoasta tulee päältä rapea ja sisältä murea. Ihanteellinen lihan ja vihannesten kypsentämiseen.",
+    "CL_DV_OV_bio24_top_bottom_fan_steam_desc": "Ruoka paistetaan ylä- ja alalämmityselementeillä tuulettimen jakaessa lämmön tasaisesti. Höyryn käyttäminen lisää kosteutta. Ruoasta tulee päältä rapea ja sisältä murea. Ihanteellinen leiville ja leivonnaisille.",
+    "CL_DV_OV_bio24_hot_air_microwave_desc": "Ruoka kypsennetään mikroaaltojen ja kuuman ilman yhdistelmällä. Tämä lyhentää kypsennysaikaa. Tätä toimintoa käytetään lihamurekkeen, perunoiden, leivonnaisten ja kakkujen valmistamiseen.",
+    "CL_DV_OV_bio24_large_grill_fan_microwave_desc": "Ruoka kypsennetään käyttämällä mikroaaltouunia, grilliä ja tuuletinta. Tämä lyhentää kypsennysaikaa. Sopii perunagratiinin, kanapaistin ja pienempien lihapalojen kypsentämiseen.",
+    "CL_DV_OV_bio24_top_bottom_fan_microwave_desc": "Ruoka kypsennetään käyttämällä mikroaaltouunia, ylä- ja alalämpöä sekä tuuletinta. Tämä lyhentää kypsennysaikaa. Sopii torttujen, leivän ja suurempien lihapalojen paistamiseen.",
+    "CL_DV_OV_bio24_air_fry_microwave_desc": "Ruoka kypsennetään käyttämällä mikroaaltouunia, ylälämpöä ja tuuletinta. Tämä lyhentää kypsennysaikaa. Soveltuu vihannesten ja pakasteruokien, kuten lasagnen, kypsentämiseen."
 }
