@@ -3415,7 +3415,6 @@
     "use_humidity": "Use humidity box to regulate humidity",
     "same_day": "On same day",
     "w_temp_set": "What temperature to set?",
-    "asko": "ASKO",
     "eco_meter": "Eco Meter",
     "asko_eco_meter_desc": "## is a helpful smart indicator to determinate your environmental impact based on chosen program and extra options when it comes to energy, water and detergent consumption.",
     "wm86_autodose_desc": "Instead of making it to a struggle let the washing machine measure exactly the right dosage of detergent. Our washing machines with Auto Dose system measure the detergent against wash load, dirtiness level, water hardness, program type and temperature. Always perfect dosage and no more overdosing. Here you can adjust your default settings for Auto Dose.",
@@ -4606,5 +4605,6 @@
     "CL_DV_WM_offline_content1": "Check if your device is plugged in and the power is on.",
     "CL_DV_WM_offline_content2": "Make sure your device is connected to a local wireless network.",
     "CL_DV_WM_offline_content3": "Check your WiFi signal strength. If the signal is low, it might be that the router is too far away from the device.",
-    "CL_DV_WM_offline_title": "Your device is offline"
+    "CL_DV_WM_offline_title": "Your device is offline",
+    "CL_CF_FM_create_recipe": "Create recipe"
 }
