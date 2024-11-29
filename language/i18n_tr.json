@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Akıllı Destek Nedir?",
     "smart_support_l_m": "Akıllı Desteğin temel özellikleri hakkında daha fazla bilgi edinin",
     "smart_energy_helps": "Akıllı Enerji, cihazlarınızı izlemenize ve enerji açısından verimli bir durumda tutmanıza yardımcı olur",
-    "smart_energy_helps_1": "1. Tek Tıkla Eko",
     "smart_energy_helps_1_content": "Cihazlarınızın aktif ECO modu. Cihaz enerji tüketimini istatistiksel olarak analiz edin. Enerji tasarrufu verilerini izleyin ve Enerji kullanım hedefini ayarlayın.",
     "smart_energy_helps_2": "2.Enerji Tüketimi İzleme",
     "smart_energy_helps_2_content": "Günlük, aylık ve yıllık bazda tüm evin elektrik ve su tüketimini hesaplayabilirsiniz. Ayrıca her bir cihazın tüketim istatistiklerini, seçilen dönemde her bir cihazın enerji tüketim oranını, genel ve bireysel enerji tüketimini de görüntüleyebilirsiniz.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Dolabınızın yerel bir kablosuz ağa bağlı olduğundan emin olun.",
     "CL_DV_WM_offline_content3": "WiFi sinyal gücünüzü kontrol edin. Sinyal zayıfsa, router’ın dolaptan çok uzakta olabileceği anlamına gelebilir.",
     "CL_DV_WM_offline_title": "Cihazınız çevrimdışı",
-    "CL_CF_FM_create_recipe": "Tarif oluştur"
+    "CL_CF_FM_create_recipe": "Tarif oluştur",
+    "CL_DV_HOB_operation_interval": "Çalışma aralığı",
+    "CL_DV_WM_hot": "Sıcak",
+    "CL_DV_WM_extra_hot": "Ekstra sıcak",
+    "CL_CF_HP_card": "Kart",
+    "CL_CF_HP_enter_card_name": "Kart adını girin...",
+    "smart_energy_helps_1": ""
 }

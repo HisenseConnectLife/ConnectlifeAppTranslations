@@ -258,7 +258,7 @@
     "ac_AI_control_hint": "AI: klimatska naprava izmeriće spoljnu temperaturu, unutrašnju temperaturu i vlažnost, temperaturnu otpornost odeće, sevanje, brzinu protoka vazduha, kao i druge parametre kako bi pružila najveću udobnost te brzo hlađenje ili grejanje jednim samim pritiskom na taster. Nakon toga automatski kontroliše temperaturu, vlažnost, brzinu strujanja vazduha, te smer ulaska vazduha u prostoriju. Na taj način omogućuje nežno strujanje vazduha i hlađenje koje deluje kao tuš, a da ne duva direktno u korisnika i uzrokuje prehlade. Zagrevanje u stilu podnog grejanja zagrejaće vaše noge i omogućiti udobnost u prostoriji, a istovremeno pobrinuće se i za zdravlje starijih lica, dece, i trudnica.",
     "ac_select_mode": "IZABERITE NAČIN",
     "ac_select_wind_speed": "BRZINA PROTOKA VAZDUHA",
-    "ac_diagnose_normal": "Normalno pranje",
+    "ac_diagnose_normal": "Normalno",
     "ac_diagnose_error": "Neispravan",
     "ac_diagnose_complete": "DOVRŠENO",
     "ac_preferences": "LIČNE REGULACIJE",
@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Шта је паметна подршка",
     "smart_support_l_m": "Сазнајте више о кључним карактеристикама Смарт Суппорт",
     "smart_energy_helps": "Смарт Енерги вам помаже да надгледате и одржавате уређаје у енергетски ефикасном стању",
-    "smart_energy_helps_1": "1.Оне-Цлицк Ецо",
     "smart_energy_helps_1_content": "Активни ЕЦО режим ваших уређаја. Статистички анализирајте потрошњу енергије уређаја. Пратите податке о уштеди енергије и поставите циљ за потрошњу енергије.",
     "smart_energy_helps_2": "2. Мониторинг потрошње енергије",
     "smart_energy_helps_2_content": "Израчунајте потрошњу струје и воде у целој кући на дневној, месечној и годишњој бази. такође можете погледати статистику потрошње појединих уређаја, пропорцију потрошње енергије сваког уређаја у одабраном периоду, укупну и појединачну потрошњу енергије.",
@@ -4595,7 +4594,7 @@
     "CL_CF_AS_support": "Подршка",
     "CL_DV_OV_remote_start": "РЕМОТЕ СТАРТ",
     "CL_DV_OV_remote_start_enable_tips": "Да бисте омогућили даљинско покретање, потврдите на рерни притиском на дугме.",
-    "CL_CF_CO_device_runs_normal": "Ваш уређај ради у нормалном стању.",
+    "CL_CF_CO_device_runs_normal": "Vaš uređaj radi u normalnim stanju.",
     "CL_CF_CO_device_needs_attention": "Уређају је потребна пажња.",
     "CL_DV_RF_next_cleaning_will_be": "Следеће чишћење ће бити **",
     "CL_DV_RF_last_clean_was": "Последње чишћење је било **",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Уверите се да је ваш кабинет повезан на локалну бежичну мрежу.",
     "CL_DV_WM_offline_content3": "Проверите снагу вашег WiFi сигнала. Ако је сигнал слаб, могуће је да је рутер превише удаљен од ормарића.",
     "CL_DV_WM_offline_title": "Ваш уређај је ван мреже",
-    "CL_CF_FM_create_recipe": "Креирајте рецепт"
+    "CL_CF_FM_create_recipe": "Креирајте рецепт",
+    "CL_DV_HOB_operation_interval": "Интервал рада",
+    "CL_DV_WM_hot": "Хот",
+    "CL_DV_WM_extra_hot": "Екстра вруће",
+    "CL_CF_HP_card": "Цард",
+    "CL_CF_HP_enter_card_name": "Унесите назив картице...",
+    "smart_energy_helps_1": ""
 }

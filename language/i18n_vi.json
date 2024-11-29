@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Hỗ trợ thông minh là gì",
     "smart_support_l_m": "Tìm hiểu thêm về các tính năng chính của Smart Support",
     "smart_energy_helps": "Smart Energy giúp bạn theo dõi và duy trì các thiết bị ở trạng thái tiết kiệm năng lượng",
-    "smart_energy_helps_1": "1. Một cú nhấp chuột Eco",
     "smart_energy_helps_1_content": "Chế độ ECO chủ động của thiết bị. Phân tích thống kê mức tiêu thụ năng lượng của thiết bị. Theo dõi dữ liệu tiết kiệm năng lượng và Đặt mục tiêu sử dụng năng lượng.",
     "smart_energy_helps_2": "2. Giám sát mức tiêu thụ năng lượng",
     "smart_energy_helps_2_content": "Tính toán lượng điện và nước tiêu thụ của toàn bộ ngôi nhà theo ngày, tháng và năm. Bạn cũng có thể xem số liệu thống kê về mức tiêu thụ của từng thiết bị, tỷ lệ tiêu thụ năng lượng của từng thiết bị trong khoảng thời gian đã chọn, mức tiêu thụ năng lượng chung và riêng lẻ.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Đảm bảo tủ của bạn đã được kết nối với mạng không dây địa phương.",
     "CL_DV_WM_offline_content3": "Kiểm tra độ mạnh của tín hiệu WiFi. Nếu tín hiệu yếu, có thể là router quá xa tủ.",
     "CL_DV_WM_offline_title": "Thiết bị của bạn đang ngoại tuyến",
-    "CL_CF_FM_create_recipe": "Tạo công thức"
+    "CL_CF_FM_create_recipe": "Tạo công thức",
+    "CL_DV_HOB_operation_interval": "Khoảng thời gian hoạt động",
+    "CL_DV_WM_hot": "Nóng",
+    "CL_DV_WM_extra_hot": "Cực nóng",
+    "CL_CF_HP_card": "Thẻ",
+    "CL_CF_HP_enter_card_name": "Nhập tên thẻ...",
+    "smart_energy_helps_1": ""
 }

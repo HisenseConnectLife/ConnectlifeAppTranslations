@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Što je Smart Support",
     "smart_support_l_m": "Saznajte više o ključnim značajkama Smart Support",
     "smart_energy_helps": "Smart Energy pomaže vam u nadzoru i održavanju uređaja u energetski učinkovitom stanju",
-    "smart_energy_helps_1": "1.One-Click Eco",
     "smart_energy_helps_1_content": "Aktivni ECO način rada vaših uređaja. Statistički analizirati potrošnju energije uređaja. Pratite podatke o uštedi energije i postavite ciljanu potrošnju energije.",
     "smart_energy_helps_2": "2. Praćenje potrošnje energije",
     "smart_energy_helps_2_content": "Izračunajte potrošnju struje i vode u cijeloj kući na dnevnoj, mjesečnoj i godišnjoj bazi. također možete vidjeti statistiku potrošnje pojedinih uređaja, udio potrošnje energije svakog uređaja unutar odabranog razdoblja, ukupnu i pojedinačnu potrošnju energije.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Provjerite je li vaš ormar povezan s lokalnom bežičnom mrežom.",
     "CL_DV_WM_offline_content3": "Provjerite snagu signala WiFi-ja. Ako je signal slab, moguće je da je usmjerivač predaleko od ormara.",
     "CL_DV_WM_offline_title": "Vaš uređaj je izvan mreže",
-    "CL_CF_FM_create_recipe": "Stvorite recept"
+    "CL_CF_FM_create_recipe": "Stvorite recept",
+    "CL_DV_HOB_operation_interval": "Radni interval",
+    "CL_DV_WM_hot": "vruće",
+    "CL_DV_WM_extra_hot": "Ekstra vruće",
+    "CL_CF_HP_card": "Kartica",
+    "CL_CF_HP_enter_card_name": "Unesite naziv kartice...",
+    "smart_energy_helps_1": ""
 }

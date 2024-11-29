@@ -3993,7 +3993,7 @@
     "CL_CF_LG_receive_personalized_offers": "接收個人化優惠",
     "CL_CF_LG_receive_content": "目的和基礎是為了發送行銷訊息或根據您的興趣提供個人化優惠或改善用戶體驗。",
     "CL_CF_LG_contact": "您確認您已被告知您可以隨時在帳戶設定中或透過聯絡以下電子郵件地址撤回您的同意：privacy@connectlife.io",
-    "CL_CF_LG_legal": "合法的",
+    "CL_CF_LG_legal": "法律",
     "CL_CF_LG_enduser_privacy": "資料隱私政策",
     "CL_SM_CM_devices_are_running_eco_mode_key": "## 設備正在運行 ECO 模式",
     "CL_CF_UC_full_name_with_title": "{surName}{firstName} {title}",
@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "什麼是智能支援",
     "smart_support_l_m": "了解有關智能支援主要功能的更多信息",
     "smart_energy_helps": "智慧能源幫助您監控設備並使其保持在節能狀態",
-    "smart_energy_helps_1": "1.一鍵生態",
     "smart_energy_helps_1_content": "您的電器處於主動 ECO 模式。統計分析設備能耗。監控節能數據並設定能源使用目標。",
     "smart_energy_helps_2": "2.能耗監測",
     "smart_energy_helps_2_content": "以日、月、年計算全屋用電量和用水量。還可以查看單一設備的能耗統計、選定時間內各設備的能耗佔比、整體能耗和單一能耗。",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "确保您的设备已连接到本地WiFi网络。",
     "CL_DV_WM_offline_content3": "请检查WiFi信号强度。如果信号太弱，可能是由于您的酒柜距离路由器太远。",
     "CL_DV_WM_offline_title": "您的設備處於離線狀態",
-    "CL_CF_FM_create_recipe": "創建食譜"
+    "CL_CF_FM_create_recipe": "創建食譜",
+    "CL_DV_HOB_operation_interval": "運作間隔",
+    "CL_DV_WM_hot": "熱的",
+    "CL_DV_WM_extra_hot": "超熱",
+    "CL_CF_HP_card": "卡片",
+    "CL_CF_HP_enter_card_name": "輸入卡名...",
+    "smart_energy_helps_1": ""
 }

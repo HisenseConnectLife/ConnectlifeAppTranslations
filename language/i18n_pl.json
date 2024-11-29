@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Czym jest Smart Support",
     "smart_support_l_m": "Dowiedz się więcej o kluczowych funkcjach Smart Support",
     "smart_energy_helps": "Smart Energy pomaga monitorować i utrzymywać urządzenia w stanie energooszczędnym",
-    "smart_energy_helps_1": "1.Eko jednym kliknięciem",
     "smart_energy_helps_1_content": "Aktywny tryb ECO Twoich urządzeń. Statystyczna analiza zużycia energii przez urządzenie. Monitorowanie danych o oszczędzaniu energii i ustawianie celu zużycia energii.",
     "smart_energy_helps_2": "2.Monitorowanie zużycia energii",
     "smart_energy_helps_2_content": "Oblicz zużycie energii elektrycznej i wody w całym domu w ujęciu dziennym, miesięcznym i rocznym. Możesz także przeglądać statystyki zużycia poszczególnych urządzeń, udział zużycia energii każdego urządzenia w wybranym okresie, a także całkowite i indywidualne zużycie energii.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Upewnij się, że szafka jest podłączona do lokalnej sieci bezprzewodowej.",
     "CL_DV_WM_offline_content3": "Sprawdź siłę sygnału WiFi. Jeśli sygnał jest słaby, może to oznaczać, że router jest zbyt daleko od szafki.",
     "CL_DV_WM_offline_title": "Twoje urządzenie jest offline",
-    "CL_CF_FM_create_recipe": "Utwórz przepis"
+    "CL_CF_FM_create_recipe": "Utwórz przepis",
+    "CL_DV_HOB_operation_interval": "Interwał działania",
+    "CL_DV_WM_hot": "Gorący",
+    "CL_DV_WM_extra_hot": "Bardzo gorąco",
+    "CL_CF_HP_card": "Karta",
+    "CL_CF_HP_enter_card_name": "Wprowadź nazwę karty...",
+    "smart_energy_helps_1": ""
 }

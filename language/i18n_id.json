@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Apa itu Smart Support?",
     "smart_support_l_m": "Pelajari lebih lanjut tentang fitur utama Smart Support",
     "smart_energy_helps": "Energi Cerdas membantu Anda memantau dan menjaga perangkat dalam kondisi hemat energi",
-    "smart_energy_helps_1": "1.Ekonomi Satu Klik",
     "smart_energy_helps_1_content": "Mode ECO aktif pada peralatan Anda. Analisis konsumsi energi perangkat secara statistik. Pantau data penghematan energi dan Tetapkan target penggunaan energi.",
     "smart_energy_helps_2": "2. Pemantauan Konsumsi Energi",
     "smart_energy_helps_2_content": "Hitung konsumsi daya dan air seluruh rumah setiap hari, setiap bulan, dan setiap tahun. Anda juga dapat melihat statistik konsumsi masing-masing perangkat, proporsi konsumsi energi setiap perangkat dalam periode yang dipilih, serta konsumsi energi keseluruhan dan masing-masing perangkat.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Pastikan kabinet Anda terhubung ke jaringan nirkabel lokal.",
     "CL_DV_WM_offline_content3": "Periksa kekuatan sinyal WiFi Anda. Jika sinyal lemah, mungkin router terlalu jauh dari kabinet.",
     "CL_DV_WM_offline_title": "Perangkat Anda sedang offline",
-    "CL_CF_FM_create_recipe": "Buat resep"
+    "CL_CF_FM_create_recipe": "Buat resep",
+    "CL_DV_HOB_operation_interval": "Interval operasi",
+    "CL_DV_WM_hot": "Panas",
+    "CL_DV_WM_extra_hot": "Ekstra panas",
+    "CL_CF_HP_card": "Kartu",
+    "CL_CF_HP_enter_card_name": "Masukkan nama kartu...",
+    "smart_energy_helps_1": ""
 }

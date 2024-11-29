@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Čo je inteligentná podpora",
     "smart_support_l_m": "Získajte viac informácií o kľúčových funkciách inteligentnej podpory",
     "smart_energy_helps": "Smart Energy vám pomáha monitorovať a udržiavať zariadenia v energeticky úspornom stave",
-    "smart_energy_helps_1": "1.Eko jedným kliknutím",
     "smart_energy_helps_1_content": "Aktívny ECO režim vašich spotrebičov. Štatisticky analyzujte spotrebu energie zariadenia. Sledujte údaje o úspore energie a nastavte cieľ spotreby energie.",
     "smart_energy_helps_2": "2. Monitorovanie spotreby energie",
     "smart_energy_helps_2_content": "Vypočítajte spotrebu energie a vody v celom dome na dennej, mesačnej a ročnej báze. môžete si prezerať aj štatistiku spotreby jednotlivých zariadení, podiel spotreby energie každého zariadenia za zvolené obdobie, celkovú a individuálnu spotrebu energie.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Uistite sa, že vaša skrinka je pripojená k miestnej bezdrôtovej sieti.",
     "CL_DV_WM_offline_content3": "Skontrolujte silu vášho WiFi signálu. Ak je signál slabý, môže to znamenať, že router je príliš ďaleko od skrinky.",
     "CL_DV_WM_offline_title": "",
-    "CL_CF_FM_create_recipe": ""
+    "CL_CF_FM_create_recipe": "",
+    "CL_DV_HOB_operation_interval": "",
+    "CL_DV_WM_hot": "",
+    "CL_DV_WM_extra_hot": "",
+    "CL_CF_HP_card": "kard",
+    "CL_CF_HP_enter_card_name": "Zadajte názov karty...",
+    "smart_energy_helps_1": ""
 }

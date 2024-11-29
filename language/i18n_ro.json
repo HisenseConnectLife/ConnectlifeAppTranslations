@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Ce este Smart Support",
     "smart_support_l_m": "Aflați mai multe despre caracteristicile cheie ale Smart Support",
     "smart_energy_helps": "Smart Energy vă ajută să monitorizați și să mențineți dispozitivele în stare de eficiență energetică",
-    "smart_energy_helps_1": "1.One-Click Eco",
     "smart_energy_helps_1_content": "Modul ECO activ al aparatelor dvs. Analizați statistic consumul de energie al dispozitivului. Monitorizați datele privind economisirea energiei și setați obiectivul de utilizare a energiei.",
     "smart_energy_helps_2": "2. Monitorizarea consumului de energie",
     "smart_energy_helps_2_content": "Calculați consumul de energie și apă pentru întreaga casă zilnic, lunar și anual. De asemenea, puteți vizualiza statisticile de consum ale dispozitivelor individuale, proporția consumului de energie al fiecărui dispozitiv în perioada selectată, consumul total și individual de energie.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Asigurați-vă că dulapul dumneavoastră este conectat la o rețea locală wireless.",
     "CL_DV_WM_offline_content3": "Verificați puterea semnalului WiFi. Dacă semnalul este slab, este posibil ca routerul să fie prea departe de dulap.",
     "CL_DV_WM_offline_title": "Dispozitivul dvs. este offline",
-    "CL_CF_FM_create_recipe": "Creați rețetă"
+    "CL_CF_FM_create_recipe": "Creați rețetă",
+    "CL_DV_HOB_operation_interval": "Interval de operare",
+    "CL_DV_WM_hot": "Fierbinte",
+    "CL_DV_WM_extra_hot": "Extra fierbinte",
+    "CL_CF_HP_card": "Card",
+    "CL_CF_HP_enter_card_name": "Introduceți numele cardului...",
+    "smart_energy_helps_1": ""
 }

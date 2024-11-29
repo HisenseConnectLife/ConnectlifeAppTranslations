@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Mikä on älykäs tuki",
     "smart_support_l_m": "Lue lisää Smart Supportin tärkeimmistä ominaisuuksista",
     "smart_energy_helps": "Smart Energy auttaa sinua valvomaan ja pitämään laitteita energiatehokkaassa tilassa",
-    "smart_energy_helps_1": "1. Yhden napsautuksen Eco",
     "smart_energy_helps_1_content": "Laitteidesi aktiivinen ECO-tila. Analysoi tilastollisesti laitteen energiankulutus. Seuraa energiansäästötietoja ja aseta energiankäyttötavoite.",
     "smart_energy_helps_2": "2. Energiankulutuksen seuranta",
     "smart_energy_helps_2_content": "Laske koko talon sähkön- ja vedenkulutus päivittäin, kuukausittain ja vuosittain. Näet myös yksittäisten laitteiden kulutustilastot, kunkin laitteen energiankulutuksen osuuden valitulla ajanjaksolla, kokonais- ja yksittäisen energiankulutuksen.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Varmista, että kaappisi on yhdistetty paikalliseen langattomaan verkkoon.",
     "CL_DV_WM_offline_content3": "Tarkista WiFi-signaalin vahvuus. Jos signaali on heikko, saattaa olla, että reititin on liian kaukana kaapista.",
     "CL_DV_WM_offline_title": "Laitteesi on offline-tilassa",
-    "CL_CF_FM_create_recipe": "Luo resepti"
+    "CL_CF_FM_create_recipe": "Luo resepti",
+    "CL_DV_HOB_operation_interval": "Toimintaväli",
+    "CL_DV_WM_hot": "Kuuma",
+    "CL_DV_WM_extra_hot": "Erittäin kuuma",
+    "CL_CF_HP_card": "Kortti",
+    "CL_CF_HP_enter_card_name": "Anna kortin nimi...",
+    "smart_energy_helps_1": ""
 }
