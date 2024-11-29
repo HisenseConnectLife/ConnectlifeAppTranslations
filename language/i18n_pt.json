@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "O que é o Smart Support",
     "smart_support_l_m": "Saiba mais sobre os principais recursos do Smart Support",
     "smart_energy_helps": "O Smart Energy ajuda você a monitorar e manter os dispositivos em estado de eficiência energética",
-    "smart_energy_helps_1": "1. Eco de um clique",
     "smart_energy_helps_1_content": "Modo ECO ativo dos seus aparelhos. Analise estatisticamente o consumo de energia do dispositivo. Monitore dados de economia de energia e defina meta de uso de energia.",
     "smart_energy_helps_2": "2. Monitoramento do consumo de energia",
     "smart_energy_helps_2_content": "Calcule o consumo total de energia e água da casa diariamente, mensalmente e anualmente. Você também pode visualizar as estatísticas de consumo de dispositivos individuais, a proporção do consumo de energia de cada dispositivo dentro do período selecionado, o consumo geral e individual de energia.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Certifique-se de que a cave de vinhos está ligada a uma rede local.",
     "CL_DV_WM_offline_content3": "Verifique a intensidade do sinal WiFi. Se o sinal for fraco, é possível que o router esteja demasiado afastado da cave de vinhos.",
     "CL_DV_WM_offline_title": "Seu dispositivo está offline",
-    "CL_CF_FM_create_recipe": "Criar receita"
+    "CL_CF_FM_create_recipe": "Criar receita",
+    "CL_DV_HOB_operation_interval": "Intervalo de operação",
+    "CL_DV_WM_hot": "Quente",
+    "CL_DV_WM_extra_hot": "Extra quente",
+    "CL_CF_HP_card": "Cartão",
+    "CL_CF_HP_enter_card_name": "Digite o nome do cartão...",
+    "smart_energy_helps_1": ""
 }

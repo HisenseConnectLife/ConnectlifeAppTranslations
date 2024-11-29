@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Apakah itu Sokongan Pintar",
     "smart_support_l_m": "Ketahui lebih lanjut tentang ciri utama Sokongan Pintar",
     "smart_energy_helps": "Tenaga Pintar membantu anda memantau dan memastikan peranti dalam keadaan cekap tenaga",
-    "smart_energy_helps_1": "1.Eko Satu Klik",
     "smart_energy_helps_1_content": "Mod ECO aktif peralatan anda. Analisis statistik penggunaan tenaga peranti. Pantau data penjimatan tenaga dan Tetapkan sasaran penggunaan tenaga.",
     "smart_energy_helps_2": "2.Pemantauan Penggunaan Tenaga",
     "smart_energy_helps_2_content": "Kira tenaga dan penggunaan air seluruh rumah pada asas harian, bulanan dan tahunan. anda juga boleh melihat statistik penggunaan peranti individu, perkadaran penggunaan tenaga setiap peranti dalam tempoh yang dipilih, penggunaan tenaga keseluruhan dan individu.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Pastikan almari anda disambungkan ke rangkaian tanpa wayar tempatan.",
     "CL_DV_WM_offline_content3": "Periksa kekuatan isyarat WiFi anda. Jika isyarat lemah, mungkin berlaku kerana router terlalu jauh dari almari.",
     "CL_DV_WM_offline_title": "Peranti anda di luar talian",
-    "CL_CF_FM_create_recipe": "Buat resipi"
+    "CL_CF_FM_create_recipe": "Buat resipi",
+    "CL_DV_HOB_operation_interval": "Selang operasi",
+    "CL_DV_WM_hot": "panas",
+    "CL_DV_WM_extra_hot": "Lebih panas",
+    "CL_CF_HP_card": "Kad",
+    "CL_CF_HP_enter_card_name": "Masukkan nama kad...",
+    "smart_energy_helps_1": ""
 }

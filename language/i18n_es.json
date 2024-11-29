@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "¿Qué es el soporte inteligente?",
     "smart_support_l_m": "Obtenga más información sobre las características clave de Smart Support",
     "smart_energy_helps": "Smart Energy le ayuda a monitorear y mantener los dispositivos en un estado de eficiencia energética",
-    "smart_energy_helps_1": "1. Ecología con un solo clic",
     "smart_energy_helps_1_content": "Activa el modo ECO de tus electrodomésticos. Analiza estadísticamente el consumo energético de los dispositivos. Monitoriza los datos de ahorro energético y establece un objetivo de consumo energético.",
     "smart_energy_helps_2": "2. Monitoreo del consumo de energía",
     "smart_energy_helps_2_content": "Calcule el consumo de energía y agua de toda la casa de forma diaria, mensual y anual. También puede ver las estadísticas de consumo de dispositivos individuales, la proporción de consumo de energía de cada dispositivo dentro del período seleccionado, el consumo de energía general e individual.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Asegúrese de que su gabinete esté conectado a una red inalámbrica local.",
     "CL_DV_WM_offline_content3": "Verifique la intensidad de la señal WiFi. Si la señal es baja, es posible que el enrutador esté demasiado lejos del gabinete.",
     "CL_DV_WM_offline_title": "Su dispositivo está fuera de línea",
-    "CL_CF_FM_create_recipe": "Crear receta"
+    "CL_CF_FM_create_recipe": "Crear receta",
+    "CL_DV_HOB_operation_interval": "Intervalo de operación",
+    "CL_DV_WM_hot": "Caliente",
+    "CL_DV_WM_extra_hot": "Extra caliente",
+    "CL_CF_HP_card": "Tarjeta",
+    "CL_CF_HP_enter_card_name": "Introduzca el nombre de la tarjeta...",
+    "smart_energy_helps_1": ""
 }

@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Co je chytrá podpora",
     "smart_support_l_m": "Přečtěte si další informace o klíčových funkcích Smart Support",
     "smart_energy_helps": "Smart Energy vám pomůže monitorovat a udržovat zařízení v energeticky úsporném stavu",
-    "smart_energy_helps_1": "1.Eko jedním kliknutím",
     "smart_energy_helps_1_content": "Aktivní ECO režim vašich spotřebičů. Statisticky analyzujte spotřebu energie zařízení. Sledujte údaje o úspoře energie a nastavte cíl spotřeby energie.",
     "smart_energy_helps_2": "2. Monitorování spotřeby energie",
     "smart_energy_helps_2_content": "Spočítejte si spotřebu energie a vody v celém domě na denní, měsíční a roční bázi. můžete si také prohlédnout statistiky spotřeby jednotlivých zařízení, podíl spotřeby energie každého zařízení ve zvoleném období, celkovou a individuální spotřebu energie.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Ujistěte se, že je váš skříň připojena k místní bezdrátové síti.",
     "CL_DV_WM_offline_content3": "Zkontrolujte sílu signálu WiFi. Pokud je signál slabý, může to být způsobeno tím, že je router příliš daleko od skříně.",
     "CL_DV_WM_offline_title": "Vaše zařízení je offline",
-    "CL_CF_FM_create_recipe": "Vytvořte recept"
+    "CL_CF_FM_create_recipe": "Vytvořte recept",
+    "CL_DV_HOB_operation_interval": "Provozní interval",
+    "CL_DV_WM_hot": "Horký",
+    "CL_DV_WM_extra_hot": "Extra horké",
+    "CL_CF_HP_card": "Karta",
+    "CL_CF_HP_enter_card_name": "Zadejte název karty...",
+    "smart_energy_helps_1": ""
 }

@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Qu'est-ce que Smart Support",
     "smart_support_l_m": "En savoir plus sur les principales fonctionnalités de Smart Support",
     "smart_energy_helps": "Smart Energy vous aide à surveiller et à maintenir les appareils dans un état d'efficacité énergétique",
-    "smart_energy_helps_1": "1. Éco en un clic",
     "smart_energy_helps_1_content": "Activez le mode ECO de vos appareils. Analysez statistiquement la consommation énergétique des appareils. Surveillez les données d'économie d'énergie et définissez un objectif de consommation d'énergie.",
     "smart_energy_helps_2": "2. Suivi de la consommation énergétique",
     "smart_energy_helps_2_content": "Calculez la consommation d'électricité et d'eau de toute la maison sur une base quotidienne, mensuelle et annuelle. Vous pouvez également consulter les statistiques de consommation des appareils individuels, la proportion de consommation d'énergie de chaque appareil au cours de la période sélectionnée, la consommation d'énergie globale et individuelle.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Assurez-vous que votre cave est connectée à un réseau sans fil local.",
     "CL_DV_WM_offline_content3": "Vérifiez la force du signal WiFi. Si le signal est faible, il se peut que le routeur soit trop éloigné de la cave.",
     "CL_DV_WM_offline_title": "Votre appareil est hors ligne",
-    "CL_CF_FM_create_recipe": "Créer une recette"
+    "CL_CF_FM_create_recipe": "Créer une recette",
+    "CL_DV_HOB_operation_interval": "Intervalle de fonctionnement",
+    "CL_DV_WM_hot": "Chaud",
+    "CL_DV_WM_extra_hot": "Très chaud",
+    "CL_CF_HP_card": "Carte",
+    "CL_CF_HP_enter_card_name": "Entrez le nom de la carte...",
+    "smart_energy_helps_1": ""
 }

@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "스마트 서포트란?",
     "smart_support_l_m": "Smart Support의 주요 기능에 대해 자세히 알아보세요",
     "smart_energy_helps": "Smart Energy는 기기를 모니터링하고 에너지 효율적인 상태로 유지하는 데 도움이 됩니다.",
-    "smart_energy_helps_1": "1. 원클릭 에코",
     "smart_energy_helps_1_content": "가전제품의 활성 ECO 모드. 기기 에너지 소비량을 통계적으로 분석합니다. 에너지 절약 데이터를 모니터링하고 에너지 사용 목표를 설정합니다.",
     "smart_energy_helps_2": "2. 에너지 소비 모니터링",
     "smart_energy_helps_2_content": "집 전체의 전기와 물 소비량을 일일, 월간, 연간으로 계산합니다. 또한, 개별 기기의 소비 통계, 선택한 기간 내 각 기기의 에너지 소비 비중, 전체 및 개별 에너지 소비량을 볼 수 있습니다.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "캐비닛이 로컬 무선 네트워크에 연결되어 있는지 확인하세요.",
     "CL_DV_WM_offline_content3": "WiFi 신호 강도를 확인하세요. 신호가 약하다면 라우터가 캐비닛에서 너무 멀리 떨어져 있는 것일 수 있습니다.",
     "CL_DV_WM_offline_title": "귀하의 기기는 오프라인 상태입니다.",
-    "CL_CF_FM_create_recipe": "레시피 만들기"
+    "CL_CF_FM_create_recipe": "레시피 만들기",
+    "CL_DV_HOB_operation_interval": "작동 간격",
+    "CL_DV_WM_hot": "더운",
+    "CL_DV_WM_extra_hot": "매우 뜨겁다",
+    "CL_CF_HP_card": "카드",
+    "CL_CF_HP_enter_card_name": "카드 이름을 입력하세요...",
+    "smart_energy_helps_1": ""
 }

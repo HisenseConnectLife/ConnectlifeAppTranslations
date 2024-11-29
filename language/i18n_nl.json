@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Wat is Smart Support?",
     "smart_support_l_m": "Leer meer over de belangrijkste functies van Smart Support",
     "smart_energy_helps": "Smart Energy helpt u apparaten te monitoren en energiezuinig te houden",
-    "smart_energy_helps_1": "1.Eco met één klik",
     "smart_energy_helps_1_content": "Actieve ECO-modus van uw apparaten. Analyseer statistisch het energieverbruik van het apparaat. Controleer energiebesparingsgegevens en stel een energiegebruiksdoel in.",
     "smart_energy_helps_2": "2. Energieverbruiksbewaking",
     "smart_energy_helps_2_content": "Bereken het totale stroom- en waterverbruik van uw huis op dag-, maand- en jaarbasis. U kunt ook de verbruiksstatistieken van afzonderlijke apparaten bekijken, het aandeel energieverbruik van elk apparaat binnen de geselecteerde periode, en het totale en afzonderlijke energieverbruik.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Zorg ervoor dat je wijnkast verbonden is met een netwerk.",
     "CL_DV_WM_offline_content3": "Controleer de sterkte van het WiFi-signaal. Als het signaal zwak is, kan het zijn dat de router te ver van de wijnkast staat.",
     "CL_DV_WM_offline_title": "Uw apparaat is offline",
-    "CL_CF_FM_create_recipe": "Recept maken"
+    "CL_CF_FM_create_recipe": "Recept maken",
+    "CL_DV_HOB_operation_interval": "Werkingsinterval",
+    "CL_DV_WM_hot": "Heet",
+    "CL_DV_WM_extra_hot": "Extra heet",
+    "CL_CF_HP_card": "Kaart",
+    "CL_CF_HP_enter_card_name": "Voer kaartnaam in...",
+    "smart_energy_helps_1": ""
 }

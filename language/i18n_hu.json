@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Mi az intelligens támogatás",
     "smart_support_l_m": "Tudjon meg többet a Smart Support főbb funkcióiról",
     "smart_energy_helps": "A Smart Energy segít felügyelni és energiatakarékos állapotban tartani az eszközöket",
-    "smart_energy_helps_1": "1.Egykattintásos Eco",
     "smart_energy_helps_1_content": "A készülékek aktív ECO üzemmódja. Statisztikailag elemezze az eszköz energiafogyasztását. Kövesse nyomon az energiatakarékossági adatokat, és állítsa be az energiahasználati célt.",
     "smart_energy_helps_2": "2. Energiafogyasztás figyelése",
     "smart_energy_helps_2_content": "Számítsa ki az egész ház áram- és vízfogyasztását napi, havi és éves alapon. megtekintheti az egyes készülékek fogyasztási statisztikáit, az egyes készülékek energiafogyasztásának arányát a kiválasztott időszakban, a teljes és egyedi energiafogyasztást.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Győződjön meg róla, hogy a szekrény csatlakozik-e egy helyi vezeték nélküli hálózathoz.",
     "CL_DV_WM_offline_content3": "Ellenőrizze a WiFi jel erősségét. Ha a jel gyenge, lehet, hogy a router túl messze van a szekrénytől.",
     "CL_DV_WM_offline_title": "Eszköze offline állapotban van",
-    "CL_CF_FM_create_recipe": "Hozzon létre receptet"
+    "CL_CF_FM_create_recipe": "Hozzon létre receptet",
+    "CL_DV_HOB_operation_interval": "Működési intervallum",
+    "CL_DV_WM_hot": "Forró",
+    "CL_DV_WM_extra_hot": "Extra meleg",
+    "CL_CF_HP_card": "Kártya",
+    "CL_CF_HP_enter_card_name": "Írja be a kártya nevét...",
+    "smart_energy_helps_1": ""
 }

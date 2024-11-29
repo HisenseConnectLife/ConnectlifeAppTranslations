@@ -4458,7 +4458,6 @@
     "w_i_smart_support": "Vad är Smart Support",
     "smart_support_l_m": "Läs mer om nyckelfunktionerna i Smart Support",
     "smart_energy_helps": "Smart Energy hjälper dig att övervaka och hålla enheter i energieffektivt tillstånd",
-    "smart_energy_helps_1": "1.Eco med ett klick",
     "smart_energy_helps_1_content": "Aktivt ECO-läge för dina apparater. Analysera enhetens energiförbrukning statistiskt. Övervaka energispardata och ställ in energianvändningsmål.",
     "smart_energy_helps_2": "2. Övervakning av energiförbrukning",
     "smart_energy_helps_2_content": "Beräkna hela husets energi- och vattenförbrukning på en daglig, månads- och årsbasis. Du kan också se förbrukningsstatistik för enskilda enheter, andelen energiförbrukning för varje enhet inom den valda perioden, den totala och individuella energiförbrukningen.",
@@ -4606,5 +4605,11 @@
     "CL_DV_WM_offline_content2": "Se till att ditt skåp är anslutet till ett lokalt trådlöst nätverk.",
     "CL_DV_WM_offline_content3": "Kontrollera din WiFi-signalstyrka. Om signalen är svag kan det bero på att routern är för långt borta från skåpet.",
     "CL_DV_WM_offline_title": "Din enhet är offline",
-    "CL_CF_FM_create_recipe": "Skapa recept"
+    "CL_CF_FM_create_recipe": "Skapa recept",
+    "CL_DV_HOB_operation_interval": "Driftintervall",
+    "CL_DV_WM_hot": "Varm",
+    "CL_DV_WM_extra_hot": "Extra varmt",
+    "CL_CF_HP_card": "Kort",
+    "CL_CF_HP_enter_card_name": "Ange kortnamn...",
+    "smart_energy_helps_1": ""
 }
