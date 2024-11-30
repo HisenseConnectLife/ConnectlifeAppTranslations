@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Welcome! Answer the following questions to assist us in recommending better laundry programs, enhancing your overall laundry experience.",
     "CL_SL_CM_recommended_program_guide": "Recommend program guide",
     "CL_SL_CM_let's_get_started": "Let's get started!",
-    "CL_SL_CM_thank_you": "Thank You !",
+    "CL_SL_CM_thank_you": "Thank You",
     "CL_SL_CM_questionnaire_congratulations": "Congratulations on completing the questionnaire, we will recommend you the appropriate laundry program based on the questionnaire, please check in the \"Recommended”.",
     "CL_DV_OV_light_setting_desc": "Turn your oven lights ON or OFF. You can change the color and duration in the light settings menu.",
     "CL_DV_OV_lock_setting_desc": "With the lock, you disable the touch screen.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Extra hot",
     "CL_CF_HP_card": "Card",
     "CL_CF_HP_enter_card_name": "Enter card name...",
-    "smart_energy_helps_1": "1. One-Click Eco"
+    "smart_energy_helps_1": "1. One-Click Eco",
+    "CL_CF_FM_select_at_list_one_ingredient": "Please select at least one ingredient.",
+    "CL_CF_FM_no_shopping_items": "No shopping items",
+    "CL_CF_FM_add_food_from_below": "Add food from below",
+    "CL_CF_FM_x_has_been_removed": "** has been removed.",
+    "CL_CF_CO_waiting": "waiting"
 }

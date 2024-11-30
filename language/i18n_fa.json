@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "فوق العاده داغ",
     "CL_CF_HP_card": "کارت",
     "CL_CF_HP_enter_card_name": "نام کارت را وارد کنید...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "لطفا حداقل یک ماده را انتخاب کنید.",
+    "CL_CF_FM_no_shopping_items": "بدون اقلام خرید",
+    "CL_CF_FM_add_food_from_below": "غذا را از زیر اضافه کنید",
+    "CL_CF_FM_x_has_been_removed": "** حذف شده است.",
+    "CL_CF_CO_waiting": "در انتظار"
 }

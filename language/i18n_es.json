@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "¡Bienvenido! Responda las siguientes preguntas para ayudarnos a recomendar mejores programas de lavado y mejorar su experiencia de lavado en general.",
     "CL_SL_CM_recommended_program_guide": "Recomendar guía de programas",
     "CL_SL_CM_let's_get_started": "¡Empecemos!",
-    "CL_SL_CM_thank_you": "¡Gracias!",
+    "CL_SL_CM_thank_you": "¡Gracias",
     "CL_SL_CM_questionnaire_congratulations": "Enhorabuena por completar el cuestionario, le recomendaremos el programa de lavado adecuado en función del cuestionario, por favor marque en \"Recomendados\".",
     "CL_DV_OV_light_setting_desc": "Enciende o apaga las luces del horno. Puedes cambiar el color y la duración en el menú de configuración de las luces.",
     "CL_DV_OV_lock_setting_desc": "Con el bloqueo se desactiva la pantalla táctil.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Extra caliente",
     "CL_CF_HP_card": "Tarjeta",
     "CL_CF_HP_enter_card_name": "Introduzca el nombre de la tarjeta...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Seleccione al menos un ingrediente.",
+    "CL_CF_FM_no_shopping_items": "No hay artículos de compra",
+    "CL_CF_FM_add_food_from_below": "Añade comida desde abajo",
+    "CL_CF_FM_x_has_been_removed": "** ha sido eliminado.",
+    "CL_CF_CO_waiting": "espera"
 }

@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Tervetuloa! Vastaa seuraaviin kysymyksiin auttaaksesi meitä suosittelemaan parempia pesuohjelmia ja parantamaan yleistä pyykinpesukokemustasi.",
     "CL_SL_CM_recommended_program_guide": "Suosittele ohjelmaopasta",
     "CL_SL_CM_let's_get_started": "Aloitetaan!",
-    "CL_SL_CM_thank_you": "Kiitos!",
+    "CL_SL_CM_thank_you": "Kiitos",
     "CL_SL_CM_questionnaire_congratulations": "Onnittelut kyselyn täyttämisestä, suosittelemme sinulle sopivaa pesuohjelmaa kyselylomakkeen perusteella, tarkista \"Suositus\" -kohdasta.",
     "CL_DV_OV_light_setting_desc": "Kytke uunin valot päälle tai pois päältä. Voit muuttaa väriä ja kestoa valoasetusvalikossa.",
     "CL_DV_OV_lock_setting_desc": "Lukolla poistat kosketusnäytön käytöstä.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Erittäin kuuma",
     "CL_CF_HP_card": "Kortti",
     "CL_CF_HP_enter_card_name": "Anna kortin nimi...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Valitse vähintään yksi ainesosa.",
+    "CL_CF_FM_no_shopping_items": "Ei ostostuotteita",
+    "CL_CF_FM_add_food_from_below": "Lisää ruoka alhaalta",
+    "CL_CF_FM_x_has_been_removed": "** on poistettu.",
+    "CL_CF_CO_waiting": "odottaa"
 }

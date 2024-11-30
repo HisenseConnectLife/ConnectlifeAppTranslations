@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Selamat datang! Jawab pertanyaan berikut untuk membantu kami merekomendasikan program binatu yang lebih baik, sehingga meningkatkan pengalaman binatu Anda secara keseluruhan.",
     "CL_SL_CM_recommended_program_guide": "Rekomendasikan panduan program",
     "CL_SL_CM_let's_get_started": "Mari kita mulai!",
-    "CL_SL_CM_thank_you": "Terima kasih!",
+    "CL_SL_CM_thank_you": "Terima kasih",
     "CL_SL_CM_questionnaire_congratulations": "Selamat atas penyelesaian kuesioner, kami akan merekomendasikan program laundry yang sesuai berdasarkan kuesioner, silakan centang pada kolom \"Rekomendasi\".",
     "CL_DV_OV_light_setting_desc": "Nyalakan atau matikan lampu oven Anda. Anda dapat mengubah warna dan durasinya di menu pengaturan lampu.",
     "CL_DV_OV_lock_setting_desc": "Dengan kunci, Anda menonaktifkan layar sentuh.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Ekstra panas",
     "CL_CF_HP_card": "Kartu",
     "CL_CF_HP_enter_card_name": "Masukkan nama kartu...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Harap pilih setidaknya satu bahan.",
+    "CL_CF_FM_no_shopping_items": "Tidak ada barang belanjaan",
+    "CL_CF_FM_add_food_from_below": "Tambahkan makanan dari bawah",
+    "CL_CF_FM_x_has_been_removed": "** telah dihapus.",
+    "CL_CF_CO_waiting": "menunggu"
 }

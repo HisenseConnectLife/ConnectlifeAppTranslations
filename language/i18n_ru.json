@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Добро пожаловать! Ответьте на следующие вопросы, чтобы помочь нам порекомендовать лучшие программы стирки, которые улучшат ваши общие впечатления от стирки.",
     "CL_SL_CM_recommended_program_guide": "Рекомендовать программу передач",
     "CL_SL_CM_let's_get_started": "Давайте начнем!",
-    "CL_SL_CM_thank_you": "Спасибо!",
+    "CL_SL_CM_thank_you": "Спасибо",
     "CL_SL_CM_questionnaire_congratulations": "Поздравляем с заполнением анкеты, на основании анкеты мы порекомендуем вам подходящую программу стирки, пожалуйста, отметьте галочкой поле «Рекомендуется».",
     "CL_DV_OV_light_setting_desc": "Включите или выключите освещение духовки. Вы можете изменить цвет и длительность в меню настроек освещения.",
     "CL_DV_OV_lock_setting_desc": "С помощью блокировки вы отключаете сенсорный экран.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Очень горячо",
     "CL_CF_HP_card": "Карточка",
     "CL_CF_HP_enter_card_name": "Введите название карты...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Пожалуйста, выберите хотя бы один ингредиент.",
+    "CL_CF_FM_no_shopping_items": "Нет товаров для покупок",
+    "CL_CF_FM_add_food_from_below": "Добавить еду снизу",
+    "CL_CF_FM_x_has_been_removed": "** был удален.",
+    "CL_CF_CO_waiting": "ожидающий"
 }

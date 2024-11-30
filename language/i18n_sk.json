@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Vitajte! Odpovedzte na nasledujúce otázky, ktoré nám pomôžu pri odporúčaní lepších programov prania, čím sa zlepší váš celkový zážitok z prania.",
     "CL_SL_CM_recommended_program_guide": "Odporučiť programového sprievodcu",
     "CL_SL_CM_let's_get_started": "Začnime!",
-    "CL_SL_CM_thank_you": "Ďakujeme!",
+    "CL_SL_CM_thank_you": "Ďakujeme",
     "CL_SL_CM_questionnaire_congratulations": "Blahoželáme k vyplneniu dotazníka, na základe dotazníka vám odporučíme vhodný program prania, začiarknite ho v časti „Odporúčame“.",
     "CL_DV_OV_light_setting_desc": "Zapnite alebo vypnite osvetlenie rúry. Farbu a trvanie môžete zmeniť v ponuke nastavení svetla.",
     "CL_DV_OV_lock_setting_desc": "Zámkom vypnete dotykovú obrazovku.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "",
     "CL_CF_HP_card": "kard",
     "CL_CF_HP_enter_card_name": "Zadajte názov karty...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Vyberte aspoň jednu ingredienciu.",
+    "CL_CF_FM_no_shopping_items": "Žiadne nákupné položky",
+    "CL_CF_FM_add_food_from_below": "Pridajte jedlo zospodu",
+    "CL_CF_FM_x_has_been_removed": "** bol odstránený.",
+    "CL_CF_CO_waiting": "čakanie"
 }

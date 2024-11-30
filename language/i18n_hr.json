@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Dobrodošli! Odgovorite na sljedeća pitanja kako biste nam pomogli u preporučivanju boljih programa pranja rublja, poboljšavajući vaše cjelokupno iskustvo pranja rublja.",
     "CL_SL_CM_recommended_program_guide": "Preporuka programskog vodiča",
     "CL_SL_CM_let's_get_started": "Započnimo!",
-    "CL_SL_CM_thank_you": "Hvala!",
+    "CL_SL_CM_thank_you": "Hvala",
     "CL_SL_CM_questionnaire_congratulations": "Čestitamo na ispunjavanju upitnika, na temelju upitnika ćemo vam preporučiti odgovarajući program pranja rublja, provjerite u \"Preporučeno\".",
     "CL_DV_OV_light_setting_desc": "Uključite ili isključite svjetla u pećnici. Boju i trajanje možete promijeniti u izborniku postavki svjetla.",
     "CL_DV_OV_lock_setting_desc": "S bravom onemogućujete dodirni zaslon.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Ekstra vruće",
     "CL_CF_HP_card": "Kartica",
     "CL_CF_HP_enter_card_name": "Unesite naziv kartice...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Odaberite barem jedan sastojak.",
+    "CL_CF_FM_no_shopping_items": "Nema artikala za kupovinu",
+    "CL_CF_FM_add_food_from_below": "Dodajte hranu odozdo",
+    "CL_CF_FM_x_has_been_removed": "** je uklonjeno.",
+    "CL_CF_CO_waiting": "čekajući"
 }

@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Welkom! Beantwoord de volgende vragen om ons te helpen betere wasprogramma's aan te bevelen, waardoor uw algehele waservaring wordt verbeterd.",
     "CL_SL_CM_recommended_program_guide": "Aanbevolen programmagids",
     "CL_SL_CM_let's_get_started": "Laten we beginnen!",
-    "CL_SL_CM_thank_you": "Bedankt!",
+    "CL_SL_CM_thank_you": "Bedankt",
     "CL_SL_CM_questionnaire_congratulations": "Gefeliciteerd met het invullen van de vragenlijst. Op basis van de vragenlijst adviseren wij u over het juiste wasprogramma. Controleer hiervoor de 'Aanbevolen' optie.",
     "CL_DV_OV_light_setting_desc": "Zet uw ovenverlichting AAN of UIT. U kunt de kleur en duur wijzigen in het menu met lichtinstellingen.",
     "CL_DV_OV_lock_setting_desc": "Met het slot schakelt u het touchscreen uit.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Extra heet",
     "CL_CF_HP_card": "Kaart",
     "CL_CF_HP_enter_card_name": "Voer kaartnaam in...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Selecteer minimaal één ingrediënt.",
+    "CL_CF_FM_no_shopping_items": "Geen winkelartikelen",
+    "CL_CF_FM_add_food_from_below": "Voeg voedsel van onderen toe",
+    "CL_CF_FM_x_has_been_removed": "** is verwijderd.",
+    "CL_CF_CO_waiting": "wachten"
 }

@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Bun venit! Răspundeți la următoarele întrebări pentru a ne ajuta să vă recomandăm programe de spălătorie mai bune, îmbunătățindu-vă experiența generală de spălătorie.",
     "CL_SL_CM_recommended_program_guide": "Recomand ghidul de programe",
     "CL_SL_CM_let's_get_started": "Să începem!",
-    "CL_SL_CM_thank_you": "Multumesc!",
+    "CL_SL_CM_thank_you": "Multumesc",
     "CL_SL_CM_questionnaire_congratulations": "Felicitări pentru completarea chestionarului, vă vom recomanda programul de spălătorie adecvat pe baza chestionarului, vă rugăm să verificați în „Recomandat”.",
     "CL_DV_OV_light_setting_desc": "Aprindeți sau stingeți luminile cuptorului. Puteți schimba culoarea și durata în meniul de setări de lumină.",
     "CL_DV_OV_lock_setting_desc": "Cu blocarea, dezactivați ecranul tactil.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Extra fierbinte",
     "CL_CF_HP_card": "Card",
     "CL_CF_HP_enter_card_name": "Introduceți numele cardului...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Vă rugăm să selectați cel puțin un ingredient.",
+    "CL_CF_FM_no_shopping_items": "Fără articole de cumpărături",
+    "CL_CF_FM_add_food_from_below": "Adăugați mâncare de jos",
+    "CL_CF_FM_x_has_been_removed": "** a fost eliminat.",
+    "CL_CF_CO_waiting": "aşteptare"
 }

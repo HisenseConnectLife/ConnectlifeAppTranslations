@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "歡迎！回答以下問題可協助我們推薦更好的洗衣計劃，增強您的整體洗衣體驗。",
     "CL_SL_CM_recommended_program_guide": "推薦節目指南",
     "CL_SL_CM_let's_get_started": "讓我們開始吧！",
-    "CL_SL_CM_thank_you": "謝謝你！",
+    "CL_SL_CM_thank_you": "謝謝你",
     "CL_SL_CM_questionnaire_congratulations": "恭喜您完成問卷，我們將根據問卷向您推薦合適的洗衣方案，請勾選「推薦」。",
     "CL_DV_OV_light_setting_desc": "打開或關閉烤箱燈。您可以在燈光設定選單中變更顏色和持續時間。",
     "CL_DV_OV_lock_setting_desc": "透過鎖定，您可以停用觸控螢幕。",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "超熱",
     "CL_CF_HP_card": "卡片",
     "CL_CF_HP_enter_card_name": "輸入卡名...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "請至少選擇一種成分。",
+    "CL_CF_FM_no_shopping_items": "沒有購物物品",
+    "CL_CF_FM_add_food_from_below": "從下面添加食物",
+    "CL_CF_FM_x_has_been_removed": "** 已刪除。",
+    "CL_CF_CO_waiting": "等待"
 }

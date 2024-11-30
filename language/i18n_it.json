@@ -4172,7 +4172,7 @@
     "CL_DV_WM_pump_clean_when_to_use_2": "2. Se non pulisci la pompa da più di sei mesi, puoi attivare la funzione di pulizia della pompa.",
     "CL_DV_WM_standard_auto_does_key": "AUTODOSAGGIO STANDARD",
     "CL_DV_WM_compartment_in_use_key": "SCOMPARTO IN USO",
-    "CL_CF_CS_oven_g_800_cs_1": "Impostare il dispositivo sulle normali condizioni operative.\n Tocca l'icona del menu.",
+    "CL_CF_CS_oven_g_800_cs_1": "Impostare il dispositivo in condizioni di funzionamento normali.\nToccare l'icona del menu.",
     "CL_CF_CS_oven_g_800_cs_2": "Tieni premuta l'icona Wi-Fi per circa 3-6 secondi finché non raggiunge la \"C\" sulla timeline.",
     "CL_CF_CS_oven_g_800_cs_3": "La rete del dispositivo è ora aperta alla connessione per 5 minuti.\n Fare clic su AVANTI per continuare.",
     "CL_CF_CS_oven_g_800_p_1": "Impostare il dispositivo sulle normali condizioni operative.\n Tocca l'icona del menu.",
@@ -4347,7 +4347,7 @@
     "CL_DV_OV_extra_warming_hotair": "Riscaldare con aria calda",
     "CL_DV_OV_extra_warming_microwave": "Riscaldamento con microonde",
     "CL_DV_OV_extra_warming_keepwarm": "Tenere in caldo",
-    "CL_CF_FM_dont_remind_in_3_months": "Non ricordartelo tra 3 mesi",
+    "CL_CF_FM_dont_remind_in_3_months": "Non ricordarlo tra 3 mesi",
     "CL_DV_RF_cleaning_plan": "Piano di pulizia",
     "CL_DV_RF_cleaning_refrigerator": "Pulizia del frigorifero",
     "CL_DV_RF_cleaning_reminder": "Promemoria di pulizia",
@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Benvenuti! Rispondete alle seguenti domande per aiutarci a consigliarvi programmi di lavanderia migliori, migliorando così la vostra esperienza complessiva di lavanderia.",
     "CL_SL_CM_recommended_program_guide": "Consiglia la guida al programma",
     "CL_SL_CM_let's_get_started": "Cominciamo!",
-    "CL_SL_CM_thank_you": "Grazie!",
+    "CL_SL_CM_thank_you": "Grazie",
     "CL_SL_CM_questionnaire_congratulations": "Congratulazioni per aver completato il questionario, ti consiglieremo il programma di lavaggio più adatto in base al questionario; seleziona la voce \"Consigliato\".",
     "CL_DV_OV_light_setting_desc": "Accendi o spegni le luci del forno. Puoi cambiare il colore e la durata nel menu delle impostazioni della luce.",
     "CL_DV_OV_lock_setting_desc": "Con il lucchetto si disattiva il touch screen.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Molto caldo",
     "CL_CF_HP_card": "Carta",
     "CL_CF_HP_enter_card_name": "Inserisci il nome della carta...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "1. One-Click Eco",
+    "CL_CF_FM_select_at_list_one_ingredient": "Seleziona almeno un ingrediente.",
+    "CL_CF_FM_no_shopping_items": "Nessun articolo da acquistare",
+    "CL_CF_FM_add_food_from_below": "Aggiungere il cibo dal basso",
+    "CL_CF_FM_x_has_been_removed": "** è stato rimosso.",
+    "CL_CF_CO_waiting": "in attesa"
 }

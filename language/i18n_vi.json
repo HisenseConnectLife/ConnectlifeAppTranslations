@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Chào mừng! Trả lời các câu hỏi sau để giúp chúng tôi đề xuất các chương trình giặt ủi tốt hơn, nâng cao trải nghiệm giặt giũ tổng thể của bạn.",
     "CL_SL_CM_recommended_program_guide": "Đề xuất hướng dẫn chương trình",
     "CL_SL_CM_let's_get_started": "Chúng ta hãy bắt đầu nhé!",
-    "CL_SL_CM_thank_you": "Cảm ơn!",
+    "CL_SL_CM_thank_you": "Cảm ơn",
     "CL_SL_CM_questionnaire_congratulations": "Xin chúc mừng bạn đã hoàn thành bảng câu hỏi, chúng tôi sẽ đề xuất cho bạn chương trình giặt là phù hợp dựa trên bảng câu hỏi, vui lòng đánh dấu vào ô \"Đề xuất\".",
     "CL_DV_OV_light_setting_desc": "Bật hoặc tắt đèn lò nướng. Bạn có thể thay đổi màu sắc và thời lượng trong menu cài đặt đèn.",
     "CL_DV_OV_lock_setting_desc": "Khi khóa, bạn sẽ vô hiệu hóa màn hình cảm ứng.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Cực nóng",
     "CL_CF_HP_card": "Thẻ",
     "CL_CF_HP_enter_card_name": "Nhập tên thẻ...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Vui lòng chọn ít nhất một thành phần.",
+    "CL_CF_FM_no_shopping_items": "Không có mục mua sắm",
+    "CL_CF_FM_add_food_from_below": "Thêm thức ăn từ bên dưới",
+    "CL_CF_FM_x_has_been_removed": "** đã bị xóa.",
+    "CL_CF_CO_waiting": "chờ"
 }

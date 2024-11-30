@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "ようこそ！以下の質問にご回答いただくことで、より良いランドリー プログラムを推奨し、全体的なランドリー体験を向上させることができます。",
     "CL_SL_CM_recommended_program_guide": "おすすめ番組ガイド",
     "CL_SL_CM_let's_get_started": "さあ始めましょう！",
-    "CL_SL_CM_thank_you": "ありがとう！",
+    "CL_SL_CM_thank_you": "ありがとう",
     "CL_SL_CM_questionnaire_congratulations": "アンケートにご回答いただきありがとうございます。アンケートに基づいて適切な洗濯プログラムを推奨いたしますので、「推奨」にチェックを入れてください。",
     "CL_DV_OV_light_setting_desc": "オーブンのライトをオンまたはオフにします。ライト設定メニューで色と持続時間を変更できます。",
     "CL_DV_OV_lock_setting_desc": "ロックをかけるとタッチスクリーンが無効になります。",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "超ホット",
     "CL_CF_HP_card": "カード",
     "CL_CF_HP_enter_card_name": "カード名を入力してください...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "少なくとも 1 つの材料を選択してください。",
+    "CL_CF_FM_no_shopping_items": "ショッピングアイテムはありません",
+    "CL_CF_FM_add_food_from_below": "下から食べ物を追加",
+    "CL_CF_FM_x_has_been_removed": "** は削除されました。",
+    "CL_CF_CO_waiting": "待っている"
 }

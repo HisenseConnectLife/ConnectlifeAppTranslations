@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "ยินดีต้อนรับ! โปรดตอบคำถามต่อไปนี้เพื่อช่วยเราในการแนะนำโปรแกรมซักผ้าที่ดีกว่า เพื่อปรับปรุงประสบการณ์การซักผ้าโดยรวมของคุณ",
     "CL_SL_CM_recommended_program_guide": "แนะนำโปรแกรมแนะนำ",
     "CL_SL_CM_let's_get_started": "มาเริ่มกันเลย!",
-    "CL_SL_CM_thank_you": "ขอบคุณ!",
+    "CL_SL_CM_thank_you": "ขอบคุณ",
     "CL_SL_CM_questionnaire_congratulations": "ขอแสดงความยินดีที่ตอบแบบสอบถามเสร็จเรียบร้อยแล้ว เราจะแนะนำโปรแกรมซักผ้าที่เหมาะสมให้กับคุณตามแบบสอบถาม โปรดตรวจสอบในช่อง \"แนะนำ\"",
     "CL_DV_OV_light_setting_desc": "เปิดหรือปิดไฟเตาอบของคุณ คุณสามารถเปลี่ยนสีและระยะเวลาในการตั้งค่าไฟได้ในเมนูการตั้งค่าไฟ",
     "CL_DV_OV_lock_setting_desc": "ด้วยการล็อค คุณสามารถปิดการใช้งานหน้าจอสัมผัสได้",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "พิเศษร้อน",
     "CL_CF_HP_card": "การ์ด",
     "CL_CF_HP_enter_card_name": "กรอกชื่อบัตร...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "กรุณาเลือกส่วนผสมอย่างน้อยหนึ่งรายการ",
+    "CL_CF_FM_no_shopping_items": "ไม่มีรายการช้อปปิ้ง",
+    "CL_CF_FM_add_food_from_below": "เพิ่มอาหารจากด้านล่าง",
+    "CL_CF_FM_x_has_been_removed": "** ได้ถูกลบออกไปแล้ว",
+    "CL_CF_CO_waiting": "ซึ่งรอคอย"
 }

@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "欢迎！回答以下问题可帮助我们推荐更好的洗衣方案，提升您的整体洗衣体验。",
     "CL_SL_CM_recommended_program_guide": "推荐节目指南",
     "CL_SL_CM_let's_get_started": "让我们开始吧！",
-    "CL_SL_CM_thank_you": "谢谢你！",
+    "CL_SL_CM_thank_you": "谢谢你",
     "CL_SL_CM_questionnaire_congratulations": "恭喜您完成问卷调查，我们将根据问卷调查结果为您推荐合适的洗衣方案，请在“推荐”处勾选。",
     "CL_DV_OV_light_setting_desc": "打开或关闭烤箱灯。您可以在灯光设置菜单中更改颜色和持续时间。",
     "CL_DV_OV_lock_setting_desc": "使用锁，您可以禁用触摸屏。",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "超辣",
     "CL_CF_HP_card": "卡片",
     "CL_CF_HP_enter_card_name": "输入卡名...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "请选择至少一种成分。",
+    "CL_CF_FM_no_shopping_items": "没有购物物品",
+    "CL_CF_FM_add_food_from_below": "从下方添加食物",
+    "CL_CF_FM_x_has_been_removed": "** 已被删除。",
+    "CL_CF_CO_waiting": "等待"
 }
