@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Välkomna! Svara på följande frågor för att hjälpa oss att rekommendera bättre tvättprogram, vilket förbättrar din totala tvättupplevelse.",
     "CL_SL_CM_recommended_program_guide": "Rekommendera programguide",
     "CL_SL_CM_let's_get_started": "Låt oss komma igång!",
-    "CL_SL_CM_thank_you": "Tack!",
+    "CL_SL_CM_thank_you": "Tack",
     "CL_SL_CM_questionnaire_congratulations": "Grattis till att du har fyllt i frågeformuläret, vi kommer att rekommendera dig lämpligt tvättprogram baserat på frågeformuläret, kolla i \"Rekommenderas\".",
     "CL_DV_OV_light_setting_desc": "Slå PÅ eller AV dina ugnslampor. Du kan ändra färg och varaktighet i ljusinställningsmenyn.",
     "CL_DV_OV_lock_setting_desc": "Med låset inaktiverar du pekskärmen.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Extra varmt",
     "CL_CF_HP_card": "Kort",
     "CL_CF_HP_enter_card_name": "Ange kortnamn...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Välj minst en ingrediens.",
+    "CL_CF_FM_no_shopping_items": "Inga shoppingartiklar",
+    "CL_CF_FM_add_food_from_below": "Lägg till mat underifrån",
+    "CL_CF_FM_x_has_been_removed": "** har tagits bort.",
+    "CL_CF_CO_waiting": "väntan"
 }

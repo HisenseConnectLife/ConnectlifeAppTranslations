@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "환영합니다! 다음 질문에 답하여 더 나은 세탁 프로그램을 추천하고 전반적인 세탁 경험을 향상시키는 데 도움을 주세요.",
     "CL_SL_CM_recommended_program_guide": "추천 프로그램 가이드",
     "CL_SL_CM_let's_get_started": "시작해 볼까요!",
-    "CL_SL_CM_thank_you": "감사합니다!",
+    "CL_SL_CM_thank_you": "감사합니다",
     "CL_SL_CM_questionnaire_congratulations": "설문조사에 응해 주셔서 축하드립니다. 설문조사에 따라 적합한 세탁 프로그램을 추천해 드리겠습니다. \"추천\"에 체크해 주세요.",
     "CL_DV_OV_light_setting_desc": "오븐 조명을 켜거나 끕니다. 조명 설정 메뉴에서 색상과 지속 시간을 변경할 수 있습니다.",
     "CL_DV_OV_lock_setting_desc": "잠금 기능을 사용하면 터치 스크린을 사용할 수 없습니다.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "매우 뜨겁다",
     "CL_CF_HP_card": "카드",
     "CL_CF_HP_enter_card_name": "카드 이름을 입력하세요...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "최소한 하나의 재료를 선택하세요.",
+    "CL_CF_FM_no_shopping_items": "쇼핑 품목이 없습니다",
+    "CL_CF_FM_add_food_from_below": "아래에서 음식을 추가하세요",
+    "CL_CF_FM_x_has_been_removed": "** 삭제되었습니다.",
+    "CL_CF_CO_waiting": "대기 중"
 }

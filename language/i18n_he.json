@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "חם במיוחד",
     "CL_CF_HP_card": "כַּרְטִיס",
     "CL_CF_HP_enter_card_name": "הזן את שם הכרטיס...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "אנא בחר מרכיב אחד לפחות.",
+    "CL_CF_FM_no_shopping_items": "אין פריטי קניות",
+    "CL_CF_FM_add_food_from_below": "הוסף אוכל מלמטה",
+    "CL_CF_FM_x_has_been_removed": "** הוסר.",
+    "CL_CF_CO_waiting": "הַמתָנָה"
 }

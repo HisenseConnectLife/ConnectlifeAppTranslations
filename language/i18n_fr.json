@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Bienvenue ! Répondez aux questions suivantes pour nous aider à vous recommander de meilleurs programmes de lessive et à améliorer votre expérience globale de lessive.",
     "CL_SL_CM_recommended_program_guide": "Guide du programme recommandé",
     "CL_SL_CM_let's_get_started": "C'est parti !",
-    "CL_SL_CM_thank_you": "Merci!",
+    "CL_SL_CM_thank_you": "Merci",
     "CL_SL_CM_questionnaire_congratulations": "Félicitations pour avoir rempli le questionnaire, nous vous recommanderons le programme de lessive approprié en fonction du questionnaire, veuillez cocher la case « Recommandé ».",
     "CL_DV_OV_light_setting_desc": "Allumez ou éteignez les lumières de votre four. Vous pouvez modifier la couleur et la durée dans le menu des paramètres d'éclairage.",
     "CL_DV_OV_lock_setting_desc": "Avec le verrou, vous désactivez l'écran tactile.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Très chaud",
     "CL_CF_HP_card": "Carte",
     "CL_CF_HP_enter_card_name": "Entrez le nom de la carte...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Veuillez sélectionner au moins un ingrédient.",
+    "CL_CF_FM_no_shopping_items": "Aucun article d'achat",
+    "CL_CF_FM_add_food_from_below": "Ajoutez de la nourriture par le bas",
+    "CL_CF_FM_x_has_been_removed": "** a été supprimé.",
+    "CL_CF_CO_waiting": "en attendant"
 }

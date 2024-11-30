@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Üdvözöljük! Válaszoljon a következő kérdésekre, hogy segítsen nekünk jobb mosási programokat ajánlani, és javítani az általános mosási élményt.",
     "CL_SL_CM_recommended_program_guide": "Programkalauz ajánlása",
     "CL_SL_CM_let's_get_started": "Kezdjük is!",
-    "CL_SL_CM_thank_you": "Köszönöm!",
+    "CL_SL_CM_thank_you": "Köszönöm",
     "CL_SL_CM_questionnaire_congratulations": "Gratulálunk a kérdőív kitöltéséhez, a kérdőív alapján javasoljuk a megfelelő mosodai programot, kérjük, ellenőrizze az „Ajánlott” menüpontban.",
     "CL_DV_OV_light_setting_desc": "Kapcsolja BE vagy KI a sütő világítását. A színt és az időtartamot a fénybeállítások menüben módosíthatja.",
     "CL_DV_OV_lock_setting_desc": "A zárral letiltja az érintőképernyőt.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Extra meleg",
     "CL_CF_HP_card": "Kártya",
     "CL_CF_HP_enter_card_name": "Írja be a kártya nevét...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Kérjük, válasszon legalább egy összetevőt.",
+    "CL_CF_FM_no_shopping_items": "Nincsenek vásárlási cikkek",
+    "CL_CF_FM_add_food_from_below": "Adjon hozzá ételt alulról",
+    "CL_CF_FM_x_has_been_removed": "** eltávolítva.",
+    "CL_CF_CO_waiting": "várakozás"
 }

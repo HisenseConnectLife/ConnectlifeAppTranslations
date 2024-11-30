@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Witamy! Odpowiedz na poniższe pytania, aby pomóc nam w rekomendowaniu lepszych programów prania, ulepszając Twoje ogólne doświadczenie prania.",
     "CL_SL_CM_recommended_program_guide": "Poleć przewodnik po programach",
     "CL_SL_CM_let's_get_started": "Zaczynajmy!",
-    "CL_SL_CM_thank_you": "Dziękuję!",
+    "CL_SL_CM_thank_you": "Dziękuję",
     "CL_SL_CM_questionnaire_congratulations": "Gratulujemy wypełnienia ankiety, na podstawie ankiety zalecimy Państwu odpowiedni program prania, prosimy o zaznaczenie pola „Polecane”.",
     "CL_DV_OV_light_setting_desc": "Włącz lub wyłącz światła piekarnika. Możesz zmienić kolor i czas trwania w menu ustawień światła.",
     "CL_DV_OV_lock_setting_desc": "Za pomocą blokady wyłączasz ekran dotykowy.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Bardzo gorąco",
     "CL_CF_HP_card": "Karta",
     "CL_CF_HP_enter_card_name": "Wprowadź nazwę karty...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Proszę wybrać co najmniej jeden składnik.",
+    "CL_CF_FM_no_shopping_items": "Brak zakupów",
+    "CL_CF_FM_add_food_from_below": "Dodaj jedzenie od dołu",
+    "CL_CF_FM_x_has_been_removed": "** zostało usunięte.",
+    "CL_CF_CO_waiting": "czekanie"
 }

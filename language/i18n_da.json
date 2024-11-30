@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Velkomst! Besvar følgende spørgsmål for at hjælpe os med at anbefale bedre vaskeprogrammer, hvilket forbedrer din overordnede vaskeoplevelse.",
     "CL_SL_CM_recommended_program_guide": "Anbefal programguide",
     "CL_SL_CM_let's_get_started": "Lad os komme i gang!",
-    "CL_SL_CM_thank_you": "Tak!",
+    "CL_SL_CM_thank_you": "Tak",
     "CL_SL_CM_questionnaire_congratulations": "Tillykke med at have udfyldt spørgeskemaet, vi vil anbefale dig det passende vaskeprogram baseret på spørgeskemaet, tjek venligst i \"Anbefalet\".",
     "CL_DV_OV_light_setting_desc": "Tænd eller sluk dine ovnlys. Du kan ændre farve og varighed i lysindstillingsmenuen.",
     "CL_DV_OV_lock_setting_desc": "Med låsen deaktiverer du berøringsskærmen.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Ekstra varmt",
     "CL_CF_HP_card": "Kort",
     "CL_CF_HP_enter_card_name": "Indtast kortnavn...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Vælg venligst mindst én ingrediens.",
+    "CL_CF_FM_no_shopping_items": "Ingen indkøbsvarer",
+    "CL_CF_FM_add_food_from_below": "Tilføj mad nedefra",
+    "CL_CF_FM_x_has_been_removed": "** er blevet fjernet.",
+    "CL_CF_CO_waiting": "venter"
 }

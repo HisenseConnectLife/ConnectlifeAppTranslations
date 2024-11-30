@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Қош келдіңіз! Жақсырақ кір жуу бағдарламаларын ұсынуға, жалпы кір жуу тәжірибеңізді жақсартуға көмектесу үшін келесі сұрақтарға жауап беріңіз.",
     "CL_SL_CM_recommended_program_guide": "Бағдарлама нұсқаулығын ұсыныңыз",
     "CL_SL_CM_let's_get_started": "Бастайық!",
-    "CL_SL_CM_thank_you": "Рақмет сізге!",
+    "CL_SL_CM_thank_you": "Рақмет сізге",
     "CL_SL_CM_questionnaire_congratulations": "Сауалнаманы толтыруыңызбен құттықтаймыз, сауалнама негізінде сізге сәйкес кір жуу бағдарламасын ұсынамыз, «Ұсынылған» бөлімін тексеріңіз.",
     "CL_DV_OV_light_setting_desc": "Пештің шамдарын ҚОСУ немесе ӨШІРУ. Түс пен ұзақтығын жарық параметрлері мәзірінде өзгертуге болады.",
     "CL_DV_OV_lock_setting_desc": "Құлыппен сенсорлық экранды өшіресіз.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Өте ыстық",
     "CL_CF_HP_card": "Карта",
     "CL_CF_HP_enter_card_name": "Карта атауын енгізіңіз...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Кем дегенде бір ингредиент таңдаңыз.",
+    "CL_CF_FM_no_shopping_items": "Сатып алу заттары жоқ",
+    "CL_CF_FM_add_food_from_below": "Төмендегі тағамды қосыңыз",
+    "CL_CF_FM_x_has_been_removed": "** жойылды.",
+    "CL_CF_CO_waiting": "күту"
 }

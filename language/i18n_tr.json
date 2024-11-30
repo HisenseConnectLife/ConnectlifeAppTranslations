@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Hoş geldiniz! Daha iyi çamaşır yıkama programları önermemize ve genel çamaşır yıkama deneyiminizi geliştirmemize yardımcı olmak için aşağıdaki soruları yanıtlayın.",
     "CL_SL_CM_recommended_program_guide": "Program rehberini öner",
     "CL_SL_CM_let's_get_started": "Hadi başlayalım!",
-    "CL_SL_CM_thank_you": "Teşekkür ederim!",
+    "CL_SL_CM_thank_you": "Teşekkür ederim",
     "CL_SL_CM_questionnaire_congratulations": "Anketi tamamladığınız için tebrikler, ankete göre size uygun çamaşır yıkama programını önereceğiz, lütfen \"Önerilen\" kısmını işaretleyin.",
     "CL_DV_OV_light_setting_desc": "Fırın ışıklarınızı AÇIN veya KAPATIN. Işık ayarları menüsünden rengi ve süreyi değiştirebilirsiniz.",
     "CL_DV_OV_lock_setting_desc": "Kilit ile dokunmatik ekranı devre dışı bırakıyorsunuz.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Ekstra sıcak",
     "CL_CF_HP_card": "Kart",
     "CL_CF_HP_enter_card_name": "Kart adını girin...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Lütfen en az bir malzeme seçin.",
+    "CL_CF_FM_no_shopping_items": "Alışveriş ürünü yok",
+    "CL_CF_FM_add_food_from_below": "Aşağıdan yiyecek ekle",
+    "CL_CF_FM_x_has_been_removed": "** kaldırıldı.",
+    "CL_CF_CO_waiting": "beklemek"
 }

@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "आपका स्वागत है! बेहतर कपड़े धोने के कार्यक्रमों की सिफारिश करने में हमारी सहायता करने के लिए निम्नलिखित प्रश्नों के उत्तर दें, जिससे आपके समग्र कपड़े धोने के अनुभव में वृद्धि होगी।",
     "CL_SL_CM_recommended_program_guide": "अनुशंसित कार्यक्रम मार्गदर्शिका",
     "CL_SL_CM_let's_get_started": "आएँ शुरू करें!",
-    "CL_SL_CM_thank_you": "धन्यवाद!",
+    "CL_SL_CM_thank_you": "धन्यवाद",
     "CL_SL_CM_questionnaire_congratulations": "प्रश्नावली पूरी करने पर बधाई, हम आपको प्रश्नावली के आधार पर उपयुक्त कपड़े धोने का कार्यक्रम सुझाएंगे, कृपया \"अनुशंसित\" चेक करें।",
     "CL_DV_OV_light_setting_desc": "अपने ओवन की लाइट चालू या बंद करें। आप लाइट सेटिंग मेनू में रंग और अवधि बदल सकते हैं।",
     "CL_DV_OV_lock_setting_desc": "लॉक के साथ, आप टच स्क्रीन को अक्षम कर देते हैं।",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "अतिरिक्त गर्म",
     "CL_CF_HP_card": "कार्ड",
     "CL_CF_HP_enter_card_name": "कार्ड का नाम दर्ज करें...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "कृपया कम से कम एक घटक का चयन करें.",
+    "CL_CF_FM_no_shopping_items": "कोई खरीदारी आइटम नहीं",
+    "CL_CF_FM_add_food_from_below": "नीचे से खाना डालें",
+    "CL_CF_FM_x_has_been_removed": "** हटा दिया गया है।",
+    "CL_CF_CO_waiting": "इंतज़ार में"
 }

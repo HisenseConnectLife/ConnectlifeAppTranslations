@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "ساخن جدا",
     "CL_CF_HP_card": "بطاقة",
     "CL_CF_HP_enter_card_name": "أدخل اسم البطاقة...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "الرجاء تحديد مكون واحد على الأقل.",
+    "CL_CF_FM_no_shopping_items": "لا يوجد عناصر للتسوق",
+    "CL_CF_FM_add_food_from_below": "أضف الطعام من الأسفل",
+    "CL_CF_FM_x_has_been_removed": "** تمت الإزالة.",
+    "CL_CF_CO_waiting": "منتظر"
 }

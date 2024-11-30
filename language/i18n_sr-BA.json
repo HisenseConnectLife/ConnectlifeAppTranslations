@@ -4429,7 +4429,7 @@
     "CL_SL_CM_laundry_services_detail": "Добродошли! Одговорите на следећа питања да бисте нам помогли да препоручимо боље програме прања веша, чиме ћете побољшати ваше целокупно искуство прања веша.",
     "CL_SL_CM_recommended_program_guide": "Препоручите програмски водич",
     "CL_SL_CM_let's_get_started": "Хајде да почнемо!",
-    "CL_SL_CM_thank_you": "Хвала Вам!",
+    "CL_SL_CM_thank_you": "Хвала Вам",
     "CL_SL_CM_questionnaire_congratulations": "Честитамо на попуњавању упитника, препоручићемо вам одговарајући програм прања веша на основу упитника, молимо вас да проверите у одељку „Препоручено“.",
     "CL_DV_OV_light_setting_desc": "Укључите или искључите светла у пећници. Можете променити боју и трајање у менију подешавања светла.",
     "CL_DV_OV_lock_setting_desc": "Са закључавањем, онемогућавате екран осетљив на додир.",
@@ -4611,5 +4611,10 @@
     "CL_DV_WM_extra_hot": "Екстра вруће",
     "CL_CF_HP_card": "Цард",
     "CL_CF_HP_enter_card_name": "Унесите назив картице...",
-    "smart_energy_helps_1": ""
+    "smart_energy_helps_1": "",
+    "CL_CF_FM_select_at_list_one_ingredient": "Молимо изаберите најмање један састојак.",
+    "CL_CF_FM_no_shopping_items": "Нема артикала за куповину",
+    "CL_CF_FM_add_food_from_below": "Додајте храну одоздо",
+    "CL_CF_FM_x_has_been_removed": "** је уклоњено.",
+    "CL_CF_CO_waiting": "чекајући"
 }
