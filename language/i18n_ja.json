@@ -467,7 +467,7 @@
     "warm": "暖かい",
     "cold": "寒い",
     "firmware_confirm_foa_fail": "アプライアンスからの許可が必要です。",
-    "ok": "わかりました",
+    "ok": "はい",
     "unselected_delete_user": "削除されたユーザーを選択してください",
     "ac_input_email": "メールアドレスを入力してください",
     "ac_wrong_email": "メールアドレスが間違っています。",
