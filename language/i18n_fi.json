@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Laske koko talon sähkön- ja vedenkulutus päivittäin, kuukausittain ja vuosittain. Näet myös yksittäisten laitteiden kulutustilastot, kunkin laitteen energiankulutuksen osuuden valitulla ajanjaksolla, kokonais- ja yksittäisen energiankulutuksen.",
     "smart_support_helps_3": "3. Vianetsintä",
     "CL_SL_CM_about_usage_month_desc": "Esitetyt tiedot ovat arvioita, eivät tarkkoja mittoja.\n Arviomme perustuvat kontrolloituihin testeihin, joten todelliset tulokset voivat vaihdella.\n Todellinen energiankäyttö riippuu erityisestä ympäristöstäsi ja tavoistasi.",
-    "CL_CF_HP_no_card_key": "Ei korttia"
+    "CL_CF_HP_no_card_key": "Ei korttia",
+    "CL_CF_TV_new_to_connectlife": "UUTTA YHTEYDESSÄ",
+    "CL_CF_TV_scan_with_cl": "Skannaa ConnectLife-mobiilisovelluksella",
+    "CL_CF_AS_or": "tai",
+    "CL_CF_AS_report_an_issue": "ilmoita ongelmasta."
 }

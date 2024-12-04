@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Számítsa ki az egész ház áram- és vízfogyasztását napi, havi és éves alapon. Megtekintheti továbbá az egyes készülékek fogyasztási statisztikáit, az egyes készülékek energiafogyasztásának arányát a kiválasztott időszakban, az össz- és egyedi energiafogyasztást.",
     "smart_support_helps_3": "3. Hibaelhárítás",
     "CL_SL_CM_about_usage_month_desc": "A megjelenített adatok becslések, nem pontos mérések.\n Becsléseink ellenőrzött teszteken alapulnak, így az Ön tényleges eredményei eltérhetnek.\n A valós világ energiafelhasználása az Ön konkrét környezetétől és szokásaitól függ.",
-    "CL_CF_HP_no_card_key": "Nincs kártya"
+    "CL_CF_HP_no_card_key": "Nincs kártya",
+    "CL_CF_TV_new_to_connectlife": "ÚJ A CONNECTLIFE-BEN",
+    "CL_CF_TV_scan_with_cl": "Szkennelés a ConnectLife mobilalkalmazással",
+    "CL_CF_AS_or": "vagy",
+    "CL_CF_AS_report_an_issue": "jelentsen egy problémát."
 }

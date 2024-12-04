@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Vypočítajte spotrebu energie a vody v celom dome na dennej, mesačnej a ročnej báze. Môžete si tiež zobraziť štatistiky spotreby jednotlivých zariadení, podiel spotreby energie každého zariadenia za zvolené obdobie, celkovú a individuálnu spotrebu energie.",
     "smart_support_helps_3": "3. Riešenie problémov",
     "CL_SL_CM_about_usage_month_desc": "Zobrazené údaje sú odhady, nie presné merania.\n Naše odhady sú založené na kontrolovaných testoch, takže vaše skutočné výsledky sa môžu líšiť.\n Spotreba energie v reálnom svete závisí od vášho konkrétneho prostredia a zvykov.",
-    "CL_CF_HP_no_card_key": "Žiadna karta"
+    "CL_CF_HP_no_card_key": "Žiadna karta",
+    "CL_CF_TV_new_to_connectlife": "NOVINKA V OBLASTI CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skenujte pomocou mobilnej aplikácie ConnectLife",
+    "CL_CF_AS_or": "alebo",
+    "CL_CF_AS_report_an_issue": "nahlásiť problém."
 }

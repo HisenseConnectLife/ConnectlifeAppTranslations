@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Izračunajte celotno hišno moč in porabo vode na dnevni, mesečni in letni osnovi. Ogledate si lahko tudi statistiko porabe posameznih naprav, delež porabe energije posamezne naprave v izbranem obdobju, skupno in individualno porabo energije.",
     "smart_support_helps_3": "3. Odpravljanje težav",
     "CL_SL_CM_about_usage_month_desc": "Prikazani podatki so ocene, ne natančne meritve.\n Naše ocene temeljijo na kontroliranih testih, zato se lahko vaši dejanski rezultati razlikujejo.\n Dejanska poraba energije je odvisna od vašega specifičnega okolja in navad.",
-    "CL_CF_HP_no_card_key": "Brez kartice"
+    "CL_CF_HP_no_card_key": "Brez kartice",
+    "CL_CF_TV_new_to_connectlife": "NOVO V CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skenirajte z mobilno aplikacijo ConnectLife",
+    "CL_CF_AS_or": "oz",
+    "CL_CF_AS_report_an_issue": "prijavite težavo."
 }

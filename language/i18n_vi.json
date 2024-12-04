@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Tính toán mức tiêu thụ điện và nước của toàn bộ ngôi nhà theo ngày, tháng và năm. Bạn cũng có thể xem số liệu thống kê mức tiêu thụ của từng thiết bị, tỷ lệ tiêu thụ năng lượng của từng thiết bị trong khoảng thời gian đã chọn, mức tiêu thụ năng lượng chung và riêng lẻ.",
     "smart_support_helps_3": "3. Xử lý sự cố",
     "CL_SL_CM_about_usage_month_desc": "Dữ liệu hiển thị chỉ là ước tính, không phải là số đo chính xác.\n Ước tính của chúng tôi dựa trên các thử nghiệm được kiểm soát, do đó kết quả thực tế của bạn có thể khác.\n Mức sử dụng năng lượng thực tế phụ thuộc vào môi trường và thói quen cụ thể của bạn.",
-    "CL_CF_HP_no_card_key": "Không có thẻ"
+    "CL_CF_HP_no_card_key": "Không có thẻ",
+    "CL_CF_TV_new_to_connectlife": "MỚI VỚI CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Quét bằng ứng dụng di động ConnectLife",
+    "CL_CF_AS_or": "hoặc",
+    "CL_CF_AS_report_an_issue": "báo cáo sự cố."
 }
