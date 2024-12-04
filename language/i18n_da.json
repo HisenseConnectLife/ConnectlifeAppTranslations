@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Beregn hele husets strøm- og vandforbrug på daglig, månedlig og årlig basis. Du kan også se forbrugsstatistikken for de enkelte enheder, andelen af ​​energiforbruget for hver enhed inden for den valgte periode, det samlede og individuelle energiforbrug.",
     "smart_support_helps_3": "3. Fejlfinding",
     "CL_SL_CM_about_usage_month_desc": "De viste data er skøn, ikke nøjagtige mål.\n Vores estimater er baseret på kontrollerede tests, så dine faktiske resultater kan variere.\n Virkelig energiforbrug afhænger af dit specifikke miljø og dine vaner.",
-    "CL_CF_HP_no_card_key": "Intet kort"
+    "CL_CF_HP_no_card_key": "Intet kort",
+    "CL_CF_TV_new_to_connectlife": "NYT I CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Scan med ConnectLife-mobilappen",
+    "CL_CF_AS_or": "eller",
+    "CL_CF_AS_report_an_issue": "rapportere et problem.",
+    "CL_DV_OV_adjust_time": "Juster tiden",
+    "CL_CF_CS_window_air_blue_cs_1": "Tryk og hold ####-knappen nede i ca. 3-6 sekunder, indtil du hører et bip.",
+    "CL_CF_CS_window_air_blue_cs_2": "Kontroller, at enhedens display viser \"77\", hvilket indikerer, at enheden er i parringstilstand. Hvis ikke, gentag venligst trin 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Tryk og hold knappen \"CONNECT\" nede i ca. 6 sek. Enheden skal bippe, og Wi-Fi-lyset bør begynde at blinke.",
+    "CL_CF_HP_discover": "Opdage",
+    "CL_DV_HOB_cooking_assist": "Madlavningsassistent",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VÆLG ENHEDSMODEL",
+    "CL_CF_FM_all_purchases_added_to_rf": "Alle dine køb er blevet tilføjet til køleskabet"
 }

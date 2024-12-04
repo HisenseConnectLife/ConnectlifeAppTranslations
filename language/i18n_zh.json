@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "计算全屋日、月、年用电量及用水量，还可查看单个设备的用电量统计、所选时间段内各设备用电量占比、整体及单个设备用电量。",
     "smart_support_helps_3": "3. 疑难解答",
     "CL_SL_CM_about_usage_month_desc": "所显示的数据是估计值，而不是精确测量值。\n我们的估计是基于控制测试的，因此您的实际结果可能会有所不同。\n现实世界的能源使用取决于您的具体环境和习惯。",
-    "CL_CF_HP_no_card_key": "无卡"
+    "CL_CF_HP_no_card_key": "无卡",
+    "CL_CF_TV_new_to_connectlife": "CONNECTLIFE 新品",
+    "CL_CF_TV_scan_with_cl": "使用 ConnectLife 手机应用程序扫描",
+    "CL_CF_AS_or": "或者",
+    "CL_CF_AS_report_an_issue": "报告问题。",
+    "CL_DV_OV_adjust_time": "调整时间",
+    "CL_CF_CS_window_air_blue_cs_1": "按住 #### 按钮约 3-6 秒，直到听到哔声。",
+    "CL_CF_CS_window_air_blue_cs_2": "检查设备显示屏是否显示“77”，表示设备处于配对模式。如果没有，请重复步骤 2。",
+    "CL_CF_CS_window_ac_normal_step_2": "长按##图标6秒。设备会发出哔哔声，并且Wi-Fi指示灯开始闪烁。",
+    "CL_CF_HP_discover": "发现",
+    "CL_DV_HOB_cooking_assist": "烹饪助手",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "选择设备型号",
+    "CL_CF_FM_all_purchases_added_to_rf": "您购买的所有商品已添加到冰箱"
 }

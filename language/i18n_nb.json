@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Beregn hele husets strøm- og vannforbruk på daglig, månedlig og årlig basis. Du kan også se forbruksstatistikken til individuelle enheter, andelen av energiforbruket til hver enhet innenfor den valgte perioden, det totale og individuelle energiforbruket.",
     "smart_support_helps_3": "3. Feilsøking",
     "CL_SL_CM_about_usage_month_desc": "Dataene som vises er estimater, ikke eksakte målinger.\n Våre estimater er basert på kontrollerte tester, så de faktiske resultatene dine kan variere.\n Den virkelige energibruken avhenger av ditt spesifikke miljø og dine vaner.",
-    "CL_CF_HP_no_card_key": "Ingen kort"
+    "CL_CF_HP_no_card_key": "Ingen kort",
+    "CL_CF_TV_new_to_connectlife": "NYHET I CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skann med ConnectLife-mobilappen",
+    "CL_CF_AS_or": "eller",
+    "CL_CF_AS_report_an_issue": "rapportere et problem.",
+    "CL_DV_OV_adjust_time": "Juster tiden",
+    "CL_CF_CS_window_air_blue_cs_1": "Trykk og hold ####-knappen i ca. 3-6 sekunder til du hører et pip.",
+    "CL_CF_CS_window_air_blue_cs_2": "Kontroller at enhetens display viser \"77\", som indikerer at enheten er i sammenkoblingsmodus. Hvis ikke, gjenta trinn 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Trykk og hold \"CONNECT\"-knappen i ca. 6 sek. Enheten skal pipe og Wi-Fi-lyset skal begynne å blinke.",
+    "CL_CF_HP_discover": "Oppdage",
+    "CL_DV_HOB_cooking_assist": "Cooking Assist",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VELG ENHETSMODELLEN",
+    "CL_CF_FM_all_purchases_added_to_rf": "Alle kjøpene dine er lagt til kjøleskapet"
 }

@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Tüm evin günlük, aylık ve yıllık elektrik ve su tüketimini hesaplayın. Ayrıca, her bir cihazın tüketim istatistiklerini, seçilen dönemde her bir cihazın enerji tüketim oranını, genel ve bireysel enerji tüketimini de görüntüleyebilirsiniz.",
     "smart_support_helps_3": "3. Sorun giderme",
     "CL_SL_CM_about_usage_month_desc": "Gösterilen veriler tahminidir, kesin ölçümler değildir.\n Tahminlerimiz kontrollü testlere dayanmaktadır, dolayısıyla gerçek sonuçlarınız farklılık gösterebilir.\n Gerçek dünyadaki enerji kullanımı, sizin özel ortamınıza ve alışkanlıklarınıza bağlıdır.",
-    "CL_CF_HP_no_card_key": "Kart Yok"
+    "CL_CF_HP_no_card_key": "Kart Yok",
+    "CL_CF_TV_new_to_connectlife": "CONNECTLIFE'A YENİ",
+    "CL_CF_TV_scan_with_cl": "ConnectLife mobil uygulamasıyla tarayın",
+    "CL_CF_AS_or": "veya",
+    "CL_CF_AS_report_an_issue": "Bir sorunu bildirin.",
+    "CL_DV_OV_adjust_time": "Zamanı ayarla",
+    "CL_CF_CS_window_air_blue_cs_1": "#### düğmesini yaklaşık 3-6 saniye boyunca, bir bip sesi duyana kadar basılı tutun.",
+    "CL_CF_CS_window_air_blue_cs_2": "Cihaz ekranının \"77\"yi gösterdiğinden emin olun, bu ünitenin eşleştirme modunda olduğunu gösterir. Aksi takdirde, lütfen 2. adımı tekrarlayın.",
+    "CL_CF_CS_window_ac_normal_step_2": "\"CONNECT\" düğmesini yaklaşık 6 saniye basılı tutun. Ünite bip sesi çıkarmalı ve Wi-Fi ışığı yanıp sönmeye başlamalıdır.",
+    "CL_CF_HP_discover": "Keşfetmek",
+    "CL_DV_HOB_cooking_assist": "Pişirme Yardımı",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "CİHAZ MODELİNİ SEÇİN",
+    "CL_CF_FM_all_purchases_added_to_rf": "Tüm satın alımlarınız buzdolabına eklendi"
 }

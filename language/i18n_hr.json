@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Izračunajte potrošnju struje i vode u cijeloj kući na dnevnoj, mjesečnoj i godišnjoj bazi. Također možete vidjeti statistiku potrošnje pojedinih uređaja, udio potrošnje energije svakog uređaja unutar odabranog razdoblja, ukupnu i pojedinačnu potrošnju energije.",
     "smart_support_helps_3": "3. Rješavanje problema",
     "CL_SL_CM_about_usage_month_desc": "Prikazani podaci su procjene, a ne točna mjerenja.\n Naše se procjene temelje na kontroliranim testovima, tako da vaši stvarni rezultati mogu varirati.\n Korištenje energije u stvarnom svijetu ovisi o vašem specifičnom okruženju i navikama.",
-    "CL_CF_HP_no_card_key": "Nema kartice"
+    "CL_CF_HP_no_card_key": "Nema kartice",
+    "CL_CF_TV_new_to_connectlife": "NOVO U CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skenirajte mobilnom aplikacijom ConnectLife",
+    "CL_CF_AS_or": "ili",
+    "CL_CF_AS_report_an_issue": "prijaviti problem.",
+    "CL_DV_OV_adjust_time": "Podesite vrijeme",
+    "CL_CF_CS_window_air_blue_cs_1": "Pritisnite i držite tipku #### otprilike. 3-6 sekundi dok ne čujete zvučni signal.",
+    "CL_CF_CS_window_air_blue_cs_2": "Provjerite pokazuje li zaslon uređaja \"77\", što znači da je jedinica u načinu uparivanja. Ako nije, ponovite korak 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Pritisnite i držite tipku \"POVEZIVANJE\" cca. 6 sekundi Jedinica bi se trebala oglasiti zvučnim signalom i svjetlo Wi-Fi bi trebalo početi treperiti.",
+    "CL_CF_HP_discover": "Otkriti",
+    "CL_DV_HOB_cooking_assist": "Pomoć pri kuhanju",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "ODABERITE MODEL UREĐAJA",
+    "CL_CF_FM_all_purchases_added_to_rf": "Sve vaše kupovine dodane su u hladnjak"
 }

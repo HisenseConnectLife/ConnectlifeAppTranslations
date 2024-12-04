@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Izračunajte celotno hišno moč in porabo vode na dnevni, mesečni in letni osnovi. Ogledate si lahko tudi statistiko porabe posameznih naprav, delež porabe energije posamezne naprave v izbranem obdobju, skupno in individualno porabo energije.",
     "smart_support_helps_3": "3. Odpravljanje težav",
     "CL_SL_CM_about_usage_month_desc": "Prikazani podatki so ocene, ne natančne meritve.\n Naše ocene temeljijo na kontroliranih testih, zato se lahko vaši dejanski rezultati razlikujejo.\n Dejanska poraba energije je odvisna od vašega specifičnega okolja in navad.",
-    "CL_CF_HP_no_card_key": "Brez kartice"
+    "CL_CF_HP_no_card_key": "Brez kartice",
+    "CL_CF_TV_new_to_connectlife": "NOVO V CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skenirajte z mobilno aplikacijo ConnectLife",
+    "CL_CF_AS_or": "oz",
+    "CL_CF_AS_report_an_issue": "prijavite težavo.",
+    "CL_DV_OV_adjust_time": "Prilagodite čas",
+    "CL_CF_CS_window_air_blue_cs_1": "Pritisnite in držite gumb #### pribl. 3-6 sekund, dokler ne zaslišite piska.",
+    "CL_CF_CS_window_air_blue_cs_2": "Preverite, ali zaslon naprave prikazuje \"77\", kar pomeni, da je enota v načinu seznanjanja. Če ne, ponovite 2. korak.",
+    "CL_CF_CS_window_ac_normal_step_2": "Pritisnite ikono ## in jo držite približno 6 sekund. Enota mora zapiskati in lučka Wi-Fi mora začeti utripati.",
+    "CL_CF_HP_discover": "Odkrij",
+    "CL_DV_HOB_cooking_assist": "Pomočnik pri kuhanju",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "IZBERITE MODEL NAPRAVE",
+    "CL_CF_FM_all_purchases_added_to_rf": "Vsi vaši nakupi so bili dodani v hladilnik"
 }

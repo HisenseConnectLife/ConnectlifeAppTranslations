@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Calculați consumul de energie și apă pentru întreaga casă zilnic, lunar și anual. De asemenea, puteți vizualiza statisticile de consum ale dispozitivelor individuale, proporția de consum de energie al fiecărui dispozitiv în perioada selectată, consumul total și individual de energie.",
     "smart_support_helps_3": "3. Depanare",
     "CL_SL_CM_about_usage_month_desc": "Datele afișate sunt estimări, nu măsurători exacte.\n Estimările noastre se bazează pe teste controlate, astfel încât rezultatele reale pot varia.\n Utilizarea energiei în lumea reală depinde de mediul și obiceiurile dumneavoastră specifice.",
-    "CL_CF_HP_no_card_key": "Fără card"
+    "CL_CF_HP_no_card_key": "Fără card",
+    "CL_CF_TV_new_to_connectlife": "NOI LA CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Scanați cu aplicația mobilă ConnectLife",
+    "CL_CF_AS_or": "sau",
+    "CL_CF_AS_report_an_issue": "raportați o problemă.",
+    "CL_DV_OV_adjust_time": "Reglați timpul",
+    "CL_CF_CS_window_air_blue_cs_1": "Apăsați și mențineți apăsat butonul #### timp de aprox. 3-6 secunde până auziți un bip.",
+    "CL_CF_CS_window_air_blue_cs_2": "Verificați dacă afișajul dispozitivului arată „77”, indicând că unitatea este în modul de asociere. Dacă nu, repetați pasul 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Apăsați lung pictograma ## timp de aprox. 6 secunde. Unitatea ar trebui să sune și lumina Wi-Fi ar trebui să înceapă să clipească.",
+    "CL_CF_HP_discover": "Descoperi",
+    "CL_DV_HOB_cooking_assist": "Asistență la gătit",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "ALEGE MODELUL DE DISPOZITIV",
+    "CL_CF_FM_all_purchases_added_to_rf": "Toate achizițiile tale au fost adăugate la frigider"
 }

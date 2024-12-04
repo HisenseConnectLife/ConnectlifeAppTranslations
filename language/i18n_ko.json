@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "매일, 매월, 매년 전체 집의 전력 및 물 소비량을 계산합니다. 또한 개별 기기의 소비 통계, 선택한 기간 내 각 기기의 에너지 소비 비율, 전체 및 개별 에너지 소비량을 볼 수 있습니다.",
     "smart_support_helps_3": "3. 문제 해결",
     "CL_SL_CM_about_usage_month_desc": "표시된 데이터는 추정치일 뿐 정확한 측정치가 아닙니다.\n 당사의 추정치는 통제된 실험을 기반으로 하므로 실제 결과는 다를 수 있습니다.\n 실제 에너지 사용량은 개인의 환경과 습관에 따라 달라집니다.",
-    "CL_CF_HP_no_card_key": "카드 없음"
+    "CL_CF_HP_no_card_key": "카드 없음",
+    "CL_CF_TV_new_to_connectlife": "CONNECTLIFE에 새로 가입했습니다",
+    "CL_CF_TV_scan_with_cl": "ConnectLife 모바일 앱으로 스캔하세요",
+    "CL_CF_AS_or": "또는",
+    "CL_CF_AS_report_an_issue": "문제를 보고하세요.",
+    "CL_DV_OV_adjust_time": "시간을 조정하다",
+    "CL_CF_CS_window_air_blue_cs_1": "삐 소리가 들릴 때까지 약 3~6초 동안 #### 버튼을 길게 누르세요.",
+    "CL_CF_CS_window_air_blue_cs_2": "장치 디스플레이에 \"77\"이 표시되는지 확인하세요. 이는 장치가 페어링 모드에 있음을 나타냅니다. 그렇지 않은 경우 2단계를 반복하세요.",
+    "CL_CF_CS_window_ac_normal_step_2": "\"CONNECT\" 버튼을 약 6초간 길게 누릅니다. 장치에서 삐 소리가 나고 Wi-Fi 표시등이 깜박이기 시작합니다.",
+    "CL_CF_HP_discover": "발견하다",
+    "CL_DV_HOB_cooking_assist": "요리 지원",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "기기 모델을 선택하세요",
+    "CL_CF_FM_all_purchases_added_to_rf": "모든 구매 상품이 냉장고에 추가되었습니다."
 }

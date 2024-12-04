@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Calculate the whole house power and water consumption on a daily, monthly, and yearly basis. You can also view the consumption statistics of individual devices, the proportion of energy consumption of each device within the selected period, the overall and individual energy consumption.",
     "smart_support_helps_3": "3. Troubleshooting",
     "CL_SL_CM_about_usage_month_desc": "The data shown are estimates, not exact measurements.\nOur estimates are based on controlled tests, so your actual results may vary.\nReal-world energy use depends on your specific environment and habits.",
-    "CL_CF_HP_no_card_key": "No Card"
+    "CL_CF_HP_no_card_key": "No Card",
+    "CL_CF_TV_new_to_connectlife": "NEW TO CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Scan with the ConnectLife mobile app",
+    "CL_CF_AS_or": "or",
+    "CL_CF_AS_report_an_issue": "report an issue.",
+    "CL_DV_OV_adjust_time": "Adjust time",
+    "CL_CF_CS_window_air_blue_cs_1": "Press and hold the #### button for approx. 3-6 seconds until you hear a beep.",
+    "CL_CF_CS_window_air_blue_cs_2": "Check that the device display shows \"77\", indicating the unit is in pairing mode. If not, please repeat step 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Press & hold the \"CONNECT\" button for approx. 6 secs. The unit should beep & the Wi-Fi light should start flashing.",
+    "CL_CF_HP_discover": "Discover",
+    "CL_DV_HOB_cooking_assist": "Cooking Assist",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "CHOOSE THE DEVICE MODEL",
+    "CL_CF_FM_all_purchases_added_to_rf": "All your purchases have been added to the refrigerator"
 }
