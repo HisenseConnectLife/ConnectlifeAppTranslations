@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Hitung konsumsi daya dan air seluruh rumah setiap hari, bulan, dan tahun. Anda juga dapat melihat statistik konsumsi masing-masing perangkat, proporsi konsumsi energi setiap perangkat dalam periode yang dipilih, konsumsi energi keseluruhan dan individual.",
     "smart_support_helps_3": "3. Penyelesaian masalah",
     "CL_SL_CM_about_usage_month_desc": "Data yang ditampilkan merupakan estimasi, bukan pengukuran yang tepat.\n Perkiraan kami didasarkan pada pengujian yang terkendali, sehingga hasil aktual Anda mungkin berbeda.\n Penggunaan energi di dunia nyata bergantung pada lingkungan dan kebiasaan spesifik Anda.",
-    "CL_CF_HP_no_card_key": "Tidak Ada Kartu"
+    "CL_CF_HP_no_card_key": "Tidak Ada Kartu",
+    "CL_CF_TV_new_to_connectlife": "BARU DI CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Pindai dengan aplikasi seluler ConnectLife",
+    "CL_CF_AS_or": "atau",
+    "CL_CF_AS_report_an_issue": "laporkan masalah."
 }

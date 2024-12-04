@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Izračunajte potrošnju struje i vode u cijeloj kući na dnevnoj, mjesečnoj i godišnjoj bazi. Također možete vidjeti statistiku potrošnje pojedinih uređaja, udio potrošnje energije svakog uređaja unutar odabranog razdoblja, ukupnu i pojedinačnu potrošnju energije.",
     "smart_support_helps_3": "3. Rješavanje problema",
     "CL_SL_CM_about_usage_month_desc": "Prikazani podaci su procjene, a ne točna mjerenja.\n Naše se procjene temelje na kontroliranim testovima, tako da vaši stvarni rezultati mogu varirati.\n Korištenje energije u stvarnom svijetu ovisi o vašem specifičnom okruženju i navikama.",
-    "CL_CF_HP_no_card_key": "Nema kartice"
+    "CL_CF_HP_no_card_key": "Nema kartice",
+    "CL_CF_TV_new_to_connectlife": "NOVO U CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skenirajte mobilnom aplikacijom ConnectLife",
+    "CL_CF_AS_or": "ili",
+    "CL_CF_AS_report_an_issue": "prijaviti problem."
 }

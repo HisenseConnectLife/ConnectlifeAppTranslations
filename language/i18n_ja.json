@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "家全体の電力と水の消費量を日、月、年単位で計算します。また、個々のデバイスの消費統計、選択した期間内の各デバイスのエネルギー消費の割合、全体および個々のエネルギー消費量を表示することもできます。",
     "smart_support_helps_3": "3. トラブルシューティング",
     "CL_SL_CM_about_usage_month_desc": "表示されるデータは推定値であり、正確な測定値ではありません。\n当社の推定値は管理されたテストに基づいているため、実際の結果は異なる場合があります。\n実際のエネルギー使用量は、特定の環境と習慣によって異なります。",
-    "CL_CF_HP_no_card_key": "カードなし"
+    "CL_CF_HP_no_card_key": "カードなし",
+    "CL_CF_TV_new_to_connectlife": "CONNECTLIFEの新規ユーザー",
+    "CL_CF_TV_scan_with_cl": "ConnectLifeモバイルアプリでスキャン",
+    "CL_CF_AS_or": "または",
+    "CL_CF_AS_report_an_issue": "問題を報告します。"
 }

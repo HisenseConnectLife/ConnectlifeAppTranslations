@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Calcule o consumo de energia e água de toda a casa em uma base diária, mensal e anual. Você também pode visualizar as estatísticas de consumo de dispositivos individuais, a proporção do consumo de energia de cada dispositivo dentro do período selecionado, o consumo de energia geral e individual.",
     "smart_support_helps_3": "3. Resolução de problemas",
     "CL_SL_CM_about_usage_month_desc": "Os dados mostrados são estimativas, não medidas exatas.\n Nossas estimativas são baseadas em testes controlados, portanto seus resultados reais podem variar.\n O uso real de energia depende do seu ambiente e hábitos específicos.",
-    "CL_CF_HP_no_card_key": "Sem cartão"
+    "CL_CF_HP_no_card_key": "Sem cartão",
+    "CL_CF_TV_new_to_connectlife": "NOVO NO CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Digitalize com o aplicativo móvel ConnectLife",
+    "CL_CF_AS_or": "ou",
+    "CL_CF_AS_report_an_issue": "relatar um problema."
 }

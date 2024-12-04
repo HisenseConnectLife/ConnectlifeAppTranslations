@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Berechnen Sie den Strom- und Wasserverbrauch des gesamten Hauses auf täglicher, monatlicher und jährlicher Basis. Sie können auch die Verbrauchsstatistik einzelner Geräte, den Anteil des Energieverbrauchs jedes Geräts innerhalb des ausgewählten Zeitraums sowie den Gesamt- und Einzelenergieverbrauch anzeigen.",
     "smart_support_helps_3": "3. Fehlerbehebung",
     "CL_SL_CM_about_usage_month_desc": "Bei den angezeigten Daten handelt es sich um Schätzwerte und nicht um exakte Messungen.\n Unsere Schätzungen basieren auf kontrollierten Tests, Ihre tatsächlichen Ergebnisse können daher abweichen.\n Der tatsächliche Energieverbrauch hängt von Ihrer spezifischen Umgebung und Ihren Gewohnheiten ab.",
-    "CL_CF_HP_no_card_key": "Keine Karte"
+    "CL_CF_HP_no_card_key": "Keine Karte",
+    "CL_CF_TV_new_to_connectlife": "NEU BEI CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Scannen Sie mit der mobilen ConnectLife-App",
+    "CL_CF_AS_or": "oder",
+    "CL_CF_AS_report_an_issue": "ein Problem melden."
 }

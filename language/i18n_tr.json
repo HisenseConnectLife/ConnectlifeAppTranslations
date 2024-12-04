@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Tüm evin günlük, aylık ve yıllık elektrik ve su tüketimini hesaplayın. Ayrıca, her bir cihazın tüketim istatistiklerini, seçilen dönemde her bir cihazın enerji tüketim oranını, genel ve bireysel enerji tüketimini de görüntüleyebilirsiniz.",
     "smart_support_helps_3": "3. Sorun giderme",
     "CL_SL_CM_about_usage_month_desc": "Gösterilen veriler tahminidir, kesin ölçümler değildir.\n Tahminlerimiz kontrollü testlere dayanmaktadır, dolayısıyla gerçek sonuçlarınız farklılık gösterebilir.\n Gerçek dünyadaki enerji kullanımı, sizin özel ortamınıza ve alışkanlıklarınıza bağlıdır.",
-    "CL_CF_HP_no_card_key": "Kart Yok"
+    "CL_CF_HP_no_card_key": "Kart Yok",
+    "CL_CF_TV_new_to_connectlife": "CONNECTLIFE'A YENİ",
+    "CL_CF_TV_scan_with_cl": "ConnectLife mobil uygulamasıyla tarayın",
+    "CL_CF_AS_or": "veya",
+    "CL_CF_AS_report_an_issue": "Bir sorunu bildirin."
 }

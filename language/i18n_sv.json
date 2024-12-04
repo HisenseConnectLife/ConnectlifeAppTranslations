@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Beräkna hela husets energi- och vattenförbrukning på en daglig, månads- och årsbasis. Du kan också se förbrukningsstatistik för enskilda enheter, andelen energiförbrukning för varje enhet inom den valda perioden, den totala och individuella energiförbrukningen.",
     "smart_support_helps_3": "3. Felsökning",
     "CL_SL_CM_about_usage_month_desc": "Data som visas är uppskattningar, inte exakta mätningar.\n Våra uppskattningar är baserade på kontrollerade tester, så dina faktiska resultat kan variera.\n Den verkliga energianvändningen beror på din specifika miljö och dina vanor.",
-    "CL_CF_HP_no_card_key": "Inget kort"
+    "CL_CF_HP_no_card_key": "Inget kort",
+    "CL_CF_TV_new_to_connectlife": "NYTT I CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skanna med ConnectLife-mobilappen",
+    "CL_CF_AS_or": "eller",
+    "CL_CF_AS_report_an_issue": "rapportera ett problem."
 }

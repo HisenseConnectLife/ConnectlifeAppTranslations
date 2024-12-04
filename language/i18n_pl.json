@@ -4620,5 +4620,9 @@
     "smart_energy_helps_2_content": "Oblicz zużycie energii elektrycznej i wody w całym domu na podstawie dziennej, miesięcznej i rocznej. Możesz również przeglądać statystyki zużycia poszczególnych urządzeń, proporcje zużycia energii każdego urządzenia w wybranym okresie, ogólne i indywidualne zużycie energii.",
     "smart_support_helps_3": "3. Rozwiązywanie problemów",
     "CL_SL_CM_about_usage_month_desc": "Przedstawione dane mają charakter szacunkowy, a nie dokładnych pomiarów.\n Nasze szacunki opierają się na kontrolowanych testach, więc rzeczywiste wyniki mogą być inne.\n Rzeczywiste zużycie energii zależy od konkretnego otoczenia i nawyków.",
-    "CL_CF_HP_no_card_key": "Brak karty"
+    "CL_CF_HP_no_card_key": "Brak karty",
+    "CL_CF_TV_new_to_connectlife": "NOWOŚĆ W CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skanuj za pomocą aplikacji mobilnej ConnectLife",
+    "CL_CF_AS_or": "Lub",
+    "CL_CF_AS_report_an_issue": "zgłoś problem."
 }
