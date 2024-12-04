@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Oblicz zużycie energii elektrycznej i wody w całym domu na podstawie dziennej, miesięcznej i rocznej. Możesz również przeglądać statystyki zużycia poszczególnych urządzeń, proporcje zużycia energii każdego urządzenia w wybranym okresie, ogólne i indywidualne zużycie energii.",
     "smart_support_helps_3": "3. Rozwiązywanie problemów",
     "CL_SL_CM_about_usage_month_desc": "Przedstawione dane mają charakter szacunkowy, a nie dokładnych pomiarów.\n Nasze szacunki opierają się na kontrolowanych testach, więc rzeczywiste wyniki mogą być inne.\n Rzeczywiste zużycie energii zależy od konkretnego otoczenia i nawyków.",
-    "CL_CF_HP_no_card_key": "Brak karty"
+    "CL_CF_HP_no_card_key": "Brak karty",
+    "CL_CF_TV_new_to_connectlife": "NOWOŚĆ W CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skanuj za pomocą aplikacji mobilnej ConnectLife",
+    "CL_CF_AS_or": "Lub",
+    "CL_CF_AS_report_an_issue": "zgłoś problem.",
+    "CL_DV_OV_adjust_time": "Dostosuj czas",
+    "CL_CF_CS_window_air_blue_cs_1": "Naciśnij i przytrzymaj przycisk #### przez około 3-6 sekund, aż usłyszysz sygnał dźwiękowy.",
+    "CL_CF_CS_window_air_blue_cs_2": "Sprawdź, czy wyświetlacz urządzenia pokazuje „77”, co oznacza, że jednostka jest w trybie parowania. Jeśli nie, powtórz krok 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Naciśnij i przytrzymaj ikonę ## przez ok. 6 sekund. Urządzenie powinno wydać sygnał dźwiękowy, a kontrolka Wi-Fi powinna zacząć migać.",
+    "CL_CF_HP_discover": "Odkryć",
+    "CL_DV_HOB_cooking_assist": "Pomoc w gotowaniu",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "WYBIERZ MODEL URZĄDZENIA",
+    "CL_CF_FM_all_purchases_added_to_rf": "Wszystkie Twoje zakupy zostały dodane do lodówki"
 }

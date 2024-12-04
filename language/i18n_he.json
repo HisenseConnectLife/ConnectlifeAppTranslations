@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "חשב את כל צריכת החשמל והמים של הבית על בסיס יומי, חודשי ושנתי. ניתן גם להציג את סטטיסטיקת הצריכה של מכשירים בודדים, את שיעור צריכת האנרגיה של כל מכשיר בתקופה שנבחרה, את צריכת האנרגיה הכוללת והפרטית.",
     "smart_support_helps_3": "3. פתרון תקלות",
     "CL_SL_CM_about_usage_month_desc": "הנתונים המוצגים הם הערכות, לא מדידות מדויקות.\n ההערכות שלנו מבוססות על בדיקות מבוקרות, כך שהתוצאות בפועל עשויות להשתנות.\n השימוש באנרגיה בעולם האמיתי תלוי בסביבה ובהרגלים הספציפיים שלך.",
-    "CL_CF_HP_no_card_key": "אין כרטיס"
+    "CL_CF_HP_no_card_key": "אין כרטיס",
+    "CL_CF_TV_new_to_connectlife": "חדש ל- CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "סרוק עם אפליקציית ConnectLife לנייד",
+    "CL_CF_AS_or": "אוֹ",
+    "CL_CF_AS_report_an_issue": "לדווח על בעיה.",
+    "CL_DV_OV_adjust_time": "התאם את הזמן",
+    "CL_CF_CS_window_air_blue_cs_1": "לחץ והחזק את הלחצן #### למשך כ. 3-6 שניות עד שתשמע צפצוף.",
+    "CL_CF_CS_window_air_blue_cs_2": "בדוק שתצוגת המכשיר מציגה \"77\", המציין שהיחידה נמצאת במצב צימוד. אם לא, אנא חזור על שלב 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "לחץ והחזק את הלחצן \"CONNECT\" למשך כ. 6 שניות. היחידה אמורה לצפצף ונורית ה-Wi-Fi אמורה להתחיל להבהב.",
+    "CL_CF_HP_discover": "לְגַלוֹת",
+    "CL_DV_HOB_cooking_assist": "סיוע לבישול",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "בחר את דגם המכשיר",
+    "CL_CF_FM_all_purchases_added_to_rf": "כל הרכישות שלך נוספו למקרר"
 }

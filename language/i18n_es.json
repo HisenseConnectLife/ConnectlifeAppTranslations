@@ -4165,7 +4165,7 @@
     "CL_DV_WM_pump_clean_note_1": "Notas: Si desea cambiar el contenido del componente de dispensación, recuerde ",
     "CL_DV_WM_pump_clean_note_2": "Primero limpie el componente.",
     "CL_DV_WM_Pump_clean_key": "Bomba limpia",
-    "CL_DV_WM_pump_clean_how_to_use": "¿Cómo se utiliza?",
+    "CL_DV_WM_pump_clean_how_to_use": "¿Cómo usarlo?",
     "CL_DV_WM_pump_clean_how_to_use_1": "1. Vacíe y llene el compartimento con agua antes de activar la función de limpieza de la bomba.",
     "CL_DV_WM_pump_clean_how_to_use_2": "2.Active la función de limpieza de la bomba desde el lado de la máquina.",
     "CL_DV_WM_pump_clean_when_to_use": "¿Cuando usarlo?",
@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Calcula el consumo de energía y agua de toda la casa de forma diaria, mensual y anual. También puedes ver las estadísticas de consumo de dispositivos individuales, la proporción de consumo de energía de cada dispositivo dentro del período seleccionado, el consumo de energía total e individual.",
     "smart_support_helps_3": "3. Solución de problemas",
     "CL_SL_CM_about_usage_month_desc": "Los datos mostrados son estimaciones, no medidas exactas.\n Nuestras estimaciones se basan en pruebas controladas, por lo que los resultados reales pueden variar.\n El uso de energía en el mundo real depende de su entorno y sus hábitos específicos.",
-    "CL_CF_HP_no_card_key": "Sin tarjeta"
+    "CL_CF_HP_no_card_key": "Sin tarjeta",
+    "CL_CF_TV_new_to_connectlife": "NUEVO EN CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Escanee con la aplicación móvil ConnectLife",
+    "CL_CF_AS_or": "o",
+    "CL_CF_AS_report_an_issue": "reportar un problema",
+    "CL_DV_OV_adjust_time": "Ajustar el tiempo",
+    "CL_CF_CS_window_air_blue_cs_1": "Mantenga presionado el botón #### durante aproximadamente 3 a 6 segundos hasta que escuche un pitido.",
+    "CL_CF_CS_window_air_blue_cs_2": "Compruebe que la pantalla del dispositivo muestre \"77\", lo que indica que la unidad está en modo de emparejamiento. De lo contrario, repita el paso 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Mantenga pulsado el icono ## durante unos 6 segundos. La unidad emitirá un pitido y la luz Wi-Fi comenzará a parpadear.",
+    "CL_CF_HP_discover": "Descubrir",
+    "CL_DV_HOB_cooking_assist": "Asistente de cocina",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "SELECCIONE EL MODELO DEL DISPOSITIVO",
+    "CL_CF_FM_all_purchases_added_to_rf": "Todas tus compras se han añadido al frigorífico."
 }

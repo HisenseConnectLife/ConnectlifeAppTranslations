@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Berechnen Sie den Strom- und Wasserverbrauch des gesamten Hauses auf täglicher, monatlicher und jährlicher Basis. Sie können auch die Verbrauchsstatistik einzelner Geräte, den Anteil des Energieverbrauchs jedes Geräts innerhalb des ausgewählten Zeitraums sowie den Gesamt- und Einzelenergieverbrauch anzeigen.",
     "smart_support_helps_3": "3. Fehlerbehebung",
     "CL_SL_CM_about_usage_month_desc": "Bei den angezeigten Daten handelt es sich um Schätzwerte und nicht um exakte Messungen.\n Unsere Schätzungen basieren auf kontrollierten Tests, Ihre tatsächlichen Ergebnisse können daher abweichen.\n Der tatsächliche Energieverbrauch hängt von Ihrer spezifischen Umgebung und Ihren Gewohnheiten ab.",
-    "CL_CF_HP_no_card_key": "Keine Karte"
+    "CL_CF_HP_no_card_key": "Keine Karte",
+    "CL_CF_TV_new_to_connectlife": "NEU BEI CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Scannen Sie mit der mobilen ConnectLife-App",
+    "CL_CF_AS_or": "oder",
+    "CL_CF_AS_report_an_issue": "ein Problem melden.",
+    "CL_DV_OV_adjust_time": "Zeit anpassen",
+    "CL_CF_CS_window_air_blue_cs_1": "Halten Sie die Taste #### ca. 3–6 Sekunden lang gedrückt, bis Sie einen Piepton hören.",
+    "CL_CF_CS_window_air_blue_cs_2": "Überprüfen Sie, ob auf dem Gerätedisplay „77“ angezeigt wird, was bedeutet, dass sich das Gerät im Kopplungsmodus befindet. Wenn nicht, wiederholen Sie bitte Schritt 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Halten Sie das ##-Symbol ca. 2 Sekunden lang gedrückt. 6 Sekunden lang. Das Gerät sollte piepen und die Wi-Fi-Leuchte sollte zu blinken beginnen.",
+    "CL_CF_HP_discover": "Entdecken",
+    "CL_DV_HOB_cooking_assist": "Kochassistent",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "WÄHLEN SIE DAS GERÄTEMODELL",
+    "CL_CF_FM_all_purchases_added_to_rf": "Alle Ihre Einkäufe wurden dem Kühlschrank hinzugefügt"
 }

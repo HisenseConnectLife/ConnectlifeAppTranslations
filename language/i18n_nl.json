@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Bereken het totale stroom- en waterverbruik van het huis op dagelijkse, maandelijkse en jaarlijkse basis. U kunt ook de verbruiksstatistieken van individuele apparaten bekijken, het aandeel energieverbruik van elk apparaat binnen de geselecteerde periode, het totale en individuele energieverbruik.",
     "smart_support_helps_3": "3. Probleemoplossing",
     "CL_SL_CM_about_usage_month_desc": "De getoonde gegevens zijn schattingen en geen exacte metingen.\n Onze schattingen zijn gebaseerd op gecontroleerde tests. Uw werkelijke resultaten kunnen dus afwijken.\n Het werkelijke energieverbruik hangt af van uw specifieke omgeving en gewoonten.",
-    "CL_CF_HP_no_card_key": "Geen kaart"
+    "CL_CF_HP_no_card_key": "Geen kaart",
+    "CL_CF_TV_new_to_connectlife": "NIEUW IN CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Scannen met de ConnectLife mobiele app",
+    "CL_CF_AS_or": "of",
+    "CL_CF_AS_report_an_issue": "een probleem melden.",
+    "CL_DV_OV_adjust_time": "Tijd aanpassen",
+    "CL_CF_CS_window_air_blue_cs_1": "Houd de ####-knop ongeveer 3 tot 6 seconden ingedrukt totdat u een pieptoon hoort.",
+    "CL_CF_CS_window_air_blue_cs_2": "Controleer of het display van het apparaat \"77\" weergeeft, wat aangeeft dat het apparaat in de koppelingsmodus staat. Als dat niet het geval is, herhaal dan stap 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Houd het ##-pictogram ca. 6 sec. Het apparaat moet piepen en het Wi-Fi-lampje moet beginnen te knipperen.",
+    "CL_CF_HP_discover": "Ontdekken",
+    "CL_DV_HOB_cooking_assist": "Kookhulp",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "KIES HET APPARAATMODEL",
+    "CL_CF_FM_all_purchases_added_to_rf": "Al uw aankopen zijn toegevoegd aan de koelkast"
 }

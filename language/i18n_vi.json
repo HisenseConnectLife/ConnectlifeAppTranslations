@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Tính toán mức tiêu thụ điện và nước của toàn bộ ngôi nhà theo ngày, tháng và năm. Bạn cũng có thể xem số liệu thống kê mức tiêu thụ của từng thiết bị, tỷ lệ tiêu thụ năng lượng của từng thiết bị trong khoảng thời gian đã chọn, mức tiêu thụ năng lượng chung và riêng lẻ.",
     "smart_support_helps_3": "3. Xử lý sự cố",
     "CL_SL_CM_about_usage_month_desc": "Dữ liệu hiển thị chỉ là ước tính, không phải là số đo chính xác.\n Ước tính của chúng tôi dựa trên các thử nghiệm được kiểm soát, do đó kết quả thực tế của bạn có thể khác.\n Mức sử dụng năng lượng thực tế phụ thuộc vào môi trường và thói quen cụ thể của bạn.",
-    "CL_CF_HP_no_card_key": "Không có thẻ"
+    "CL_CF_HP_no_card_key": "Không có thẻ",
+    "CL_CF_TV_new_to_connectlife": "MỚI VỚI CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Quét bằng ứng dụng di động ConnectLife",
+    "CL_CF_AS_or": "hoặc",
+    "CL_CF_AS_report_an_issue": "báo cáo sự cố.",
+    "CL_DV_OV_adjust_time": "Điều chỉnh thời gian",
+    "CL_CF_CS_window_air_blue_cs_1": "Nhấn và giữ nút #### trong khoảng 3-6 giây cho đến khi bạn nghe thấy tiếng bíp.",
+    "CL_CF_CS_window_air_blue_cs_2": "Kiểm tra xem màn hình thiết bị có hiển thị \"77\" không, cho biết thiết bị đang ở chế độ ghép nối. Nếu không, vui lòng lặp lại bước 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Nhấn & giữ biểu tượng ## trong khoảng 6 giây. Thiết bị sẽ phát ra tiếng bíp & đèn Wi-Fi sẽ bắt đầu nháy.",
+    "CL_CF_HP_discover": "Phát hiện",
+    "CL_DV_HOB_cooking_assist": "Trợ lý nấu ăn",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "CHỌN MẪU THIẾT BỊ",
+    "CL_CF_FM_all_purchases_added_to_rf": "Tất cả các giao dịch mua của bạn đã được thêm vào tủ lạnh"
 }

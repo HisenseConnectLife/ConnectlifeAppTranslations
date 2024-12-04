@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Spočítejte si spotřebu energie a vody v celém domě na denní, měsíční a roční bázi. Můžete si také prohlédnout statistiky spotřeby jednotlivých zařízení, podíl spotřeby energie jednotlivých zařízení ve zvoleném období, celkovou a individuální spotřebu energie.",
     "smart_support_helps_3": "3. Odstraňování problémů",
     "CL_SL_CM_about_usage_month_desc": "Uvedené údaje jsou odhady, nikoli přesná měření.\n Naše odhady jsou založeny na kontrolovaných testech, takže vaše skutečné výsledky se mohou lišit.\n Spotřeba energie v reálném světě závisí na vašem konkrétním prostředí a zvycích.",
-    "CL_CF_HP_no_card_key": "Žádná karta"
+    "CL_CF_HP_no_card_key": "Žádná karta",
+    "CL_CF_TV_new_to_connectlife": "NOVINKA V CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Skenujte pomocí mobilní aplikace ConnectLife",
+    "CL_CF_AS_or": "nebo",
+    "CL_CF_AS_report_an_issue": "nahlásit problém.",
+    "CL_DV_OV_adjust_time": "Upravte čas",
+    "CL_CF_CS_window_air_blue_cs_1": "Stiskněte a podržte tlačítko #### po dobu cca. 3-6 sekund, dokud neuslyšíte pípnutí.",
+    "CL_CF_CS_window_air_blue_cs_2": "Zkontrolujte, zda se na displeji zařízení zobrazuje „77“, což znamená, že jednotka je v režimu párování. Pokud ne, opakujte prosím krok 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "Stiskněte a podržte tlačítko \"CONNECT\" po dobu cca. 6 sekund Jednotka by měla pípnout a kontrolka Wi-Fi by měla začít blikat.",
+    "CL_CF_HP_discover": "Objevit",
+    "CL_DV_HOB_cooking_assist": "Pomocník při vaření",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VYBERTE SI MODEL ZAŘÍZENÍ",
+    "CL_CF_FM_all_purchases_added_to_rf": "Všechny vaše nákupy byly přidány do chladničky"
 }

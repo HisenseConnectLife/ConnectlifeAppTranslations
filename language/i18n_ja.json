@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "家全体の電力と水の消費量を日、月、年単位で計算します。また、個々のデバイスの消費統計、選択した期間内の各デバイスのエネルギー消費の割合、全体および個々のエネルギー消費量を表示することもできます。",
     "smart_support_helps_3": "3. トラブルシューティング",
     "CL_SL_CM_about_usage_month_desc": "表示されるデータは推定値であり、正確な測定値ではありません。\n当社の推定値は管理されたテストに基づいているため、実際の結果は異なる場合があります。\n実際のエネルギー使用量は、特定の環境と習慣によって異なります。",
-    "CL_CF_HP_no_card_key": "カードなし"
+    "CL_CF_HP_no_card_key": "カードなし",
+    "CL_CF_TV_new_to_connectlife": "CONNECTLIFEの新規ユーザー",
+    "CL_CF_TV_scan_with_cl": "ConnectLifeモバイルアプリでスキャン",
+    "CL_CF_AS_or": "または",
+    "CL_CF_AS_report_an_issue": "問題を報告します。",
+    "CL_DV_OV_adjust_time": "時間を調整する",
+    "CL_CF_CS_window_air_blue_cs_1": "ビープ音が鳴るまで、#### ボタンを約 3 ～ 6 秒間押し続けます。",
+    "CL_CF_CS_window_air_blue_cs_2": "デバイスのディスプレイに「77」が表示され、ユニットがペアリング モードになっていることを確認します。表示されていない場合は、手順 2 を繰り返します。",
+    "CL_CF_CS_window_ac_normal_step_2": "##アイコンを6秒長押しします。ユニットからピピと鳴り、「Wi-Fi」ランプの点滅が始まります。",
+    "CL_CF_HP_discover": "発見する",
+    "CL_DV_HOB_cooking_assist": "調理補助",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "デバイスモデルを選択",
+    "CL_CF_FM_all_purchases_added_to_rf": "購入済みのものはすべて「食材管理」モジュールに追加されています"
 }

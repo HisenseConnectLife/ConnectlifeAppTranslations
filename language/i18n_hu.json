@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Számítsa ki az egész ház áram- és vízfogyasztását napi, havi és éves alapon. Megtekintheti továbbá az egyes készülékek fogyasztási statisztikáit, az egyes készülékek energiafogyasztásának arányát a kiválasztott időszakban, az össz- és egyedi energiafogyasztást.",
     "smart_support_helps_3": "3. Hibaelhárítás",
     "CL_SL_CM_about_usage_month_desc": "A megjelenített adatok becslések, nem pontos mérések.\n Becsléseink ellenőrzött teszteken alapulnak, így az Ön tényleges eredményei eltérhetnek.\n A valós világ energiafelhasználása az Ön konkrét környezetétől és szokásaitól függ.",
-    "CL_CF_HP_no_card_key": "Nincs kártya"
+    "CL_CF_HP_no_card_key": "Nincs kártya",
+    "CL_CF_TV_new_to_connectlife": "ÚJ A CONNECTLIFE-BEN",
+    "CL_CF_TV_scan_with_cl": "Szkennelés a ConnectLife mobilalkalmazással",
+    "CL_CF_AS_or": "vagy",
+    "CL_CF_AS_report_an_issue": "jelentsen egy problémát.",
+    "CL_DV_OV_adjust_time": "Állítsa be az időt",
+    "CL_CF_CS_window_air_blue_cs_1": "Nyomja meg és tartsa lenyomva a #### gombot kb. 3-6 másodpercig, amíg sípolást nem hall.",
+    "CL_CF_CS_window_air_blue_cs_2": "Ellenőrizze, hogy az eszköz kijelzőjén a „77” látható-e, ami azt jelzi, hogy az egység párosítási módban van. Ha nem, ismételje meg a 2. lépést.",
+    "CL_CF_CS_window_ac_normal_step_2": "Nyomja meg és tartsa lenyomva a \"CONNECT\" gombot kb. 6 mp. Az egységnek sípolnia kell, és a Wi-Fi jelzőfénynek villogni kell.",
+    "CL_CF_HP_discover": "Fedezze fel",
+    "CL_DV_HOB_cooking_assist": "Főzési asszisztens",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VÁLASZD KI A KÉSZÜLÉK MODELLET",
+    "CL_CF_FM_all_purchases_added_to_rf": "Minden vásárlását hozzáadta a hűtőszekrényhez"
 }

@@ -4620,5 +4620,17 @@
     "smart_energy_helps_2_content": "Calcule o consumo de energia e água de toda a casa em uma base diária, mensal e anual. Você também pode visualizar as estatísticas de consumo de dispositivos individuais, a proporção do consumo de energia de cada dispositivo dentro do período selecionado, o consumo de energia geral e individual.",
     "smart_support_helps_3": "3. Resolução de problemas",
     "CL_SL_CM_about_usage_month_desc": "Os dados mostrados são estimativas, não medidas exatas.\n Nossas estimativas são baseadas em testes controlados, portanto seus resultados reais podem variar.\n O uso real de energia depende do seu ambiente e hábitos específicos.",
-    "CL_CF_HP_no_card_key": "Sem cartão"
+    "CL_CF_HP_no_card_key": "Sem cartão",
+    "CL_CF_TV_new_to_connectlife": "NOVO NO CONNECTLIFE",
+    "CL_CF_TV_scan_with_cl": "Digitalize com o aplicativo móvel ConnectLife",
+    "CL_CF_AS_or": "ou",
+    "CL_CF_AS_report_an_issue": "relatar um problema.",
+    "CL_DV_OV_adjust_time": "Ajustar tempo",
+    "CL_CF_CS_window_air_blue_cs_1": "Pressione e segure o botão #### por aproximadamente 3 a 6 segundos até ouvir um bipe.",
+    "CL_CF_CS_window_air_blue_cs_2": "Verifique se o display do dispositivo mostra \"77\", indicando que a unidade está em modo de pareamento. Caso contrário, repita o passo 2.",
+    "CL_CF_CS_window_ac_normal_step_2": "mantenha premido o ícone ## por aprox. 6 segundos. A unidade deve emitir um bipe e a luz do Wi-Fi deve começar a piscar.",
+    "CL_CF_HP_discover": "Descobrir",
+    "CL_DV_HOB_cooking_assist": "Auxiliar de Cozinha",
+    "CL_CF_CS_tuya_dehumidifier_choose_device_model": "ESCOLHA O MODELO DO DISPOSITIVO",
+    "CL_CF_FM_all_purchases_added_to_rf": "Todas as suas compras foram adicionadas à geladeira"
 }
