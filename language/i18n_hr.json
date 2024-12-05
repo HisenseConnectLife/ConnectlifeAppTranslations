@@ -1814,7 +1814,7 @@
     "hih_filter_model": "Izlaz",
     "hih_filter_plasma": "Plazma filter",
     "wm_sell_point_video": "Video prodajnog mjesta",
-    "wm_max": "Maks.",
+    "wm_max": "Maks",
     "timing_add_less_then_4_hour": "Vrijeme zagrijavanja je kratko, podešena temperatura možda neće biti dostignuta",
     "ticket_save_success": "Servisni zahtjev je uspješno spremljen",
     "native_language_tips": "Ova postavka neće promijeniti jezik aplikacije. Koristi se samo u komunikacijske svrhe.",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "Stariji",
     "drum_illumination_desc": "Drum ilimination osvjetljava unutrašnjost bubnja, što vam pomaže prilikom punjenja i pražnjenja uređaja - jednostavno je lakše pronaći zaostalu čarapu unutar bubnja. Također olakšava pregled prilikom čišćenja.",
     "turn_on_drum_illumination": "Uključite/isključite osvjetljenje",
-    "wine_time": "Vrijeme",
+    "wine_time": "put",
     "delete_account_camel_case": "Izbriši račun",
     "program_mode_desc": "Programski način rada omogućuje vam da prilagodite svoj program sušenja i prilagodite ga prema svojim potrebama. U nastavku možete pročitati o različitim načinima rada i njihovoj funkcionalnosti.",
     "program_mode_available": "Dostupni su sljedeći načini pranja:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "Otkriti",
     "CL_DV_HOB_cooking_assist": "Pomoć pri kuhanju",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "ODABERITE MODEL UREĐAJA",
-    "CL_CF_FM_all_purchases_added_to_rf": "Sve vaše kupovine dodane su u hladnjak"
+    "CL_CF_FM_all_purchases_added_to_rf": "Sve vaše kupovine dodane su u hladnjak",
+    "CL_DV_HOB_guide_for_best_results": "Smjernice za najbolje rezultate",
+    "CL_DV_HOB_program_content_step1": "Odaberite količinu.",
+    "CL_DV_HOB_program_content_step2": "Odaberite zonu za kuhanje koju želite koristiti. ",
+    "CL_DV_HOB_program_content_step3": "Potvrdite tipkom “WIFI” na odabranoj zoni na indukcijskoj ploči za kuhanje.",
+    "CL_DV_HOB_temperature_content_step1": "Odaberite temperaturu.",
+    "CL_CF_AS_your_device_offline": "Vaš uređaj je izvan mreže"
 }

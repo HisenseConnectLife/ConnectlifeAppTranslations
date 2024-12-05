@@ -3254,7 +3254,7 @@
     "air_care_elder": "Bătrân",
     "drum_illumination_desc": "Iluminarea tamburului vă ajută atunci când încărcați sau goliți mașina - este pur și simplu mai ușor să vedeți acel ciorap rămas în interiorul tamburului. De asemenea, facilitează inspecția atunci când curățați dispozitivele de ridicare și inserțiile de ridicare.",
     "turn_on_drum_illumination": "Porniți/opriți iluminarea",
-    "wine_time": "Timp",
+    "wine_time": "dată",
     "delete_account_camel_case": "Ștergere cont",
     "program_mode_desc": "Modul program vă permite să personalizați programul de uscare și să îl ajustați în funcție de nevoile dvs. Mai jos puteți citi despre diferitele moduri și funcționalitatea acestora.",
     "program_mode_available": "Sunt disponibile următoarele moduri de spălare:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "Descoperi",
     "CL_DV_HOB_cooking_assist": "Asistență la gătit",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "ALEGE MODELUL DE DISPOZITIV",
-    "CL_CF_FM_all_purchases_added_to_rf": "Toate achizițiile tale au fost adăugate la frigider"
+    "CL_CF_FM_all_purchases_added_to_rf": "Toate achizițiile tale au fost adăugate la frigider",
+    "CL_DV_HOB_guide_for_best_results": "Îndrumări pentru cele mai bune rezultate",
+    "CL_DV_HOB_program_content_step1": "Selectați cantitatea.",
+    "CL_DV_HOB_program_content_step2": "Selectați zona de gătit pe care doriți să o utilizați. ",
+    "CL_DV_HOB_program_content_step3": "Confirmați cu butonul „WIFI” pe zona selectată de pe plita cu inducție.",
+    "CL_DV_HOB_temperature_content_step1": "Selectați temperatura.",
+    "CL_CF_AS_your_device_offline": "Dispozitivul dvs. este offline"
 }

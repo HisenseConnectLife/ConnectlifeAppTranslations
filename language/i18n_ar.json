@@ -2505,7 +2505,7 @@
     "sabbath_mode_desc": "يقوم بتشغيل وإيقاف وضع السبت. لن تعمل لوحة التحكم والضوء والجرس عند تشغيل الوضع.",
     "door_open": "الباب مفتوح",
     "door_open_t": "الباب مفتوح",
-    "wine_times": "مرة",
+    "wine_times": "مرات",
     "monitor_t": "الشاشات",
     "mon_s": "الاثنين",
     "tue_s": "الثلاثاء",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "الاكبر",
     "drum_illumination_desc": "تضيء إضاءة الأسطوانة الجزء الداخلي من الأسطوانة، مما يساعدك عند تحميل الآلة وتفريغها - فمن الأسهل ببساطة رؤية الجورب المتبقي داخل الأسطوانة. كما أنه يسهل الفحص عند تنظيف الرافعات وإدراج الرافعة.",
     "turn_on_drum_illumination": "تشغيل/إيقاف الإضاءة",
-    "wine_time": "وقت",
+    "wine_time": "مرة",
     "delete_account_camel_case": "حذف الحساب",
     "program_mode_desc": "يتيح لك وضع البرنامج تخصيص برنامج التجفيف الخاص بك وضبطه وفقًا لاحتياجاتك. أدناه يمكنك أن تقرأ عن الأوضاع المختلفة ووظائفها.",
     "program_mode_available": "تتوفر أوضاع الغسيل التالية:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "يكتشف",
     "CL_DV_HOB_cooking_assist": "مساعدة في الطبخ",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "اختر طراز الجهاز",
-    "CL_CF_FM_all_purchases_added_to_rf": "لقد تم إضافة جميع مشترياتك إلى الثلاجة"
+    "CL_CF_FM_all_purchases_added_to_rf": "لقد تم إضافة جميع مشترياتك إلى الثلاجة",
+    "CL_DV_HOB_guide_for_best_results": "إرشادات للحصول على أفضل النتائج",
+    "CL_DV_HOB_program_content_step1": "حدد الكمية",
+    "CL_DV_HOB_program_content_step2": "حدد منطقة الطهي التي تريد استخدامها. ",
+    "CL_DV_HOB_program_content_step3": "قم بالتأكيد باستخدام زر \"WIFI\" في المنطقة المحددة على موقد الحث.",
+    "CL_DV_HOB_temperature_content_step1": "حدد درجة الحرارة.",
+    "CL_CF_AS_your_device_offline": "جهازك غير متصل بالإنترنت"
 }

@@ -2505,7 +2505,7 @@
     "sabbath_mode_desc": "Zapína a vypína režim sabatu. Ovládací panel, svetlo a bzučiak nebudú fungovať, keď je režim zapnutý.",
     "door_open": "Dvere otvorené",
     "door_open_t": "Dvere otvorené",
-    "wine_times": "krát",
+    "wine_times": "-krát",
     "monitor_t": "Monitory",
     "mon_s": "P",
     "tue_s": "U",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "Staršia",
     "drum_illumination_desc": "Osvetlenie bubna osvetľuje vnútro bubna, čo vám pomáha pri nakladaní a vyprázdňovaní stroja - jednoducho je lepšie vidieť zostávajúcu ponožku vo vnútri bubna. Uľahčuje tiež kontrolu pri čistení zdvíhačov a vložiek zdvíhačov.",
     "turn_on_drum_illumination": "Zapnutie/vypnutie osvetlenia",
-    "wine_time": "Čas",
+    "wine_time": "-krát",
     "delete_account_camel_case": "Odstrániť účet",
     "program_mode_desc": "Programový režim vám umožňuje prispôsobiť si program sušenia a upraviť ho podľa vašich potrieb. Nižšie si môžete prečítať o rôznych režimoch a ich funkciách.",
     "program_mode_available": "K dispozícii sú nasledujúce režimy prania:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "Objavte",
     "CL_DV_HOB_cooking_assist": "Pomocník pri varení",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VYBERTE SI MODEL ZARIADENIA",
-    "CL_CF_FM_all_purchases_added_to_rf": "Všetky vaše nákupy boli pridané do chladničky"
+    "CL_CF_FM_all_purchases_added_to_rf": "Všetky vaše nákupy boli pridané do chladničky",
+    "CL_DV_HOB_guide_for_best_results": "Návod na dosiahnutie najlepších výsledkov",
+    "CL_DV_HOB_program_content_step1": "Vyberte množstvo.",
+    "CL_DV_HOB_program_content_step2": "Vyberte varnú zónu, ktorú chcete použiť. ",
+    "CL_DV_HOB_program_content_step3": "Potvrďte tlačidlom „WIFI“ na vybranej zóne na indukčnej varnej doske.",
+    "CL_DV_HOB_temperature_content_step1": "Zvoľte teplotu.",
+    "CL_CF_AS_your_device_offline": "Vaše zariadenie je offline."
 }
