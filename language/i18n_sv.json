@@ -3254,7 +3254,7 @@
     "air_care_elder": "Äldre",
     "drum_illumination_desc": "Trumbelysningen lyser upp trummans insida, vilket hjälper dig vid lastning och tömning av maskinen - det är helt enkelt lättare att se den kvarvarande strumpan inuti trumman. Det underlättar även inspektionen vid rengöring av lyftare och lyftinsatser.",
     "turn_on_drum_illumination": "Slå på/av belysningen",
-    "wine_time": "Tid",
+    "wine_time": "gång",
     "delete_account_camel_case": "Ta bort konto",
     "program_mode_desc": "Programläget låter dig anpassa ditt torkprogram och justera det baserat på dina behov. Nedan kan du läsa om de olika lägena och deras funktionalitet.",
     "program_mode_available": "Dostupni su sledeći režimi pranja:",
@@ -4164,7 +4164,7 @@
     "CL_DV_WM_normal_dosage_weight_tip": "Normal dosering: 4~5 kg klädvikt.",
     "CL_DV_WM_pump_clean_note_1": "Anmärkningar: Om du vill ändra innehållet i dispenseringskomponenten, kom ihåg att göra det ",
     "CL_DV_WM_pump_clean_note_2": "rengör komponenten först.",
-    "CL_DV_WM_Pump_clean_key": "Pump ren",
+    "CL_DV_WM_Pump_clean_key": "Rengöring av pump",
     "CL_DV_WM_pump_clean_how_to_use": "Hur man använder?",
     "CL_DV_WM_pump_clean_how_to_use_1": "1.Töm och fyll facket med vatten innan du aktiverar pumprengöringsfunktionen.",
     "CL_DV_WM_pump_clean_how_to_use_2": "2. Aktivera pumprengöringsfunktionen från maskinsidan.",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "Upptäcka",
     "CL_DV_HOB_cooking_assist": "Cooking Assist",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VÄLJ ENHETSMODEL",
-    "CL_CF_FM_all_purchases_added_to_rf": "Alla dina köp har lagts till i kylskåpet"
+    "CL_CF_FM_all_purchases_added_to_rf": "Alla dina köp har lagts till i kylskåpet",
+    "CL_DV_HOB_guide_for_best_results": "Vägledning för bästa resultat",
+    "CL_DV_HOB_program_content_step1": "Välj kvantitet.",
+    "CL_DV_HOB_program_content_step2": "Välj den kokzon du vill använda. ",
+    "CL_DV_HOB_program_content_step3": "Bekräfta med \"WIFI\"-knappen på vald zon på induktionshällen.",
+    "CL_DV_HOB_temperature_content_step1": "Välj temperatur.",
+    "CL_CF_AS_your_device_offline": "Din enhet är offline"
 }

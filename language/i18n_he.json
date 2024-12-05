@@ -3254,7 +3254,7 @@
     "air_care_elder": "זָקֵן",
     "drum_illumination_desc": "תאורת התוף מאירה את החלק הפנימי של התוף, מה שעוזר לך בעת טעינת וריקון המכונה - פשוט קל יותר לראות את הגרב שנותרה בתוך התוף. זה גם מקל על הבדיקה בעת ניקוי מרים ומוספי הרמה.",
     "turn_on_drum_illumination": "הפעל/כיבוי תאורה",
-    "wine_time": "זְמַן",
+    "wine_time": "פעם",
     "delete_account_camel_case": "מחיקת חשבון",
     "program_mode_desc": "מצב תוכנית מאפשר לך להתאים אישית את תוכנית הייבוש שלך ולהתאים אותה בהתאם לצרכים שלך. להלן תוכלו לקרוא על המצבים השונים והפונקציונליות שלהם.",
     "program_mode_available": "מצבי הכביסה הבאים זמינים:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "לְגַלוֹת",
     "CL_DV_HOB_cooking_assist": "סיוע לבישול",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "בחר את דגם המכשיר",
-    "CL_CF_FM_all_purchases_added_to_rf": "כל הרכישות שלך נוספו למקרר"
+    "CL_CF_FM_all_purchases_added_to_rf": "כל הרכישות שלך נוספו למקרר",
+    "CL_DV_HOB_guide_for_best_results": "הדרכה לתוצאות הטובות ביותר",
+    "CL_DV_HOB_program_content_step1": "בחר את הכמות.",
+    "CL_DV_HOB_program_content_step2": "בחר את אזור הבישול שבו ברצונך להשתמש. ",
+    "CL_DV_HOB_program_content_step3": "אשר באמצעות כפתור \"WIFI\" באזור הנבחר בכיריים אינדוקציה.",
+    "CL_DV_HOB_temperature_content_step1": "בחר את הטמפרטורה.",
+    "CL_CF_AS_your_device_offline": "המכשיר שלך במצב לא מקוון"
 }

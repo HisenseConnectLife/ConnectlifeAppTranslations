@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "發現",
     "CL_DV_HOB_cooking_assist": "烹飪輔助",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "選擇設備型號",
-    "CL_CF_FM_all_purchases_added_to_rf": "您購買的所有商品均已添加至冰箱"
+    "CL_CF_FM_all_purchases_added_to_rf": "您購買的所有商品均已添加至冰箱",
+    "CL_DV_HOB_guide_for_best_results": "最佳結果指導",
+    "CL_DV_HOB_program_content_step1": "選擇數量。",
+    "CL_DV_HOB_program_content_step2": "選擇您要使用的烹飪區。 ",
+    "CL_DV_HOB_program_content_step3": "使用電磁爐上選定區域上的“WIFI”按鈕進行確認。",
+    "CL_DV_HOB_temperature_content_step1": "選擇溫度。",
+    "CL_CF_AS_your_device_offline": "您的設備處於離線狀態"
 }

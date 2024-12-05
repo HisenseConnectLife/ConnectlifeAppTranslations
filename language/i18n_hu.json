@@ -2505,7 +2505,7 @@
     "sabbath_mode_desc": "Ajtónyitó",
     "door_open": "Ajtónyitó",
     "door_open_t": "Times",
-    "wine_times": "’-ször",
+    "wine_times": "-ször",
     "monitor_t": "Monitorok",
     "mon_s": "Hét",
     "tue_s": "Kedd",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "Idősebb",
     "drum_illumination_desc": "A dob megvilágítása megvilágítja a dob belsejét, ami segít a gép betöltésénél és ürítésénél – egyszerűen könnyebben látható a dob belsejében maradt zokni. Az emelők és emelőbetétek tisztítása során is megkönnyíti az ellenőrzést.",
     "turn_on_drum_illumination": "Kapcsolja be/ki a világítást",
-    "wine_time": "Idő",
+    "wine_time": "-szer",
     "delete_account_camel_case": "Fiók törlése",
     "program_mode_desc": "A Program mód lehetővé teszi a szárítási program testreszabását és az igényeinek megfelelő beállítását. Az alábbiakban a különböző módokról és azok működéséről olvashat.",
     "program_mode_available": "A következő mosási módok állnak rendelkezésre:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "Fedezze fel",
     "CL_DV_HOB_cooking_assist": "Főzési asszisztens",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "VÁLASZD KI A KÉSZÜLÉK MODELLET",
-    "CL_CF_FM_all_purchases_added_to_rf": "Minden vásárlását hozzáadta a hűtőszekrényhez"
+    "CL_CF_FM_all_purchases_added_to_rf": "Minden vásárlását hozzáadta a hűtőszekrényhez",
+    "CL_DV_HOB_guide_for_best_results": "Útmutató a legjobb eredményekhez",
+    "CL_DV_HOB_program_content_step1": "Válassza ki a mennyiséget.",
+    "CL_DV_HOB_program_content_step2": "Válassza ki a használni kívánt főzőzónát. ",
+    "CL_DV_HOB_program_content_step3": "Erősítse meg a „WIFI” gombbal az indukciós főzőlap kiválasztott zónáján.",
+    "CL_DV_HOB_temperature_content_step1": "Válassza ki a hőmérsékletet.",
+    "CL_CF_AS_your_device_offline": "Eszköze offline állapotban van"
 }

@@ -2505,7 +2505,7 @@
     "sabbath_mode_desc": "Vklop in izklop načina Šabat. Nadzorna plošča, lučka in zvočni signal ne bodo delovali, ko je način vklopljen.",
     "door_open": "Odprta-vrata",
     "door_open_t": "Odprta-vrata",
-    "wine_times": "Časi",
+    "wine_times": "krat",
     "monitor_t": "Monitorji",
     "mon_s": "P",
     "tue_s": "T",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "Starešina",
     "drum_illumination_desc": "Osvetlitev bobna osvetli notranjost bobna, kar vam pomaga pri polnjenju in praznjenju stroja - preprosto lažje vidite preostalo nogavico v bobnu. Prav tako olajša pregled pri čiščenju dvigal in vložkov dvigal.",
     "turn_on_drum_illumination": "Vklop/izklop osvetlitve",
-    "wine_time": "Čas",
+    "wine_time": "-krat",
     "delete_account_camel_case": "Brisanje računa",
     "program_mode_desc": "Programski način vam omogoča, da prilagodite program sušenja in ga prilagodite svojim potrebam. Spodaj si lahko preberete o različnih načinih in njihovi funkcionalnosti.",
     "program_mode_available": "Na voljo so naslednji načini pranja:",
@@ -4632,5 +4632,11 @@
     "CL_CF_HP_discover": "Odkrij",
     "CL_DV_HOB_cooking_assist": "Pomočnik pri kuhanju",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "IZBERITE MODEL NAPRAVE",
-    "CL_CF_FM_all_purchases_added_to_rf": "Vsi vaši nakupi so bili dodani v hladilnik"
+    "CL_CF_FM_all_purchases_added_to_rf": "Vsi vaši nakupi so bili dodani v hladilnik",
+    "CL_DV_HOB_guide_for_best_results": "Navodila za najboljše rezultate",
+    "CL_DV_HOB_program_content_step1": "Izberite količino.",
+    "CL_DV_HOB_program_content_step2": "Izberite kuhališče, ki ga želite uporabiti. ",
+    "CL_DV_HOB_program_content_step3": "Potrdite z gumbom “WIFI” na izbranem območju na indukcijski plošči.",
+    "CL_DV_HOB_temperature_content_step1": "Izberite temperaturo.",
+    "CL_CF_AS_your_device_offline": "Vaša naprava je brez povezave"
 }
