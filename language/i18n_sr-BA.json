@@ -1814,7 +1814,7 @@
     "hih_filter_model": "Оутлет",
     "hih_filter_plasma": "Плазма филтер",
     "wm_sell_point_video": "Video prodajnog mesta",
-    "wm_max": "Maks.",
+    "wm_max": "Maks",
     "timing_add_less_then_4_hour": "Vreme zagrevanja je kratko, podešena temperatura možda neće biti dostignuta",
     "ticket_save_success": "Servisni zahtev je uspešno sačuvan",
     "native_language_tips": "Ovo podešavanje neće promeniti jezik aplikacije. Koristi se samo u komunikacijske svrhe.",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "Старији",
     "drum_illumination_desc": "Осветљење бубња осветљава унутрашњост бубња, што вам олакшава пуњење и пражњење машине – лакше је видети преосталу чарапу унутра. Такође олакшава преглед приликом чишћења подизача и њихових уметака.",
     "turn_on_drum_illumination": "Укључите/искључите осветљење",
-    "wine_time": "Vreme",
+    "wine_time": "пут",
     "delete_account_camel_case": "Obrisati nalog",
     "program_mode_desc": "Programski režim vam omogućava da prilagodite svoj program sušenja i prilagodite ga prema vašim potrebama. U nastavku možete pročitati o različitim režimima i njihovoj funkcionalnosti.",
     "program_mode_available": "Доступни су следећи режими прања:",
@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "Откријте",
     "CL_DV_HOB_cooking_assist": "Цоокинг Ассист",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "ИЗАБЕРИТЕ МОДЕЛ УРЕЂАЈА",
-    "CL_CF_FM_all_purchases_added_to_rf": "Све ваше куповине су додате у фрижидер"
+    "CL_CF_FM_all_purchases_added_to_rf": "Све ваше куповине су додате у фрижидер",
+    "CL_DV_HOB_guide_for_best_results": "Упутство за најбоље резултате",
+    "CL_DV_HOB_program_content_step1": "Изаберите количину.",
+    "CL_DV_HOB_program_content_step2": "Изаберите зону за кување коју желите да користите. ",
+    "CL_DV_HOB_program_content_step3": "Потврдите дугметом „ВИФИ“ на изабраној зони на индукционој плочи.",
+    "CL_DV_HOB_temperature_content_step1": "Изаберите температуру.",
+    "CL_CF_AS_your_device_offline": "Ваш уређај је ван мреже",
+    "CL_CF_AS_waiting": "чекам..."
 }

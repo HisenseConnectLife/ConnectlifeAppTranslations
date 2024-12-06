@@ -3254,7 +3254,7 @@
     "air_care_elder": "ज्येष्ठ",
     "drum_illumination_desc": "ड्रम की रोशनी ड्रम के अंदर रोशनी करती है, जो मशीन को लोड करने और खाली करने में आपकी मदद करती है - ड्रम के अंदर बचे हुए मोज़े को देखना आसान होता है। यह लिफ्टर्स और लिफ्टर इंसर्ट की सफाई करते समय निरीक्षण की सुविधा भी देता है।",
     "turn_on_drum_illumination": "रोशनी चालू/बंद करें",
-    "wine_time": "समय",
+    "wine_time": "बार",
     "delete_account_camel_case": "खाता हटा दो",
     "program_mode_desc": "प्रोग्राम मोड आपको अपने सुखाने के कार्यक्रम को अनुकूलित करने और अपनी आवश्यकताओं के आधार पर इसे समायोजित करने की अनुमति देता है। नीचे आप विभिन्न मोड और उनकी कार्यक्षमता के बारे में पढ़ सकते हैं।",
     "program_mode_available": "निम्नलिखित धुलाई मोड उपलब्ध हैं:",
@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "खोज करना",
     "CL_DV_HOB_cooking_assist": "खाना पकाने में सहायता",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "डिवाइस मॉडल चुनें",
-    "CL_CF_FM_all_purchases_added_to_rf": "आपकी सभी खरीदारी रेफ्रिजरेटर में जोड़ दी गई हैं"
+    "CL_CF_FM_all_purchases_added_to_rf": "आपकी सभी खरीदारी रेफ्रिजरेटर में जोड़ दी गई हैं",
+    "CL_DV_HOB_guide_for_best_results": "सर्वोत्तम परिणामों के लिए मार्गदर्शन",
+    "CL_DV_HOB_program_content_step1": "मात्रा का चयन करें.",
+    "CL_DV_HOB_program_content_step2": "वह खाना पकाने वाला क्षेत्र चुनें जिसका आप उपयोग करना चाहते हैं। ",
+    "CL_DV_HOB_program_content_step3": "इंडक्शन हॉब पर चयनित क्षेत्र पर \"वाईफ़ाई\" बटन के साथ पुष्टि करें।",
+    "CL_DV_HOB_temperature_content_step1": "तापमान का चयन करें.",
+    "CL_CF_AS_your_device_offline": "आपका डिवाइस ऑफ़लाइन है",
+    "CL_CF_AS_waiting": "इंतज़ार में..."
 }

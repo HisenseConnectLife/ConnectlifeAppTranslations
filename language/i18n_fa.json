@@ -2505,7 +2505,7 @@
     "sabbath_mode_desc": "حالت Sabbath را روشن و خاموش می کند. هنگامی که حالت روشن است، صفحه کنترل، چراغ و زنگ هشدار کار نمی کنند.",
     "door_open": "درب باز",
     "door_open_t": "درب باز است",
-    "wine_times": "دفعه",
+    "wine_times": "بار",
     "monitor_t": "مانیتورها",
     "mon_s": "دوشنبه",
     "tue_s": "سه‌شنبه",
@@ -3254,7 +3254,7 @@
     "air_care_elder": "بزرگتر",
     "drum_illumination_desc": "نور درام، داخل درام را روشن می کند، که در هنگام بارگیری و تخلیه دستگاه به شما کمک می کند - دیدن جوراب باقی مانده در داخل درام به سادگی آسان تر است. همچنین هنگام تمیز کردن بالابرها و درج های بالابر بازرسی را تسهیل می کند.",
     "turn_on_drum_illumination": "روشن/خاموش کردن روشنایی",
-    "wine_time": "زمان",
+    "wine_time": "بار ",
     "delete_account_camel_case": "حذف حساب",
     "program_mode_desc": "حالت برنامه به شما امکان می دهد برنامه خشک کردن خود را سفارشی کنید و آن را بر اساس نیاز خود تنظیم کنید. در زیر می توانید در مورد حالت های مختلف و عملکرد آنها مطالعه کنید.",
     "program_mode_available": "حالت های شستشوی زیر موجود است:",
@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "کشف کنید",
     "CL_DV_HOB_cooking_assist": "کمک آشپزی",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "مدل دستگاه را انتخاب کنید",
-    "CL_CF_FM_all_purchases_added_to_rf": "تمامی خریدهای شما به یخچال اضافه شده است"
+    "CL_CF_FM_all_purchases_added_to_rf": "تمامی خریدهای شما به یخچال اضافه شده است",
+    "CL_DV_HOB_guide_for_best_results": "راهنمایی برای بهترین نتیجه",
+    "CL_DV_HOB_program_content_step1": "مقدار را انتخاب کنید.",
+    "CL_DV_HOB_program_content_step2": "منطقه پختی را که می خواهید استفاده کنید انتخاب کنید. ",
+    "CL_DV_HOB_program_content_step3": "با دکمه \"WIFI\" در ناحیه انتخاب شده روی صفحه القایی، تأیید کنید.",
+    "CL_DV_HOB_temperature_content_step1": "دما را انتخاب کنید.",
+    "CL_CF_AS_your_device_offline": "دستگاه شما آفلاین است",
+    "CL_CF_AS_waiting": "منتظر..."
 }

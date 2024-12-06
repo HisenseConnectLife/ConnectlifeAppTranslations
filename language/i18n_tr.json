@@ -3254,7 +3254,7 @@
     "air_care_elder": "Yaşlı",
     "drum_illumination_desc": "Tambur aydınlatması tamburun içini aydınlatır, bu da makineyi yüklerken ve boşaltırken size yardımcı olur; tamburun içinde kalan çorabın görülmesi daha kolaydır. Ayrıca kaldırıcıları ve kaldırıcı eklerini temizlerken incelemeyi kolaylaştırır.",
     "turn_on_drum_illumination": "Aydınlatmayı aç/kapat",
-    "wine_time": "Zaman",
+    "wine_time": "kez",
     "delete_account_camel_case": "Hesabı Sil",
     "program_mode_desc": "Program modu, kurutma programınızı kişiselleştirmenize ve ihtiyaçlarınıza göre ayarlamanıza olanak tanır. Aşağıda farklı modlar ve işlevleri hakkında bilgi edinebilirsiniz.",
     "program_mode_available": "Aşağıdaki yıkama modları mevcuttur:",
@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "Keşfetmek",
     "CL_DV_HOB_cooking_assist": "Pişirme Yardımı",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "CİHAZ MODELİNİ SEÇİN",
-    "CL_CF_FM_all_purchases_added_to_rf": "Tüm satın alımlarınız buzdolabına eklendi"
+    "CL_CF_FM_all_purchases_added_to_rf": "Tüm satın alımlarınız buzdolabına eklendi",
+    "CL_DV_HOB_guide_for_best_results": "En iyi sonuçlar için rehberlik",
+    "CL_DV_HOB_program_content_step1": "Miktarı seçin.",
+    "CL_DV_HOB_program_content_step2": "Kullanmak istediğiniz pişirme bölgesini seçin. ",
+    "CL_DV_HOB_program_content_step3": "İndüksiyonlu ocakta seçili bölgeyi “WIFI” tuşuyla onaylayın.",
+    "CL_DV_HOB_temperature_content_step1": "Sıcaklığı seçin.",
+    "CL_CF_AS_your_device_offline": "Cihazınız çevrimdışı",
+    "CL_CF_AS_waiting": "beklemek..."
 }
