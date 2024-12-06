@@ -4156,9 +4156,9 @@
     "CL_CF_CS_ble_scan_have_not_found": "We haven’t found any device on bluetooth. You can click ‘TRY AGAIN’ to search again, or configure network in another way.",
     "CL_DV_WM_pump_cleaning": "Cleaning pump...",
     "CL_DV_WM_autodoes_tip": "Enable this feature and your device will smartly dispense detergent and fabric softener while you do your laundry.",
-    "CL_DV_WM_detergent_department_key": "DETERGENT COMPARTMENT",
+    "CL_DV_WM_detergent_department_key": "Detergent Compartment",
     "CL_DV_WM_Dosage_Amount_key": "Dosage Amount",
-    "CL_DV_WM_softener_department_key": "SOFTENER COMPARTMENT",
+    "CL_DV_WM_softener_department_key": "Softener Compartment",
     "CL_DV_WM_auto_does_with_detergent": "Autodose With Detergent",
     "CL_DV_WM_same_detergent": "Same Detergent",
     "CL_DV_WM_normal_dosage_weight_tip": "Normal dosage: 4~5kg clothing weight.",
@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "Discover",
     "CL_DV_HOB_cooking_assist": "Cooking Assist",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "CHOOSE THE DEVICE MODEL",
-    "CL_CF_FM_all_purchases_added_to_rf": "All your purchases have been added to the refrigerator"
+    "CL_CF_FM_all_purchases_added_to_rf": "All your purchases have been added to the refrigerator",
+    "CL_DV_HOB_guide_for_best_results": "Guidance for best results",
+    "CL_DV_HOB_program_content_step1": "Select the quantity.",
+    "CL_DV_HOB_program_content_step2": "Select the cooking zone you want to use. ",
+    "CL_DV_HOB_program_content_step3": "Confirm with “WIFI” button on selected zone on the induction hob.",
+    "CL_DV_HOB_temperature_content_step1": "Select the temperature.",
+    "CL_CF_AS_your_device_offline": "Youre device is offline.",
+    "CL_CF_AS_waiting": "waiting..."
 }

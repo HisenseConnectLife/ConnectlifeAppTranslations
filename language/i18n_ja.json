@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "発見する",
     "CL_DV_HOB_cooking_assist": "調理補助",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "デバイスモデルを選択",
-    "CL_CF_FM_all_purchases_added_to_rf": "購入済みのものはすべて「食材管理」モジュールに追加されています"
+    "CL_CF_FM_all_purchases_added_to_rf": "購入済みのものはすべて「食材管理」モジュールに追加されています",
+    "CL_DV_HOB_guide_for_best_results": "最良の結果を得るためのガイダンス",
+    "CL_DV_HOB_program_content_step1": "数量を選択してください。",
+    "CL_DV_HOB_program_content_step2": "使用する調理ゾーンを選択します。 ",
+    "CL_DV_HOB_program_content_step3": "電磁調理器の選択したゾーンの「WIFI」ボタンを押して確定します。",
+    "CL_DV_HOB_temperature_content_step1": "温度を選択してください。",
+    "CL_CF_AS_your_device_offline": "デバイスがオフラインです",
+    "CL_CF_AS_waiting": "待っている..."
 }

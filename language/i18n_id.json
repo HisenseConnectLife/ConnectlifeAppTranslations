@@ -3254,7 +3254,7 @@
     "air_care_elder": "Lebih tua",
     "drum_illumination_desc": "Penerangan Drum menerangi bagian dalam drum, sehingga membantu Anda saat memuat dan mengosongkan mesin - memudahkan Anda melihat sisa kaus kaki di dalam drum. Hal ini juga memudahkan pemeriksaan saat membersihkan pengangkat dan sisipan pengangkat.",
     "turn_on_drum_illumination": "Menghidupkan/mematikan penerangan",
-    "wine_time": "Waktu",
+    "wine_time": "kali",
     "delete_account_camel_case": "Hapus Akun",
     "program_mode_desc": "Mode program memungkinkan Anda menyesuaikan program pengeringan dan menyesuaikannya berdasarkan kebutuhan Anda. Di bawah ini Anda dapat membaca tentang berbagai mode dan fungsinya.",
     "program_mode_available": "Tersedia mode pencucian berikut:",
@@ -4632,5 +4632,12 @@
     "CL_CF_HP_discover": "Menemukan",
     "CL_DV_HOB_cooking_assist": "Bantuan Memasak",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "PILIH MODEL PERANGKAT",
-    "CL_CF_FM_all_purchases_added_to_rf": "Semua pembelian Anda telah ditambahkan ke lemari es"
+    "CL_CF_FM_all_purchases_added_to_rf": "Semua pembelian Anda telah ditambahkan ke lemari es",
+    "CL_DV_HOB_guide_for_best_results": "Panduan untuk hasil terbaik",
+    "CL_DV_HOB_program_content_step1": "Pilih jumlahnya.",
+    "CL_DV_HOB_program_content_step2": "Pilih zona memasak yang ingin Anda gunakan. ",
+    "CL_DV_HOB_program_content_step3": "Konfirmasikan dengan tombol “WIFI” pada zona yang dipilih pada kompor induksi.",
+    "CL_DV_HOB_temperature_content_step1": "Pilih suhu.",
+    "CL_CF_AS_your_device_offline": "Perangkat Anda sedang offline",
+    "CL_CF_AS_waiting": "menunggu..."
 }
