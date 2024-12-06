@@ -3254,7 +3254,7 @@
     "air_care_elder": "Orang tua",
     "drum_illumination_desc": "Pencahayaan Drum menerangi bahagian dalam dram, yang membantu anda semasa memuatkan dan mengosongkan mesin - lebih mudah untuk melihat baki stokin di dalam dram. Ia juga memudahkan pemeriksaan apabila membersihkan pengangkat dan sisipan pengangkat.",
     "turn_on_drum_illumination": "Hidupkan/matikan pencahayaan",
-    "wine_time": "Masa",
+    "wine_time": "kali",
     "delete_account_camel_case": "Padam Akaun",
     "program_mode_desc": "Mod program membolehkan anda menyesuaikan program pengeringan anda dan melaraskannya berdasarkan keperluan anda. Di bawah anda boleh membaca tentang mod yang berbeza dan fungsinya.",
     "program_mode_available": "Mod basuh berikut tersedia:",
@@ -4632,5 +4632,14 @@
     "CL_CF_HP_discover": "Temui",
     "CL_DV_HOB_cooking_assist": "Bantuan Memasak",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "PILIH MODEL PERANTI",
-    "CL_CF_FM_all_purchases_added_to_rf": "Semua pembelian anda telah ditambahkan ke dalam peti sejuk"
+    "CL_CF_FM_all_purchases_added_to_rf": "Semua pembelian anda telah ditambahkan ke dalam peti sejuk",
+    "CL_DV_HOB_guide_for_best_results": "Panduan untuk hasil terbaik",
+    "CL_DV_HOB_program_content_step1": "Pilih kuantiti.",
+    "CL_DV_HOB_program_content_step2": "Pilih zon memasak yang anda mahu gunakan. ",
+    "CL_DV_HOB_program_content_step3": "Sahkan dengan butang \"WIFI\" pada zon terpilih pada hob aruhan.",
+    "CL_DV_HOB_temperature_content_step1": "Pilih suhu.",
+    "CL_CF_AS_your_device_offline": "Peranti anda di luar talian",
+    "CL_CF_AS_waiting": "menunggu...",
+    "CL_CF_CS_window_air_select_panel": "Pilih imej yang sepadan dengan panel kawalan unit anda.",
+    "CL_DV_HOB_program_zone_bridge_step2": "Pilih zon memasak atau zon jambatan yang anda mahu gunakan. "
 }
