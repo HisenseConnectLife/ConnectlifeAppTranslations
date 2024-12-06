@@ -3254,7 +3254,7 @@
     "air_care_elder": "พี่",
     "drum_illumination_desc": "ไฟส่องสว่างของดรัมจะส่องสว่างด้านในของดรัม ซึ่งช่วยคุณในการโหลดและเทเครื่องออกจากเครื่อง - ง่ายต่อการมองเห็นถุงเท้าที่เหลืออยู่ในดรัม นอกจากนี้ยังอำนวยความสะดวกในการตรวจสอบเมื่อทำความสะอาดตัวยกและส่วนแทรกของตัวยก",
     "turn_on_drum_illumination": "เปิด/ปิดไฟส่องสว่าง",
-    "wine_time": "เวลา",
+    "wine_time": "ครั้ง",
     "delete_account_camel_case": "ลบบัญชี",
     "program_mode_desc": "โหมดโปรแกรมช่วยให้คุณปรับแต่งโปรแกรมการอบแห้งและปรับเปลี่ยนตามความต้องการของคุณได้ ด้านล่างนี้คุณสามารถอ่านเกี่ยวกับโหมดต่างๆ และฟังก์ชันการทำงานได้",
     "program_mode_available": "มีโหมดการซักให้เลือกดังต่อไปนี้:",
@@ -4632,5 +4632,14 @@
     "CL_CF_HP_discover": "ค้นพบ",
     "CL_DV_HOB_cooking_assist": "เครื่องช่วยประกอบอาหาร",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "เลือกรุ่นอุปกรณ์",
-    "CL_CF_FM_all_purchases_added_to_rf": "การซื้อทั้งหมดของคุณถูกเพิ่มลงในตู้เย็นแล้ว"
+    "CL_CF_FM_all_purchases_added_to_rf": "การซื้อทั้งหมดของคุณถูกเพิ่มลงในตู้เย็นแล้ว",
+    "CL_DV_HOB_guide_for_best_results": "คำแนะนำเพื่อผลลัพธ์ที่ดีที่สุด",
+    "CL_DV_HOB_program_content_step1": "เลือกปริมาณ.",
+    "CL_DV_HOB_program_content_step2": "เลือกโซนการปรุงอาหารที่คุณต้องการใช้ ",
+    "CL_DV_HOB_program_content_step3": "ยืนยันด้วยปุ่ม “WIFI” ที่โซนที่เลือกบนเตาแม่เหล็กไฟฟ้า",
+    "CL_DV_HOB_temperature_content_step1": "เลือกอุณหภูมิ",
+    "CL_CF_AS_your_device_offline": "อุปกรณ์ของคุณออฟไลน์",
+    "CL_CF_AS_waiting": "ซึ่งรอคอย...",
+    "CL_CF_CS_window_air_select_panel": "เลือกภาพที่ตรงกับแผงควบคุมของเครื่องของคุณ",
+    "CL_DV_HOB_program_zone_bridge_step2": "เลือกโซนการปรุงอาหารหรือโซนสะพานเชื่อมที่คุณต้องการใช้ "
 }

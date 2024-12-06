@@ -3254,7 +3254,7 @@
     "air_care_elder": "Đàn anh",
     "drum_illumination_desc": "Đèn chiếu sáng Trống chiếu sáng bên trong trống, giúp bạn khi tải và lấy đồ ra khỏi máy - đơn giản là dễ dàng nhìn thấy chiếc tất còn lại bên trong trống. Nó cũng tạo điều kiện thuận lợi cho việc kiểm tra khi vệ sinh thiết bị nâng và vật chèn của thiết bị nâng.",
     "turn_on_drum_illumination": "Bật/tắt đèn chiếu sáng",
-    "wine_time": "Thời gian",
+    "wine_time": "lần",
     "delete_account_camel_case": "Xóa tài khoản",
     "program_mode_desc": "Chế độ chương trình cho phép bạn tùy chỉnh chương trình sấy và điều chỉnh nó dựa trên nhu cầu của bạn. Dưới đây bạn có thể đọc về các chế độ khác nhau và chức năng của chúng.",
     "program_mode_available": "Có các chế độ giặt sau:",
@@ -4632,5 +4632,14 @@
     "CL_CF_HP_discover": "Phát hiện",
     "CL_DV_HOB_cooking_assist": "Trợ lý nấu ăn",
     "CL_CF_CS_tuya_dehumidifier_choose_device_model": "CHỌN MẪU THIẾT BỊ",
-    "CL_CF_FM_all_purchases_added_to_rf": "Tất cả các giao dịch mua của bạn đã được thêm vào tủ lạnh"
+    "CL_CF_FM_all_purchases_added_to_rf": "Tất cả các giao dịch mua của bạn đã được thêm vào tủ lạnh",
+    "CL_DV_HOB_guide_for_best_results": "Hướng dẫn để có kết quả tốt nhất",
+    "CL_DV_HOB_program_content_step1": "Chọn số lượng.",
+    "CL_DV_HOB_program_content_step2": "Chọn vùng nấu bạn muốn sử dụng. ",
+    "CL_DV_HOB_program_content_step3": "Xác nhận bằng nút “WIFI” trên vùng nấu đã chọn trên bếp từ.",
+    "CL_DV_HOB_temperature_content_step1": "Chọn nhiệt độ.",
+    "CL_CF_AS_your_device_offline": "Thiết bị của bạn đang ngoại tuyến",
+    "CL_CF_AS_waiting": "chờ...",
+    "CL_CF_CS_window_air_select_panel": "Chọn hình ảnh phù hợp với bảng điều khiển của thiết bị.",
+    "CL_DV_HOB_program_zone_bridge_step2": "Chọn vùng nấu hoặc vùng nấu liên kết mà bạn muốn sử dụng. "
 }
