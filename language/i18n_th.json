@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "อุปกรณ์ของคุณออฟไลน์",
     "CL_CF_AS_waiting": "ซึ่งรอคอย...",
     "CL_CF_CS_window_air_select_panel": "เลือกภาพที่ตรงกับแผงควบคุมของเครื่องของคุณ",
-    "CL_DV_HOB_program_zone_bridge_step2": "เลือกโซนการปรุงอาหารหรือโซนสะพานเชื่อมที่คุณต้องการใช้ "
+    "CL_DV_HOB_program_zone_bridge_step2": "เลือกโซนการปรุงอาหารหรือโซนสะพานเชื่อมที่คุณต้องการใช้ ",
+    "CL_CF_HP_Add_Automation": "เพิ่มการทำงานอัตโนมัติ",
+    "CL_CF_HP_Add_Automation_tip": "คุณสามารถเพิ่มกิจวัตรประจำวันที่ใช้บ่อยที่สุดได้ที่นี่",
+    "CL_CF_HP_Add_Home_Status": "เพิ่มสถานะบ้าน",
+    "CL_CF_HP_Add_Home_Status_tip": "คุณสามารถเพิ่มการ์ดอุปกรณ์ที่ใช้บ่อยที่สุดได้ที่นี่",
+    "CL_CF_HP_Add_Things_To_Do": "เพิ่มสิ่งที่ต้องทำ",
+    "CL_CF_HP_Add_Things_To_Do_tip": "คุณสามารถเพิ่มวิดเจ็ตที่ใช้บ่อยที่สุดได้ที่นี่",
+    "CL_CF_HP_Add_Discover": "เพิ่มการค้นพบ",
+    "CL_CF_HP_Add_Discover_tip": "คุณสามารถเพิ่มเคล็ดลับที่ใช้บ่อยที่สุดได้ที่นี่",
+    "CL_CF_HP_no_device_tip": "เชื่อมต่อ\nอุปกรณ์ของคุณ",
+    "CL_CF_AS_check_devices": "ตรวจสอบสถานะของอุปกรณ์ของคุณ",
+    "CL_CF_AS_scan": "สแกน"
 }

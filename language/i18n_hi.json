@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "आपका डिवाइस ऑफ़लाइन है",
     "CL_CF_AS_waiting": "इंतज़ार में...",
     "CL_CF_CS_window_air_select_panel": "अपनी यूनिट के नियंत्रण पैनल से मेल खाने वाली छवि का चयन करें।",
-    "CL_DV_HOB_program_zone_bridge_step2": "उस कुकिंग जोन या ब्रिज्ड जोन का चयन करें जिसका आप उपयोग करना चाहते हैं। "
+    "CL_DV_HOB_program_zone_bridge_step2": "उस कुकिंग जोन या ब्रिज्ड जोन का चयन करें जिसका आप उपयोग करना चाहते हैं। ",
+    "CL_CF_HP_Add_Automation": "स्वचालन जोड़ें",
+    "CL_CF_HP_Add_Automation_tip": "आप यहां सबसे अधिक उपयोग किए जाने वाले मैनुअल रूटीन जोड़ सकते हैं",
+    "CL_CF_HP_Add_Home_Status": "होम स्थिति जोड़ें",
+    "CL_CF_HP_Add_Home_Status_tip": "आप यहां सबसे अधिक उपयोग किए जाने वाले डिवाइस कार्ड जोड़ सकते हैं",
+    "CL_CF_HP_Add_Things_To_Do": "करने के लिए चीज़ें जोड़ें",
+    "CL_CF_HP_Add_Things_To_Do_tip": "आप यहां सबसे अधिक उपयोग किए जाने वाले विजेट जोड़ सकते हैं",
+    "CL_CF_HP_Add_Discover": "डिस्कवर जोड़ें",
+    "CL_CF_HP_Add_Discover_tip": "आप सबसे अधिक उपयोग की जाने वाली युक्तियाँ यहाँ जोड़ सकते हैं",
+    "CL_CF_HP_no_device_tip": "अपने डिवाइस\n कनेक्ट करें",
+    "CL_CF_AS_check_devices": "अपने डिवाइस की स्थिति जांचें।",
+    "CL_CF_AS_scan": "स्कैन"
 }

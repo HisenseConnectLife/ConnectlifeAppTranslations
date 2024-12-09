@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "دستگاه شما آفلاین است",
     "CL_CF_AS_waiting": "منتظر...",
     "CL_CF_CS_window_air_select_panel": "تصویری را انتخاب کنید که با کنترل پنل دستگاه شما مطابقت دارد.",
-    "CL_DV_HOB_program_zone_bridge_step2": "منطقه پخت و پز یا مناطق پل شده ای را که می خواهید استفاده کنید انتخاب کنید. "
+    "CL_DV_HOB_program_zone_bridge_step2": "منطقه پخت و پز یا مناطق پل شده ای را که می خواهید استفاده کنید انتخاب کنید. ",
+    "CL_CF_HP_Add_Automation": "اتوماسیون را اضافه کنید",
+    "CL_CF_HP_Add_Automation_tip": "شما می توانید پر استفاده ترین روال های دستی را در اینجا اضافه کنید",
+    "CL_CF_HP_Add_Home_Status": "اضافه کردن وضعیت خانه",
+    "CL_CF_HP_Add_Home_Status_tip": "می‌توانید کارت‌های دستگاه‌های پرکاربرد را در اینجا اضافه کنید",
+    "CL_CF_HP_Add_Things_To_Do": "چیزهایی که باید انجام شود را اضافه کنید",
+    "CL_CF_HP_Add_Things_To_Do_tip": "شما می توانید ابزارک های پر استفاده را در اینجا اضافه کنید",
+    "CL_CF_HP_Add_Discover": "Discover را اضافه کنید",
+    "CL_CF_HP_Add_Discover_tip": "در اینجا می توانید نکاتی را که بیشترین استفاده را دارند اضافه کنید",
+    "CL_CF_HP_no_device_tip": "دستگاه\n های خود را وصل کنید",
+    "CL_CF_AS_check_devices": "وضعیت دستگاهتان را بررسی کنید.",
+    "CL_CF_AS_scan": "اسکن"
 }

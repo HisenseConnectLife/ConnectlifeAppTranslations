@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Eszköze offline állapotban van",
     "CL_CF_AS_waiting": "várakozás...",
     "CL_CF_CS_window_air_select_panel": "Válassza ki azt a képet, amelyik illik az egység vezérlőpultjához.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Válassza ki a használni kívánt főzőzónát vagy áthidalt zónákat. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Válassza ki a használni kívánt főzőzónát vagy áthidalt zónákat. ",
+    "CL_CF_HP_Add_Automation": "Automatizálás hozzáadása",
+    "CL_CF_HP_Add_Automation_tip": "Itt adhatja hozzá a leggyakrabban használt manuális rutinokat",
+    "CL_CF_HP_Add_Home_Status": "Otthoni állapot hozzáadása",
+    "CL_CF_HP_Add_Home_Status_tip": "Itt adhatja hozzá a leggyakrabban használt eszközkártyákat",
+    "CL_CF_HP_Add_Things_To_Do": "Teendők hozzáadása",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Itt adhatja hozzá a leggyakrabban használt widgeteket",
+    "CL_CF_HP_Add_Discover": "Felfedezés hozzáadása",
+    "CL_CF_HP_Add_Discover_tip": "Itt adhatja hozzá a leggyakrabban használt tippeket",
+    "CL_CF_HP_no_device_tip": "Csatlakoztassa\neszközeit",
+    "CL_CF_AS_check_devices": "Ellenőrizze a készülék állapotát.",
+    "CL_CF_AS_scan": "LETAPOGATÁS"
 }

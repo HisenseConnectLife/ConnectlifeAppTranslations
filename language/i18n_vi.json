@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Thiết bị của bạn đang ngoại tuyến",
     "CL_CF_AS_waiting": "chờ...",
     "CL_CF_CS_window_air_select_panel": "Chọn hình ảnh phù hợp với bảng điều khiển của thiết bị.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Chọn vùng nấu hoặc vùng nấu liên kết mà bạn muốn sử dụng. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Chọn vùng nấu hoặc vùng nấu liên kết mà bạn muốn sử dụng. ",
+    "CL_CF_HP_Add_Automation": "Thêm Tự động hóa",
+    "CL_CF_HP_Add_Automation_tip": "Bạn có thể thêm các thói quen thủ công được sử dụng nhiều nhất ở đây",
+    "CL_CF_HP_Add_Home_Status": "Thêm trạng thái trang chủ",
+    "CL_CF_HP_Add_Home_Status_tip": "Bạn có thể thêm các thẻ thiết bị được sử dụng nhiều nhất tại đây",
+    "CL_CF_HP_Add_Things_To_Do": "Thêm việc cần làm",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Bạn có thể thêm các tiện ích được sử dụng nhiều nhất ở đây",
+    "CL_CF_HP_Add_Discover": "Thêm Khám phá",
+    "CL_CF_HP_Add_Discover_tip": "Bạn có thể thêm các mẹo được sử dụng nhiều nhất ở đây",
+    "CL_CF_HP_no_device_tip": "Kết nối\nthiết bị của bạn",
+    "CL_CF_AS_check_devices": "Kiểm tra trạng thái thiết bị của bạn.",
+    "CL_CF_AS_scan": "QUÉT"
 }

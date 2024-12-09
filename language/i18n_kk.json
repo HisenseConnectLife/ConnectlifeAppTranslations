@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Құрылғыңыз желіден тыс",
     "CL_CF_AS_waiting": "күтуде...",
     "CL_CF_CS_window_air_select_panel": "Құрылғының басқару тақтасына сәйкес келетін кескінді таңдаңыз.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Пайдаланғыңыз келетін пісіру аймағын немесе көпірленген аймақтарды таңдаңыз. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Пайдаланғыңыз келетін пісіру аймағын немесе көпірленген аймақтарды таңдаңыз. ",
+    "CL_CF_HP_Add_Automation": "Автоматтандыруды қосыңыз",
+    "CL_CF_HP_Add_Automation_tip": "Мұнда ең көп қолданылатын қолмен жұмыс режимдерін қосуға болады",
+    "CL_CF_HP_Add_Home_Status": "Үй күйін қосу",
+    "CL_CF_HP_Add_Home_Status_tip": "Мұнда ең көп қолданылатын құрылғы карталарын қосуға болады",
+    "CL_CF_HP_Add_Things_To_Do": "Орындалатын нәрселерді қосыңыз",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Мұнда ең көп қолданылатын виджеттерді қосуға болады",
+    "CL_CF_HP_Add_Discover": "Discover қосу",
+    "CL_CF_HP_Add_Discover_tip": "Мұнда ең көп қолданылатын кеңестерді қосуға болады",
+    "CL_CF_HP_no_device_tip": "Құрылғыларыңызды\nқосыңыз",
+    "CL_CF_AS_check_devices": "Құрылғыңыздың күйін тексеріңіз.",
+    "CL_CF_AS_scan": "SCAN"
 }

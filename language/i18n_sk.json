@@ -4580,7 +4580,7 @@
     "CL_DV_RF_last_clean_was": "Posledné čistenie bolo **",
     "CL_CF_AS_cleaning_and_care_tips": "Tipy na čistenie a starostlivosť",
     "CL_CF_AS_needs_attention": "",
-    "CL_CF_AS_run_normal_condition": "",
+    "CL_CF_AS_run_normal_condition": "Vaše zariadenia bežia v normálnom stave.",
     "CL_DV_WM_offline_content1": "Skontrolujte, či je vaše zariadenie zapojené a napájanie je zapnuté.",
     "CL_DV_WM_offline_content2": "Uistite sa, že vaša skrinka je pripojená k miestnej bezdrôtovej sieti.",
     "CL_DV_WM_offline_content3": "Skontrolujte silu vášho WiFi signálu. Ak je signál slabý, môže to znamenať, že router je príliš ďaleko od skrinky.",
@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Vaše zariadenie je offline.",
     "CL_CF_AS_waiting": "čakanie...",
     "CL_CF_CS_window_air_select_panel": "Vyberte obrázok, ktorý sa zhoduje s ovládacím panelom vašej jednotky.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Vyberte varnú zónu alebo premostené zóny, ktoré chcete použiť. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Vyberte varnú zónu alebo premostené zóny, ktoré chcete použiť. ",
+    "CL_CF_HP_Add_Automation": "Pridať automatizáciu",
+    "CL_CF_HP_Add_Automation_tip": "Tu môžete pridať najpoužívanejšie manuálne rutiny",
+    "CL_CF_HP_Add_Home_Status": "Pridať stav domova",
+    "CL_CF_HP_Add_Home_Status_tip": "Tu môžete pridať najpoužívanejšie karty zariadení",
+    "CL_CF_HP_Add_Things_To_Do": "Pridať aktivity",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Tu môžete pridať najpoužívanejšie widgety",
+    "CL_CF_HP_Add_Discover": "Pridať Discover",
+    "CL_CF_HP_Add_Discover_tip": "Tu môžete pridať najpoužívanejšie tipy",
+    "CL_CF_HP_no_device_tip": "Pripojte\nvaše zariadenia",
+    "CL_CF_AS_check_devices": "Skontrolujte stav svojho zariadenia.",
+    "CL_CF_AS_scan": "SKENOVAŤ"
 }

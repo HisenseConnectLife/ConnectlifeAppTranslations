@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Vaše zařízení je offline",
     "CL_CF_AS_waiting": "čekání...",
     "CL_CF_CS_window_air_select_panel": "Vyberte obrázek, který odpovídá ovládacímu panelu vaší jednotky.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Vyberte varnou zónu nebo přemostěné zóny, které chcete použít. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Vyberte varnou zónu nebo přemostěné zóny, které chcete použít. ",
+    "CL_CF_HP_Add_Automation": "Přidat automatizaci",
+    "CL_CF_HP_Add_Automation_tip": "Zde můžete přidat nejpoužívanější ruční rutiny",
+    "CL_CF_HP_Add_Home_Status": "Přidat stav domova",
+    "CL_CF_HP_Add_Home_Status_tip": "Zde můžete přidat nejpoužívanější karty zařízení",
+    "CL_CF_HP_Add_Things_To_Do": "Přidat úkoly",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Zde můžete přidat nejpoužívanější widgety",
+    "CL_CF_HP_Add_Discover": "Přidat Discover",
+    "CL_CF_HP_Add_Discover_tip": "Zde můžete přidávat nejpoužívanější tipy",
+    "CL_CF_HP_no_device_tip": "Připojte\nvaše zařízení",
+    "CL_CF_AS_check_devices": "Zkontrolujte stav svého zařízení.",
+    "CL_CF_AS_scan": "SKENOVAT"
 }

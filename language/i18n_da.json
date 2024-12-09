@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Din enhed er offline",
     "CL_CF_AS_waiting": "venter...",
     "CL_CF_CS_window_air_select_panel": "Vælg det billede, der matcher din enheds kontrolpanel.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Vælg den kogezone eller de brokoblede zoner, du vil bruge. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Vælg den kogezone eller de brokoblede zoner, du vil bruge. ",
+    "CL_CF_HP_Add_Automation": "Tilføj automatisering",
+    "CL_CF_HP_Add_Automation_tip": "Du kan tilføje de mest brugte manuelle rutiner her",
+    "CL_CF_HP_Add_Home_Status": "Tilføj Home Status",
+    "CL_CF_HP_Add_Home_Status_tip": "Du kan tilføje de mest brugte enhedskort her",
+    "CL_CF_HP_Add_Things_To_Do": "Tilføj ting at gøre",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Du kan tilføje de mest brugte widgets her",
+    "CL_CF_HP_Add_Discover": "Tilføj Discover",
+    "CL_CF_HP_Add_Discover_tip": "Du kan tilføje de mest brugte tips her",
+    "CL_CF_HP_no_device_tip": "Tilslut\ndine enheder",
+    "CL_CF_AS_check_devices": "Tjek status for din enhed.",
+    "CL_CF_AS_scan": "SCAN"
 }

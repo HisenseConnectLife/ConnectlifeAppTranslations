@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "המכשיר שלך במצב לא מקוון",
     "CL_CF_AS_waiting": "הַמתָנָה...",
     "CL_CF_CS_window_air_select_panel": "בחר את התמונה המתאימה ללוח הבקרה של היחידה שלך.",
-    "CL_DV_HOB_program_zone_bridge_step2": "בחר את אזור הבישול או את האזורים המגושרים שבהם ברצונך להשתמש. "
+    "CL_DV_HOB_program_zone_bridge_step2": "בחר את אזור הבישול או את האזורים המגושרים שבהם ברצונך להשתמש. ",
+    "CL_CF_HP_Add_Automation": "הוסף אוטומציה",
+    "CL_CF_HP_Add_Automation_tip": "אתה יכול להוסיף את השגרות הידניות הנפוצות ביותר כאן",
+    "CL_CF_HP_Add_Home_Status": "הוסף סטטוס בית",
+    "CL_CF_HP_Add_Home_Status_tip": "אתה יכול להוסיף את כרטיסי המכשירים הנפוצים ביותר כאן",
+    "CL_CF_HP_Add_Things_To_Do": "הוסף דברים לעשות",
+    "CL_CF_HP_Add_Things_To_Do_tip": "אתה יכול להוסיף את הווידג'טים הנפוצים ביותר כאן",
+    "CL_CF_HP_Add_Discover": "הוסף את Discover",
+    "CL_CF_HP_Add_Discover_tip": "אתה יכול להוסיף את הטיפים הנפוצים ביותר כאן",
+    "CL_CF_HP_no_device_tip": "חבר\n את המכשירים שלך",
+    "CL_CF_AS_check_devices": "בדוק את מצב המכשיר שלך.",
+    "CL_CF_AS_scan": "לִסְרוֹק"
 }

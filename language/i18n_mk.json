@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Вашиот уред е офлајн",
     "CL_CF_AS_waiting": "чекање...",
     "CL_CF_CS_window_air_select_panel": "Изберете ја сликата што одговара на контролната табла на вашиот уред.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Изберете ја зоната за готвење или премостените зони што сакате да ги користите. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Изберете ја зоната за готвење или премостените зони што сакате да ги користите. ",
+    "CL_CF_HP_Add_Automation": "Додадете автоматизација",
+    "CL_CF_HP_Add_Automation_tip": "Овде можете да ги додадете најкористените рачни рутини",
+    "CL_CF_HP_Add_Home_Status": "Додадете статус на дом",
+    "CL_CF_HP_Add_Home_Status_tip": "Тука можете да ги додадете најкористените картички на уредите",
+    "CL_CF_HP_Add_Things_To_Do": "Додадете работи што треба да ги направите",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Овде можете да ги додадете најкористените графички контроли",
+    "CL_CF_HP_Add_Discover": "Додадете Discover",
+    "CL_CF_HP_Add_Discover_tip": "Тука можете да ги додадете најкористените совети",
+    "CL_CF_HP_no_device_tip": "Поврзете ги/nвашите уреди",
+    "CL_CF_AS_check_devices": "Проверете го статусот на вашиот уред.",
+    "CL_CF_AS_scan": "СКЕНИРАЊЕ"
 }

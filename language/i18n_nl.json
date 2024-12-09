@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Uw apparaat is offline",
     "CL_CF_AS_waiting": "wachten...",
     "CL_CF_CS_window_air_select_panel": "Selecteer de afbeelding die overeenkomt met het bedieningspaneel van uw apparaat.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Selecteer de kookzone of de gekoppelde zones die u wilt gebruiken. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Selecteer de kookzone of de gekoppelde zones die u wilt gebruiken. ",
+    "CL_CF_HP_Add_Automation": "Automatisering toevoegen",
+    "CL_CF_HP_Add_Automation_tip": "Hier kunt u de meest gebruikte handmatige routines toevoegen",
+    "CL_CF_HP_Add_Home_Status": "Voeg thuisstatus toe",
+    "CL_CF_HP_Add_Home_Status_tip": "Hier kunt u de meest gebruikte apparaatkaarten toevoegen",
+    "CL_CF_HP_Add_Things_To_Do": "Voeg dingen toe om te doen",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Hier kunt u de meest gebruikte widgets toevoegen",
+    "CL_CF_HP_Add_Discover": "Ontdek toevoegen",
+    "CL_CF_HP_Add_Discover_tip": "Hier kunt u de meest gebruikte tips toevoegen",
+    "CL_CF_HP_no_device_tip": "Verbind\nuw apparaten",
+    "CL_CF_AS_check_devices": "Controleer de status van uw apparaat.",
+    "CL_CF_AS_scan": "SCANNEN"
 }
