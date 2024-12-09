@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Ваш пристрій офлайн",
     "CL_CF_AS_waiting": "чекаю...",
     "CL_CF_CS_window_air_select_panel": "Виберіть зображення, яке відповідає панелі керування вашого пристрою.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Виберіть зону нагрівання або зони, які ви хочете використовувати. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Виберіть зону нагрівання або зони, які ви хочете використовувати. ",
+    "CL_CF_HP_Add_Automation": "Додати автоматизацію",
+    "CL_CF_HP_Add_Automation_tip": "Тут ви можете додати найбільш використовувані ручні процедури",
+    "CL_CF_HP_Add_Home_Status": "Додайте домашній статус",
+    "CL_CF_HP_Add_Home_Status_tip": "Тут можна додати карти пристроїв, які найчастіше використовуються",
+    "CL_CF_HP_Add_Things_To_Do": "Додайте речі, які потрібно зробити",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Тут можна додати віджети, які найчастіше використовуються",
+    "CL_CF_HP_Add_Discover": "Додати Discover",
+    "CL_CF_HP_Add_Discover_tip": "Тут ви можете додати найбільш використовувані поради",
+    "CL_CF_HP_no_device_tip": "Підключіть\nваші пристрої",
+    "CL_CF_AS_check_devices": "Перевірте стан свого пристрою.",
+    "CL_CF_AS_scan": "СКАНУВАТИ"
 }

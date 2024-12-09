@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Votre appareil est hors ligne",
     "CL_CF_AS_waiting": "en attendant...",
     "CL_CF_CS_window_air_select_panel": "Sélectionnez l’image qui correspond au panneau de commande de votre appareil.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Sélectionnez la zone de cuisson ou les zones pontées que vous souhaitez utiliser. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Sélectionnez la zone de cuisson ou les zones pontées que vous souhaitez utiliser. ",
+    "CL_CF_HP_Add_Automation": "Ajouter une automatisation",
+    "CL_CF_HP_Add_Automation_tip": "Vous pouvez ajouter ici les routines manuelles les plus utilisées",
+    "CL_CF_HP_Add_Home_Status": "Ajouter le statut de la maison",
+    "CL_CF_HP_Add_Home_Status_tip": "Vous pouvez ajouter ici les cartes d'appareils les plus utilisées",
+    "CL_CF_HP_Add_Things_To_Do": "Ajouter des choses à faire",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Vous pouvez ajouter ici les widgets les plus utilisés",
+    "CL_CF_HP_Add_Discover": "Ajouter Découvrir",
+    "CL_CF_HP_Add_Discover_tip": "Vous pouvez ajouter ici les astuces les plus utilisées",
+    "CL_CF_HP_no_device_tip": "Connectez\nvos appareils",
+    "CL_CF_AS_check_devices": "Vérifiez l'état de votre appareil.",
+    "CL_CF_AS_scan": "BALAYAGE"
 }

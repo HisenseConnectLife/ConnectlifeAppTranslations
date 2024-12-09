@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Ihr Gerät ist offline",
     "CL_CF_AS_waiting": "Warten...",
     "CL_CF_CS_window_air_select_panel": "Wählen Sie das Bild aus, das zum Bedienfeld Ihres Geräts passt.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Wählen Sie die Kochzone oder die Brückenzonen aus, die Sie nutzen möchten. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Wählen Sie die Kochzone oder die Brückenzonen aus, die Sie nutzen möchten. ",
+    "CL_CF_HP_Add_Automation": "Automatisierung hinzufügen",
+    "CL_CF_HP_Add_Automation_tip": "Sie können die am häufigsten verwendeten manuellen Routinen hier hinzufügen",
+    "CL_CF_HP_Add_Home_Status": "Home-Status hinzufügen",
+    "CL_CF_HP_Add_Home_Status_tip": "Hier können Sie die am häufigsten verwendeten Gerätekarten hinzufügen",
+    "CL_CF_HP_Add_Things_To_Do": "Dinge hinzufügen, die Sie tun möchten",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Hier können Sie die am häufigsten verwendeten Widgets hinzufügen",
+    "CL_CF_HP_Add_Discover": "Entdecken hinzufügen",
+    "CL_CF_HP_Add_Discover_tip": "Hier können Sie die am häufigsten verwendeten Tipps hinzufügen",
+    "CL_CF_HP_no_device_tip": "Verbinden\nIhre Geräte",
+    "CL_CF_AS_check_devices": "Überprüfen Sie den Status Ihres Geräts.",
+    "CL_CF_AS_scan": "SCAN"
 }

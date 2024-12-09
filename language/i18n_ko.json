@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "귀하의 기기는 오프라인 상태입니다.",
     "CL_CF_AS_waiting": "대기 중...",
     "CL_CF_CS_window_air_select_panel": "귀하의 장치 제어판과 일치하는 이미지를 선택하세요.",
-    "CL_DV_HOB_program_zone_bridge_step2": "사용하고 싶은 조리 구역이나 브리지 구역을 선택하세요. "
+    "CL_DV_HOB_program_zone_bridge_step2": "사용하고 싶은 조리 구역이나 브리지 구역을 선택하세요. ",
+    "CL_CF_HP_Add_Automation": "자동화 추가",
+    "CL_CF_HP_Add_Automation_tip": "가장 많이 사용되는 수동 루틴을 여기에 추가할 수 있습니다.",
+    "CL_CF_HP_Add_Home_Status": "홈 상태 추가",
+    "CL_CF_HP_Add_Home_Status_tip": "가장 많이 사용하는 장치 카드를 여기에 추가할 수 있습니다.",
+    "CL_CF_HP_Add_Things_To_Do": "할 일 추가",
+    "CL_CF_HP_Add_Things_To_Do_tip": "가장 많이 사용되는 위젯을 여기에 추가할 수 있습니다",
+    "CL_CF_HP_Add_Discover": "발견 추가",
+    "CL_CF_HP_Add_Discover_tip": "가장 많이 사용되는 팁을 여기에 추가할 수 있습니다",
+    "CL_CF_HP_no_device_tip": "장치\n 연결",
+    "CL_CF_AS_check_devices": "장치의 상태를 확인하십시오.",
+    "CL_CF_AS_scan": "주사"
 }

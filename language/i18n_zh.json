@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "您的设备处于离线状态",
     "CL_CF_AS_waiting": "等待...",
     "CL_CF_CS_window_air_select_panel": "选择与您的设备控制面板相匹配的图像。",
-    "CL_DV_HOB_program_zone_bridge_step2": "选择您想要使用的烹饪区或桥接区。 "
+    "CL_DV_HOB_program_zone_bridge_step2": "选择您想要使用的烹饪区或桥接区。 ",
+    "CL_CF_HP_Add_Automation": "添加自动化",
+    "CL_CF_HP_Add_Automation_tip": "您可以在此处添加最常用的手动例程",
+    "CL_CF_HP_Add_Home_Status": "添加家庭状态",
+    "CL_CF_HP_Add_Home_Status_tip": "您可以在此处添加最常用的设备卡",
+    "CL_CF_HP_Add_Things_To_Do": "添加要做的事情",
+    "CL_CF_HP_Add_Things_To_Do_tip": "您可以在此处添加最常用的小部件",
+    "CL_CF_HP_Add_Discover": "添加发现",
+    "CL_CF_HP_Add_Discover_tip": "您可以在此处添加最常用的提示",
+    "CL_CF_HP_no_device_tip": "连接\n你的设备",
+    "CL_CF_AS_check_devices": "请确认家电的状态",
+    "CL_CF_AS_scan": "扫描"
 }

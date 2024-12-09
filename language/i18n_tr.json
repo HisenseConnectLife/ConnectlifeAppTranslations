@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Cihazınız çevrimdışı",
     "CL_CF_AS_waiting": "beklemek...",
     "CL_CF_CS_window_air_select_panel": "Ünitenizin kontrol paneline uygun görseli seçin.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Kullanmak istediğiniz pişirme bölgesini veya köprü bölgelerini seçin. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Kullanmak istediğiniz pişirme bölgesini veya köprü bölgelerini seçin. ",
+    "CL_CF_HP_Add_Automation": "Otomasyon Ekle",
+    "CL_CF_HP_Add_Automation_tip": "En çok kullanılan manuel rutinleri buraya ekleyebilirsiniz",
+    "CL_CF_HP_Add_Home_Status": "Ev Durumunu Ekle",
+    "CL_CF_HP_Add_Home_Status_tip": "En çok kullanılan cihaz kartlarını buraya ekleyebilirsiniz",
+    "CL_CF_HP_Add_Things_To_Do": "Yapılacak Şeyler Ekle",
+    "CL_CF_HP_Add_Things_To_Do_tip": "En çok kullanılan widget'ları buraya ekleyebilirsiniz",
+    "CL_CF_HP_Add_Discover": "Ekle Keşfet",
+    "CL_CF_HP_Add_Discover_tip": "En çok kullanılan ipuçlarını buraya ekleyebilirsiniz",
+    "CL_CF_HP_no_device_tip": "Cihazlarınızı\n bağlayın",
+    "CL_CF_AS_check_devices": "Cihazınızın durumunu kontrol edin.",
+    "CL_CF_AS_scan": "TARAMA"
 }

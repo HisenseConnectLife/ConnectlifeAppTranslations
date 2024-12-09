@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Vaš uređaj je izvan mreže",
     "CL_CF_AS_waiting": "čekanje...",
     "CL_CF_CS_window_air_select_panel": "Odaberite sliku koja odgovara upravljačkoj ploči vaše jedinice.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Odaberite polje za kuhanje ili premoštene zone koje želite koristiti. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Odaberite polje za kuhanje ili premoštene zone koje želite koristiti. ",
+    "CL_CF_HP_Add_Automation": "Dodaj automatizaciju",
+    "CL_CF_HP_Add_Automation_tip": "Ovdje možete dodati najčešće korištene ručne rutine",
+    "CL_CF_HP_Add_Home_Status": "Dodajte status doma",
+    "CL_CF_HP_Add_Home_Status_tip": "Ovdje možete dodati najčešće korištene kartice uređaja",
+    "CL_CF_HP_Add_Things_To_Do": "Dodajte aktivnosti",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Ovdje možete dodati najčešće korištene widgete",
+    "CL_CF_HP_Add_Discover": "Dodajte Discover",
+    "CL_CF_HP_Add_Discover_tip": "Ovdje možete dodati najčešće korištene savjete",
+    "CL_CF_HP_no_device_tip": "Povežite\nsvoje uređaje",
+    "CL_CF_AS_check_devices": "Provjerite status svog uređaja.",
+    "CL_CF_AS_scan": "SKENIRATI"
 }

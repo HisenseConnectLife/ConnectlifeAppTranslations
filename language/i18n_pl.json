@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Twoje urządzenie jest offline",
     "CL_CF_AS_waiting": "czekanie...",
     "CL_CF_CS_window_air_select_panel": "Wybierz obraz odpowiadający panelowi sterowania Twojego urządzenia.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Wybierz strefę grzejną lub strefy łączone, których chcesz użyć. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Wybierz strefę grzejną lub strefy łączone, których chcesz użyć. ",
+    "CL_CF_HP_Add_Automation": "Dodaj automatyzację",
+    "CL_CF_HP_Add_Automation_tip": "Tutaj możesz dodać najczęściej używane procedury ręczne",
+    "CL_CF_HP_Add_Home_Status": "Dodaj status domu",
+    "CL_CF_HP_Add_Home_Status_tip": "Tutaj możesz dodać najczęściej używane karty urządzeń",
+    "CL_CF_HP_Add_Things_To_Do": "Dodaj rzeczy do zrobienia",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Tutaj możesz dodać najczęściej używane widżety",
+    "CL_CF_HP_Add_Discover": "Dodaj Odkryj",
+    "CL_CF_HP_Add_Discover_tip": "Tutaj możesz dodać najczęściej używane wskazówki",
+    "CL_CF_HP_no_device_tip": "Podłącz\nswoje urządzenia",
+    "CL_CF_AS_check_devices": "Sprawdź stan swojego urządzenia.",
+    "CL_CF_AS_scan": "SKANDOWAĆ"
 }

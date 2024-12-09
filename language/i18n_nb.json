@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Enheten din er frakoblet",
     "CL_CF_AS_waiting": "venter...",
     "CL_CF_CS_window_air_select_panel": "Velg bildet som samsvarer med enhetens kontrollpanel.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Velg kokesonen eller de brokoblede sonene du vil bruke. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Velg kokesonen eller de brokoblede sonene du vil bruke. ",
+    "CL_CF_HP_Add_Automation": "Legg til automatisering",
+    "CL_CF_HP_Add_Automation_tip": "Du kan legge til de mest brukte manuelle rutinene her",
+    "CL_CF_HP_Add_Home_Status": "Legg til hjemmestatus",
+    "CL_CF_HP_Add_Home_Status_tip": "Du kan legge til de mest brukte enhetskortene her",
+    "CL_CF_HP_Add_Things_To_Do": "Legg til ting å gjøre",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Du kan legge til de mest brukte widgetene her",
+    "CL_CF_HP_Add_Discover": "Legg til Discover",
+    "CL_CF_HP_Add_Discover_tip": "Du kan legge til de mest brukte tipsene her",
+    "CL_CF_HP_no_device_tip": "Koble til\nenhetene dine",
+    "CL_CF_AS_check_devices": "Sjekk statusen til enheten din.",
+    "CL_CF_AS_scan": "SKANNING"
 }

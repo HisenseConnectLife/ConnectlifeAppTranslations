@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Din enhet är offline",
     "CL_CF_AS_waiting": "väntan...",
     "CL_CF_CS_window_air_select_panel": "Välj den bild som matchar enhetens kontrollpanel.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Välj den kokzon eller de överbryggade zonerna du vill använda. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Välj den kokzon eller de överbryggade zonerna du vill använda. ",
+    "CL_CF_HP_Add_Automation": "Lägg till automatisering",
+    "CL_CF_HP_Add_Automation_tip": "Du kan lägga till de mest använda manuella rutinerna här",
+    "CL_CF_HP_Add_Home_Status": "Lägg till hemstatus",
+    "CL_CF_HP_Add_Home_Status_tip": "Du kan lägga till de mest använda enhetskorten här",
+    "CL_CF_HP_Add_Things_To_Do": "Lägg till saker att göra",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Du kan lägga till de mest använda widgetarna här",
+    "CL_CF_HP_Add_Discover": "Lägg till Discover",
+    "CL_CF_HP_Add_Discover_tip": "Du kan lägga till de mest använda tipsen här",
+    "CL_CF_HP_no_device_tip": "Anslut\ndina enheter",
+    "CL_CF_AS_check_devices": "Kontrollera status för din enhet.",
+    "CL_CF_AS_scan": "AVSÖKA"
 }

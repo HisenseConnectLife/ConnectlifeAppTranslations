@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Dispozitivul dvs. este offline",
     "CL_CF_AS_waiting": "aşteptare...",
     "CL_CF_CS_window_air_select_panel": "Selectați imaginea care se potrivește cu panoul de control al unității dvs.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Selectați zona de gătit sau zonele cu punte pe care doriți să le utilizați. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Selectați zona de gătit sau zonele cu punte pe care doriți să le utilizați. ",
+    "CL_CF_HP_Add_Automation": "Adăugați automatizare",
+    "CL_CF_HP_Add_Automation_tip": "Puteți adăuga aici cele mai utilizate rutine manuale",
+    "CL_CF_HP_Add_Home_Status": "Adăugați starea acasă",
+    "CL_CF_HP_Add_Home_Status_tip": "Puteți adăuga cele mai utilizate carduri de dispozitiv aici",
+    "CL_CF_HP_Add_Things_To_Do": "Adăugați lucruri de făcut",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Puteți adăuga cele mai utilizate widget-uri aici",
+    "CL_CF_HP_Add_Discover": "Adăugați Discover",
+    "CL_CF_HP_Add_Discover_tip": "Puteți adăuga cele mai folosite sfaturi aici",
+    "CL_CF_HP_no_device_tip": "Conectați\ndispozitivele dvs",
+    "CL_CF_AS_check_devices": "Verificați starea dispozitivului dvs.",
+    "CL_CF_AS_scan": "SCANĂ"
 }

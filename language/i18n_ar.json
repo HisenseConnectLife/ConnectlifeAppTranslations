@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "جهازك غير متصل بالإنترنت",
     "CL_CF_AS_waiting": "منتظر...",
     "CL_CF_CS_window_air_select_panel": "قم باختيار الصورة التي تتطابق مع لوحة التحكم الخاصة بوحدتك.",
-    "CL_DV_HOB_program_zone_bridge_step2": "قم باختيار منطقة الطهي أو المناطق المتصلة التي تريد استخدامها. "
+    "CL_DV_HOB_program_zone_bridge_step2": "قم باختيار منطقة الطهي أو المناطق المتصلة التي تريد استخدامها. ",
+    "CL_CF_HP_Add_Automation": "إضافة الأتمتة",
+    "CL_CF_HP_Add_Automation_tip": "يمكنك إضافة الروتينات اليدوية الأكثر استخدامًا هنا",
+    "CL_CF_HP_Add_Home_Status": "إضافة حالة المنزل",
+    "CL_CF_HP_Add_Home_Status_tip": "يمكنك إضافة بطاقات الأجهزة الأكثر استخدامًا هنا",
+    "CL_CF_HP_Add_Things_To_Do": "أضف أشياء للقيام بها",
+    "CL_CF_HP_Add_Things_To_Do_tip": "يمكنك إضافة الأدوات الأكثر استخدامًا هنا",
+    "CL_CF_HP_Add_Discover": "إضافة اكتشف",
+    "CL_CF_HP_Add_Discover_tip": "يمكنك إضافة النصائح الأكثر استخدامًا هنا",
+    "CL_CF_HP_no_device_tip": "قم بتوصيل\n أجهزتك",
+    "CL_CF_AS_check_devices": "تحقق من حالة جهازك.",
+    "CL_CF_AS_scan": "مسح ضوئي"
 }

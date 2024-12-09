@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Perangkat Anda sedang offline",
     "CL_CF_AS_waiting": "menunggu...",
     "CL_CF_CS_window_air_select_panel": "Pilih gambar yang sesuai dengan panel kontrol unit Anda.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Pilih zona memasak atau zona jembatan yang ingin Anda gunakan. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Pilih zona memasak atau zona jembatan yang ingin Anda gunakan. ",
+    "CL_CF_HP_Add_Automation": "Tambahkan Otomatisasi",
+    "CL_CF_HP_Add_Automation_tip": "Anda dapat menambahkan rutinitas manual yang paling sering digunakan di sini",
+    "CL_CF_HP_Add_Home_Status": "Tambahkan Status Rumah",
+    "CL_CF_HP_Add_Home_Status_tip": "Anda dapat menambahkan kartu perangkat yang paling sering digunakan di sini",
+    "CL_CF_HP_Add_Things_To_Do": "Tambahkan Hal yang Harus Dilakukan",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Anda dapat menambahkan widget yang paling sering digunakan di sini",
+    "CL_CF_HP_Add_Discover": "Tambahkan Temukan",
+    "CL_CF_HP_Add_Discover_tip": "Anda dapat menambahkan tips yang paling sering digunakan di sini",
+    "CL_CF_HP_no_device_tip": "Hubungkan\nperangkat Anda",
+    "CL_CF_AS_check_devices": "Periksa status perangkat Anda.",
+    "CL_CF_AS_scan": "PEMINDAIAN"
 }

@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Вашето устройство е офлайн",
     "CL_CF_AS_waiting": "чакам...",
     "CL_CF_CS_window_air_select_panel": "Изберете изображението, което съответства на контролния панел на вашето устройство.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Изберете зоната за готвене или зоните с мост, които искате да използвате. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Изберете зоната за готвене или зоните с мост, които искате да използвате. ",
+    "CL_CF_HP_Add_Automation": "Добавете автоматизация",
+    "CL_CF_HP_Add_Automation_tip": "Тук можете да добавите най-използваните ръчни процедури",
+    "CL_CF_HP_Add_Home_Status": "Добавяне на домашен статус",
+    "CL_CF_HP_Add_Home_Status_tip": "Тук можете да добавите най-използваните карти на устройството",
+    "CL_CF_HP_Add_Things_To_Do": "Добавете неща за вършене",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Тук можете да добавите най-използваните джаджи",
+    "CL_CF_HP_Add_Discover": "Добавяне на Discover",
+    "CL_CF_HP_Add_Discover_tip": "Тук можете да добавите най-използваните съвети",
+    "CL_CF_HP_no_device_tip": "Свържете\nвашите устройства",
+    "CL_CF_AS_check_devices": "Проверете състоянието на вашето устройство.",
+    "CL_CF_AS_scan": "СКАНИРАНЕ"
 }

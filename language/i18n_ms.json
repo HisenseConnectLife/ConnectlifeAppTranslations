@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Peranti anda di luar talian",
     "CL_CF_AS_waiting": "menunggu...",
     "CL_CF_CS_window_air_select_panel": "Pilih imej yang sepadan dengan panel kawalan unit anda.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Pilih zon memasak atau zon jambatan yang anda mahu gunakan. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Pilih zon memasak atau zon jambatan yang anda mahu gunakan. ",
+    "CL_CF_HP_Add_Automation": "Tambah Automasi",
+    "CL_CF_HP_Add_Automation_tip": "Anda boleh menambah rutin manual yang paling banyak digunakan di sini",
+    "CL_CF_HP_Add_Home_Status": "Tambah Status Rumah",
+    "CL_CF_HP_Add_Home_Status_tip": "Anda boleh menambah kad peranti yang paling banyak digunakan di sini",
+    "CL_CF_HP_Add_Things_To_Do": "Tambah Perkara Yang Perlu Dilakukan",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Anda boleh menambah widget yang paling banyak digunakan di sini",
+    "CL_CF_HP_Add_Discover": "Tambah Discover",
+    "CL_CF_HP_Add_Discover_tip": "Anda boleh menambah petua yang paling banyak digunakan di sini",
+    "CL_CF_HP_no_device_tip": "Sambungkan\nperanti anda",
+    "CL_CF_AS_check_devices": "Semak status peranti anda.",
+    "CL_CF_AS_scan": "IMBAS"
 }

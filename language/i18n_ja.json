@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "デバイスがオフラインです",
     "CL_CF_AS_waiting": "待っている...",
     "CL_CF_CS_window_air_select_panel": "ユニットのコントロール パネルに一致する画像を選択します。",
-    "CL_DV_HOB_program_zone_bridge_step2": "使用する調理ゾーンまたはブリッジゾーンを選択します。 "
+    "CL_DV_HOB_program_zone_bridge_step2": "使用する調理ゾーンまたはブリッジゾーンを選択します。 ",
+    "CL_CF_HP_Add_Automation": "自動化を追加する",
+    "CL_CF_HP_Add_Automation_tip": "最もよく使用される手動ルーチンをここに追加できます",
+    "CL_CF_HP_Add_Home_Status": "ホームステータスを追加",
+    "CL_CF_HP_Add_Home_Status_tip": "最もよく使用されるデバイスカードをここに追加できます",
+    "CL_CF_HP_Add_Things_To_Do": "やることリストを追加する",
+    "CL_CF_HP_Add_Things_To_Do_tip": "最もよく使用されるウィジェットをここに追加できます",
+    "CL_CF_HP_Add_Discover": "発見を追加",
+    "CL_CF_HP_Add_Discover_tip": "最もよく使われるヒントをここに追加できます",
+    "CL_CF_HP_no_device_tip": "ご家族の家電を\nネットで接続し",
+    "CL_CF_AS_check_devices": "機器の状態を確認してください",
+    "CL_CF_AS_scan": "スキャン"
 }

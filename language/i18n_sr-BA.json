@@ -4641,5 +4641,16 @@
     "CL_CF_AS_your_device_offline": "Ваш уређај је ван мреже",
     "CL_CF_AS_waiting": "чекам...",
     "CL_CF_CS_window_air_select_panel": "Изаберите слику која одговара контролној табли ваше јединице.",
-    "CL_DV_HOB_program_zone_bridge_step2": "Изаберите зону за кување или премоштене зоне које желите да користите. "
+    "CL_DV_HOB_program_zone_bridge_step2": "Изаберите зону за кување или премоштене зоне које желите да користите. ",
+    "CL_CF_HP_Add_Automation": "Додај аутоматизацију",
+    "CL_CF_HP_Add_Automation_tip": "Овде можете додати најчешће коришћене ручне рутине",
+    "CL_CF_HP_Add_Home_Status": "Додај кућни статус",
+    "CL_CF_HP_Add_Home_Status_tip": "Овде можете додати најчешће коришћене картице уређаја",
+    "CL_CF_HP_Add_Things_To_Do": "Додајте ствари које треба урадити",
+    "CL_CF_HP_Add_Things_To_Do_tip": "Овде можете додати најчешће коришћене виџете",
+    "CL_CF_HP_Add_Discover": "Додај Дисцовер",
+    "CL_CF_HP_Add_Discover_tip": "Овде можете додати најчешће коришћене савете",
+    "CL_CF_HP_no_device_tip": "Повежите\nваше уређаје",
+    "CL_CF_AS_check_devices": "Проверите статус свог уређаја.",
+    "CL_CF_AS_scan": "СЦАН"
 }
