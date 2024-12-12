@@ -14,7 +14,7 @@
     "automation": "Automatização",
     "appliances": "Equipamentos",
     "add_appliances": "Adicionar equipamentos.",
-    "appliance_things_to_do": "COISAS PARA FAZER",
+    "appliance_things_to_do": "DESCUBRA MAIS",
     "favorites": "FAVORITOS",
     "more": "MAIS",
     "rooms": "Divisões",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "IR PARA MONITOR DE ENERGIA",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Nome como D**CW, como D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Gestão de Vinhos",
+    "CL_CF_HP_add_card_key": ""
 }

@@ -14,7 +14,7 @@
     "automation": "Αυτοματοποίηση",
     "appliances": "Συσκευές",
     "add_appliances": "Προσθέστε συσκευές.",
-    "appliance_things_to_do": "ΤΙ ΝΑ ΚΑΝΕΤΕ",
+    "appliance_things_to_do": "ΑΝΑΚΑΛΥΨΤΕ ΠΕΡΙΣΣΟΤΕΡΑ",
     "favorites": "ΑΓΑΠΗΜΕΝΗ",
     "more": "ΠΕΡΙΣΣΟΤΕΡΑ",
     "rooms": "Δωμάτια",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "ΜΕΤΑΒΑΣΗ ΣΤΗΝ ΟΘΟΝΗ ΕΝΕΡΓΕΙΑΣ",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Ονομάστε ως D**CW, όπως D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Διαχείριση κρασιού",
+    "CL_CF_HP_add_card_key": ""
 }

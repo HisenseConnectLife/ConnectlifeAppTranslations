@@ -14,7 +14,7 @@
     "automation": "Automazione",
     "appliances": "Elettrodomestici",
     "add_appliances": "Aggiungi elettrodomestici.",
-    "appliance_things_to_do": "COSE DA FARE",
+    "appliance_things_to_do": "SCOPRI DI PIÙ",
     "favorites": "PREFERITO",
     "more": "ALTRO",
     "rooms": "Stanze",
@@ -4659,6 +4659,9 @@
     "CL_SL_CM_progam_send_warning2": "Spiacenti, il programma non può inviare, accendi il dispositivo.",
     "CL_SL_CM_energy_monitor": "VAI A ENERGY MONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Nome come D**CW, come D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Nome come DH-**, come DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Ricerca dispositivi vicino a te",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Gestione del vino",
+    "CL_CF_HP_add_card_key": ""
 }

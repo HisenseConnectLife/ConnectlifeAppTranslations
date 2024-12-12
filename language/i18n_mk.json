@@ -14,7 +14,7 @@
     "automation": "Автоматизација",
     "appliances": "Апарати",
     "add_appliances": "Додади апарати.",
-    "appliance_things_to_do": "РАБОТИ КОИ МОЖЕТЕ ДА ГИ НАПРАВИТЕ",
+    "appliance_things_to_do": "ОТКРИЈ ПОВЕЌЕ",
     "favorites": "ОМИЛЕН",
     "more": "ПОВЕЌЕ",
     "rooms": "Простории",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "ОДЕТЕ НА ЕНЕРГЕТСКИ МОНИТОР",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Името како D**CW, како D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Управување со вино",
+    "CL_CF_HP_add_card_key": ""
 }

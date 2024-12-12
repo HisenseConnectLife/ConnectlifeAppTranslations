@@ -14,7 +14,7 @@
     "automation": "Automatizare",
     "appliances": "Aparate",
     "add_appliances": "Adăugare aparate.",
-    "appliance_things_to_do": "LUCRURI DE FĂCUT",
+    "appliance_things_to_do": "DESCOPERĂ MAI MULT",
     "favorites": "FAVORIT",
     "more": "MAI MULT",
     "rooms": "Camere",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "MERCEȚI LA MONITORUL DE ENERGIE",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Numiți D**CW, cum ar fi D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Managementul vinului",
+    "CL_CF_HP_add_card_key": ""
 }

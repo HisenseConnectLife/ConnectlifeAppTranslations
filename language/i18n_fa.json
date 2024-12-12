@@ -14,7 +14,7 @@
     "automation": "اتوماسیون",
     "appliances": "محصولات",
     "add_appliances": "محصولات  را اضافه کنید.",
-    "appliance_things_to_do": "امکانات نرم افزار",
+    "appliance_things_to_do": "بیشتر کشف کنید",
     "favorites": "موارد دلخواه",
     "more": "موارد دیگر",
     "rooms": "اتاق‌ها",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "به مانیتور انرژی بروید",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "نام D**CW، مانند D12CW، D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "مدیریت شراب",
+    "CL_CF_HP_add_card_key": ""
 }

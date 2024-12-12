@@ -14,7 +14,7 @@
     "automation": "Automatizacija",
     "appliances": "Kućanski uređaji",
     "add_appliances": "Dodajte kućanske uređaje.",
-    "appliance_things_to_do": "STVARI KOJE MOŽETE ČINITI",
+    "appliance_things_to_do": "OTKRIJTE VIŠE",
     "favorites": "OMILJENI",
     "more": "VIŠE",
     "rooms": "Sobe",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "IDITE NA ENERGETSKI MONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Imenujte kao D**CW, poput D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Upravljanje vinom",
+    "CL_CF_HP_add_card_key": ""
 }
