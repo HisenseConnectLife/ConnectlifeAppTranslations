@@ -14,7 +14,7 @@
     "automation": "Tính tự động",
     "appliances": "Thiết bị",
     "add_appliances": "Thêm thiết bị.",
-    "appliance_things_to_do": "VIỆC CẦN LÀM",
+    "appliance_things_to_do": "KHÁM PHÁ THÊM",
     "favorites": "LOẠI",
     "more": "THÊM",
     "rooms": "Phòng",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "ĐẾN MÀN HÌNH NĂNG LƯỢNG",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Đặt tên là D**CW, như D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Quản lý rượu vang",
+    "CL_CF_HP_add_card_key": ""
 }

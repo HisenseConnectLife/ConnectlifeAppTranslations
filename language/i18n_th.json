@@ -14,7 +14,7 @@
     "automation": "การทำงานอัตโนมัติ",
     "appliances": "อุปกรณ์",
     "add_appliances": "เพิ่มอุปกรณ์",
-    "appliance_things_to_do": "สิ่งที่ต้องทำ",
+    "appliance_things_to_do": "ค้นพบเพิ่มเติม",
     "favorites": "ที่ชื่นชอบ",
     "more": "มากกว่า",
     "rooms": "ห้อง",
@@ -2538,7 +2538,7 @@
     "device_all_notification_tips": "คุณจะไม่ได้รับการแจ้งเตือนใด ๆ รวมถึงการอัปเดตที่เกี่ยวข้องกับอุปกรณ์ทั้งหมด ตลอดจนการแจ้งเตือนด่วนที่ต้องดำเนินการทันที",
     "device_urgent_nmotification_tips": "เครื่องปรับอากาศแบบท่อลม",
     "device_none_notification_tips": "เงียบ",
-    "ac_duct_type": "รับการแจ้งเตือนและสัญญาณเตือนแบบพุชบนโทรศัพท์ของคุณ แม้ว่าคุณจะไม่ได้ใช้งานแอป ConnectLife ก็ตาม",
+    "ac_duct_type": "เครื่องปรับอากาศแบบท่อ",
     "duct_silent": "แสดงเฉพาะที่ยังไม่ได้อ่าน",
     "timer_name_not_less_2_length": "ตัวจับเวลาไม่น้อยกว่า 2 ตัวอักษร",
     "push_notifications_settings_tips": "ผลิตภัณฑ์นม",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "ไปที่ตัวตรวจสอบพลังงาน",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "ชื่อ D**CW เช่น D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "การจัดการไวน์",
+    "CL_CF_HP_add_card_key": ""
 }

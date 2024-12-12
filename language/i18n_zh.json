@@ -14,7 +14,7 @@
     "automation": "智慧管家",
     "appliances": "电器",
     "add_appliances": "添加电器。",
-    "appliance_things_to_do": "操作列表",
+    "appliance_things_to_do": "发现更多",
     "favorites": "我的最爱",
     "more": "更多",
     "rooms": "房间",
@@ -2241,7 +2241,7 @@
     "super_cool_upper_camel_case": "速冷",
     "super_freeze_upper_camel_case": "速冻",
     "input_password_cdc_tips": "密码必须由8至20个字符组成，其中至少包含1个数字、1个大写字母、1个小写字母和1个特殊字符(#?!@$%^&*-)。",
-    "self_pump_setup_1": "关闭堆泵电源，同时长按开/关按钮和向下按钮3秒钟，然后Wi-Fi灯将闪烁。",
+    "self_pump_setup_1": "将热泵关机，同时长按开/关按钮和向下按钮3秒钟，然后Wi-Fi灯将闪烁。",
     "self_pump_setup_2": "根据APP提示连接Wi-Fi，连接成功后Wi-Fi指示灯亮起。",
     "no_favor": "没有喜爱",
     "unpair": "解绑",
@@ -2485,7 +2485,7 @@
     "security_upgrade": "安全升级",
     "send_reset_link": "发送重置链接",
     "sent_reset_email": "我们已经发重置密码链接至 %s",
-    "sent_reset_email_content": "返回ConnectLife",
+    "sent_reset_email_content": "请按照电子邮件中的说明重置您的密码。成功重置密码后，请返回 ConnectLife。",
     "device_status_program_preheat": "预热中",
     "resend_pwd_reset_email": "重新发送密码重置邮箱",
     "add_a_timer": "添加计时器",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "进入能源监测",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "命名为 D**CW，例如 D12CW、D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "葡萄酒管理",
+    "CL_CF_HP_add_card_key": ""
 }

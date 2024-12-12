@@ -14,7 +14,7 @@
     "automation": "स्वचालन",
     "appliances": "उपकरण",
     "add_appliances": "उपकरण शामिल करें।",
-    "appliance_things_to_do": "किए जाने वाले काम",
+    "appliance_things_to_do": "और ढूंढें",
     "favorites": "पसंदीदा",
     "more": "अधिक",
     "rooms": "कमरे",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "एनर्जी मॉनिटर पर जाएं",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "नाम D**CW, जैसे D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "वाइन प्रबंधन",
+    "CL_CF_HP_add_card_key": ""
 }

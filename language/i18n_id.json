@@ -14,7 +14,7 @@
     "automation": "Otomatisasi",
     "appliances": "Peralatan",
     "add_appliances": "Tambahkan peralatan.",
-    "appliance_things_to_do": "HAL YANG AKAN DILAKUKAN",
+    "appliance_things_to_do": "TEMUKAN LEBIH BANYAK",
     "favorites": "FAVORIT",
     "more": "LAGI",
     "rooms": "Ruangan",
@@ -2538,7 +2538,7 @@
     "device_all_notification_tips": "Anda tidak akan menerima pemberitahuan apa pun, termasuk semua pembaruan terkait perangkat serta pemberitahuan mendesak yang memerlukan perhatian segera.",
     "device_urgent_nmotification_tips": "Pendingin udara tipe saluran",
     "device_none_notification_tips": "Senyap",
-    "ac_duct_type": "Terima pemberitahuan dan peringatan sebagai pemberitahuan push pada ponsel Anda, bahkan ketika Anda tidak secara aktif menggunakan aplikasi ConnectLife.",
+    "ac_duct_type": "Pendingin ruangan",
     "duct_silent": "Tampilkan hanya yang belum dibaca",
     "timer_name_not_less_2_length": "Nama timer tidak boleh kurang dari 2 karakter",
     "push_notifications_settings_tips": "Produk susu",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "PERGI KE MONITOR ENERGI",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Nama sebagai D**CW, seperti D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Manajemen Anggur",
+    "CL_CF_HP_add_card_key": ""
 }

@@ -14,7 +14,7 @@
     "automation": "Automatisering",
     "appliances": "Produkter",
     "add_appliances": "Lägg till produkter",
-    "appliance_things_to_do": "SAKER ATT GÖRA",
+    "appliance_things_to_do": "UPPTÄCK MER",
     "favorites": "FAVORIT",
     "more": "MER",
     "rooms": "Rum",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "GÅ TILL ENERGIMONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Namn som D**CW, som D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Vinhantering",
+    "CL_CF_HP_add_card_key": ""
 }

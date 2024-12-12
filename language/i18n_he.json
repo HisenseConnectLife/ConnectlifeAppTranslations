@@ -14,7 +14,7 @@
     "automation": "אוטומציה",
     "appliances": "מכשירים",
     "add_appliances": "להוסיף מכשירים.",
-    "appliance_things_to_do": "משימות",
+    "appliance_things_to_do": "גלה עוד",
     "favorites": "אהוב",
     "more": "עוד",
     "rooms": "חדרים",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "עבור ל- ENERGY MONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "שם בתור D**CW, כמו D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "ניהול יין",
+    "CL_CF_HP_add_card_key": ""
 }

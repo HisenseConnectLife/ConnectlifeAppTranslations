@@ -14,7 +14,7 @@
     "automation": "자동화",
     "appliances": "기기",
     "add_appliances": "기기 추가",
-    "appliance_things_to_do": "할 일",
+    "appliance_things_to_do": "더 많은 것을 발견하세요",
     "favorites": "가장 좋아하는",
     "more": "자세히 보기",
     "rooms": "방",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "에너지 모니터로 이동",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "이름은 D**CW, D12CW, D16CW와 같습니다.",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "와인 관리",
+    "CL_CF_HP_add_card_key": ""
 }

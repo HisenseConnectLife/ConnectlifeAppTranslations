@@ -14,7 +14,7 @@
     "automation": "Автоматизация",
     "appliances": "Уреди",
     "add_appliances": "Добави уреди.",
-    "appliance_things_to_do": "НЕЩА ЗА ПРАВЕНЕ",
+    "appliance_things_to_do": "ОТКРИЙТЕ ПОВЕЧЕ",
     "favorites": "ЛЮБИМ",
     "more": "ОЩЕ",
     "rooms": "Помещения",
@@ -2241,7 +2241,7 @@
     "super_cool_upper_camel_case": "Бързо охлаждане",
     "super_freeze_upper_camel_case": "Супер замразяване",
     "input_password_cdc_tips": "Паролата трябва да е с дължина от 8 до 20 знака и да се състои от поне 1 цифра, 1 главна буква, 1 малка буква и 1 специален знак (#?!@$%^&*-).",
-    "self_pump_setup_1": "Изключете heap помпата, натиснете дълго бутона за включване/изключване и бутона за надолу едновременно за 3 секунди, след което Wi-Fi светлината ще мига.",
+    "self_pump_setup_1": "Изключете heap помпата, задръжте натиснати бутона за включване/изключване и бутона за надолу едновременно за 3 секунди, след което Wi-Fi светлината ще започне да мига.",
     "self_pump_setup_2": "Свържете се с Wi-Fi според съветите, показани в ПРИЛОЖЕНИЕТО. Когато връзката е успешна, индикаторът за Wi-Fi ще свети.",
     "no_favor": "Няма любими",
     "unpair": "Раздвояване",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "ОТИДЕТЕ НА ЕНЕРГИЕН МОНИТОР",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Име като D**CW, като D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Управление на виното",
+    "CL_CF_HP_add_card_key": ""
 }

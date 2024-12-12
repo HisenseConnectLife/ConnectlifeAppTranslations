@@ -14,7 +14,7 @@
     "automation": "Автоматтандыру",
     "appliances": "Құрылғылар",
     "add_appliances": "Құрылғыларды қосу.",
-    "appliance_things_to_do": "НЕ ІСТЕУ КЕРЕК",
+    "appliance_things_to_do": "ТОЛЫҒЫРАҚ",
     "favorites": "СҮЙІКТІ",
     "more": "КӨБІРЕК",
     "rooms": "Бөлмелер",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "ЭНЕРГИЯ МОНИТОРЫНА ӨТІҢІЗ",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "D**CW деп атаңыз, мысалы D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Шараптарды басқару",
+    "CL_CF_HP_add_card_key": ""
 }

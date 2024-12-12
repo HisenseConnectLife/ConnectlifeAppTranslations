@@ -14,7 +14,7 @@
     "automation": "التشغيل الآلي",
     "appliances": "الأجهزة",
     "add_appliances": "إضافة أجهزة",
-    "appliance_things_to_do": "أمور يجب فعلها",
+    "appliance_things_to_do": "اكتشف المزيد",
     "favorites": "مفضل",
     "more": "المزيد",
     "rooms": "الغرف",
@@ -2241,7 +2241,7 @@
     "super_cool_upper_camel_case": "تبريد سريع",
     "super_freeze_upper_camel_case": "تجميد خارق",
     "input_password_cdc_tips": "يجب أن تتكون كلمة المرور من 8 إلى 20 حرفًا وأن تتكون من رقم واحد على الأقل وحرف كبير وحرف صغير واحد وحرف خاص واحد (#؟! @ $٪ ^ & * -).",
-    "self_pump_setup_1": "قم بإيقاف تشغيل مضخة الكومة، واضغط لفترة طويلة على زر التشغيل/الإيقاف والزر السفلي في نفس الوقت لمدة 3 ثوانٍ، ثم يومض ضوء Wi-Fi.",
+    "self_pump_setup_1": "قم بإيقاف مضخة الكومة، واضغط مع الاستمرار على زر التشغيل/الإيقاف والزر السفلي معًا لمدة 3 ثوانٍ، ثم سيومض ضوء Wi-Fi.",
     "self_pump_setup_2": "اتصل بشبكة Wi-Fi وفقًا للنصائح المعروضة على التطبيق. عندما يتم الاتصال بنجاح، سيضيء مصباح Wi-Fi.",
     "no_favor": "لا المفضلة",
     "unpair": "إلغاء الاقتران",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "انتقل إلى مراقبة الطاقة",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "الاسم مثل D**CW، مثل D12CW، D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "إدارة النبيذ",
+    "CL_CF_HP_add_card_key": ""
 }

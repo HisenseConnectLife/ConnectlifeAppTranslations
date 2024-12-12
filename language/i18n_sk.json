@@ -14,7 +14,7 @@
     "automation": "Automatizácia",
     "appliances": "Spotrebiče",
     "add_appliances": "Pridať spotrebiče.",
-    "appliance_things_to_do": "VECI, KTORÉ TREBA SPRAVIŤ",
+    "appliance_things_to_do": "OBJAVTE VIAC",
     "favorites": "OBĽÚBENÉ",
     "more": "VIAC",
     "rooms": "Miestnosti",
@@ -4660,5 +4660,8 @@
     "CL_SL_CM_energy_monitor": "PREJSŤ NA ENERGETICKÝ MONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Názov ako D**CW, napríklad D12CW, D16CW",
     "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_searching_device_near_you": "",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Manažment vína",
+    "CL_CF_HP_add_card_key": ""
 }
