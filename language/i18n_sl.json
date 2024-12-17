@@ -14,7 +14,7 @@
     "automation": "Avtomatizacija",
     "appliances": "Aparati",
     "add_appliances": "Dodaj aparate.",
-    "appliance_things_to_do": "STVARI ZA NAREDITI",
+    "appliance_things_to_do": "ODKRIJTE VEČ",
     "favorites": "PRILJUBLJENO",
     "more": "VEČ",
     "rooms": "Sobe",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Program žal ne more poslati, vklopite napravo.",
     "CL_SL_CM_energy_monitor": "POJDI NA NADZOR ENERGIJE",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Poimenujte kot D**CW, na primer D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Ime kot DH-**, kot DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Iskanje naprav v vaši bližini",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Upravljanje vina",
+    "CL_CF_HP_add_card_key": "dodaj kartico",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Sn ni mogoče spremeniti, nima vezave.",
+    "CL_CF_FM_add_what_you_want": "Dodajte, kar želite",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Vnesite datum začetka in datum konca!",
+    "CL_SL_CM_recommended_program": "Priporočljivo",
+    "CL_SL_CM_rpm": "vrtljajev na minuto"
 }

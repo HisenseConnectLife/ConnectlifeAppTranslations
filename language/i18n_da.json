@@ -14,7 +14,7 @@
     "automation": "Automatisering",
     "appliances": "Apparater",
     "add_appliances": "Tilføj apparater.",
-    "appliance_things_to_do": "HUSKELISTE",
+    "appliance_things_to_do": "OPDAG MERE",
     "favorites": "FAVORIT",
     "more": "MERE",
     "rooms": "Værelser",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Beklager, programmet kan ikke sende. Tænd venligst din enhed.",
     "CL_SL_CM_energy_monitor": "GÅ TIL ENERGIMONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Navn som D**CW, som D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Navn som DH-**, som DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Søger efter enheder i nærheden af dig",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Vin Management",
+    "CL_CF_HP_add_card_key": "tilføje kort",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Kan ikke ændre sn, har ikke binde relation.",
+    "CL_CF_FM_add_what_you_want": "Tilføj hvad du ønsker",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Vælg en start- og slutdato!",
+    "CL_SL_CM_recommended_program": "Anbefales",
+    "CL_SL_CM_rpm": "rpm"
 }

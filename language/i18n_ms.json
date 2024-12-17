@@ -14,7 +14,7 @@
     "automation": "Automasi",
     "appliances": "Peralatan",
     "add_appliances": "Tambah peralatan.",
-    "appliance_things_to_do": "PERKARA UNTUK DILAKUKAN",
+    "appliance_things_to_do": "TEMUI LEBIH LANJUT",
     "favorites": "KEGEMARAN",
     "more": "LAGI",
     "rooms": "Bilik",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Maaf, program tidak boleh menghantar, sila hidupkan peranti anda.",
     "CL_SL_CM_energy_monitor": "PERGI KE PEMANTAUAN TENAGA",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Namakan sebagai D**CW, seperti D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Namakan sebagai DH-**, seperti DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Mencari peranti berhampiran anda",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Pengurusan Wain",
+    "CL_CF_HP_add_card_key": "tambah kad",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Tidak boleh menukar sn, tidak mengikat hubungan.",
+    "CL_CF_FM_add_what_you_want": "Tambah apa yang anda mahu",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "",
+    "CL_SL_CM_recommended_program": "Disyorkan",
+    "CL_SL_CM_rpm": "rpm"
 }

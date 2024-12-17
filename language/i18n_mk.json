@@ -14,7 +14,7 @@
     "automation": "Автоматизација",
     "appliances": "Апарати",
     "add_appliances": "Додади апарати.",
-    "appliance_things_to_do": "РАБОТИ КОИ МОЖЕТЕ ДА ГИ НАПРАВИТЕ",
+    "appliance_things_to_do": "ОТКРИЈ ПОВЕЌЕ",
     "favorites": "ОМИЛЕН",
     "more": "ПОВЕЌЕ",
     "rooms": "Простории",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "За жал, програмата не може да испрати, ве молиме вклучете го вашиот уред.",
     "CL_SL_CM_energy_monitor": "ОДЕТЕ НА ЕНЕРГЕТСКИ МОНИТОР",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Името како D**CW, како D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Именувај како DH-**, како DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Пребарување уреди во ваша близина",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Управување со вино",
+    "CL_CF_HP_add_card_key": "додадете картичка",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Не може да се промени sn, нема врзувачка врска.",
+    "CL_CF_FM_add_what_you_want": "Додадете што сакате",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Изберете датум на започнување и завршување!",
+    "CL_SL_CM_recommended_program": "Препорачано",
+    "CL_SL_CM_rpm": "вртежи во минута"
 }

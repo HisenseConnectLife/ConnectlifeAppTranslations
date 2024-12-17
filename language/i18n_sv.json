@@ -14,7 +14,7 @@
     "automation": "Automatisering",
     "appliances": "Produkter",
     "add_appliances": "Lägg till produkter",
-    "appliance_things_to_do": "SAKER ATT GÖRA",
+    "appliance_things_to_do": "UPPTÄCK MER",
     "favorites": "FAVORIT",
     "more": "MER",
     "rooms": "Rum",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Tyvärr kan programmet inte skicka, vänligen slå på din enhet.",
     "CL_SL_CM_energy_monitor": "GÅ TILL ENERGIMONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Namn som D**CW, som D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Namn som DH-**, som DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Söker efter enheter nära dig",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Vinhantering",
+    "CL_CF_HP_add_card_key": "lägg till kort",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Kan inte ändra sn, har inte binda relation.",
+    "CL_CF_FM_add_what_you_want": "Lägg till vad du vill",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Välj ett start- och slutdatum!",
+    "CL_SL_CM_recommended_program": "Rekommenderad",
+    "CL_SL_CM_rpm": "rpm"
 }

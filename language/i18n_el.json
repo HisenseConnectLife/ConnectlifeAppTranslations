@@ -14,7 +14,7 @@
     "automation": "Αυτοματοποίηση",
     "appliances": "Συσκευές",
     "add_appliances": "Προσθέστε συσκευές.",
-    "appliance_things_to_do": "ΤΙ ΝΑ ΚΑΝΕΤΕ",
+    "appliance_things_to_do": "ΑΝΑΚΑΛΥΨΤΕ ΠΕΡΙΣΣΟΤΕΡΑ",
     "favorites": "ΑΓΑΠΗΜΕΝΗ",
     "more": "ΠΕΡΙΣΣΟΤΕΡΑ",
     "rooms": "Δωμάτια",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Λυπούμαστε, δεν είναι δυνατή η αποστολή του προγράμματος, ενεργοποιήστε τη συσκευή σας.",
     "CL_SL_CM_energy_monitor": "ΜΕΤΑΒΑΣΗ ΣΤΗΝ ΟΘΟΝΗ ΕΝΕΡΓΕΙΑΣ",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Ονομάστε ως D**CW, όπως D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Ονομάστε ως DH-**, όπως DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Αναζήτηση για συσκευές κοντά σας",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Διαχείριση κρασιού",
+    "CL_CF_HP_add_card_key": "προσθήκη κάρτας",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Δεν μπορεί να αλλάξει το sn, δεν έχει σχέση δεσμεύσεως.",
+    "CL_CF_FM_add_what_you_want": "Προσθέστε αυτό που θέλετε",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Επιλέξτε ημερομηνία έναρξης και λήξης!",
+    "CL_SL_CM_recommended_program": "Συνιστάται",
+    "CL_SL_CM_rpm": "σ.α.λ"
 }

@@ -14,7 +14,7 @@
     "automation": "Automatização",
     "appliances": "Equipamentos",
     "add_appliances": "Adicionar equipamentos.",
-    "appliance_things_to_do": "COISAS PARA FAZER",
+    "appliance_things_to_do": "DESCUBRA MAIS",
     "favorites": "FAVORITOS",
     "more": "MAIS",
     "rooms": "Divisões",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Desculpe, o programa não pode enviar, ligue seu dispositivo.",
     "CL_SL_CM_energy_monitor": "IR PARA MONITOR DE ENERGIA",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Nome como D**CW, como D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Nome como DH-**, como DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Procurando dispositivos perto de você",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Gestão de Vinhos",
+    "CL_CF_HP_add_card_key": "adicionar cartão",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Não é possível alterar sn, não há relação de vinculação.",
+    "CL_CF_FM_add_what_you_want": "Adicione o que você quiser",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Selecione uma data de início e de fim!",
+    "CL_SL_CM_recommended_program": "Recomendado",
+    "CL_SL_CM_rpm": "rpm"
 }

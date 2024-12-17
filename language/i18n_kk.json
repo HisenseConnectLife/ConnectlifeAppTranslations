@@ -14,7 +14,7 @@
     "automation": "Автоматтандыру",
     "appliances": "Құрылғылар",
     "add_appliances": "Құрылғыларды қосу.",
-    "appliance_things_to_do": "НЕ ІСТЕУ КЕРЕК",
+    "appliance_things_to_do": "ТОЛЫҒЫРАҚ",
     "favorites": "СҮЙІКТІ",
     "more": "КӨБІРЕК",
     "rooms": "Бөлмелер",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Кешіріңіз, бағдарлама жіберу мүмкін емес, құрылғыңызды қосыңыз.",
     "CL_SL_CM_energy_monitor": "ЭНЕРГИЯ МОНИТОРЫНА ӨТІҢІЗ",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "D**CW деп атаңыз, мысалы D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "DH-** деп атаңыз, DH-12W, DH-16W сияқты",
+    "CL_CF_CS_searching_device_near_you": "Маңайдағы құрылғылар ізделуде",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Шараптарды басқару",
+    "CL_CF_HP_add_card_key": "картаны қосыңыз",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Sn өзгерте алмайды, байланысы жоқ.",
+    "CL_CF_FM_add_what_you_want": "Қалағаныңызды қосыңыз",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Басталу және аяқталу күнін таңдаңыз!",
+    "CL_SL_CM_recommended_program": "Ұсынылады",
+    "CL_SL_CM_rpm": "айн/мин"
 }
