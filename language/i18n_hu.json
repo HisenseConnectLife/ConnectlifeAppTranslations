@@ -14,7 +14,7 @@
     "automation": "Automatizálás",
     "appliances": "Készülékek",
     "add_appliances": "Adjon hozzá készüléket.",
-    "appliance_things_to_do": "TENNIVALÓK",
+    "appliance_things_to_do": "FEDEZZE FEL TÖBBET",
     "favorites": "KEDVENC",
     "more": "TÖBB",
     "rooms": "Szobák",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Sajnáljuk, a program nem tud küldeni, kérjük, kapcsolja be a készüléket.",
     "CL_SL_CM_energy_monitor": "LÉPJ AZ ENERGY MONITOR OLDALÁRA",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Nevezze meg D**CW, például D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Nevezze meg DH-**, például DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Az Ön közelében lévő eszközök keresése",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Borgazdálkodás",
+    "CL_CF_HP_add_card_key": "kártya hozzáadása",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Az sn nem változtatható meg, nincs bind relációja.",
+    "CL_CF_FM_add_what_you_want": "Add hozzá, amit akarsz",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Kérjük, válassza ki a kezdési és a befejezési időt!",
+    "CL_SL_CM_recommended_program": "Ajánlott",
+    "CL_SL_CM_rpm": "fordulat"
 }

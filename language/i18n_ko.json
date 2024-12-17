@@ -14,7 +14,7 @@
     "automation": "자동화",
     "appliances": "기기",
     "add_appliances": "기기 추가",
-    "appliance_things_to_do": "할 일",
+    "appliance_things_to_do": "더 많은 것을 발견하세요",
     "favorites": "가장 좋아하는",
     "more": "자세히 보기",
     "rooms": "방",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "죄송합니다. 프로그램을 전송할 수 없습니다. 기기를 켜주세요.",
     "CL_SL_CM_energy_monitor": "에너지 모니터로 이동",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "이름은 D**CW, D12CW, D16CW와 같습니다.",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "이름은 DH-**, DH-12W, DH-16W와 같음",
+    "CL_CF_CS_searching_device_near_you": "근처 기기를 검색 중입니다",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "와인 관리",
+    "CL_CF_HP_add_card_key": "카드 추가",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "sn을 변경할 수 없으며, 관계가 바인딩되지 않았습니다.",
+    "CL_CF_FM_add_what_you_want": "원하는 것을 추가하세요",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "",
+    "CL_SL_CM_recommended_program": "추천",
+    "CL_SL_CM_rpm": "분당 회전수"
 }

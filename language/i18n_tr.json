@@ -14,7 +14,7 @@
     "automation": "Otomasyon",
     "appliances": "Cihazlar",
     "add_appliances": "Cihaz Ekle",
-    "appliance_things_to_do": "YAPILACAKLAR",
+    "appliance_things_to_do": "DAHA FAZLASINI KEŞFEDİN",
     "favorites": "FAVORİ",
     "more": "DAHA FAZLA",
     "rooms": "Odalar",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Üzgünüz, program gönderilemiyor, lütfen cihazınızı açın.",
     "CL_SL_CM_energy_monitor": "ENERJİ İZLEYİCİSİNE GİT",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "D**CW olarak adlandırın, D12CW, D16CW gibi",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "DH-** olarak adlandırın, DH-12W, DH-16W gibi",
+    "CL_CF_CS_searching_device_near_you": "Yakınınızdaki cihazları arıyorum",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Şarap Yönetimi",
+    "CL_CF_HP_add_card_key": "kart ekle",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Sn değiştirilemez, bağlayıcı ilişkisi yoktur.",
+    "CL_CF_FM_add_what_you_want": "İstediğinizi ekleyin",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "",
+    "CL_SL_CM_recommended_program": "Tavsiye edilen",
+    "CL_SL_CM_rpm": "devir/dakika"
 }

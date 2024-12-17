@@ -14,7 +14,7 @@
     "automation": "Automatizace",
     "appliances": "Zařízení",
     "add_appliances": "Přidejte spotřebiče.",
-    "appliance_things_to_do": "CO DĚLAT",
+    "appliance_things_to_do": "OBJEVTE VÍCE",
     "favorites": "OBLÍBENÉ",
     "more": "VÍCE",
     "rooms": "Místnosti",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Litujeme, program nelze odeslat, zapněte prosím své zařízení.",
     "CL_SL_CM_energy_monitor": "PŘEJÍT NA ENERGETICKÝ MONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Název jako D**CW, jako D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Název jako DH-**, jako DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Vyhledávání zařízení ve vašem okolí",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Management vína",
+    "CL_CF_HP_add_card_key": "přidat kartu",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Nelze změnit sn, nemá vazbu vazby.",
+    "CL_CF_FM_add_what_you_want": "Přidejte, co chcete",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Vyberte datum zahájení a datum ukončení!",
+    "CL_SL_CM_recommended_program": "Doporučeno",
+    "CL_SL_CM_rpm": "ot./min"
 }

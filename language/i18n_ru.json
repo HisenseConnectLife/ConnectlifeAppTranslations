@@ -14,7 +14,7 @@
     "automation": "Сценарии",
     "appliances": "Устройства",
     "add_appliances": "Добавить устройство",
-    "appliance_things_to_do": "СПИСОК ЗАДАЧ",
+    "appliance_things_to_do": "УЗНАЙТЕ БОЛЬШЕ",
     "favorites": "ИЗБРАННОЕ",
     "more": "ДОПОЛНИТЕЛЬНО",
     "rooms": "Комнаты",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Извините, программа не может отправить, пожалуйста, включите ваше устройство.",
     "CL_SL_CM_energy_monitor": "ПЕРЕЙТИ К МОНИТОРИНГУ ЭНЕРГИИ",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Имя как D**CW, например D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Имя как DH-**, например DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Поиск устройств рядом с вами",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Управление вином",
+    "CL_CF_HP_add_card_key": "добавить карту",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Невозможно изменить sn, не имеет отношения привязки.",
+    "CL_CF_FM_add_what_you_want": "Добавьте то, что хотите",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Выберите дату начала и дату окончания!",
+    "CL_SL_CM_recommended_program": "Рекомендовано",
+    "CL_SL_CM_rpm": "об/мин"
 }

@@ -14,7 +14,7 @@
     "automation": "Automatizare",
     "appliances": "Aparate",
     "add_appliances": "Adăugare aparate.",
-    "appliance_things_to_do": "LUCRURI DE FĂCUT",
+    "appliance_things_to_do": "DESCOPERĂ MAI MULT",
     "favorites": "FAVORIT",
     "more": "MAI MULT",
     "rooms": "Camere",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Ne pare rău, programul nu poate trimite, vă rugăm să porniți dispozitivul.",
     "CL_SL_CM_energy_monitor": "MERCEȚI LA MONITORUL DE ENERGIE",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Numiți D**CW, cum ar fi D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Denumiți ca DH-**, cum ar fi DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Se caută dispozitive din apropiere",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Managementul vinului",
+    "CL_CF_HP_add_card_key": "adăugați card",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Nu se poate schimba sn, nu are relație de legătură.",
+    "CL_CF_FM_add_what_you_want": "Adauga ce vrei",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Vă rugăm să selectați o dată de început și o dată de sfârșit!",
+    "CL_SL_CM_recommended_program": "Recomandat",
+    "CL_SL_CM_rpm": "rpm"
 }

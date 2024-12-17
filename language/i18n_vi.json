@@ -14,7 +14,7 @@
     "automation": "Tính tự động",
     "appliances": "Thiết bị",
     "add_appliances": "Thêm thiết bị.",
-    "appliance_things_to_do": "VIỆC CẦN LÀM",
+    "appliance_things_to_do": "KHÁM PHÁ THÊM",
     "favorites": "LOẠI",
     "more": "THÊM",
     "rooms": "Phòng",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Rất tiếc, chương trình không thể gửi, vui lòng bật thiết bị của bạn.",
     "CL_SL_CM_energy_monitor": "ĐẾN MÀN HÌNH NĂNG LƯỢNG",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Đặt tên là D**CW, như D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Tên là DH-**, như DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Tìm kiếm thiết bị gần bạn",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Quản lý rượu vang",
+    "CL_CF_HP_add_card_key": "thêm thẻ",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Không thể thay đổi sn, không có mối quan hệ ràng buộc.",
+    "CL_CF_FM_add_what_you_want": "Thêm những gì bạn muốn",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Vui lòng chọn một ngày bắt đầu và kết thúc!",
+    "CL_SL_CM_recommended_program": "Khuyến khích",
+    "CL_SL_CM_rpm": "vòng/phút"
 }

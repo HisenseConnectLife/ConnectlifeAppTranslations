@@ -14,7 +14,7 @@
     "automation": "Automaatio",
     "appliances": "Laitteet",
     "add_appliances": "Lisää laitteet.",
-    "appliance_things_to_do": "ASIOITA TEHTÄVÄKSI",
+    "appliance_things_to_do": "LÖYDY LISÄÄ",
     "favorites": "SUOSIKKI",
     "more": "LISÄÄ",
     "rooms": "Tilat",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Valitettavasti ohjelma ei voi lähettää, kytke laitteesi päälle.",
     "CL_SL_CM_energy_monitor": "SIIRRY ENERGY MONITOR -OHJELMAAN",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Nimeä D**CW, kuten D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Nimeä DH-**, kuten DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Etsitään laitteita lähelläsi",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Viininhallinta",
+    "CL_CF_HP_add_card_key": "lisää kortti",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Ei voi muuttaa sn:tä, sillä ei ole sidossuhdetta.",
+    "CL_CF_FM_add_what_you_want": "Lisää mitä haluat",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Valitse aloitus- ja lopetuspäivä!",
+    "CL_SL_CM_recommended_program": "Suositeltava",
+    "CL_SL_CM_rpm": "rpm"
 }

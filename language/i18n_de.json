@@ -14,7 +14,7 @@
     "automation": "Routine",
     "appliances": "Geräte",
     "add_appliances": "Geräte hinzufügen.",
-    "appliance_things_to_do": "DINGE, DIE SIE TUN KÖNNEN",
+    "appliance_things_to_do": "Größe wählen:",
     "favorites": "FAVORITEN",
     "more": "MEHR",
     "rooms": "Räume",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Entschuldigung, das Programm kann nicht senden. Bitte schalten Sie Ihr Gerät ein.",
     "CL_SL_CM_energy_monitor": "ZUM ENERGIEMONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Name als D**CW, etwa D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Name als DH-**, wie DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Suche nach Geräten in Ihrer Nähe",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Weinmanagement",
+    "CL_CF_HP_add_card_key": "Karte hinzufügen",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "SN kann nicht geändert werden, hat keine Bindungsbeziehung.",
+    "CL_CF_FM_add_what_you_want": "Fügen Sie hinzu, was Sie möchten",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Bitte wählen Sie ein Anfangs- und Enddatum aus!",
+    "CL_SL_CM_recommended_program": "Empfohlen",
+    "CL_SL_CM_rpm": "U/min"
 }

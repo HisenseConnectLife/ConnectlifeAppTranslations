@@ -14,7 +14,7 @@
     "automation": "स्वचालन",
     "appliances": "उपकरण",
     "add_appliances": "उपकरण शामिल करें।",
-    "appliance_things_to_do": "किए जाने वाले काम",
+    "appliance_things_to_do": "और ढूंढें",
     "favorites": "पसंदीदा",
     "more": "अधिक",
     "rooms": "कमरे",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "क्षमा करें, प्रोग्राम नहीं भेजा जा सकता, कृपया अपना डिवाइस चालू करें।",
     "CL_SL_CM_energy_monitor": "एनर्जी मॉनिटर पर जाएं",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "नाम D**CW, जैसे D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "नाम DH-**, जैसे DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "आपके आस-पास के डिवाइस खोजना",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "वाइन प्रबंधन",
+    "CL_CF_HP_add_card_key": "कार्ड जोड़ें",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "एसएन को बदला नहीं जा सकता, संबंध नहीं बांधा गया है।",
+    "CL_CF_FM_add_what_you_want": "जो आप चाहते हैं उसे जोड़ें",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "",
+    "CL_SL_CM_recommended_program": "अनुशंसित",
+    "CL_SL_CM_rpm": "आरपीएम"
 }

@@ -14,7 +14,7 @@
     "automation": "Automatizácia",
     "appliances": "Spotrebiče",
     "add_appliances": "Pridať spotrebiče.",
-    "appliance_things_to_do": "VECI, KTORÉ TREBA SPRAVIŤ",
+    "appliance_things_to_do": "OBJAVTE VIAC",
     "favorites": "OBĽÚBENÉ",
     "more": "VIAC",
     "rooms": "Miestnosti",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "Ľutujeme, program nemôže odoslať, zapnite zariadenie.",
     "CL_SL_CM_energy_monitor": "PREJSŤ NA ENERGETICKÝ MONITOR",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "Názov ako D**CW, napríklad D12CW, D16CW",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "Názov ako DH-**, napríklad DH-12W, DH-16W",
+    "CL_CF_CS_searching_device_near_you": "Hľadajú sa zariadenia vo vašom okolí",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "Manažment vína",
+    "CL_CF_HP_add_card_key": "pridať kartu",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "Nemožno zmeniť sn, nemá viazaný vzťah.",
+    "CL_CF_FM_add_what_you_want": "Pridajte, čo chcete",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "Vyberte dátum začiatku a konca!",
+    "CL_SL_CM_recommended_program": "Odporúčané",
+    "CL_SL_CM_rpm": "ot./min"
 }

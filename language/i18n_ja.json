@@ -14,7 +14,7 @@
     "automation": "予約",
     "appliances": "機器",
     "add_appliances": "機器追加",
-    "appliance_things_to_do": "運転設定",
+    "appliance_things_to_do": "さらに詳しく",
     "favorites": "お気に入り",
     "more": "更に",
     "rooms": "部屋",
@@ -4659,6 +4659,17 @@
     "CL_SL_CM_progam_send_warning2": "申し訳ありませんが、プログラムは送信できません。デバイスの電源をオンにしてください。",
     "CL_SL_CM_energy_monitor": "エネルギーモニターへ",
     "CL_CF_CS_tuya_dehumidifier_select_name_1": "名前は D**CW です（例: D12CW、D16CW）。",
-    "CL_CF_CS_tuya_dehumidifier_select_name_2": "",
-    "CL_CF_CS_searching_device_near_you": ""
+    "CL_CF_CS_tuya_dehumidifier_select_name_2": "DH-** という名前（DH-12W、DH-16W など）",
+    "CL_CF_CS_searching_device_near_you": "近くのデバイスを検索しています",
+    "CL_DV_HOB_step2_residual_reminder": "",
+    "CL_CF_HP_wine_management": "ワイン管理",
+    "CL_CF_HP_add_card_key": "カードを追加",
+    "CL_DV_HOB_filter_no_data_title": "",
+    "CL_DV_HOB_CL_DV_HOB_filter_no_data_content": "",
+    "CL_CF_CS_replace_sn_error": "sn を変更できません。バインド関係がありません。",
+    "CL_CF_FM_add_what_you_want": "必要なものを追加",
+    "CL_DV_RF_x_hours_before_the_plan": "",
+    "CL_CF_CO_select_time_tips": "",
+    "CL_SL_CM_recommended_program": "推奨",
+    "CL_SL_CM_rpm": "回転数"
 }
