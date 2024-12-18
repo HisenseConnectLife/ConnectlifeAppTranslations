@@ -4671,5 +4671,6 @@
     "CL_DV_RF_x_hours_before_the_plan": "",
     "CL_CF_CO_select_time_tips": "Kérjük, válassza ki a kezdési és a befejezési időt!",
     "CL_SL_CM_recommended_program": "Ajánlott",
-    "CL_SL_CM_rpm": "fordulat"
+    "CL_SL_CM_rpm": "fordulat",
+    "CL_DV_HOB_step2_cooking_used": ""
 }
