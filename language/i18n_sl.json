@@ -4671,5 +4671,6 @@
     "CL_DV_RF_x_hours_before_the_plan": "",
     "CL_CF_CO_select_time_tips": "Vnesite datum začetka in datum konca!",
     "CL_SL_CM_recommended_program": "Priporočljivo",
-    "CL_SL_CM_rpm": "vrtljajev na minuto"
+    "CL_SL_CM_rpm": "vrtljajev na minuto",
+    "CL_DV_HOB_step2_cooking_used": ""
 }
