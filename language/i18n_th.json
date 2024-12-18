@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "ที่แนะนำ",
     "CL_SL_CM_rpm": "รอบต่อนาที",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "อัพเดตรอบการแข่ง",
+    "CL_CF_FW_current_version": "เวอร์ชันปัจจุบัน:",
+    "CL_CF_FW_new_version": "เวอร์ชันใหม่:",
+    "CL_CF_FW_content": "เนื้อหา:",
+    "CL_CF_FW_update": "กำลังอัปเดต...",
+    "CL_CF_FW_update_desp": "เชื่อมต่ออุปกรณ์ของคุณกับอินเทอร์เน็ตระหว่างกระบวนการอัปเกรดและอย่าปิดหน้าปัจจุบัน!",
+    "CL_CF_FW_update_completed": "การอัปเดตเสร็จสมบูรณ์",
+    "CL_CF_FW_update_failure": "การอัปเดตล้มเหลว",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "กดจุดสามจุด <img> บนตู้เย็นของคุณค้างไว้ <font> 3 วินาที </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }

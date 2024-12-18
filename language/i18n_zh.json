@@ -2344,7 +2344,7 @@
     "local_network_permission_tips": "请设置本地网络权限\n设置->权限->网络",
     "time_and_date_uppercase": "时间和日期",
     "use_phone_settings": "手机设置",
-    "choose_device_category_tips": "选择设备属性",
+    "choose_device_category_tips": "选择设备所属的类别。",
     "testing_date": "检测日期",
     "sent_email_with_code": "带验证码的邮件已发送至 %s",
     "offline_send_command_fail": "设备离线，指令下发失败",
@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "请选择开始和结束日期！",
     "CL_SL_CM_recommended_program": "推荐程序",
     "CL_SL_CM_rpm": "转速",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "周期更新",
+    "CL_CF_FW_current_version": "当前版本：",
+    "CL_CF_FW_new_version": "新版本：",
+    "CL_CF_FW_content": "内容：",
+    "CL_CF_FW_update": "正在更新...",
+    "CL_CF_FW_update_desp": "升级过程中请保持设备连接到互联网，不要关闭当前页面！",
+    "CL_CF_FW_update_completed": "更新完成",
+    "CL_CF_FW_update_failure": "更新失败",
+    "CL_DV_RF_deactivate_sabbath_desc": "安息日模式已在设备端启用，想禁用该模式，请按照以下步骤操作:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "按住冰箱上的三个点<img>并持续<font> 3 秒钟。 </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "在设备端长按Lock按键3秒钟 禁用安息日模式"
 }

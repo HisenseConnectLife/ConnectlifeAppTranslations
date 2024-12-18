@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "Tavsiye edilen",
     "CL_SL_CM_rpm": "devir/dakika",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Döngü güncellemesi",
+    "CL_CF_FW_current_version": "Güncel sürüm:",
+    "CL_CF_FW_new_version": "Yeni sürüm:",
+    "CL_CF_FW_content": "İçerik:",
+    "CL_CF_FW_update": "Güncelleniyor...",
+    "CL_CF_FW_update_desp": "Yükseltme işlemi sırasında cihazınızın internete bağlı olduğundan emin olun ve mevcut sayfayı kapatmayın!",
+    "CL_CF_FW_update_completed": "Güncelleme Tamamlandı",
+    "CL_CF_FW_update_failure": "Güncelleme Başarısızlığı",
+    "CL_DV_RF_deactivate_sabbath_desc": "Şarap dolabınızda Şabat Modu etkinleştirildi. Devre dışı bırakmak için aşağıdaki adımları izleyin:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Buzdolabınızın üzerindeki üç noktaya <img> 3 saniye <font> basın ve </font> tutun.",
+    "CL_DV_RF_deactivate_sabbath_tips": "Önce cihazınızdaki Kilit tuşuna 3 saniye basarak Şabat modunu devre dışı bırakın."
 }

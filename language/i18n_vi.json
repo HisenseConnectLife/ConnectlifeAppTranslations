@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Vui lòng chọn một ngày bắt đầu và kết thúc!",
     "CL_SL_CM_recommended_program": "Khuyến khích",
     "CL_SL_CM_rpm": "vòng/phút",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Cập nhật chu kỳ",
+    "CL_CF_FW_current_version": "Phiên bản hiện tại:",
+    "CL_CF_FW_new_version": "Phiên bản mới:",
+    "CL_CF_FW_content": "Nội dung:",
+    "CL_CF_FW_update": "Đang cập nhật...",
+    "CL_CF_FW_update_desp": "Hãy giữ thiết bị của bạn được kết nối Internet trong quá trình nâng cấp và không đóng trang hiện tại!",
+    "CL_CF_FW_update_completed": "Cập nhật hoàn tất",
+    "CL_CF_FW_update_failure": "Cập nhật lỗi",
+    "CL_DV_RF_deactivate_sabbath_desc": "Chế độ Sabbath được kích hoạt trên tủ rượu của bạn. Làm theo các bước sau để vô hiệu hóa nó:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Nhấn và giữ ba dấu chấm <img> trên tủ lạnh trong <font> 3 giây. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Tắt chế độ Sabbath bằng cách nhấn phím khóa trên thiết bị trong 3 giây."
 }

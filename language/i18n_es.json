@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Seleccione una fecha de inicio y fin.",
     "CL_SL_CM_recommended_program": "Recomendado",
     "CL_SL_CM_rpm": "RPM",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Actualización de ciclos",
+    "CL_CF_FW_current_version": "Versión actual:",
+    "CL_CF_FW_new_version": "Nueva versión:",
+    "CL_CF_FW_content": "Contenido:",
+    "CL_CF_FW_update": "Actualizando...",
+    "CL_CF_FW_update_desp": "Mantenga su dispositivo conectado a Internet durante el proceso de actualización y no cierre la página actual.",
+    "CL_CF_FW_update_completed": "Actualización completada",
+    "CL_CF_FW_update_failure": "Error de actualización",
+    "CL_DV_RF_deactivate_sabbath_desc": "El modo sabático está activado en su vinoteca. Sigue los pasos para desactivarlo:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Mantén presionados los tres puntos <img> en tu refrigerador durante <font> 3 segundos. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "En primer lugar, desactive el modo Sabbath pulsando la tecla de bloqueo del aparato durante 3 segundos."
 }

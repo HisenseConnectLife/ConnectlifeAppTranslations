@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "Direkomendasikan",
     "CL_SL_CM_rpm": "putaran per menit",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Pembaruan siklus",
+    "CL_CF_FW_current_version": "Versi saat ini:",
+    "CL_CF_FW_new_version": "Versi baru:",
+    "CL_CF_FW_content": "Isi:",
+    "CL_CF_FW_update": "Memperbarui...",
+    "CL_CF_FW_update_desp": "Biarkan perangkat Anda tetap terhubung ke internet selama proses pemutakhiran dan jangan tutup halaman saat ini!",
+    "CL_CF_FW_update_completed": "Pembaruan Selesai",
+    "CL_CF_FW_update_failure": "Kegagalan Pembaruan",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Tekan dan tahan tiga titik <img> pada lemari es Anda selama <font> 3 detik. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }

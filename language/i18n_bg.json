@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Моля, изберете начална и крайна дата!",
     "CL_SL_CM_recommended_program": "Препоръчва се",
     "CL_SL_CM_rpm": "об/мин",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Актуализация на цикли",
+    "CL_CF_FW_current_version": "Текуща версия:",
+    "CL_CF_FW_new_version": "Нова версия:",
+    "CL_CF_FW_content": "Съдържание:",
+    "CL_CF_FW_update": "Актуализиране...",
+    "CL_CF_FW_update_desp": "Дръжте устройството си свързано с интернет по време на процеса на надграждане и не затваряйте текущата страница!",
+    "CL_CF_FW_update_completed": "Актуализацията е завършена",
+    "CL_CF_FW_update_failure": "Неуспешна актуализация",
+    "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode е активиран на вашия шкаф за вино. Следвайте стъпките, за да го деактивирате:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Натиснете и задръжте трите точки <img> на вашия хладилник за <font> 3 секунди. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Първо деактивирайте съботния режим, като натиснете клавиша Lock на вашия уред за 3 секунди."
 }

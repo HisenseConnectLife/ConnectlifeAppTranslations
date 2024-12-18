@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "מוּמלָץ",
     "CL_SL_CM_rpm": "סל\"ד",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "עדכון מחזורים",
+    "CL_CF_FW_current_version": "גרסה נוכחית:",
+    "CL_CF_FW_new_version": "גרסה חדשה:",
+    "CL_CF_FW_content": "תוֹכֶן:",
+    "CL_CF_FW_update": "עִדכּוּן...",
+    "CL_CF_FW_update_desp": "שמור את המכשיר שלך מחובר לאינטרנט במהלך תהליך השדרוג ואל תסגור את הדף הנוכחי!",
+    "CL_CF_FW_update_completed": "העדכון הושלם",
+    "CL_CF_FW_update_failure": "עדכון כשל",
+    "CL_DV_RF_deactivate_sabbath_desc": "מצב שבת מופעל בארון היין שלכם. בצע את השלבים כדי להשבית אותו:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "לחץ והחזק את שלוש הנקודות <img> במקרר למשך <font> 3 שניות. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "תחילה השביתו את מצב השבת על ידי לחיצה על מקש הנעילה במכשיר למשך 3 שניות."
 }

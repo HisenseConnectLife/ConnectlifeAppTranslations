@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Vă rugăm să selectați o dată de început și o dată de sfârșit!",
     "CL_SL_CM_recommended_program": "Recomandat",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Actualizare cicluri",
+    "CL_CF_FW_current_version": "Versiunea curentă:",
+    "CL_CF_FW_new_version": "Noua versiune:",
+    "CL_CF_FW_content": "Conţinut:",
+    "CL_CF_FW_update": "Se actualizează...",
+    "CL_CF_FW_update_desp": "Păstrați dispozitivul conectat la internet în timpul procesului de actualizare și nu închideți pagina curentă!",
+    "CL_CF_FW_update_completed": "Actualizare finalizată",
+    "CL_CF_FW_update_failure": "Eșec de actualizare",
+    "CL_DV_RF_deactivate_sabbath_desc": "Modul Sabat este activat pe dulapul de vinuri. Urmați pașii pentru a-l dezactiva:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Apăsați și mențineți apăsate cele trei puncte <img> de pe frigider timp de <font> 3 secunde. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Mai întâi, dezactivați modul Sabat apăsând tasta Lock de pe aparat timp de 3 secunde."
 }

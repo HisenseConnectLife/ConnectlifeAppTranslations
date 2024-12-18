@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Velg en start- og sluttdato!",
     "CL_SL_CM_recommended_program": "Anbefalt",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Oppdatering av sykluser",
+    "CL_CF_FW_current_version": "Gjeldende versjon:",
+    "CL_CF_FW_new_version": "Ny versjon:",
+    "CL_CF_FW_content": "Innhold:",
+    "CL_CF_FW_update": "Oppdaterer...",
+    "CL_CF_FW_update_desp": "Hold enheten koblet til internett under oppgraderingsprosessen og ikke lukk den gjeldende siden!",
+    "CL_CF_FW_update_completed": "Oppdatering fullført",
+    "CL_CF_FW_update_failure": "Oppdateringsfeil",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Trykk og hold de tre prikkene <img> på kjøleskapet i <font> 3 sekunder. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }

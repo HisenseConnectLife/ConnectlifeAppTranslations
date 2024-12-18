@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Veuillez sélectionner une date de début et une date de fin !",
     "CL_SL_CM_recommended_program": "Recommandé",
     "CL_SL_CM_rpm": "tr/min",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Mise à jour des cycles",
+    "CL_CF_FW_current_version": "Version actuelle:",
+    "CL_CF_FW_new_version": "Nouvelle version:",
+    "CL_CF_FW_content": "Contenu:",
+    "CL_CF_FW_update": "Mise à jour...",
+    "CL_CF_FW_update_desp": "Gardez votre appareil connecté à Internet pendant le processus de mise à niveau et ne fermez pas la page actuelle !",
+    "CL_CF_FW_update_completed": "Mise à jour terminée",
+    "CL_CF_FW_update_failure": "Échec de la mise à jour",
+    "CL_DV_RF_deactivate_sabbath_desc": "Le mode Sabbat est activé sur votre cave à vin. Suivez les étapes pour le désactiver :",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Appuyez et maintenez les trois points <img> de votre réfrigérateur pendant <font> 3 secondes. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Désactivez d’abord le mode Sabbat en appuyant sur la touche de verrouillage de votre appareil pendant 3 secondes."
 }

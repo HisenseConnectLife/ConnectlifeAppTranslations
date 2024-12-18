@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Επιλέξτε ημερομηνία έναρξης και λήξης!",
     "CL_SL_CM_recommended_program": "Συνιστάται",
     "CL_SL_CM_rpm": "σ.α.λ",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Ενημέρωση κύκλων",
+    "CL_CF_FW_current_version": "Τρέχουσα έκδοση:",
+    "CL_CF_FW_new_version": "Νέα έκδοση:",
+    "CL_CF_FW_content": "Περιεχόμενο:",
+    "CL_CF_FW_update": "Ενημέρωση...",
+    "CL_CF_FW_update_desp": "Διατηρήστε τη συσκευή σας συνδεδεμένη στο διαδίκτυο κατά τη διαδικασία αναβάθμισης και μην κλείσετε την τρέχουσα σελίδα!",
+    "CL_CF_FW_update_completed": "Η ενημέρωση ολοκληρώθηκε",
+    "CL_CF_FW_update_failure": "Αποτυχία ενημέρωσης",
+    "CL_DV_RF_deactivate_sabbath_desc": "Η λειτουργία Sabbath είναι ενεργοποιημένη στο ντουλάπι κρασιού σας. Ακολουθήστε τα βήματα για να την απενεργοποιήσετε:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Πατήστε παρατεταμένα τις τρεις τελείες <img> στο ψυγείο σας για <font> 3 δευτερόλεπτα. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Πρώτα απενεργοποιήστε τη λειτουργία Σαββάτου πατώντας το πλήκτρο κλειδώματος στη συσκευή σας για 3 δευτερόλεπτα."
 }

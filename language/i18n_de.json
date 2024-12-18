@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Bitte wählen Sie ein Anfangs- und Enddatum aus!",
     "CL_SL_CM_recommended_program": "Empfohlen",
     "CL_SL_CM_rpm": "U/min",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Zyklen-Update",
+    "CL_CF_FW_current_version": "Aktuelle Version:",
+    "CL_CF_FW_new_version": "Neue Version:",
+    "CL_CF_FW_content": "Inhalt:",
+    "CL_CF_FW_update": "Aktualisierung...",
+    "CL_CF_FW_update_desp": "Lassen Sie Ihr Gerät während des Upgrade-Vorgangs mit dem Internet verbunden und schließen Sie die aktuelle Seite nicht!",
+    "CL_CF_FW_update_completed": "Update abgeschlossen",
+    "CL_CF_FW_update_failure": "Updatefehler",
+    "CL_DV_RF_deactivate_sabbath_desc": "Der Sabbatmodus ist auf Ihrem Weinschrank aktiviert. Befolgen Sie die Schritte, um es zu deaktivieren:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Halten Sie die drei Punkte <img> auf Ihrem Kühlschrank <font> 3 Sekunden lang gedrückt. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Deaktivieren Sie zunächst den Sabbat-Modus, indem Sie die Sperrtaste an Ihrem Gerät 3 Sekunden lang gedrückt halten."
 }

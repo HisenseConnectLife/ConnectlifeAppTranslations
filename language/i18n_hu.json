@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Kérjük, válassza ki a kezdési és a befejezési időt!",
     "CL_SL_CM_recommended_program": "Ajánlott",
     "CL_SL_CM_rpm": "fordulat",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Ciklusok frissítése",
+    "CL_CF_FW_current_version": "Jelenlegi verzió:",
+    "CL_CF_FW_new_version": "Új verzió:",
+    "CL_CF_FW_content": "Tartalom:",
+    "CL_CF_FW_update": "Frissítés...",
+    "CL_CF_FW_update_desp": "A frissítési folyamat alatt tartsa csatlakozva az eszközt az internethez, és ne zárja be az aktuális oldalt!",
+    "CL_CF_FW_update_completed": "A frissítés befejeződött",
+    "CL_CF_FW_update_failure": "Frissítési hiba",
+    "CL_DV_RF_deactivate_sabbath_desc": "A Sabbath mód aktiválva van a borosszekrényen. Az inaktiváláshoz kövesse a lépéseket:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Nyomja meg és tartsa lenyomva a három pontot <img> a hűtőszekrényen <font> 3 másodpercig. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Először kapcsolja ki a Sabbath módot a készülék Lock gombjának 3 másodpercig történő megnyomásával."
 }

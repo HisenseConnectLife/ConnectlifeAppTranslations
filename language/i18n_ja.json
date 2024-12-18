@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "推奨",
     "CL_SL_CM_rpm": "回転数",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "サイクルアップデート",
+    "CL_CF_FW_current_version": "現在のバージョン:",
+    "CL_CF_FW_new_version": "新バージョン:",
+    "CL_CF_FW_content": "コンテンツ：",
+    "CL_CF_FW_update": "更新中...",
+    "CL_CF_FW_update_desp": "アップグレード プロセス中はデバイスをインターネットに接続したままにして、現在のページを閉じないでください。",
+    "CL_CF_FW_update_completed": "更新が完了しました",
+    "CL_CF_FW_update_failure": "更新失敗",
+    "CL_DV_RF_deactivate_sabbath_desc": "安息日モードはワインキャビネットでアクティブになります。次の手順に従って非アクティブ化します。",
+    "CL_DV_RF_deactivate_sabbath_step_1": "冷蔵庫の 3 つのドット<img> <font> 3 秒間</font>押し続けます。",
+    "CL_DV_RF_deactivate_sabbath_tips": "まず、アプライアンスのロックキーを3秒間押して、安息日モードを無効にします。"
 }

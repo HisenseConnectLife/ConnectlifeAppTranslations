@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Выберите дату начала и дату окончания!",
     "CL_SL_CM_recommended_program": "Рекомендовано",
     "CL_SL_CM_rpm": "об/мин",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Циклы обновления",
+    "CL_CF_FW_current_version": "Текущая версия:",
+    "CL_CF_FW_new_version": "Новая версия:",
+    "CL_CF_FW_content": "Содержание:",
+    "CL_CF_FW_update": "Обновление...",
+    "CL_CF_FW_update_desp": "Во время процесса обновления не отключайте устройство от Интернета и не закрывайте текущую страницу!",
+    "CL_CF_FW_update_completed": "Обновление завершено",
+    "CL_CF_FW_update_failure": "Ошибка обновления",
+    "CL_DV_RF_deactivate_sabbath_desc": "Режим субботы активируется на вашем винном шкафу. Выполните следующие действия, чтобы деактивировать его:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Нажмите и удерживайте три точки <img> на холодильнике в течение <font> 3 секунд. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Сначала отключите режим субботы, нажав клавишу блокировки на приборе и удерживая ее в течение 3 секунд."
 }

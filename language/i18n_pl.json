@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Wybierz datę początkową i końcową!",
     "CL_SL_CM_recommended_program": "Zalecony",
     "CL_SL_CM_rpm": "obr./min",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Aktualizacja cykli",
+    "CL_CF_FW_current_version": "Wersja bieżąca:",
+    "CL_CF_FW_new_version": "Nowa wersja:",
+    "CL_CF_FW_content": "Treść:",
+    "CL_CF_FW_update": "Aktualizowanie...",
+    "CL_CF_FW_update_desp": "Podczas procesu aktualizacji utrzymuj urządzenie podłączone do Internetu i nie zamykaj bieżącej strony!",
+    "CL_CF_FW_update_completed": "Aktualizacja ukończona",
+    "CL_CF_FW_update_failure": "Aktualizacja nie powiodła się",
+    "CL_DV_RF_deactivate_sabbath_desc": "Tryb szabasowy jest włączony w twojej szafce na wino. Postępuj zgodnie z instrukcjami, aby go dezaktywować:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Naciśnij i przytrzymaj trzy kropki <img> na lodówce przez <font> 3 sekundy. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Najpierw wyłącz tryb szabasowy, naciskając przycisk blokady na urządzeniu przez 3 sekundy."
 }

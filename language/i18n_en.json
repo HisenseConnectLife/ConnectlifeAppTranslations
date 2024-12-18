@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Please select a start and end time!",
     "CL_SL_CM_recommended_program": "Recommended",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": "This cooking zone is already in use."
+    "CL_DV_HOB_step2_cooking_used": "This cooking zone is already in use.",
+    "CL_CF_FW_cycles_update": "Cycles update",
+    "CL_CF_FW_current_version": "Current version:",
+    "CL_CF_FW_new_version": "New version:",
+    "CL_CF_FW_content": "Content:",
+    "CL_CF_FW_update": "Updating...",
+    "CL_CF_FW_update_desp": "Keep your device connected to the internet during the upgrade process and don't close the current page!",
+    "CL_CF_FW_update_completed": "Update Completed",
+    "CL_CF_FW_update_failure": "Update Failure",
+    "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode is activated on your fridge. Follow the steps to deactivate it:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Press and hold the three dots <img> on your fridge for <font>3 seconds.</font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "First deactivate Sabbath mode by pressing the three dots on your appliance for 3 seconds."
 }
