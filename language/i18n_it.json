@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Selezionare un orario di inizio e di fine!",
     "CL_SL_CM_recommended_program": "Raccomandato",
     "CL_SL_CM_rpm": "giri al minuto",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Aggiornamento cicli",
+    "CL_CF_FW_current_version": "Versione corrente:",
+    "CL_CF_FW_new_version": "Nuova versione:",
+    "CL_CF_FW_content": "Contenuto:",
+    "CL_CF_FW_update": "Aggiornamento...",
+    "CL_CF_FW_update_desp": "Mantieni il dispositivo connesso a Internet durante il processo di aggiornamento e non chiudere la pagina corrente!",
+    "CL_CF_FW_update_completed": "Aggiornamento completato",
+    "CL_CF_FW_update_failure": "Errore di aggiornamento",
+    "CL_DV_RF_deactivate_sabbath_desc": "La modalità Sabbath è attivata sulla tua cantinetta vini. Segui i passaggi per disattivarlo:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Tieni premuti i tre puntini <img> sul tuo frigorifero per <font> 3 secondi. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Per prima cosa disattiva la modalità Sabbath premendo il tasto Blocco sull'apparecchio per 3 secondi."
 }

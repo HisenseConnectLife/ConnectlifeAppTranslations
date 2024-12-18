@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "Disyorkan",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Kemas kini kitaran",
+    "CL_CF_FW_current_version": "Versi semasa:",
+    "CL_CF_FW_new_version": "Versi baharu:",
+    "CL_CF_FW_content": "kandungan:",
+    "CL_CF_FW_update": "Mengemas kini...",
+    "CL_CF_FW_update_desp": "Pastikan peranti anda disambungkan ke Internet semasa proses naik taraf dan jangan tutup halaman semasa!",
+    "CL_CF_FW_update_completed": "Kemas Kini Selesai",
+    "CL_CF_FW_update_failure": "Kegagalan Kemas Kini",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Tekan dan tahan tiga titik <img> pada peti sejuk anda selama <font> 3 saat. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }

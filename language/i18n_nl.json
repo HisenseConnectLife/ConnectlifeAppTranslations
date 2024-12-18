@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Selecteer een start- en einddatum!",
     "CL_SL_CM_recommended_program": "Aanbevolen",
     "CL_SL_CM_rpm": "toerental",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Cyclus update",
+    "CL_CF_FW_current_version": "Huidige versie:",
+    "CL_CF_FW_new_version": "Nieuwe versie:",
+    "CL_CF_FW_content": "Inhoud:",
+    "CL_CF_FW_update": "Bijwerken...",
+    "CL_CF_FW_update_desp": "Zorg ervoor dat uw apparaat tijdens het upgradeproces verbonden blijft met het internet en sluit de huidige pagina niet!",
+    "CL_CF_FW_update_completed": "Update voltooid",
+    "CL_CF_FW_update_failure": "Update mislukt",
+    "CL_DV_RF_deactivate_sabbath_desc": "De sabbatmodus is geactiveerd op uw wijnkast. Volg de stappen om het te deactiveren:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Houd de drie puntjes <img> op je koelkast <font> 3 seconden ingedrukt. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Deactiveer eerst de sabbatmodus door de vergrendeltoets op uw apparaat 3 seconden ingedrukt te houden."
 }

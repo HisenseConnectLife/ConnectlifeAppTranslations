@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Odaberite datum početka i završetka!",
     "CL_SL_CM_recommended_program": "Preporučeno",
     "CL_SL_CM_rpm": "broj okretaja u minuti",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Ažuriranje ciklusa",
+    "CL_CF_FW_current_version": "Trenutna verzija:",
+    "CL_CF_FW_new_version": "Nova verzija:",
+    "CL_CF_FW_content": "Sadržaj:",
+    "CL_CF_FW_update": "Ažuriranje...",
+    "CL_CF_FW_update_desp": "Neka vaš uređaj bude povezan s internetom tijekom procesa nadogradnje i ne zatvarajte trenutnu stranicu!",
+    "CL_CF_FW_update_completed": "Ažuriranje dovršeno",
+    "CL_CF_FW_update_failure": "Ažuriranje nije uspjelo",
+    "CL_DV_RF_deactivate_sabbath_desc": "Sabbath način rada aktiviran je na vašem vinskom hladnjaku. Slijedite korake da biste ga deaktivirali:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Pritisnite i držite tri točke <img> na hladnjaku <font> 3 sekunde. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Prvo deaktivirajte Sabbath mode pritiskom na tipku Lock na uređaju 3 sekunde."
 }

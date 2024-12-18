@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Selecione uma data de início e de fim!",
     "CL_SL_CM_recommended_program": "Recomendado",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Atualização de ciclos",
+    "CL_CF_FW_current_version": "Versão atual:",
+    "CL_CF_FW_new_version": "Nova versão:",
+    "CL_CF_FW_content": "Contente:",
+    "CL_CF_FW_update": "A atualizar...",
+    "CL_CF_FW_update_desp": "Mantenha seu dispositivo conectado à internet durante o processo de atualização e não feche a página atual!",
+    "CL_CF_FW_update_completed": "Atualização concluída",
+    "CL_CF_FW_update_failure": "Falha na atualização",
+    "CL_DV_RF_deactivate_sabbath_desc": "O modo Sabbath está ativado na sua cave de vinhos. Siga os passos para o desativar:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Pressione e segure os três pontos <img> na sua geladeira por <font> 3 segundos. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Primeiro, desative o modo Sabbath pressionando a tecla Lock no seu aparelho por 3 segundos."
 }

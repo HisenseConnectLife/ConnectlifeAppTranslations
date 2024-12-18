@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Vnesite datum začetka in datum konca!",
     "CL_SL_CM_recommended_program": "Priporočljivo",
     "CL_SL_CM_rpm": "vrtljajev na minuto",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Posodobitev ciklov",
+    "CL_CF_FW_current_version": "Trenutna različica:",
+    "CL_CF_FW_new_version": "Nova različica:",
+    "CL_CF_FW_content": "Vsebina:",
+    "CL_CF_FW_update": "Posodabljanje ...",
+    "CL_CF_FW_update_desp": "Med postopkom nadgradnje naj bo vaša naprava povezana z internetom in ne zaprite trenutne strani!",
+    "CL_CF_FW_update_completed": "Posodobitev je končana",
+    "CL_CF_FW_update_failure": "Napaka posodobitve",
+    "CL_DV_RF_deactivate_sabbath_desc": "Način Šabat se aktivira v vaši vinski omari. Če ga želite deaktivirati, sledite korakom:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Pritisnite in držite tri pike <img> na vašem hladilniku <font> 3 sekunde. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Najprej deaktivirajte način Šabat tako, da za 3 sekunde pritisnete tipko Lock na napravi."
 }

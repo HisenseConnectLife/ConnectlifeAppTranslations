@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Välj ett start- och slutdatum!",
     "CL_SL_CM_recommended_program": "Rekommenderad",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Uppdatering av cykler",
+    "CL_CF_FW_current_version": "Aktuell version:",
+    "CL_CF_FW_new_version": "Ny version:",
+    "CL_CF_FW_content": "Innehåll:",
+    "CL_CF_FW_update": "Uppdaterar...",
+    "CL_CF_FW_update_desp": "Håll din enhet ansluten till internet under uppgraderingsprocessen och stäng inte den aktuella sidan!",
+    "CL_CF_FW_update_completed": "Uppdatering slutförd",
+    "CL_CF_FW_update_failure": "Uppdateringsfel",
+    "CL_DV_RF_deactivate_sabbath_desc": "Sabbatsläget är aktiverat på ditt vinskåp. Följ stegen för att inaktivera den:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Tryck och håll de tre prickarna <img> på ditt kylskåp i <font> 3 sekunder. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Avaktivera först sabbatsläget genom att trycka på låsknappen på din apparat i 3 sekunder."
 }

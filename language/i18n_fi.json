@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Valitse aloitus- ja lopetuspäivä!",
     "CL_SL_CM_recommended_program": "Suositeltava",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Syklien päivitys",
+    "CL_CF_FW_current_version": "Nykyinen versio:",
+    "CL_CF_FW_new_version": "Uusi versio:",
+    "CL_CF_FW_content": "Sisältö:",
+    "CL_CF_FW_update": "Päivitetään...",
+    "CL_CF_FW_update_desp": "Pidä laitteesi yhteydessä Internetiin päivityksen aikana äläkä sulje nykyistä sivua!",
+    "CL_CF_FW_update_completed": "Päivitys valmis",
+    "CL_CF_FW_update_failure": "Päivitys epäonnistui",
+    "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode on aktivoitu viinikaapissasi. Poista se käytöstä seuraavasti:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Pidä jääkaapin kolmea pistettä <img> painettuna <font> 3 sekunnin ajan. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Poista ensin sapattitila käytöstä painamalla laitteen lukitusnäppäintä 3 sekunnin ajan."
 }

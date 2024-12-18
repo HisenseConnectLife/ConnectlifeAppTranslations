@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "لطفاً تاریخ شروع و پایان را انتخاب کنید!",
     "CL_SL_CM_recommended_program": "توصیه می شود",
     "CL_SL_CM_rpm": "دور در دقیقه",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "به روز رسانی چرخه ها",
+    "CL_CF_FW_current_version": "نسخه فعلی:",
+    "CL_CF_FW_new_version": "نسخه جدید:",
+    "CL_CF_FW_content": "مطالب:",
+    "CL_CF_FW_update": "در حال به روز رسانی...",
+    "CL_CF_FW_update_desp": "دستگاه خود را در طول فرآیند ارتقا به اینترنت متصل نگه دارید و صفحه فعلی را نبندید!",
+    "CL_CF_FW_update_completed": "به روز رسانی تکمیل شد",
+    "CL_CF_FW_update_failure": "به روز رسانی شکست",
+    "CL_DV_RF_deactivate_sabbath_desc": "حالت سبت در کابینت شراب شما فعال است. مراحل را برای غیرفعال کردن ان دنبال کنید:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "سه نقطه <img> را روی یخچال خود فشار دهید و به مدت 3 ثانیه <font> نگه دارید. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "ابتدا حالت سبت را با فشار دادن کلید قفل در دستگاه خود به مدت 3 ثانیه غیرفعال کنید."
 }

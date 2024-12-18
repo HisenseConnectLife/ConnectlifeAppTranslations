@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Vyberte dátum začiatku a konca!",
     "CL_SL_CM_recommended_program": "Odporúčané",
     "CL_SL_CM_rpm": "ot./min",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Aktualizácia cyklov",
+    "CL_CF_FW_current_version": "Aktuálna verzia:",
+    "CL_CF_FW_new_version": "Nová verzia:",
+    "CL_CF_FW_content": "Obsah:",
+    "CL_CF_FW_update": "Aktualizuje sa...",
+    "CL_CF_FW_update_desp": "Počas procesu inovácie nechajte svoje zariadenie pripojené k internetu a nezatvárajte aktuálnu stránku!",
+    "CL_CF_FW_update_completed": "Aktualizácia dokončená",
+    "CL_CF_FW_update_failure": "Aktualizácia zlyhala",
+    "CL_DV_RF_deactivate_sabbath_desc": "Na vinotéke je aktivovaný režim Sabbath. Postupujte podľa pokynov na jeho deaktiváciu:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Stlačte a podržte tri bodky <img> na chladničke <font> 3 sekundy. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Najprv deaktivujte režim Sabbath stlačením tlačidla uzamknutia na vašom spotrebiči na 3 sekundy."
 }

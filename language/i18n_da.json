@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Vælg en start- og slutdato!",
     "CL_SL_CM_recommended_program": "Anbefales",
     "CL_SL_CM_rpm": "rpm",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Opdatering af cyklusser",
+    "CL_CF_FW_current_version": "Nuværende version:",
+    "CL_CF_FW_new_version": "Ny version:",
+    "CL_CF_FW_content": "Tilfreds:",
+    "CL_CF_FW_update": "Opdaterer...",
+    "CL_CF_FW_update_desp": "Hold din enhed forbundet til internettet under opgraderingsprocessen, og luk ikke den aktuelle side!",
+    "CL_CF_FW_update_completed": "Opdatering fuldført",
+    "CL_CF_FW_update_failure": "Opdateringsfejl",
+    "CL_DV_RF_deactivate_sabbath_desc": "Sabbatstilstand er aktiveret på dit vinskab. Følg trinene for at deaktivere det:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Tryk og hold de tre prikker <img> på dit køleskab i <font> 3 sekunder. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Deaktiver først sabbatstilstand ved at trykke på låsetasten på dit apparat i 3 sekunder."
 }

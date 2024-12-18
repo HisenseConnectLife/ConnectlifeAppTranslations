@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Изберете датум на започнување и завршување!",
     "CL_SL_CM_recommended_program": "Препорачано",
     "CL_SL_CM_rpm": "вртежи во минута",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Ажурирање на циклуси",
+    "CL_CF_FW_current_version": "Тековна верзија:",
+    "CL_CF_FW_new_version": "Нова верзија:",
+    "CL_CF_FW_content": "Содржина:",
+    "CL_CF_FW_update": "Се ажурира...",
+    "CL_CF_FW_update_desp": "Чувајте го вашиот уред поврзан на интернет за време на процесот на надградба и не ја затворајте тековната страница!",
+    "CL_CF_FW_update_completed": "Ажурирањето е завршено",
+    "CL_CF_FW_update_failure": "Неуспешно ажурирање",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Притиснете и задржете ги трите точки <img> на вашиот фрижидер <font> 3 секунди. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }

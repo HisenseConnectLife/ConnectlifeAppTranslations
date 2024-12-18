@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "يرجى تحديد تاريخ البدء والانتهاء!",
     "CL_SL_CM_recommended_program": "مُستَحسَن",
     "CL_SL_CM_rpm": "دورة في الدقيقة",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "تحديث الدورات",
+    "CL_CF_FW_current_version": "النسخة الحالية:",
+    "CL_CF_FW_new_version": "النسخة الجديدة:",
+    "CL_CF_FW_content": "محتوى:",
+    "CL_CF_FW_update": "جاري التحديث...",
+    "CL_CF_FW_update_desp": "حافظ على جهازك متصلاً بالإنترنت أثناء عملية الترقية ولا تغلق الصفحة الحالية!",
+    "CL_CF_FW_update_completed": "اكتمل التحديث",
+    "CL_CF_FW_update_failure": "فشل التحديث",
+    "CL_DV_RF_deactivate_sabbath_desc": "يتم تنشيط وضع السبت على خزانة النبيذ الخاصة بك. اتبع الخطوات لإلغاء تنشيطه:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "اضغط مع الاستمرار على النقاط الثلاث <img> الموجودة على الثلاجة لمدة <font> 3 ثوانٍ. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "قم أولا بإلغاء تنشيط وضع السبت بالضغط على مفتاح القفل على جهازك لمدة 3 ثوان."
 }

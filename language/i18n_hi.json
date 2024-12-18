@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "",
     "CL_SL_CM_recommended_program": "अनुशंसित",
     "CL_SL_CM_rpm": "आरपीएम",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "चक्र अद्यतन",
+    "CL_CF_FW_current_version": "वर्तमान संस्करण:",
+    "CL_CF_FW_new_version": "नया संस्करण:",
+    "CL_CF_FW_content": "सामग्री:",
+    "CL_CF_FW_update": "अपडेट हो रहा है...",
+    "CL_CF_FW_update_desp": "अपग्रेड प्रक्रिया के दौरान अपने डिवाइस को इंटरनेट से कनेक्ट रखें और वर्तमान पेज को बंद न करें!",
+    "CL_CF_FW_update_completed": "अपडेट पूर्ण हो गया",
+    "CL_CF_FW_update_failure": "अद्यतन विफलता",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "अपने फ्रिज पर तीन बिंदुओं <img> को <font>3 सेकंड</font> के लिए दबाकर रखें।",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }

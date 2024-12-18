@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Izaberite datum početka i završetka!",
     "CL_SL_CM_recommended_program": "Препоручено",
     "CL_SL_CM_rpm": "рпм",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Ажурирање циклуса",
+    "CL_CF_FW_current_version": "Тренутна верзија:",
+    "CL_CF_FW_new_version": "Нова верзија:",
+    "CL_CF_FW_content": "Садржај:",
+    "CL_CF_FW_update": "Ажурирање...",
+    "CL_CF_FW_update_desp": "Нека ваш уређај буде повезан са интернетом током процеса надоградње и не затварајте тренутну страницу!",
+    "CL_CF_FW_update_completed": "Ажурирање је завршено",
+    "CL_CF_FW_update_failure": "Неуспешно ажурирање",
+    "CL_DV_RF_deactivate_sabbath_desc": "Режим шабата се активирао на вашем винском ормарићу. Следите кораке да бисте га деактивирали:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Притисните и држите три тачке <img> на фрижидеру <font> 3 секунде. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Прво деактивирајте режим шабата тако што ћете притиснути тастер за закључавање на вашем уређају на 3 секунде."
 }

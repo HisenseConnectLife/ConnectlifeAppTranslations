@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Vyberte datum zahájení a datum ukončení!",
     "CL_SL_CM_recommended_program": "Doporučeno",
     "CL_SL_CM_rpm": "ot./min",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Aktualizace cyklů",
+    "CL_CF_FW_current_version": "Aktuální verze:",
+    "CL_CF_FW_new_version": "Nová verze:",
+    "CL_CF_FW_content": "Obsah:",
+    "CL_CF_FW_update": "Aktualizace...",
+    "CL_CF_FW_update_desp": "Během procesu upgradu nechte své zařízení připojené k internetu a nezavírejte aktuální stránku!",
+    "CL_CF_FW_update_completed": "Aktualizace dokončena",
+    "CL_CF_FW_update_failure": "Chyba aktualizace",
+    "CL_DV_RF_deactivate_sabbath_desc": "Na vaší vinotéce je aktivován režim Sabbath. Chcete-li jej deaktivovat, postupujte takto:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Stiskněte a podržte tři tečky <img> na lednici <font> po dobu 3 sekund. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Nejprve deaktivujte režim Sabbath stisknutím tlačítka Lock na vašem spotřebiči po dobu 3 sekund."
 }

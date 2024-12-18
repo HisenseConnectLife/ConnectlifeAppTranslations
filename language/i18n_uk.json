@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Виберіть дату початку та закінчення!",
     "CL_SL_CM_recommended_program": "Рекомендовано",
     "CL_SL_CM_rpm": "об/хв",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Оновлення циклів",
+    "CL_CF_FW_current_version": "Поточна версія:",
+    "CL_CF_FW_new_version": "Нова версія:",
+    "CL_CF_FW_content": "Зміст:",
+    "CL_CF_FW_update": "Оновлення...",
+    "CL_CF_FW_update_desp": "Тримайте свій пристрій підключеним до Інтернету під час процесу оновлення та не закривайте поточну сторінку!",
+    "CL_CF_FW_update_completed": "Оновлення завершено",
+    "CL_CF_FW_update_failure": "Помилка оновлення",
+    "CL_DV_RF_deactivate_sabbath_desc": "Режим суботи активовано у вашій винній шафі. Виконайте дії, щоб деактивувати його:",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Натисніть і утримуйте три крапки <img> на вашому холодильнику протягом <font> 3 секунд. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": "Спочатку вимкніть режим суботи, натиснувши клавішу блокування на приладі протягом 3 секунд."
 }

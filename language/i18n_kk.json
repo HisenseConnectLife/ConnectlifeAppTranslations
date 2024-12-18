@@ -4672,5 +4672,16 @@
     "CL_CF_CO_select_time_tips": "Басталу және аяқталу күнін таңдаңыз!",
     "CL_SL_CM_recommended_program": "Ұсынылады",
     "CL_SL_CM_rpm": "айн/мин",
-    "CL_DV_HOB_step2_cooking_used": ""
+    "CL_DV_HOB_step2_cooking_used": "",
+    "CL_CF_FW_cycles_update": "Циклдерді жаңарту",
+    "CL_CF_FW_current_version": "Ағымдағы нұсқасы:",
+    "CL_CF_FW_new_version": "Жаңа нұсқа:",
+    "CL_CF_FW_content": "Мазмұны:",
+    "CL_CF_FW_update": "Жаңарту...",
+    "CL_CF_FW_update_desp": "Жаңарту процесі кезінде құрылғыңызды интернетке қосулы ұстаңыз және ағымдағы бетті жаппаңыз!",
+    "CL_CF_FW_update_completed": "Жаңарту аяқталды",
+    "CL_CF_FW_update_failure": "Жаңарту сәтсіздігі",
+    "CL_DV_RF_deactivate_sabbath_desc": "",
+    "CL_DV_RF_deactivate_sabbath_step_1": "Тоңазытқыштағы үш нүктені <img> <font> 3 секунд басып тұрыңыз. </font>",
+    "CL_DV_RF_deactivate_sabbath_tips": ""
 }
