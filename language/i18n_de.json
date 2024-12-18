@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Updatefehler",
     "CL_DV_RF_deactivate_sabbath_desc": "Der Sabbatmodus ist auf Ihrem Weinschrank aktiviert. Befolgen Sie die Schritte, um es zu deaktivieren:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Halten Sie die drei Punkte <img> auf Ihrem Kühlschrank <font> 3 Sekunden lang gedrückt. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Deaktivieren Sie zunächst den Sabbat-Modus, indem Sie die Sperrtaste an Ihrem Gerät 3 Sekunden lang gedrückt halten."
+    "CL_DV_RF_deactivate_sabbath_tips": "Deaktivieren Sie zunächst den Sabbat-Modus, indem Sie die Sperrtaste an Ihrem Gerät 3 Sekunden lang gedrückt halten.",
+    "CL_DV_RF_combi_super_cool_desc": "Das Kühlfach wird für xh auf maximale Kühlung gestellt",
+    "CL_DV_RF_combi_fast_freeze_desc": "Das Gefrierfach wird für xh auf maximale Kühlung gestellt",
+    "CL_DV_RF_combi_eco_mode_desc": "Für alle Fächer werden die energieeffizientesten Temperaturen eingestellt. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Angepasste Temperaturen beim Reinigen des Kühlfachs des Kühlschranks oder wenn die Gerätetür längere Zeit geöffnet ist.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Eine voreingestellte Energiesparfunktion für längere Abwesenheiten von zu Hause.",
+    "CL_DV_RF_combi_party_mode_desc": "Ermöglicht maximale Kühlung und ist praktisch für die schnelle Abkühlung großer Produktbestände im Laufe des Tages.",
+    "CL_DV_RF_combi_lock_mode_desc": "Durch Aktivieren der Sperre wird der Bildschirm deaktiviert. Durch 3 Sekunden langes Drücken der X-Taste auf dem Gerätebildschirm wird die Sperre deaktiviert.",
+    "CL_DV_RF_combi_lights_desc": "Der Kühlschrank passt sich automatisch der Lichtmenge im Raum an und ändert die Kühlschrankbeleuchtung entsprechend.",
+    "CL_CF_CO_read_more": "Mehr lesen"
 }

@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Frissítési hiba",
     "CL_DV_RF_deactivate_sabbath_desc": "A Sabbath mód aktiválva van a borosszekrényen. Az inaktiváláshoz kövesse a lépéseket:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Nyomja meg és tartsa lenyomva a három pontot <img> a hűtőszekrényen <font> 3 másodpercig. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Először kapcsolja ki a Sabbath módot a készülék Lock gombjának 3 másodpercig történő megnyomásával."
+    "CL_DV_RF_deactivate_sabbath_tips": "Először kapcsolja ki a Sabbath módot a készülék Lock gombjának 3 másodpercig történő megnyomásával.",
+    "CL_DV_RF_combi_super_cool_desc": "A hűtőtér maximális hűtésre megy xh-ig",
+    "CL_DV_RF_combi_fast_freeze_desc": "A fagyasztórekesz maximális hűtésre megy xh-ig",
+    "CL_DV_RF_combi_eco_mode_desc": "A legtöbb energiahatékony hőmérséklet az összes rekeszhez be van állítva. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Beállított hőmérséklet a hűtőszekrény hűtőterének tisztításakor, vagy amikor a készülék ajtaja hosszabb ideig nyitva van.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Előre beállított energiatakarékos funkció, ha hosszabb ideig távol van otthonról.",
+    "CL_DV_RF_combi_party_mode_desc": "Maximális hűtést tesz lehetővé, kényelmes nagy árukészletek gyors lehűtéséhez a nap folyamán.",
+    "CL_DV_RF_combi_lock_mode_desc": "A zárolás bekapcsolása letiltja a képernyőt. Az X gomb 3 másodperces lenyomása a készülék képernyőjén kikapcsolja a zárat.",
+    "CL_DV_RF_combi_lights_desc": "A hűtőszekrény automatikusan alkalmazkodik a helyiségben lévő fény mennyiségéhez, és ennek megfelelően változtatja a hűtőszekrény világítását.",
+    "CL_CF_CO_read_more": "Olvass tovább"
 }

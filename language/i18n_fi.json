@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Päivitys epäonnistui",
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode on aktivoitu viinikaapissasi. Poista se käytöstä seuraavasti:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pidä jääkaapin kolmea pistettä <img> painettuna <font> 3 sekunnin ajan. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Poista ensin sapattitila käytöstä painamalla laitteen lukitusnäppäintä 3 sekunnin ajan."
+    "CL_DV_RF_deactivate_sabbath_tips": "Poista ensin sapattitila käytöstä painamalla laitteen lukitusnäppäintä 3 sekunnin ajan.",
+    "CL_DV_RF_combi_super_cool_desc": "Jäähdytysosasto siirtyy maksimijäähdytykselle xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Pakastinosasto jäähtyy maksimissaan xh:ksi",
+    "CL_DV_RF_combi_eco_mode_desc": "Kaikille osastoille on asetettu energiatehokkaimmat lämpötilat. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Säädetyt lämpötilat jääkaapin jäähdytysosastoa puhdistettaessa tai kun laitteen ovi on auki pidemmän aikaa.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Esiasetettu energiansäästötoiminto, kun olet pidemmän aikaa poissa kotoa.",
+    "CL_DV_RF_combi_party_mode_desc": "Mahdollistaa maksimaalisen jäähdytyksen, kätevä suurten tuotevarastojen nopeaan jäähdyttämiseen päivän aikana.",
+    "CL_DV_RF_combi_lock_mode_desc": "Lukituksen ottaminen käyttöön poistaa näytön käytöstä. X-näppäimen painaminen laitteen näytössä 3 sekunnin ajan poistaa lukituksen käytöstä.",
+    "CL_DV_RF_combi_lights_desc": "Jääkaappi mukautuu automaattisesti huoneen valon määrään ja muuttaa jääkaapin valot sen mukaan.",
+    "CL_CF_CO_read_more": "Lue lisää"
 }

@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Kegagalan Pembaruan",
     "CL_DV_RF_deactivate_sabbath_desc": "",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tekan dan tahan tiga titik <img> pada lemari es Anda selama <font> 3 detik. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": ""
+    "CL_DV_RF_deactivate_sabbath_tips": "",
+    "CL_DV_RF_combi_super_cool_desc": "Kompartemen pendingin akan mencapai pendinginan maksimum untuk xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Kompartemen freezer akan mencapai pendinginan maksimum untuk xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Suhu yang paling hemat energi ditetapkan untuk semua kompartemen. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Suhu yang disesuaikan saat membersihkan kompartemen pendingin kulkas atau saat pintu alat akan terbuka untuk jangka waktu lama.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Fungsi hemat energi yang telah ditetapkan sebelumnya saat Anda berada jauh dari rumah untuk jangka waktu lama.",
+    "CL_DV_RF_combi_party_mode_desc": "Memungkinkan pendinginan maksimal, nyaman untuk mendinginkan stok produk dalam jumlah besar dengan cepat sepanjang hari.",
+    "CL_DV_RF_combi_lock_mode_desc": "Menyalakan kunci akan menonaktifkan layar. Menekan tombol X pada layar alat selama 3 detik akan menonaktifkan kunci.",
+    "CL_DV_RF_combi_lights_desc": "Kulkas secara otomatis menyesuaikan dengan jumlah cahaya di ruangan dan mengubah lampu kulkas sesuai dengan itu.",
+    "CL_CF_CO_read_more": "Baca selengkapnya"
 }

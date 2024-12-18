@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Güncelleme Başarısızlığı",
     "CL_DV_RF_deactivate_sabbath_desc": "Şarap dolabınızda Şabat Modu etkinleştirildi. Devre dışı bırakmak için aşağıdaki adımları izleyin:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Buzdolabınızın üzerindeki üç noktaya <img> 3 saniye <font> basın ve </font> tutun.",
-    "CL_DV_RF_deactivate_sabbath_tips": "Önce cihazınızdaki Kilit tuşuna 3 saniye basarak Şabat modunu devre dışı bırakın."
+    "CL_DV_RF_deactivate_sabbath_tips": "Önce cihazınızdaki Kilit tuşuna 3 saniye basarak Şabat modunu devre dışı bırakın.",
+    "CL_DV_RF_combi_super_cool_desc": "Soğutma bölmesi xh boyunca maksimum soğutmaya gidecektir",
+    "CL_DV_RF_combi_fast_freeze_desc": "Dondurucu bölme xh boyunca maksimum soğutmaya geçecek",
+    "CL_DV_RF_combi_eco_mode_desc": "Tüm bölmeler için en yüksek enerji tasarruflu sıcaklıklar ayarlanmıştır. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Buzdolabının soğutucu bölmesini temizlerken veya cihazın kapısı uzun süre açık kalacaksa sıcaklıkları ayarlayın.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Uzun süre evden uzakta olacağınız zamanlar için önceden ayarlanmış enerji tasarrufu fonksiyonu.",
+    "CL_DV_RF_combi_party_mode_desc": "Gün içerisinde büyük miktarda ürün stoklarının hızlı bir şekilde soğutulması için uygundur, maksimum soğutma sağlar.",
+    "CL_DV_RF_combi_lock_mode_desc": "Kilidi açmak ekranı devre dışı bırakacaktır. Cihaz ekranında X tuşuna 3 saniye basmak kilidi devre dışı bırakır.",
+    "CL_DV_RF_combi_lights_desc": "Buzdolabı odadaki ışık miktarına göre kendini otomatik olarak ayarlıyor ve buzdolabı ışıklarını buna göre değiştiriyor.",
+    "CL_CF_CO_read_more": "Devamını oku"
 }

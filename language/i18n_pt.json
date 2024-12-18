@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Falha na atualização",
     "CL_DV_RF_deactivate_sabbath_desc": "O modo Sabbath está ativado na sua cave de vinhos. Siga os passos para o desativar:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pressione e segure os três pontos <img> na sua geladeira por <font> 3 segundos. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Primeiro, desative o modo Sabbath pressionando a tecla Lock no seu aparelho por 3 segundos."
+    "CL_DV_RF_deactivate_sabbath_tips": "Primeiro, desative o modo Sabbath pressionando a tecla Lock no seu aparelho por 3 segundos.",
+    "CL_DV_RF_combi_super_cool_desc": "O compartimento de resfriamento irá para o resfriamento máximo por xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "O compartimento do congelador irá para o resfriamento máximo por xh",
+    "CL_DV_RF_combi_eco_mode_desc": "As temperaturas mais eficientes em termos de energia são definidas para todos os compartimentos. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Temperaturas ajustadas ao limpar o compartimento mais frio do refrigerador ou quando a porta do aparelho ficará aberta por um longo período de tempo.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Uma função de economia de energia predefinida para quando você estiver fora de casa por um longo período de tempo.",
+    "CL_DV_RF_combi_party_mode_desc": "Permite o resfriamento máximo, conveniente para resfriar rapidamente grandes estoques de produtos durante o dia.",
+    "CL_DV_RF_combi_lock_mode_desc": "Ativar o bloqueio desabilitará a tela. Pressionar a tecla X na tela do aparelho por 3 segundos desabilita o bloqueio.",
+    "CL_DV_RF_combi_lights_desc": "O refrigerador se ajusta automaticamente à quantidade de luz no ambiente e altera as luzes do refrigerador de acordo.",
+    "CL_CF_CO_read_more": "Ler mais"
 }

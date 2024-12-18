@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Errore di aggiornamento",
     "CL_DV_RF_deactivate_sabbath_desc": "La modalità Sabbath è attivata sulla tua cantinetta vini. Segui i passaggi per disattivarlo:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tieni premuti i tre puntini <img> sul tuo frigorifero per <font> 3 secondi. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Per prima cosa disattiva la modalità Sabbath premendo il tasto Blocco sull'apparecchio per 3 secondi."
+    "CL_DV_RF_deactivate_sabbath_tips": "Per prima cosa disattiva la modalità Sabbath premendo il tasto Blocco sull'apparecchio per 3 secondi.",
+    "CL_DV_RF_combi_super_cool_desc": "Il vano di raffreddamento andrà al massimo raffreddamento per xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Il vano congelatore andrà al massimo raffreddamento per xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Per tutti i compartimenti vengono impostate le temperature più efficienti dal punto di vista energetico. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Temperature regolate durante la pulizia del vano frigorifero più freddo o quando la porta dell'elettrodomestico resta aperta per un periodo di tempo prolungato.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Una funzione di risparmio energetico preimpostata per quando si è fuori casa per un lungo periodo di tempo.",
+    "CL_DV_RF_combi_party_mode_desc": "Consente il massimo raffreddamento, comodo per raffreddare rapidamente grandi scorte di prodotti durante il giorno.",
+    "CL_DV_RF_combi_lock_mode_desc": "L'attivazione del blocco disabiliterà lo schermo. Premendo il tasto X sullo schermo dell'apparecchio per 3 secondi si disabilita il blocco.",
+    "CL_DV_RF_combi_lights_desc": "Il frigorifero si adatta automaticamente alla quantità di luce presente nella stanza e modifica di conseguenza l'illuminazione interna.",
+    "CL_CF_CO_read_more": "Per saperne di più"
 }
