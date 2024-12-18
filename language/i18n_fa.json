@@ -3085,7 +3085,7 @@
     "load": "بار",
     "change_load_level_tips": "برای صرفه جویی در مصرف انرژی، سطح بار را به میزان بارگذاری تنظیم کنید.",
     "passed": "گذرانده",
-    "scan_again": "دوباره اسکن کنید (Dobare askæn konid)",
+    "scan_again": "دوباره اسکن",
     "last_scanned": "آخرین اسکن",
     "energy_used": "انرژی مصرفی",
     "dw_statistics_desc": "این داده‌های آماری مبتنی بر آمارهای شبکه و بخشی از داده‌های مبتنی بر شرایط اندازه‌گیری‌شده در آزمایشگاه، فقط جهت اطلاع کاربران است.",
@@ -4671,5 +4671,6 @@
     "CL_DV_RF_x_hours_before_the_plan": "",
     "CL_CF_CO_select_time_tips": "لطفاً تاریخ شروع و پایان را انتخاب کنید!",
     "CL_SL_CM_recommended_program": "توصیه می شود",
-    "CL_SL_CM_rpm": "دور در دقیقه"
+    "CL_SL_CM_rpm": "دور در دقیقه",
+    "CL_DV_HOB_step2_cooking_used": ""
 }

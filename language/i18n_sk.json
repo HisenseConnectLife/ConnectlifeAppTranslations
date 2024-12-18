@@ -4671,5 +4671,6 @@
     "CL_DV_RF_x_hours_before_the_plan": "",
     "CL_CF_CO_select_time_tips": "Vyberte dátum začiatku a konca!",
     "CL_SL_CM_recommended_program": "Odporúčané",
-    "CL_SL_CM_rpm": "ot./min"
+    "CL_SL_CM_rpm": "ot./min",
+    "CL_DV_HOB_step2_cooking_used": ""
 }
