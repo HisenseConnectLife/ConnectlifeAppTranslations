@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Aktualizacja nie powiodła się",
     "CL_DV_RF_deactivate_sabbath_desc": "Tryb szabasowy jest włączony w twojej szafce na wino. Postępuj zgodnie z instrukcjami, aby go dezaktywować:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Naciśnij i przytrzymaj trzy kropki <img> na lodówce przez <font> 3 sekundy. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Najpierw wyłącz tryb szabasowy, naciskając przycisk blokady na urządzeniu przez 3 sekundy."
+    "CL_DV_RF_deactivate_sabbath_tips": "Najpierw wyłącz tryb szabasowy, naciskając przycisk blokady na urządzeniu przez 3 sekundy.",
+    "CL_DV_RF_combi_super_cool_desc": "Komora chłodnicza będzie działać w trybie maksymalnego chłodzenia przez xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Komora zamrażarki będzie działać w trybie maksymalnego chłodzenia przez xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Najbardziej energooszczędne temperatury ustawione są dla wszystkich komór. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Dostosowana temperatura podczas czyszczenia komory chłodzącej lodówki lub gdy drzwi urządzenia będą otwarte przez dłuższy czas.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Funkcja oszczędzania energii ustawiona fabrycznie, przydatna, gdy wyjeżdżasz z domu na dłuższy czas.",
+    "CL_DV_RF_combi_party_mode_desc": "Umożliwia maksymalne chłodzenie, wygodne do szybkiego schładzania dużych zapasów produktów w ciągu dnia.",
+    "CL_DV_RF_combi_lock_mode_desc": "Włączenie blokady wyłączy ekran. Naciśnięcie klawisza X na ekranie urządzenia przez 3 sekundy wyłączy blokadę.",
+    "CL_DV_RF_combi_lights_desc": "Lodówka automatycznie dostosowuje się do ilości światła w pomieszczeniu i odpowiednio zmienia oświetlenie.",
+    "CL_CF_CO_read_more": "Przeczytaj więcej"
 }

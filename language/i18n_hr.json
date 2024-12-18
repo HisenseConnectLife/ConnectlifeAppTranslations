@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Ažuriranje nije uspjelo",
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbath način rada aktiviran je na vašem vinskom hladnjaku. Slijedite korake da biste ga deaktivirali:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pritisnite i držite tri točke <img> na hladnjaku <font> 3 sekunde. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Prvo deaktivirajte Sabbath mode pritiskom na tipku Lock na uređaju 3 sekunde."
+    "CL_DV_RF_deactivate_sabbath_tips": "Prvo deaktivirajte Sabbath mode pritiskom na tipku Lock na uređaju 3 sekunde.",
+    "CL_DV_RF_combi_super_cool_desc": "Odjeljak za hlađenje će se maksimalno hladiti xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Odjeljak zamrzivača će se maksimalno hladiti xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Za sve odjeljke postavljene su energetski najučinkovitije temperature. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Podešene temperature prilikom čišćenja hladnjaka u hladnjaku ili kada će vrata uređaja biti otvorena dulje vrijeme.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Unaprijed postavljena funkcija uštede energije za vrijeme kada ste odsutni od kuće dulje vrijeme.",
+    "CL_DV_RF_combi_party_mode_desc": "Omogućuje maksimalno hlađenje, pogodno za brzo hlađenje velikih zaliha proizvoda tijekom dana.",
+    "CL_DV_RF_combi_lock_mode_desc": "Uključivanje zaključavanja onemogućit će zaslon. Pritiskom na tipku X na zaslonu uređaja 3 sekunde deaktivira se zaključavanje.",
+    "CL_DV_RF_combi_lights_desc": "Hladnjak se automatski prilagođava količini svjetla u prostoriji i u skladu s tim mijenja svjetla hladnjaka.",
+    "CL_CF_CO_read_more": "Pročitaj više"
 }

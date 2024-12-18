@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Uppdateringsfel",
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbatsläget är aktiverat på ditt vinskåp. Följ stegen för att inaktivera den:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tryck och håll de tre prickarna <img> på ditt kylskåp i <font> 3 sekunder. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Avaktivera först sabbatsläget genom att trycka på låsknappen på din apparat i 3 sekunder."
+    "CL_DV_RF_deactivate_sabbath_tips": "Avaktivera först sabbatsläget genom att trycka på låsknappen på din apparat i 3 sekunder.",
+    "CL_DV_RF_combi_super_cool_desc": "Kylfacket går till maximal kylning i xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Frysdelen går till maximal kylning i xh",
+    "CL_DV_RF_combi_eco_mode_desc": "De flesta energieffektiva temperaturerna är inställda för alla fack. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Justerade temperaturer vid rengöring av kylens kylfack eller när dörren till apparaten är öppen under en längre tid.",
+    "CL_DV_RF_combi_holiday_mode_desc": "En förinställd energisparfunktion för när du är borta från hemmet under en längre tid.",
+    "CL_DV_RF_combi_party_mode_desc": "Möjliggör maximal kylning, bekvämt för att snabbt kyla stora lager av produkter under dagen.",
+    "CL_DV_RF_combi_lock_mode_desc": "Om du aktiverar låset inaktiveras skärmen. Om du trycker på X-knappen på apparatens skärm i 3 sekunder avaktiveras låset.",
+    "CL_DV_RF_combi_lights_desc": "Kylskåpet anpassar sig automatiskt till mängden ljus i rummet och ändrar kylens belysning därefter.",
+    "CL_CF_CO_read_more": "Läs mer"
 }

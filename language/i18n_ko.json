@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "업데이트 실패",
     "CL_DV_RF_deactivate_sabbath_desc": "안식일 모드는 와인 캐비닛에서 활성화됩니다. 다음 단계에 따라 비활성화하십시오.",
     "CL_DV_RF_deactivate_sabbath_step_1": "냉장고에 있는 세 개의 점 <img> <font> 3초간 </font> 누르세요.",
-    "CL_DV_RF_deactivate_sabbath_tips": "먼저 기기의 잠금 키를 3초 동안 눌러 안식일 모드를 비활성화합니다."
+    "CL_DV_RF_deactivate_sabbath_tips": "먼저 기기의 잠금 키를 3초 동안 눌러 안식일 모드를 비활성화합니다.",
+    "CL_DV_RF_combi_super_cool_desc": "냉각실은 xh 동안 최대 냉각 모드로 전환됩니다.",
+    "CL_DV_RF_combi_fast_freeze_desc": "냉동실은 xh 동안 최대 냉각 모드로 전환됩니다.",
+    "CL_DV_RF_combi_eco_mode_desc": "대부분의 에너지 효율 온도는 모든 구획에 설정되어 있습니다. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "냉장고의 냉각실을 청소할 때나 냉장고 문을 장시간 열어 둘 경우 온도를 조절합니다.",
+    "CL_DV_RF_combi_holiday_mode_desc": "장기간 집을 비울 때를 대비해 사전 설정된 에너지 절약 기능이 있습니다.",
+    "CL_DV_RF_combi_party_mode_desc": "최대 냉각이 가능하며, 낮 동안 많은 양의 제품을 빠르게 냉각하는 데 편리합니다.",
+    "CL_DV_RF_combi_lock_mode_desc": "잠금을 켜면 화면이 비활성화됩니다. 기기 화면에서 X 키를 3초 동안 누르면 잠금이 비활성화됩니다.",
+    "CL_DV_RF_combi_lights_desc": "냉장고는 실내의 조도에 따라 자동으로 조절되고, 냉장고 조명도 그에 맞게 바뀝니다.",
+    "CL_CF_CO_read_more": "더 읽어보기"
 }

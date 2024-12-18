@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Échec de la mise à jour",
     "CL_DV_RF_deactivate_sabbath_desc": "Le mode Sabbat est activé sur votre cave à vin. Suivez les étapes pour le désactiver :",
     "CL_DV_RF_deactivate_sabbath_step_1": "Appuyez et maintenez les trois points <img> de votre réfrigérateur pendant <font> 3 secondes. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Désactivez d’abord le mode Sabbat en appuyant sur la touche de verrouillage de votre appareil pendant 3 secondes."
+    "CL_DV_RF_deactivate_sabbath_tips": "Désactivez d’abord le mode Sabbat en appuyant sur la touche de verrouillage de votre appareil pendant 3 secondes.",
+    "CL_DV_RF_combi_super_cool_desc": "Le compartiment de refroidissement passera au refroidissement maximal pendant xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Le compartiment congélateur passera en mode de refroidissement maximal pendant xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Les températures les plus économes en énergie sont réglées pour tous les compartiments. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Températures ajustées lors du nettoyage du compartiment réfrigérateur ou lorsque la porte de l'appareil reste ouverte pendant une période prolongée.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Une fonction d'économie d'énergie préréglée lorsque vous êtes absent de chez vous pendant une période prolongée.",
+    "CL_DV_RF_combi_party_mode_desc": "Permet un refroidissement maximal, pratique pour refroidir rapidement de gros stocks de produits pendant la journée.",
+    "CL_DV_RF_combi_lock_mode_desc": "L'activation du verrouillage désactive l'écran. Appuyez sur la touche X sur l'écran de l'appareil pendant 3 secondes pour désactiver le verrouillage.",
+    "CL_DV_RF_combi_lights_desc": "Le réfrigérateur s'ajuste automatiquement à la quantité de lumière dans la pièce et modifie les lumières du réfrigérateur en conséquence.",
+    "CL_CF_CO_read_more": "En savoir plus"
 }

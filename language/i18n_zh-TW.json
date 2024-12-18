@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "更新失敗",
     "CL_DV_RF_deactivate_sabbath_desc": "安息日模式已在设备端启用，想禁用该模式，请按照以下步骤操作:",
     "CL_DV_RF_deactivate_sabbath_step_1": "按住冰箱上的三個點<img>並保持<font> 3 秒鐘。 </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "在设备端长按Lock按键3秒钟 禁用安息日模式"
+    "CL_DV_RF_deactivate_sabbath_tips": "在设备端长按Lock按键3秒钟 禁用安息日模式",
+    "CL_DV_RF_combi_super_cool_desc": "冷卻室將達到最大冷卻 xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "冷凍室將達到最大冷卻 xh",
+    "CL_DV_RF_combi_eco_mode_desc": "所有隔間均設定了最節能的溫度。 ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "清潔冰箱冷藏室或電器門較長時間打開時調整溫度。",
+    "CL_DV_RF_combi_holiday_mode_desc": "當您長時間不在家時，預設節能功能。",
+    "CL_DV_RF_combi_party_mode_desc": "實現最大程度的冷卻，方便在白天快速冷卻大量產品。",
+    "CL_DV_RF_combi_lock_mode_desc": "打開鎖定將禁用螢幕。按住裝置畫面上的 X 鍵 3 秒鐘可停用鎖定。",
+    "CL_DV_RF_combi_lights_desc": "冰箱會自動調整房間內的光線量並相應地改變冰箱燈光。",
+    "CL_CF_CO_read_more": "閱讀更多"
 }

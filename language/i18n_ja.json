@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "更新失敗",
     "CL_DV_RF_deactivate_sabbath_desc": "安息日モードはワインキャビネットでアクティブになります。次の手順に従って非アクティブ化します。",
     "CL_DV_RF_deactivate_sabbath_step_1": "冷蔵庫の 3 つのドット<img> <font> 3 秒間</font>押し続けます。",
-    "CL_DV_RF_deactivate_sabbath_tips": "まず、アプライアンスのロックキーを3秒間押して、安息日モードを無効にします。"
+    "CL_DV_RF_deactivate_sabbath_tips": "まず、アプライアンスのロックキーを3秒間押して、安息日モードを無効にします。",
+    "CL_DV_RF_combi_super_cool_desc": "冷却室は最大冷却状態になり、",
+    "CL_DV_RF_combi_fast_freeze_desc": "冷凍室は最大冷却モードでxh作動します",
+    "CL_DV_RF_combi_eco_mode_desc": "すべてのコンパートメントに最もエネルギー効率の高い温度が設定されています。 ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "冷蔵庫の冷蔵室を掃除するときや、機器のドアを長時間開けておくときに温度を調整します。",
+    "CL_DV_RF_combi_holiday_mode_desc": "長期間家を留守にする場合に備えて、あらかじめ設定された省エネ機能。",
+    "CL_DV_RF_combi_party_mode_desc": "最大限の冷却が可能で、日中に大量の在庫商品を素早く冷却するのに便利です。",
+    "CL_DV_RF_combi_lock_mode_desc": "ロックをオンにすると画面が無効になります。アプライアンスの画面で X キーを 3 秒間押すとロックが無効になります。",
+    "CL_DV_RF_combi_lights_desc": "冷蔵庫は室内の光の量を自動的に調整し、それに応じて冷蔵庫のライトを変えます。",
+    "CL_CF_CO_read_more": "続きを読む"
 }

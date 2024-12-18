@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Oppdateringsfeil",
     "CL_DV_RF_deactivate_sabbath_desc": "",
     "CL_DV_RF_deactivate_sabbath_step_1": "Trykk og hold de tre prikkene <img> på kjøleskapet i <font> 3 sekunder. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": ""
+    "CL_DV_RF_deactivate_sabbath_tips": "",
+    "CL_DV_RF_combi_super_cool_desc": "Kjølerommet vil gå til maksimal kjøling i xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Frysedelen vil gå til maksimal kjøling i xh",
+    "CL_DV_RF_combi_eco_mode_desc": "De fleste energieffektive temperaturene er innstilt for alle rom. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Justerte temperaturer ved rengjøring av kjøleseksjonen i kjøleskapet eller når døren til apparatet skal være åpen i lengre tid.",
+    "CL_DV_RF_combi_holiday_mode_desc": "En forhåndsinnstilt energisparefunksjon for når du er borte fra hjemmet over lengre tid.",
+    "CL_DV_RF_combi_party_mode_desc": "Muliggjør maksimal kjøling, praktisk for rask nedkjøling av store varelagre i løpet av dagen.",
+    "CL_DV_RF_combi_lock_mode_desc": "Hvis du slår på låsen, deaktiveres skjermen. Hvis du trykker på X-tasten på apparatets skjerm i 3 sekunder, deaktiveres låsen.",
+    "CL_DV_RF_combi_lights_desc": "Kjøleskapet tilpasser seg automatisk lysmengden i rommet og endrer kjøleskapslysene deretter.",
+    "CL_CF_CO_read_more": "Les mer"
 }

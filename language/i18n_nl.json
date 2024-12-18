@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Update mislukt",
     "CL_DV_RF_deactivate_sabbath_desc": "De sabbatmodus is geactiveerd op uw wijnkast. Volg de stappen om het te deactiveren:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Houd de drie puntjes <img> op je koelkast <font> 3 seconden ingedrukt. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Deactiveer eerst de sabbatmodus door de vergrendeltoets op uw apparaat 3 seconden ingedrukt te houden."
+    "CL_DV_RF_deactivate_sabbath_tips": "Deactiveer eerst de sabbatmodus door de vergrendeltoets op uw apparaat 3 seconden ingedrukt te houden.",
+    "CL_DV_RF_combi_super_cool_desc": "Het koelvak gaat voor xh naar maximale koeling",
+    "CL_DV_RF_combi_fast_freeze_desc": "Het vriesvak gaat voor xh op maximale koeling",
+    "CL_DV_RF_combi_eco_mode_desc": "De meest energiezuinige temperaturen zijn voor alle compartimenten ingesteld. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Aangepaste temperaturen bij het schoonmaken van het koelvak van de koelkast of wanneer de deur van het apparaat gedurende langere tijd openstaat.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Een vooraf ingestelde energiebesparende functie voor wanneer u langere tijd niet thuis bent.",
+    "CL_DV_RF_combi_party_mode_desc": "Zorgt voor maximale koeling, handig voor het snel koelen van grote hoeveelheden producten gedurende de dag.",
+    "CL_DV_RF_combi_lock_mode_desc": "Het inschakelen van de vergrendeling schakelt het scherm uit. Door 3 seconden op de X-toets op het scherm van het apparaat te drukken, wordt de vergrendeling uitgeschakeld.",
+    "CL_DV_RF_combi_lights_desc": "De koelkast past zich automatisch aan de hoeveelheid licht in de kamer aan en past de verlichting op basis daarvan aan.",
+    "CL_CF_CO_read_more": "Lees meer"
 }

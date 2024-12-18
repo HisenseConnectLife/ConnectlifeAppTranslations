@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Napaka posodobitve",
     "CL_DV_RF_deactivate_sabbath_desc": "Način Šabat se aktivira v vaši vinski omari. Če ga želite deaktivirati, sledite korakom:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pritisnite in držite tri pike <img> na vašem hladilniku <font> 3 sekunde. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Najprej deaktivirajte način Šabat tako, da za 3 sekunde pritisnete tipko Lock na napravi."
+    "CL_DV_RF_deactivate_sabbath_tips": "Najprej deaktivirajte način Šabat tako, da za 3 sekunde pritisnete tipko Lock na napravi.",
+    "CL_DV_RF_combi_super_cool_desc": "Hladilni del se bo maksimalno hladil za xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Zamrzovalni del se bo maksimalno hladil xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Najbolj energetsko učinkovite temperature so nastavljene za vse predelke. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Prilagojene temperature pri čiščenju hladilnejšega dela hladilnika ali ko bodo vrata aparata dlje časa odprta.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Prednastavljena funkcija varčevanja z energijo, ko ste dlje časa zdoma.",
+    "CL_DV_RF_combi_party_mode_desc": "Omogoča maksimalno hlajenje, priročno za hitro hlajenje velikih zalog izdelkov čez dan.",
+    "CL_DV_RF_combi_lock_mode_desc": "Vklop zaklepanja bo onemogočil zaslon. S pritiskom tipke X na zaslonu naprave za 3 sekunde onemogočite zaklepanje.",
+    "CL_DV_RF_combi_lights_desc": "Hladilnik se samodejno prilagaja količini svetlobe v prostoru in temu primerno spreminja osvetlitev hladilnika.",
+    "CL_CF_CO_read_more": "Preberi več"
 }

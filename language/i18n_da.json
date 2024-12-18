@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Opdateringsfejl",
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbatstilstand er aktiveret på dit vinskab. Følg trinene for at deaktivere det:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tryk og hold de tre prikker <img> på dit køleskab i <font> 3 sekunder. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Deaktiver først sabbatstilstand ved at trykke på låsetasten på dit apparat i 3 sekunder."
+    "CL_DV_RF_deactivate_sabbath_tips": "Deaktiver først sabbatstilstand ved at trykke på låsetasten på dit apparat i 3 sekunder.",
+    "CL_DV_RF_combi_super_cool_desc": "Kølerummet vil gå til maksimal køling i xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Fryseafdelingen vil gå til maksimal køling i xh",
+    "CL_DV_RF_combi_eco_mode_desc": "De fleste energieffektive temperaturer er indstillet til alle rum. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Justerede temperaturer ved rengøring af køleskabets kølerum, eller når døren til apparatet vil være åben i længere tid.",
+    "CL_DV_RF_combi_holiday_mode_desc": "En forudindstillet energisparefunktion, når du er væk hjemmefra i længere tid.",
+    "CL_DV_RF_combi_party_mode_desc": "Muliggør maksimal køling, praktisk til hurtig nedkøling af store lagre af produkter i løbet af dagen.",
+    "CL_DV_RF_combi_lock_mode_desc": "Aktivering af lås vil deaktivere skærmen. Hvis du trykker på X-tasten på apparatets skærm i 3 sekunder, deaktiveres låsen.",
+    "CL_DV_RF_combi_lights_desc": "Køleskabet tilpasser sig automatisk til mængden af lys i rummet og ændrer køleskabets lys i overensstemmelse hermed.",
+    "CL_CF_CO_read_more": "Læs mere"
 }

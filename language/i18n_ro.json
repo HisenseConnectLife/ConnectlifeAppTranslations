@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Eșec de actualizare",
     "CL_DV_RF_deactivate_sabbath_desc": "Modul Sabat este activat pe dulapul de vinuri. Urmați pașii pentru a-l dezactiva:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Apăsați și mențineți apăsate cele trei puncte <img> de pe frigider timp de <font> 3 secunde. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Mai întâi, dezactivați modul Sabat apăsând tasta Lock de pe aparat timp de 3 secunde."
+    "CL_DV_RF_deactivate_sabbath_tips": "Mai întâi, dezactivați modul Sabat apăsând tasta Lock de pe aparat timp de 3 secunde.",
+    "CL_DV_RF_combi_super_cool_desc": "Compartimentul de răcire va merge la răcire maximă pentru xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Compartimentul congelator va merge la răcire maximă pentru xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Cele mai multe temperaturi eficiente energetic sunt setate pentru toate compartimentele. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Temperaturi ajustate la curățarea compartimentului frigorific al frigiderului sau când ușa aparatului va fi deschisă pentru o perioadă mai lungă de timp.",
+    "CL_DV_RF_combi_holiday_mode_desc": "O funcție prestabilită de economisire a energiei pentru atunci când sunteți plecat de acasă pentru o perioadă mai lungă de timp.",
+    "CL_DV_RF_combi_party_mode_desc": "Permite o răcire maximă, convenabilă pentru răcirea rapidă a stocurilor mari de produse în timpul zilei.",
+    "CL_DV_RF_combi_lock_mode_desc": "Activarea blocării va dezactiva ecranul. Apăsarea tastei X de pe ecranul aparatului timp de 3 secunde dezactivează blocarea.",
+    "CL_DV_RF_combi_lights_desc": "Frigiderul se adaptează automat la cantitatea de lumină din cameră și schimbă luminile frigiderului în consecință.",
+    "CL_CF_CO_read_more": "Citeşte mai mult"
 }

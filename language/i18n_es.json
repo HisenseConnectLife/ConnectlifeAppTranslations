@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Error de actualización",
     "CL_DV_RF_deactivate_sabbath_desc": "El modo sabático está activado en su vinoteca. Sigue los pasos para desactivarlo:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Mantén presionados los tres puntos <img> en tu refrigerador durante <font> 3 segundos. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "En primer lugar, desactive el modo Sabbath pulsando la tecla de bloqueo del aparato durante 3 segundos."
+    "CL_DV_RF_deactivate_sabbath_tips": "En primer lugar, desactive el modo Sabbath pulsando la tecla de bloqueo del aparato durante 3 segundos.",
+    "CL_DV_RF_combi_super_cool_desc": "El compartimento de refrigeración alcanzará el enfriamiento máximo durante xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "El compartimento congelador funcionará al máximo enfriamiento durante xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Las temperaturas más eficientes energéticamente se establecen para todos los compartimentos. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Temperaturas ajustadas al limpiar el compartimento más frío del refrigerador o cuando la puerta del aparato estará abierta durante un período de tiempo prolongado.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Una función de ahorro de energía preestablecida para cuando estés fuera de casa durante un período de tiempo prolongado.",
+    "CL_DV_RF_combi_party_mode_desc": "Permite un enfriamiento máximo, conveniente para enfriar rápidamente grandes existencias de productos durante el día.",
+    "CL_DV_RF_combi_lock_mode_desc": "Al activar el bloqueo se desactivará la pantalla. Al presionar la tecla X en la pantalla del dispositivo durante 3 segundos se desactivará el bloqueo.",
+    "CL_DV_RF_combi_lights_desc": "El refrigerador se ajusta automáticamente a la cantidad de luz de la habitación y cambia las luces del refrigerador en consecuencia.",
+    "CL_CF_CO_read_more": "Leer más"
 }

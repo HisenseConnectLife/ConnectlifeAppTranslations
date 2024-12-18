@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Update Failure",
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode is activated on your fridge. Follow the steps to deactivate it:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Press and hold the three dots <img> on your fridge for <font>3 seconds.</font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "First deactivate Sabbath mode by pressing the three dots on your appliance for 3 seconds."
+    "CL_DV_RF_deactivate_sabbath_tips": "First deactivate Sabbath mode by pressing the three dots on your appliance for 3 seconds.",
+    "CL_DV_RF_combi_super_cool_desc": "The cooling compartment will go to maximum cooling for x h",
+    "CL_DV_RF_combi_fast_freeze_desc": "The freezer compartment will go to maximum cooling for x h",
+    "CL_DV_RF_combi_eco_mode_desc": "Most energy efficient temperatures are set for all compartments.",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Adjusted temperatures when cleaning the cooler compartment of the refrigerator or when the door of the appliance will be open for a longer period of time.",
+    "CL_DV_RF_combi_holiday_mode_desc": "A pre-set energy saving function for when you are away from home for a longer period of time.",
+    "CL_DV_RF_combi_party_mode_desc": "Enables maximum cooling, convenient for quickly cooling big stocks of products during the day.",
+    "CL_DV_RF_combi_lock_mode_desc": "Turning on lock will disable the screen. Pressing X key on the appliance screen for 3 seconds disables the lock.",
+    "CL_DV_RF_combi_lights_desc": "The refrigerator automatically adjusts to the amount of light in the room and changes the fridge lights accordingly.",
+    "CL_CF_CO_read_more": "Read more"
 }

@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Aktualizácia zlyhala",
     "CL_DV_RF_deactivate_sabbath_desc": "Na vinotéke je aktivovaný režim Sabbath. Postupujte podľa pokynov na jeho deaktiváciu:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Stlačte a podržte tri bodky <img> na chladničke <font> 3 sekundy. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": "Najprv deaktivujte režim Sabbath stlačením tlačidla uzamknutia na vašom spotrebiči na 3 sekundy."
+    "CL_DV_RF_deactivate_sabbath_tips": "Najprv deaktivujte režim Sabbath stlačením tlačidla uzamknutia na vašom spotrebiči na 3 sekundy.",
+    "CL_DV_RF_combi_super_cool_desc": "Chladiaci priestor prejde na maximálne chladenie na xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Mraziaci priestor prejde na maximálne chladenie na xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Pre všetky oddelenia sú nastavené energeticky najúčinnejšie teploty. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Upravené teploty pri čistení chladiaceho priestoru chladničky alebo keď budú dvierka spotrebiča dlhšie otvorené.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Prednastavená funkcia úspory energie pre prípad, že ste dlhší čas mimo domova.",
+    "CL_DV_RF_combi_party_mode_desc": "Umožňuje maximálne chladenie, vhodné na rýchle schladenie veľkých zásob produktov počas dňa.",
+    "CL_DV_RF_combi_lock_mode_desc": "Zapnutím zámku sa vypne obrazovka. Stlačením tlačidla X na obrazovke spotrebiča na 3 sekundy sa uzamknutie vypne.",
+    "CL_DV_RF_combi_lights_desc": "Chladnička sa automaticky prispôsobí množstvu svetla v miestnosti a podľa toho zmení osvetlenie chladničky.",
+    "CL_CF_CO_read_more": "Prečítajte si viac"
 }

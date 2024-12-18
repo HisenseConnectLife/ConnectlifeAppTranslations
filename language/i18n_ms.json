@@ -4683,5 +4683,14 @@
     "CL_CF_FW_update_failure": "Kegagalan Kemas Kini",
     "CL_DV_RF_deactivate_sabbath_desc": "",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tekan dan tahan tiga titik <img> pada peti sejuk anda selama <font> 3 saat. </font>",
-    "CL_DV_RF_deactivate_sabbath_tips": ""
+    "CL_DV_RF_deactivate_sabbath_tips": "",
+    "CL_DV_RF_combi_super_cool_desc": "Petak penyejukan akan pergi ke penyejukan maksimum untuk xh",
+    "CL_DV_RF_combi_fast_freeze_desc": "Petak penyejuk beku akan menjadi penyejukan maksimum untuk xh",
+    "CL_DV_RF_combi_eco_mode_desc": "Kebanyakan suhu cekap tenaga ditetapkan untuk semua petak. ",
+    "CL_DV_RF_combi_cleaning_mode_desc": "Suhu dilaraskan apabila membersihkan ruang sejuk peti sejuk atau apabila pintu perkakas akan dibuka untuk jangka masa yang lebih lama.",
+    "CL_DV_RF_combi_holiday_mode_desc": "Fungsi penjimatan tenaga yang telah ditetapkan untuk apabila anda berada jauh dari rumah untuk jangka masa yang lebih lama.",
+    "CL_DV_RF_combi_party_mode_desc": "Membolehkan penyejukan maksimum, mudah untuk menyejukkan stok besar produk dengan cepat pada siang hari.",
+    "CL_DV_RF_combi_lock_mode_desc": "Menghidupkan kunci akan melumpuhkan skrin. Menekan kekunci X pada skrin perkakas selama 3 saat melumpuhkan kunci.",
+    "CL_DV_RF_combi_lights_desc": "Peti sejuk melaraskan secara automatik kepada jumlah cahaya di dalam bilik dan menukar lampu peti sejuk dengan sewajarnya.",
+    "CL_CF_CO_read_more": "Baca lagi"
 }
