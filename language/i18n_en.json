@@ -4671,5 +4671,6 @@
     "CL_DV_RF_x_hours_before_the_plan": "** hours before the plan",
     "CL_CF_CO_select_time_tips": "Please select a start and end time!",
     "CL_SL_CM_recommended_program": "Recommended",
-    "CL_SL_CM_rpm": "rpm"
+    "CL_SL_CM_rpm": "rpm",
+    "CL_DV_HOB_step2_cooking_used": "This cooking zone is already in use."
 }

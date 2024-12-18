@@ -3418,7 +3418,7 @@
     "asko": "ASKO",
     "eco_meter": "Licznik ekologiczny",
     "asko_eco_meter_desc": "## to pomocny, inteligentny wskaźnik umożliwiający określenie wpływu na środowisko w oparciu o wybrany program i dodatkowe opcje dotyczące zużycia energii, wody i detergentu.",
-    "wm86_autodose_desc": "Zamiast walczyć, pozwól pralce dokładnie odmierzyć odpowiednią dawkę detergentu. Nasze pralki z systemem Auto Dose mierzą detergent w zależności od wsadu prania, poziomu zabrudzenia, twardości wody, rodzaju programu i temperatury. Zawsze idealne dozowanie i koniec z przedawkowaniem. Tutaj możesz dostosować domyślne ustawienia dla Auto Dose.",
+    "wm86_autodose_desc": "Zamiast sie zastanawiać nad dawkowaniem detergentu, pozwól pralce dokładnie odmierzyć odpowiednią dawkę detergentu. Nasze pralki z systemem Auto Dose mierzą detergent w zależności od wsadu prania, poziomu zabrudzenia, twardości wody, rodzaju programu i temperatury. Zawsze idealne dozowanie i koniec z przedawkowaniem. Tutaj możesz dostosować domyślne ustawienia dla Auto Dose.",
     "enable_auto_dose": "Włączanie/wyłączanie automatycznego dawkowania",
     "enable_auto_dose_desc": "Spowoduje to włączenie/wyłączenie tej funkcji na Twoim urządzeniu.",
     "tank_refilled_tips": "Uwaga: ## należy uzupełnić",
@@ -3497,8 +3497,8 @@
     "return_air_temperature_sensor": "Czujnik temperatury powietrza powrotnego",
     "main_control_eeprom": "Główna pamięć EEPROM sterująca",
     "water_storage_box": "Pojemnik na wodę",
-    "steam_generators": "Wytwornic",
-    "humidity_sensor": "Wilgotności",
+    "steam_generators": "Generatory pary",
+    "humidity_sensor": "Czujnik wilgotności",
     "auxiliary_thermal_temperature_sensor": "Pomocniczy termiczny czujnik temperatury",
     "filter_status": "Stan filtra",
     "display_board_and_master_communication": "Tablica informacyjna i komunikacja główna",
@@ -4671,5 +4671,6 @@
     "CL_DV_RF_x_hours_before_the_plan": "",
     "CL_CF_CO_select_time_tips": "Wybierz datę początkową i końcową!",
     "CL_SL_CM_recommended_program": "Zalecony",
-    "CL_SL_CM_rpm": "obr./min"
+    "CL_SL_CM_rpm": "obr./min",
+    "CL_DV_HOB_step2_cooking_used": ""
 }
